@@ -10,7 +10,7 @@ http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD258L240P/playlist.
 
 #EXTINF:-1,adsport 1
 http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
-#EXTINF:-1,adsport 2
+#EXTINF:-1,adsport 2http://185.21.217.13:7071/bc/sonymax2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDE4IDM6MDQ6MjcgQU0maGFzaF92YWx1ZT1PaXBvR2J5bTdaUy9BdmY0aTJDWXJBPT0mdmFsaWRtaW51dGVzPTI=
 http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8
 #EXTINF:-1,adsport 3
 http://adtv.ercdn.net/adsport3/adsport3_360p.m3u8
@@ -44,7 +44,7 @@ https://z5ams.akamaized.net/andflixhd/tracks-v3a1/index.m3u8
 https://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
 #EXTINF:-1,HBO PREMIERE HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$HBOHD/1.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,FOX FAMILY MOVIES
+#EXTINF:-1,FOX FAMILY MOVIEShttp://185.21.217.13:7071/bc/sonymax2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDE4IDM6MDQ6MjcgQU0maGFzaF92YWx1ZT1PaXBvR2J5bTdaUy9BdmY0aTJDWXJBPT0mdmFsaWRtaW51dGVzPTI=
 http://iptvthai.webhop.biz:443/hd-foxfamily_720/index.m3u8
 #EXTINF:-1,FOX MOVIES PREMIUM
 http://iptvthai.webhop.biz:443/hd-foxpremium_720/index.m3u8
