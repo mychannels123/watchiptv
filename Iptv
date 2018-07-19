@@ -6,7 +6,7 @@ http://185.216.140.46:8088/live/starspitrs1hindi/playlist.m3u8?id=31774&wowzases
 #EXTINF:-1,STAR SPORTS HINDI
 https://delta.flexlivetv.com/Star_Sports_HD_1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RT Movies
-http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD258L240P/playlist.m3u
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD258L240P/playlist.m3uhttp://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/3344.ts
 
 #EXTINF:-1,adsport 1
 http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
@@ -79,5 +79,5 @@ http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/32212
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/index.m3u8
 #EXTINF:0,SONY TEN 3 HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
-
-#EXTINF:-1,INDIA TV NEWS
+#EXTINF:0,IND: STAR GOLD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/3344.ts
