@@ -61,6 +61,8 @@ https://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
 https://adtv.ercdn.net/adsport2/adsport2_360p.m3u8
 #EXTM3U
 #EXTINF:-0, ***********PUNJABI*********
+#EXTINF:-1, PUNJAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8
 #EXTINF:-1, DPD PUNJABI
 http://j2ldmzkpqobv-hls-live.wmncdn.net/1168/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/tracks-v1a1/index.m3u8
 #EXTINF:-1, FASTWAY TV
