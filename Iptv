@@ -3,6 +3,8 @@ EXTM3U
 #EXTM3U
 #EXTINF:-1, PRIME ASIA HD
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+#EXTINF:-1, PITAARA TV
+https://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1, GAUNDA PUNJAB
 http://start.agmediachandigarh.com/gaundapunjab/tv/gaundapunjab/stream/chunks.m3u8
 #EXTINF:1, DESI CHANNEL
