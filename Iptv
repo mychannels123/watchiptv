@@ -1,6 +1,8 @@
 EXTM3U
 
 #EXTM3U
+#EXTINF:-1, HARMANDIR SAHIB LIVE
+https://manifest.googlevideo.com/api/manifest/hls_variant/itag/0/playlist_type/DVR/hfr/1/ei/c4JnW6eYJ8-f4QTtkqeQDg/maudio/1/ip/2603%3A3014%3A1004%3A6300%3A3cee%3Ab690%3A155b%3A7178/key/yt6/manifest_duration/30/ratebypass/yes/ipbits/0/gcr/us/playlist_duration/30/id/QQa1E5JpgmY.0/requiressl/yes/dover/10/signature/60EEB8E48D82BEF20DBEC2BA500CF84D2DD8EED5.344E647C088D08B0C3D486FE1E7E8A700521853A/expire/1533531859/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/keepalive/yes/go/1/source/yt_live_broadcast/file/index.m3u8
 #EXTINF:-1, PRIME ASIA HD
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:-1, PITAARA TV
