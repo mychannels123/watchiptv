@@ -1,66 +1,12 @@
 EXTM3U
-#EXTINF:-1,STAR SPORTS
-http://94.102.51.27:8088/live/starspitrs1hindi/playlist.m3u8?id=31774&wowzasessionid=968951051&pk=9e7e3267584b8ca9ce7c5a23cc43652916ddebb740bc06215540446d99ccc199
-#EXTINF:-1,STAR SPORTS
-http://185.216.140.46:8088/live/starspitrs1hindi/playlist.m3u8?id=31774&wowzasessionid=7860708891&pk=60d799dfb5aa21107bb94f5b120fa03ee4074e1533b03d7462589ac33d290fa0
-#EXTINF:-1,STAR SPORTS HINDI
-https://delta.flexlivetv.com/Star_Sports_HD_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RT Movies
-http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD258L240P/playlist.m3uhttp://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/3344.ts
 
-#EXTINF:-1,adsport 1
-http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
-#EXTINF:-1,adsport 2http://185.21.217.13:7071/bc/sonymax2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDE4IDM6MDQ6MjcgQU0maGFzaF92YWx1ZT1PaXBvR2J5bTdaUy9BdmY0aTJDWXJBPT0mdmFsaWRtaW51dGVzPTI=
-http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8
-#EXTINF:-1,adsport 3
-http://adtv.ercdn.net/adsport3/adsport3_360p.m3u8
-
-#EXTINF:-1,HBO FAMILY HD
-http://gameriptv.com:80/chan/sd54fs21ds654/hbofam.php
-#EXTINF:-1,HBO PLUS HD
-http://gameriptv.com:80/chan/sd54fs21ds654/hboplus.php
-#EXTINF:-1,HBO SIGNATURE HD
-http://gameriptv.com:80/chan/sd54fs21ds654/hbosign.php
-#EXTINF:-1,FOX CINEMA HD
-http://gameriptv.com:80/chan/sd54fs21ds654/foxcinema.php
-#EXTINF:-1,FOX ACTION MX
-http://gameriptv.com:80/chan/sd54fs21ds654/foxactionmx.php
-#EXTINF:-1,FOX ACTION HD
-http://gameriptv.com:80/chan/sd54fs21ds654/foxaction.php
-#EXTINF:-1,FOX MOVIES HD
-http://gameriptv.com:80/chan/sd54fs21ds654/foxmovies.php
-#EXTINF:-1,FOX CLASSICS HD
-http://gameriptv.com:80/chan/sd54fs21ds654/foxclass.php
-#EXTINF:-1,FOX COMEDY HD
-http://gameriptv.com:80/chan/sd54fs21ds654/foxcomedy.php
-
-#EXTINF:-1,NDA
-http://cdn18.live247stream.com/ndachannel/tv/backup/stream/chunks.m3u8
-#EXTINF:-1,CARTOON NETWORK ENGLISH
-https://z5ams.akamaized.net/cartoonnet/tracks-v1a1/index.m3u8
-#EXTINF:-1,AND FLIX HD
-https://z5ams.akamaized.net/andflixhd/tracks-v3a1/index.m3u8
-#EXTINF:-1,AND FLIX
-https://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
-#EXTINF:-1,HBO PREMIERE HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$HBOHD/1.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,FOX FAMILY MOVIEShttp://185.21.217.13:7071/bc/sonymax2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDE4IDM6MDQ6MjcgQU0maGFzaF92YWx1ZT1PaXBvR2J5bTdaUy9BdmY0aTJDWXJBPT0mdmFsaWRtaW51dGVzPTI=
-http://iptvthai.webhop.biz:443/hd-foxfamily_720/index.m3u8
-#EXTINF:-1,FOX MOVIES PREMIUM
-http://iptvthai.webhop.biz:443/hd-foxpremium_720/index.m3u8
-#EXTINF:-1,FOX MOVIES
-http://iptvthai.webhop.biz:443/hd-foxaction_720/index.m3u8
-
-
-#EXTINF:-1,SkySports 1
-https://delta.flexlivetv.com/SkySports1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Adsports 
-https://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
-#EXTINF:-1,Adsport 
-https://adtv.ercdn.net/adsport2/adsport2_360p.m3u8
 #EXTM3U
-#EXTINF:-0, ***********PUNJABI*********
+#EXTINF:1, DESI CHANNEL
+http://ayedewz3dnl6-hls-live.wmncdn.net/1167/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/tracks-v1a1/index.m3u8
+#EXTINF:-1, 5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8
+#EXTINF:-1, BOOGLE BOLYWOOD
+http://capcobroadcaststream.in:1935/capco/booglebollywood.sdp/chunklist_w1229128939.m3u8
 #EXTINF:-1, PUNJAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8
 #EXTINF:-1, DPD PUNJABI
