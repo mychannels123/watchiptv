@@ -56,6 +56,8 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225935/index.m3u8
 #EXTINF:-1, SONY MIX
 http://103.14.127.39:1935/sonymix/sonymix.stream_360p/chunklist_w318529841.m3u8
+#EXTINF:-1, ZING TV
+http://103.14.127.37:1935/zing/zing.stream_360p/chunklist_w1781639582.m3u8
 
 #EXTM3U
 #EXTINF:0,SONY ESPN SD
