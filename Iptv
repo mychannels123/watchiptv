@@ -16,7 +16,7 @@ http://capcobroadcaststream.in:1935/capco/ad24/playlist.m3u8
 #EXTINF:-1, SSTV
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 #EXTINF:-1, PUNJABI SARGARMIA
-http://cdn.samtv.ca/ptv24/index.m3u8
+http://45.248.164.243:8080/pbisargarmian/index.m3u8
 #EXTINF:-1, PTN 24
 http://cdn.samtv.ca/ptv24/index.m3u8
 #EXTINF:-1, PRIME CANADA TV
