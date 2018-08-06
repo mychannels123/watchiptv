@@ -9,6 +9,40 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1533532683/rate
 https://manifest.googlevideo.com/api/manifest/hls_variant/itag/0/playlist_type/DVR/hfr/1/ei/c4JnW6eYJ8-f4QTtkqeQDg/maudio/1/ip/2603%3A3014%3A1004%3A6300%3A3cee%3Ab690%3A155b%3A7178/key/yt6/manifest_duration/30/ratebypass/yes/ipbits/0/gcr/us/playlist_duration/30/id/QQa1E5JpgmY.0/requiressl/yes/dover/10/signature/60EEB8E48D82BEF20DBEC2BA500CF84D2DD8EED5.344E647C088D08B0C3D486FE1E7E8A700521853A/expire/1533531859/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/keepalive/yes/go/1/source/yt_live_broadcast/file/index.m3u8
 #EXTINF:-1, PRIME ASIA HD
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+#EXTINF:-1, DIP
+http://manjit15.flashmediacast.com:1935/manjit11/livestream1/playlist.m3u8
+#EXTINF:-1, AD 24
+http://capcobroadcaststream.in:1935/capco/ad24/playlist.m3u8
+#EXTINF:-1, SSTV
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+#EXTINF:-1, PUNJABI SARGARMIA
+http://cdn.samtv.ca/ptv24/index.m3u8
+#EXTINF:-1, PTN 24
+http://cdn.samtv.ca/ptv24/index.m3u8
+#EXTINF:-1, PRIME CANADA TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1, SARDARI TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1, VIRSA LIVE
+http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8
+#EXTINF:-1, TV PUNJAB
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+#EXTINF:-1, TORRONTO 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:-1, MEHAK TV
+http://cdn.samtv.ca/mehaktv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TORRONTO 16
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:-1, WAH PUNJABI
+http://cdn.samtv.ca/wahpunjabi/index.m3u8
+#EXTINF:-1, GO PUNJABI HD
+http://capcobroadcaststream.in:1935/capco/gopunjabi/playlist.m3u8
+#EXTINF:-1, GUBRU TV
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:-1, MASTI TV
+http://cdn.samtv.ca/mastitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, MH1
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226114/01.m3u8
 #EXTINF:-1, PITAARA TV
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1, GAUNDA PUNJAB
@@ -28,12 +62,26 @@ http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
 #EXTINF:-1, LIFE PUNJABI
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTM3U
+#EXTINF:-1, &PICTURES
+https://z5ams.akamaized.net/andpicssd/tracks-v2a1/index.m3u8
+#EXTINF:-1, &PICTURES HD
+https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
+#EXTINF:-1, ENTER 10
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8
+#EXTINF:-1, ZEE ACTION
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226331/1.m3u8
+#EXTINF:-1, WOW CINEMA
+http://cdn.asianetmobiletvplus.online/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/chunklist.m3u8
+#EXTINF:-1, CINEMA TV
+http://103.14.127.37:1935/cinematv/cinematv.stream_360p/chunklist_w999976428.m3u8
 #EXTINF:-1, B4U MOVIES
 http://103.14.127.37:1935/b4umoviesindia/b4umoviesindia.stream_360p/chunklist_w1781157802.m3u8
 #EXTINF:-1, MAHA MOVIES
 http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.m3u8
 #EXTINF:-1, FILMY
 http://103.14.127.37:1935/saharafir/saharafir.stream_360p/chunklist_w1290565054.m3u8
+#EXTINF:-1, ZEE CLASSIC
+http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226067/01.m3u8
 #EXTINF:-1, STAR UTSAV MOVIES
 http://103.14.127.37:1935/starutsavmovies/starutsavmovies.stream_360p/chunklist_w1129249848.m3u8
 #EXTINF:-1, ZEE TV
@@ -54,6 +102,8 @@ https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226083/index.m3u8
 #EXTINF:-1, ZEE CINEMA
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225935/index.m3u8
+#EXTINF:-1, ZEE CINEMA
+https://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MIX
 http://103.14.127.39:1935/sonymix/sonymix.stream_360p/chunklist_w318529841.m3u8
 #EXTINF:-1, ZING TV
