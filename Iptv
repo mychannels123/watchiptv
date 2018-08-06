@@ -1,12 +1,4 @@
-EXTM3U
-
 #EXTM3U
-#EXTINF:-1, PTC PUNJABI
-https://manifest.googlevideo.com/api/manifest/hls_variant/ei/o4lnW7emJYzcNp7VidAB/itag/0/ratebypass/yes/expire/1533533699/id/Njtp_ank3zc.0/keepalive/yes/ipbits/0/maudio/1/hfr/1/go/1/playlist_type/DVR/key/yt6/source/yt_live_broadcast/gcr/us/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/dover/10/signature/5E81E55267DEF23E32DF92A54D3F1305133E92E9.84D3098898552F73BDA484A0F70F51E2E7B3BB43/ip/2603%3A3014%3A1004%3A6300%3A3cee%3Ab690%3A155b%3A7178/requiressl/yes/file/index.m3u8
-#EXTINF:-1, AMRITSAR LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1533532683/ratebypass/yes/maudio/1/tx/9474469/ei/q4VnW9-VKYSekAPRw5CQDg/hfr/1/dover/10/ipbits/0/go/1/keepalive/yes/id/_-23QfJ7y6Q.0/gcr/us/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/source/yt_live_broadcast/key/yt6/playlist_type/DVR/requiressl/yes/itag/0/ip/2603%3A3014%3A1004%3A6300%3A3cee%3Ab690%3A155b%3A7178/signature/53DB23BA47F53F1D5B7AD7D6A5636D1F6CCFD9B6.D1DDF79167C77BAC0B34D1824C4AD946E04ADF6E/txs/9474469%2C23724088%2C23728348%2C23728352/file/index.m3u8
-#EXTINF:-1, HARMANDIR SAHIB LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/itag/0/playlist_type/DVR/hfr/1/ei/c4JnW6eYJ8-f4QTtkqeQDg/maudio/1/ip/2603%3A3014%3A1004%3A6300%3A3cee%3Ab690%3A155b%3A7178/key/yt6/manifest_duration/30/ratebypass/yes/ipbits/0/gcr/us/playlist_duration/30/id/QQa1E5JpgmY.0/requiressl/yes/dover/10/signature/60EEB8E48D82BEF20DBEC2BA500CF84D2DD8EED5.344E647C088D08B0C3D486FE1E7E8A700521853A/expire/1533531859/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/keepalive/yes/go/1/source/yt_live_broadcast/file/index.m3u8
 #EXTINF:-1, PRIME ASIA HD
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:-1, DIP
