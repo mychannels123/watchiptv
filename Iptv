@@ -3,6 +3,8 @@
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:-1, DIP
 http://manjit15.flashmediacast.com:1935/manjit11/livestream1/playlist.m3u8
+#EXTINF:-1,PTC PUNJABI
+https://manifest.googlevideo.com/api/manifest/hls_variant/dover/10/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/requiressl/yes/ip/2603%3A3014%3A1004%3A6300%3A6875%3A6b91%3A6987%3A29cb/itag/0/ei/X5tvW5y0IcjJjATJuI2gCw/ipbits/0/gcr/us/source/yt_live_broadcast/key/yt6/signature/8BEBB290B8A3659B06C688B8810AD91504E6E21D.6622AEEA3CA388C3DA9DAB4CA475F294802649FD/playlist_type/DVR/id/CqKWEI7Rt4U.0/hfr/1/go/1/maudio/1/keepalive/yes/ratebypass/yes/expire/1534062527/file/index.m3u8
 #EXTINF:-1, JHANJAR MUSIC
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1, JHANJAR HD
