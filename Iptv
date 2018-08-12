@@ -89,7 +89,9 @@ http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.
 #EXTINF:-1, FILMY
 http://103.14.127.37:1935/saharafir/saharafir.stream_360p/chunklist_w1290565054.m3u8
 #EXTINF:-1, ZEE CLASSIC
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226067/01.m3u8
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8
+#EXTINF:-1, ZEE CLASSIC
+http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
 #EXTINF:-1, STAR UTSAV MOVIES
 http://103.14.127.37:1935/starutsavmovies/starutsavmovies.stream_360p/chunklist_w1129249848.m3u8
 #EXTINF:-1, ZEE TV
@@ -101,7 +103,7 @@ http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w3
 #EXTINF:-1, SONY MAX
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/index.m3u8
 #EXTINF:-1, SONY TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/index.m3u8
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/index.m3u8http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/index.m3u8
 #EXTINF:-1, SONY SAB
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225825/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
