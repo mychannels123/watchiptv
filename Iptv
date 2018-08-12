@@ -94,6 +94,8 @@ http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8
 http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
 #EXTINF:-1, STAR UTSAV MOVIES
 http://103.14.127.37:1935/starutsavmovies/starutsavmovies.stream_360p/chunklist_w1129249848.m3u8
+#EXTINF:-1, ZEE TV HD
+https://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225878/index.m3u8
 #EXTINF:-1, SONY MAX2
