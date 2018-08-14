@@ -160,7 +160,5 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:-1, STAR SPORTS FIRST 1
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
-#EXTINF:-1, STAR SPORTS 1
-http://212.8.248.197:8080/live/amal/amal1/1774.m3u8
-#EXTINF:-1, STAR SPORTS 2
-http://212.8.248.197:8080/live/amal/amal1/1775.m3u8
+#EXTINF:-1,
+#EXTINF:-1, 
