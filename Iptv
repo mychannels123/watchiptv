@@ -3,10 +3,12 @@
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:-1, DIP
 http://manjit15.flashmediacast.com:1935/manjit11/livestream1/playlist.m3u8
+#EXTINF:-1, HAMDARD TV
+http://cdn.samtv.ca/hamdard/tracks-v1a1/mono.m3u8
 #EXTINF:-1, NVK TV FILMY
 http://162.244.80.206:1935/live/nadivaid/chunklist_w566662471.m3u8
-#EXTINF:-1, LIVE KIRTAN 
-https://youtu.be/2ExIWCM56Ek
+#EXTINF:-1, SABRANG TV
+http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
 #EXTINF:-1, ANKHILA PUNJAB
 http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
 #EXTINF:-1, PTC CHAKDE
