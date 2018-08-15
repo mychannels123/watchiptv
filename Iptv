@@ -3,8 +3,10 @@
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:-1, DIP
 http://manjit15.flashmediacast.com:1935/manjit11/livestream1/playlist.m3u8
+#EXTINF:-1, NVK TV FILMY
+http://162.244.80.206:1935/live/nadivaid/chunklist_w566662471.m3u8
 #EXTINF:-1, LIVE KIRTAN 
-https://manifest.googlevideo.com/api/manifest/hls_variant/hfr/1/dover/10/source/yt_live_broadcast/keepalive/yes/itag/0/ip/2603%3A3014%3A1004%3A6300%3Ae162%3Ae09c%3A4e4a%3A9afd/key/yt6/requiressl/yes/expire/1534243512/ipbits/0/ei/WF5yW9qnCsKfjQSor7bIDw/playlist_type/DVR/gcr/us/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Cexpire/ratebypass/yes/id/2ExIWCM56Ek.1/go/1/signature/3DE22286CD57935CDD5237BA06767195844DB25E.3AF03A080C241B08786E37D3EA87E5DE84697BDE/maudio/1/file/index.m3u8
+https://youtu.be/2ExIWCM56Ek
 #EXTINF:-1, ANKHILA PUNJAB
 http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
 #EXTINF:-1, PTC CHAKDE
