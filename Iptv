@@ -52,7 +52,9 @@ http://cdn.samtv.ca/mehaktv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TORRONTO 16
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 #EXTINF:-1, STEELBIRD MUSIC
-http://cdn25.live247stream.com/steelbirdmusic/tv/steelbirdmusic/stream1/chunks.m3u8?nimblesessionid=26557377
+http://cdn25.live247stream.com/steelbirdmusic/tv/steelbirdmusic/stream1/chunks.m3u8
+#EXTINF:-1, PUNJABI ZINDABAAD
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, WAH PUNJABI
 http://cdn.samtv.ca/wahpunjabi/index.m3u8
 #EXTINF:-1, GO PUNJABI HD
