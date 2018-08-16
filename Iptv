@@ -95,7 +95,7 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 #EXTINF:-1, ZEE ACTION
 https://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE ACTION
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226331/1.m3u8
+http://mhdtvlive.online/delta/airtel.php?c=zeeaction&e=.m3u8
 #EXTINF:-1, WOW CINEMA
 http://cdn.asianetmobiletvplus.online/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/chunklist.m3u8
 #EXTINF:-1, CINEMA TV
@@ -107,7 +107,7 @@ http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.
 #EXTINF:-1, FILMY
 http://103.14.127.37:1935/saharafir/saharafir.stream_360p/chunklist_w1290565054.m3u8
 #EXTINF:-1, ZEE CLASSIC
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8
+http://mhdtvlive.online/delta/airtel.php?c=zeeclassic&e=.m3u8
 #EXTINF:-1, ZEE CLASSIC
 http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
 #EXTINF:-1, STAR UTSAV MOVIES
@@ -115,7 +115,7 @@ http://103.14.127.37:1935/starutsavmovies/starutsavmovies.stream_360p/chunklist_
 #EXTINF:-1, ZEE TV HD
 https://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225878/index.m3u8
+http://mhdtvlive.online/delta/airtel.php?c=zeetv&e=.m3u8
 #EXTINF:-1, SONY MAX2
 http://125.17.105.168/PLTV/88888888/224/3221225812/01.m3u8
 #EXTINF:-1, ZEE ANMOL CINEMA
@@ -123,25 +123,25 @@ http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w3
 #EXTINF:-1, SONY MAX HD
 http://mhdtvlive.online/delta/airtel.php?c=sonymaxhd&e=.m3u8
 #EXTINF:-1, SONY MAX
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/index.m3u8
+http://mhdtvlive.online/delta/airtel.php?c=sonymax&e=.m3u8
 #EXTINF:-1, SONY TV HD
-http://cshms4.airtel.tv/wh7f454c46tw1375599167_1532996093/PLTV/88888888/224/3221225772/index.m3u8
+http://mhdtvlive.online/delta/airtel.php?c=sonytvhd&e=.m3u8
 #EXTINF:-1, SONY TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/index.m3u8
+http://mhdtvlive.online/delta/airtel.php?c=sonytv&e=.m3u8
 #EXTINF:-1, BOLLYWOOD HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodHD/1.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1, BOLLYWOOD CLASSIC
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1, SONY SAB HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/index.m3u8
+http://mhdtvlive.online/delta/airtel.php?c=sonysabhd&e=.m3u8
 #EXTINF:-1, SONY SAB
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225825/index.m3u8
+http://mhdtvlive.online/delta/airtel.php?c=sonysab&e=.m3u8
 #EXTINF:-1, ZEE CINEMA HD
 https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226083/index.m3u8
+http://mhdtvlive.online/delta/airtel.php?c=zeecinemahd&e=.m3u8
 #EXTINF:-1, ZEE CINEMA
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225935/index.m3u8
+http://mhdtvlive.online/delta/airtel.php?c=zeecinema&e=.m3u8
 #EXTINF:-1, ZEE CINEMA
 https://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MIX
