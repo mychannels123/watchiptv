@@ -101,6 +101,8 @@ http://mhdtvlive.online/delta/airtel.php?c=zeeaction&e=.m3u8
 #EXTINF:-1, WOW CINEMA
 http://cdn.asianetmobiletvplus.online/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/chunklist.m3u8
 #EXTINF:-1, CINEMA TV
+http://103.14.127.37:1935/cinematv/cinematv.stream_360p/chunklist_w1838533965.m3u8
+#EXTINF:-1, CINEMA TV
 http://mhdtvlive.stream/delta/airtel.php?c=cinematv&e=.m3u8
 #EXTINF:-1, B4U MOVIES
 http://103.14.127.37:1935/b4umoviesindia/b4umoviesindia.stream_360p/chunklist_w1781157802.m3u8
