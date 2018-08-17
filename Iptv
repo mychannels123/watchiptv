@@ -124,7 +124,7 @@ http://103.14.127.37:1935/starutsavmovies/starutsavmovies.stream_360p/chunklist_
 https://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE TV
 http://mhdtvlive.online/delta/airtel.php?c=zeetv&e=.m3u8
-#EXTINF:-1, SONY MAX 2
+#EXTINF:-1, SONY MAX2
 http://mhdtvlive.online/delta/airtel.php?c=sonymax2&e=.m3u8
 #EXTINF:-1, SONY MAX2
 http://125.17.105.168/PLTV/88888888/224/3221225812/01.m3u8
