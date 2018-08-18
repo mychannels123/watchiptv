@@ -84,8 +84,8 @@ http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
 #EXTINF:-1, LIFE PUNJABI
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTM3U
-#EXTINF:-1, HOUSEFULL ACTION
-http://218.248.64.82:1935/live/housefulaction_webA.sdp/chunklist_w1049500059.m3u8
+#EXTINF:-1, NTV
+http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8?nimblesessionid=28740406
 #EXTINF:-1, &TV HD
 http://mhdtvlive.online/delta/airtel.php?c=andtvhd&e=.m3u8
 #EXTINF:-1, &TV HD
