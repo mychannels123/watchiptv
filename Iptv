@@ -177,6 +177,8 @@ http://125.17.105.168/PLTV/88888888/224/3221225805/01.m3u8
 #EXTINF:0,SONY ESPN HD
 http://mhdtvlive.online/delta/airtel.php?c=sonyespnhd&e=.m3u8
 #EXTINF:0,SONY SIX SD
+http://mhdtvlive.online/delta/airtel.php?c=sonysix&e=.m3u8
+#EXTINF:0,SONY SIX SD
 http://125.17.105.168/PLTV/88888888/224/3221225827/01.m3u8
 #EXTINF:0,SONY SIX HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/04.m3u8
