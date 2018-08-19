@@ -9,6 +9,8 @@ http://50.7.198.170:8081/PB/PTCNEWS/playlist.m3u8
 http://50.7.198.170:8081/PB/PTCPUNJABI/playlist.m3u8
 #EXTINF:-1, JUS PUNJABI
 http://50.7.198.170:8081/PB/JUSONE/playlist.m3u8
+#EXTINF:-1, PUNJABI TADKA
+http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
 #EXTINF:-1, HAMDARD TV
 http://cdn.samtv.ca/hamdard/tracks-v1a1/mono.m3u8
 #EXTINF:-1, NVK TV FILMY
