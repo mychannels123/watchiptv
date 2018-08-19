@@ -4,7 +4,11 @@ http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:-1, DIP
 http://manjit15.flashmediacast.com:1935/manjit11/livestream1/playlist.m3u8
 #EXTINF:-1, PTC NEWS
-http://bestbuyiptv.link:6969/live/singhdaljit37@yahoo.com/singh2020/5707.m3u8
+http://50.7.198.170:8081/PB/PTCNEWS/playlist.m3u8
+#EXTINF:-1, PTC PUNJABI
+http://50.7.198.170:8081/PB/PTCPUNJABI/playlist.m3u8
+#EXTINF:-1, JUS PUNJABI
+http://50.7.198.170:8081/PB/JUSONE/playlist.m3u8
 #EXTINF:-1, HAMDARD TV
 http://cdn.samtv.ca/hamdard/tracks-v1a1/mono.m3u8
 #EXTINF:-1, NVK TV FILMY
@@ -84,6 +88,10 @@ http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
 #EXTINF:-1, LIFE PUNJABI
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTM3U
+#EXTINF:-1, STAR PLUS HD
+http://50.7.198.170:8081/Ind/STARPLUSHD/playlist.m3u8
+#EXTINF:-1, STAR PLUS
+http://50.7.198.170:8081/Ind/STARPLUS/playlist.m3u8
 #EXTINF:-1, COLOURS TV
 http://51.15.5.246:8010/Color/IndiaColrr/index.m3u8
 #EXTINF:-1, NTV
@@ -166,6 +174,8 @@ https://z5ams.akamaized.net/zing/tracks-v2a1/index.m3u8
 http://103.14.127.39:1935/mastii/mastii.stream_360p/chunklist_w70489765.m3u8
 
 #EXTM3U
+#EXTINF:-1, PTV SPORTS
+http://50.7.198.170:8081/abcd/ptvsports/playlist.m3u8
 #EXTINF:-1, D SPORTS
 http://mhdtvlive.online/delta/airtel.php?c=dsport&e=.m3u8
 #EXTINF:-1, NEO PRIME
@@ -198,5 +208,6 @@ http://mhdtvlive.online/delta/airtel.php?c=sonyten3&e=.m3u8
 http://125.17.105.168/PLTV/88888888/224/3221226330/01.m3u8
 #EXTINF:-1, STAR SPORTS FIRST 1
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
-#EXTINF:-1,
+#EXTINF:-1, STAR SPORTS 1 HD
+http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
 #EXTINF:-1,
