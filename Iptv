@@ -90,14 +90,18 @@ http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
 #EXTINF:-1, LIFE PUNJABI
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTM3U
+#EXTINF:-1, COLORS HD
+http://50.7.198.170:8081/Ind/COLORSHD/playlist.m3u8
 #EXTINF:-1, STAR PLUS HD
 http://50.7.198.170:8081/Ind/STARPLUSHD/playlist.m3u8
 #EXTINF:-1, STAR PLUS
 http://50.7.198.170:8081/Ind/STARPLUS/playlist.m3u8
-#EXTINF:-1, COLOURS TV
+#EXTINF:-1, COLORS TV
 http://51.15.5.246:8010/Color/IndiaColrr/index.m3u8
 #EXTINF:-1, NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+#EXTINF:-1, STAR GOLD HD
+http://50.7.198.170:8081/Ind/STARGOLDHD/playlist.m3u8
 #EXTINF:-1, STAR GOLD
 http://50.7.198.170:8081/Ind/STARGOLD/playlist.m3u8
 #EXTINF:-1, &TV HD
@@ -192,26 +196,27 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 http://125.17.105.168/PLTV/88888888/224/3221225805/01.m3u8
 #EXTINF:0,SONY ESPN HD
 http://mhdtvlive.online/delta/airtel.php?c=sonyespnhd&e=.m3u8
-#EXTINF:0,SONY SIX SD
+#EXTINF:0, SONY SIX SD
 http://mhdtvlive.online/delta/airtel.php?c=sonysix&e=.m3u8
 #EXTINF:0,SONY SIX SD
 http://125.17.105.168/PLTV/88888888/224/3221225827/01.m3u8
 #EXTINF:0,SONY SIX HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/04.m3u8
-#EXTINF:0,SONY TEN 1 SD
+#EXTINF:0, TEN 1 
 http://mhdtvlive.online/delta/airtel.php?c=sonyten1&e=.m3u8
-#EXTINF:0,SONY TEN 1 HD
+#EXTINF:0, TEN 1 HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/04.m3u8
-#EXTINF:0,SONY TEN 2 SD
+#EXTINF:0, TEN 2 
 http://mhdtvlive.online/delta/airtel.php?c=sonyten2&e=.m3u8
-#EXTINF:0,SONY TEN 2 HD
+#EXTINF:0, TEN 2 HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/04.m3u8
-#EXTINF:0,SONY TEN 3 SD
+#EXTINF:0, TEN 3 
 http://mhdtvlive.online/delta/airtel.php?c=sonyten3&e=.m3u8
-#EXTINF:0,SONY TEN 3 HD
+#EXTINF:0, TEN 3 HD
 http://125.17.105.168/PLTV/88888888/224/3221226330/01.m3u8
 #EXTINF:-1, STAR SPORTS FIRST 1
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
-#EXTINF:-1, 
+#EXTINF:-1, STAR SPORTS SELECT 1
+http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
