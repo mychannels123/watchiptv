@@ -31,7 +31,7 @@ http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 http://lzyr7zo8dvw2-hls-live.wmncdn.net/1164/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/tracks-v1a1/index.m3u8
 #EXTINF:-1, SHAN PUNJABI TV 
 http://fastway.ddns.net:6421/fastway/live101/tracks-v1a1/index.m3u8
-#EXTINF:-1, CHARDIKALA TIME TV
+#EXTINF:-1, CHARDIKLA TIME TV
 http://fastway.ddns.net:6421/fastway/live5/tracks-v1a1/index.m3u8
 #EXTINF:-1, PUNJAB TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
