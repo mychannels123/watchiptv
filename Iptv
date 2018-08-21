@@ -112,9 +112,9 @@ http://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
 http://mhdtvlive.online/delta/airtel.php?c=andpictures&e=.m3u8
 #EXTINF:-1, AND PICTURES HD
 https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
-#EXTINF:-1, ENTER 10
+#EXTINF:-1, ENTER10
 http://cdn.asianetmobiletvplus.online/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/chunklist.m3u8
-#EXTINF:-1, ENTER 10
+#EXTINF:-1, ENTER10
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8
 #EXTINF:-1, ZEE ACTION
 https://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
@@ -136,7 +136,7 @@ http://103.14.127.37:1935/saharafir/saharafir.stream_360p/chunklist_w1290565054.
 http://mhdtvlive.online/delta/airtel.php?c=zeeclassic&e=.m3u8
 #EXTINF:-1, ZEE CLASSIC
 http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
-#EXTINF:-1, STAR UTSAV MOVIES
+#EXTINF:-1, STAR UTSUV MOVIES
 http://103.14.127.37:1935/starutsavmovies/starutsavmovies.stream_360p/chunklist_w1129249848.m3u8
 #EXTINF:-1, ZEE TV HD
 https://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
@@ -152,7 +152,7 @@ https://z5ams.akamaized.net/zanmolcnm/tracks-v1a1/index.m3u8
 http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w381295327.m3u8
 #EXTINF:-1, SONY MAX HD
 http://mhdtvlive.online/delta/airtel.php?c=sonymaxhd&e=.m3u8
-#EXTINF:-1, SONY MAX
+#EXTINF:-1, SET MAX
 http://mhdtvlive.online/delta/airtel.php?c=sonymax&e=.m3u8
 #EXTINF:-1, SONY TV HD
 http://mhdtvlive.online/delta/airtel.php?c=sonytvhd&e=.m3u8
@@ -182,6 +182,8 @@ https://z5ams.akamaized.net/zing/tracks-v2a1/index.m3u8
 http://103.14.127.39:1935/mastii/mastii.stream_360p/chunklist_w70489765.m3u8
 
 #EXTM3U
+#EXTINF:-1, SKY SPORTS CRICKET
+
 #EXTINF:-1, PTV SPORTS
 http://50.7.198.170:8081/abcd/ptvsports/playlist.m3u8
 #EXTINF:-1, D SPORTS
