@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, PRIME ASIA HD
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+#EXTINF:1, APNA PUNJAB USA
+http://m6gdawxeln93-hls-live.5centscdn.com/854/apntv/c9a1fdac6e082dd89e7173244f34d7b3.sdp/tracks-v1a1/index.m3u8
 #EXTINF:-1, DIP
 http://manjit15.flashmediacast.com:1935/manjit11/livestream1/playlist.m3u8
 #EXTINF:-1, PTC NEWS
@@ -94,12 +96,16 @@ http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.s
 http://50.7.198.170:8081/Ind/COLORSHD/playlist.m3u8
 #EXTINF:-1, STAR PLUS HD
 http://50.7.198.170:8081/Ind/STARPLUSHD/playlist.m3u8
+#EXTINF:1, STAR PLUS
+http://103.205.133.43/hls/starplus.m3u8
 #EXTINF:-1, STAR PLUS
 http://50.7.198.170:8081/Ind/STARPLUS/playlist.m3u8
 #EXTINF:-1, COLORS TV
 http://51.15.5.246:8010/Color/IndiaColrr/index.m3u8
 #EXTINF:-1, NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+#EXTINF:-1, UTV ACTION
+http://50.7.198.170:8081/Ind/UTVACTION/playlist.m3u8
 #EXTINF:-1, STAR GOLD HD
 http://50.7.198.170:8081/Ind/STARGOLDHD/playlist.m3u8
 #EXTINF:-1, STAR GOLD
@@ -136,6 +142,8 @@ http://103.14.127.37:1935/saharafir/saharafir.stream_360p/chunklist_w1290565054.
 http://mhdtvlive.online/delta/airtel.php?c=zeeclassic&e=.m3u8
 #EXTINF:-1, ZEE CLASSIC
 http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
+#EXTINF:-1, STAR UTSAV MOVIES
+http://50.7.198.170:8081/Ind/UTVBINDASS/playlist.m3u8
 #EXTINF:-1, STAR UTSUV MOVIES
 http://103.14.127.37:1935/starutsavmovies/starutsavmovies.stream_360p/chunklist_w1129249848.m3u8
 #EXTINF:-1, ZEE TV HD
