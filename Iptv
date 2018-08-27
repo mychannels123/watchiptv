@@ -6,6 +6,8 @@ http://m6gdawxeln93-hls-live.5centscdn.com/854/apntv/c9a1fdac6e082dd89e7173244f3
 #EXTINF:-1, DIP
 http://manjit15.flashmediacast.com:1935/manjit11/livestream1/playlist.m3u8
 #EXTINF:-1, PTC NEWS
+http://50.7.198.170:8081/PB/PTCNEWS/chunks.m3u8
+#EXTINF:-1, PTC NEWS
 http://50.7.198.170:8081/PB/PTCNEWS/playlist.m3u8
 #EXTINF:-1, PTC PUNJABI
 http://50.7.198.170:8081/PB/PTCPUNJABI/playlist.m3u8
@@ -193,6 +195,8 @@ http://103.14.127.39:1935/mastii/mastii.stream_360p/chunklist_w70489765.m3u8
 
 #EXTM3U
 #EXTINF:-1, WILLOW HD
+http://94.102.51.27:8088/live/skysports1hgrr/playlist.m3u8?id=32415&wowzasessionid=3050197184&pk
+#EXTINF:-1, WILLOW HD
 http://50.7.198.170:8081/abcd/willow/playlist.m3u8
 #EXTINF:-1, SKY SPORTS HD
 http://5.189.187.55:8000/live/Fadil/skype/476.m3u8
@@ -214,6 +218,8 @@ http://mhdtvlive.online/delta/airtel.php?c=sonyespnhd&e=.m3u8
 http://mhdtvlive.online/delta/airtel.php?c=sonysix&e=.m3u8
 #EXTINF:0,SONY SIX SD
 http://125.17.105.168/PLTV/88888888/224/3221225827/01.m3u8
+#EXTINF:-1, SONY SIX HD
+http://89.248.172.75:8088/live/sonysixyehrga/playlist.m3u8?id=32590&wowzasessionid=791841762&pk
 #EXTINF:0,SONY SIX HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/04.m3u8
 #EXTINF:0, TEN 1 
@@ -234,4 +240,6 @@ http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748
 http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
 #EXTINF:-1, STAR SPORTS SELECT 1
 http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
+#EXTINF:-1, STAR SPORTS 
+http://94.102.51.27:8088/live/starsports1gr/playlist.m3u8?id=31776&wowzasessionid=176869196&pk
 #EXTINF:-1, 
