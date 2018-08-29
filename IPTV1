@@ -1,3 +1,173 @@
+#EXTINF:-1, PRIME ASIA HD
+http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+#EXTINF:1, APNA PUNJAB USA
+http://m6gdawxeln93-hls-live.5centscdn.com/854/apntv/c9a1fdac6e082dd89e7173244f34d7b3.sdp/tracks-v1a1/index.m3u8
+#EXTINF:-1, DIP
+http://manjit15.flashmediacast.com:1935/manjit11/livestream1/playlist.m3u8
+#EXTINF:-1, PTC NEWS
+http://50.7.198.170:8081/PB/PTCNEWS/chunks.m3u8
+#EXTINF:-1, PTC NEWS
+http://50.7.198.170:8081/PB/PTCNEWS/playlist.m3u8
+#EXTINF:-1, PTC PUNJABI
+http://50.7.198.170:8081/PB/PTCPUNJABI/playlist.m3u8
+#EXTINF:-1, JUS PUNJABI
+http://50.7.198.170:8081/PB/JUSONE/playlist.m3u8
+#EXTINF:-1, PUNJABI TADKA
+http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:-1, HAMDARD TV
+http://cdn.samtv.ca/hamdard/tracks-v1a1/mono.m3u8
+#EXTINF:-1, NVK TV FILMY
+http://162.244.80.206:1935/live/nadivaid/chunklist_w566662471.m3u8
+#EXTINF:-1, SABRANG TV
+http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
+#EXTINF:-1, ANKHILA PUNJAB
+http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
+#EXTINF:-1, 9X TASHAN
+http://125.17.105.168/PLTV/88888888/224/3221226017/01.m3u8
+#EXTINF:-1, PTC CHAKDE
+http://streamer3.ultapulta.com:7050/
+#EXTINF:-1, JHANJAR MUSIC
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1, JHANJAR HD
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+#EXTINF:-1, CINE VOICE
+http://lzyr7zo8dvw2-hls-live.wmncdn.net/1164/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/tracks-v1a1/index.m3u8
+#EXTINF:-1, SHAN PUNJABI TV 
+http://fastway.ddns.net:6421/fastway/live101/tracks-v1a1/index.m3u8
+#EXTINF:-1, CHARDIKLA TIME TV 
+http://fastway.ddns.net:6421/fastway/live5/tracks-v1a1/index.m3u8
+#EXTINF:-1, PUNJAB TV
+http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
+#EXTINF:-1, AD 24
+http://capcobroadcaststream.in:1935/capco/ad24/playlist.m3u8
+#EXTINF:-1, SSTV
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+#EXTINF:-1, PUNJABI SARGARMIA
+http://45.248.164.243:8080/pbisargarmian/index.m3u8
+#EXTINF:-1, PTN 24
+http://cdn.samtv.ca/ptv24/index.m3u8
+#EXTINF:-1, PRIME CANADA TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1, SARDARI TV
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1, VIRSA LIVE
+http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8
+#EXTINF:-1, TV PUNJAB
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+#EXTINF:-1, TORRONTO 360
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:-1, MEHAK TV
+http://cdn.samtv.ca/mehaktv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TORRONTO 16
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:-1, STEELBIRD MUSIC
+http://cdn25.live247stream.com/steelbirdmusic/tv/steelbirdmusic/stream1/chunks.m3u8
+#EXTINF:-1, PUNJABI ZINDABAAD
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, WAH PUNJABI
+http://cdn.samtv.ca/wahpunjabi/index.m3u8
+#EXTINF:-1, GO PUNJABI HD
+http://capcobroadcaststream.in:1935/capco/gopunjabi/playlist.m3u8
+#EXTINF:-1, GUBRU TV
+http://104.237.60.234/live/gabruutv.m3u8
+#EXTINF:-1, MASTI TV
+http://cdn.samtv.ca/mastitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, MH1
+http://125.17.105.168/PLTV/88888888/224/3221226114/01.m3u8
+#EXTINF:-1, PITAARA TV
+https://livepitaara.planetcast.in/pitaaraTV.m3u8
+#EXTINF:-1, GAUNDA PUNJAB
+http://start.agmediachandigarh.com/gaundapunjab/tv/gaundapunjab/stream/chunks.m3u8
+#EXTINF:1, DESI CHANNEL
+http://ayedewz3dnl6-hls-live.wmncdn.net/1167/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/tracks-v1a1/index.m3u8
+#EXTINF:-1, 5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8
+#EXTINF:-1, BOOGLE BOLYWOOD
+http://95erywm2dwn4-hls-live.wmncdn.net/1173/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/tracks-v1a1/index.m3u8
+#EXTINF:-1, PUNJAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8
+#EXTINF:-1, DPD PUNJABI
+http://j2ldmzkpqobv-hls-live.wmncdn.net/1168/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/tracks-v1a1/index.m3u8
+#EXTINF:-1, FASTWAY TV
+http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
+#EXTINF:-1, LIFE PUNJABI
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTM3U
+#EXTINF:-1, COLORS HD
+http://50.7.198.170:8081/Ind/COLORSHD/playlist.m3u8
+#EXTINF:-1, STAR PLUS HD
+http://50.7.198.170:8081/Ind/STARPLUSHD/playlist.m3u8
+#EXTINF:1, STAR PLUS
+http://103.205.133.43/hls/starplus.m3u8
+#EXTINF:-1, STAR PLUS
+http://50.7.198.170:8081/Ind/STARPLUS/playlist.m3u8
+#EXTINF:-1, COLORS TV
+http://51.15.5.246:8010/Color/IndiaColrr/index.m3u8
+#EXTINF:-1, NTV
+http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+#EXTINF:-1, SONY WAH
+http://mhdtvlive.online/delta/airtel.php?c=sonywah&e=.m3u8
+#EXTINF:-1, UTV ACTION
+http://50.7.198.170:8081/Ind/UTVACTION/playlist.m3u8
+#EXTINF:-1, STAR GOLD HD
+http://50.7.198.170:8081/Ind/STARGOLDHD/playlist.m3u8
+#EXTINF:-1, STAR GOLD
+http://50.7.198.170:8081/Ind/STARGOLD/playlist.m3u8
+#EXTINF:-1, MH1
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226114/01.m3u8
+#EXTINF:-1, &TV HD
+http://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
+#EXTINF:-1, ZEE ANMOL CINEMA
+https://z5ams.akamaized.net/zanmolcnm/tracks-v1a1/index.m3u8
+#EXTINF:1, WOW CINEMA
+http://mhms9.airtel.tv/wh7f454c46tw2968469580_2008495343/PLTV/88888888/224/3221226263/03.m3u8
+#EXTINF:-1, CINEMA TV
+http://mhms8.airtel.tv/wh7f454c46tw1547650707_1052100671/PLTV/88888888/224/3221226246/03.m3u8
+#EXTINF:-1, ZEE ACTION
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226331/1.m3u8
+#EXTINF:-1, ZEE CLASSIC
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8
+#EXTINF:-1, ZEE TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1, SONY MAX HD
+http://cshms2.airtel.tv/wh7f454c46tw1426839479_1338613003/PLTV/88888888/224/3221225776/03.m3u8
+#EXTINF:-1, SONY MAX
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/index.m3u8
+#EXTINF:-1, SONY MAX 2
+http://cshms1.airtel.tv/wh7f454c46tw3181837615_1055582630/PLTV/88888888/224/3221225812/03.m3u8
+#EXTINF:-1, SONY TV HD
+http://cshms4.airtel.tv/wh7f454c46tw1375599167_1532996093/PLTV/88888888/224/3221225772/index.m3u8
+#EXTINF:-1, SONY TV
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:-1, SONY SAB HD
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/index.m3u8
+#EXTINF:-1, SONY SAB
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225825/index.m3u8
+#EXTINF:-1, ZEE CINEMA HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226083/index.m3u8
+#EXTINF:-1, ZEE CINEMA
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225935/index.m3u8
+#EXTINF:0,SONY ESPN SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:0,SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:0,SONY SIX SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/index.m3u8
+#EXTINF:0,SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:0,SONY TEN 1 SD
+http://cshms3.airtel.tv/wh7f454c496tw4163224253_611767333/PLTV/88888888/224/3221225931/index.m3u8
+#EXTINF:0,SONY TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:0,SONY TEN 2 SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/index.m3u8
+#EXTINF:0,SONY TEN 2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:0,SONY TEN 3 SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/index.m3u8
+#EXTINF:0,SONY TEN 3 HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+
 #EXTINF:0, group-title="SPORTS",Sony Ten 1
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/01.m3u8
 #EXTINF:0, group-title="SPORTS",Sony Ten 2
