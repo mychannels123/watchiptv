@@ -119,8 +119,22 @@ http://50.7.198.170:8081/Ind/STARGOLD/playlist.m3u8
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226114/01.m3u8
 #EXTINF:-1, &TV HD
 http://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
+#EXTINF:-1, AND PICTURES HD
+https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
+#EXTINF:-1, ZEE ANMOL CINEMA
+http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w381295327.m3u8
 #EXTINF:-1, ZEE ANMOL CINEMA
 https://z5ams.akamaized.net/zanmolcnm/tracks-v1a1/index.m3u8
+#EXTINF:-1, STAR UTSAV MOVIES
+http://50.7.198.170:8081/Ind/UTVBINDASS/playlist.m3u8
+#EXTINF:-1, STAR UTSUV MOVIES
+http://103.14.127.37:1935/starutsavmovies/starutsavmovies.stream_360p/chunklist_w1129249848.m3u8
+#EXTINF:-1, MAHA MOVIES
+http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.m3u8
+#EXTINF:-1, FILMY
+http://103.14.127.37:1935/saharafir/saharafir.stream_360p/chunklist_w1290565054.m3u8
+#EXTINF:-1, B4U MOVIES
+http://103.14.127.37:1935/b4umoviesindia/b4umoviesindia.stream_360p/chunklist_w1781157802.m3u8
 #EXTINF:1, WOW CINEMA
 http://mhms9.airtel.tv/wh7f454c46tw2968469580_2008495343/PLTV/88888888/224/3221226263/03.m3u8
 #EXTINF:-1, CINEMA TV
