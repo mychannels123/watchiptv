@@ -200,6 +200,8 @@ https://z5ams.akamaized.net/zing/tracks-v2a1/index.m3u8
 http://103.14.127.39:1935/mastii/mastii.stream_360p/chunklist_w70489765.m3u8
 
 #EXTM3U
+#EXTINF:-1, SUPER GEO
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16305.m3u8
 #EXTINF:-1, WILLOW HD
 http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16164.m3u8
 
