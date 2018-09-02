@@ -119,6 +119,8 @@ http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16257.m3u8
 #EXTINF:-1, UTV ACTION
 http://50.7.198.170:8081/Ind/UTVACTION/playlist.m3u8
 #EXTINF:-1, STAR GOLD HD
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16249.m3u8
+#EXTINF:-1, STAR GOLD HD
 http://50.7.198.170:8081/Ind/STARGOLDHD/playlist.m3u8
 #EXTINF:-1, STAR GOLD
 http://50.7.198.170:8081/Ind/STARGOLD/playlist.m3u8
@@ -256,4 +258,9 @@ http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
 http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
 #EXTINF:-1, STAR SPORTS 
 http://94.102.51.27:8088/live/starsports1gr/playlist.m3u8?id=31776&wowzasessionid=176869196&pk
-#EXTINF:-1,  
+#EXTINF:-1, STAR SPORTS
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16171.m3u8
+#EXTINF:-1, STAR SPORTS
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16180.m3u8
+#EXTINF:-1, STAR SPORTS2 HD
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16170.m3u8
