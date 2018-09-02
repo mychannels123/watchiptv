@@ -98,7 +98,7 @@ http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
 #EXTINF:-1, LIFE PUNJABI
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTM3U
-#EXTINF:-1, B4U PLUS
+#EXTINF:-1, B4U MUSIC
 http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16260.m3u8
 #EXTINF:-1, COLORS HD
 http://50.7.198.170:8081/Ind/COLORSHD/playlist.m3u8
@@ -114,6 +114,8 @@ http://51.15.5.246:8010/Color/IndiaColrr/index.m3u8
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, SONY WAH
 http://mhdtvlive.online/delta/airtel.php?c=sonywah&e=.m3u8
+#EXTINF:-1, B4U PLUS
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16257.m3u8
 #EXTINF:-1, UTV ACTION
 http://50.7.198.170:8081/Ind/UTVACTION/playlist.m3u8
 #EXTINF:-1, STAR GOLD HD
