@@ -30,6 +30,8 @@ http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16262.m3u8
 #EXTINF:-1, 9X TASHAN
 http://125.17.105.168/PLTV/88888888/224/3221226017/01.m3u8
 #EXTINF:-1, PTC CHAKDE
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16156.m3u8
+#EXTINF:-1, CHAKDE TV
 http://streamer3.ultapulta.com:7050/
 #EXTINF:-1, JHANJAR MUSIC
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
