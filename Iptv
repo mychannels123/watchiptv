@@ -210,6 +210,8 @@ http://103.14.127.39:1935/mastii/mastii.stream_360p/chunklist_w70489765.m3u8
 http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16305.m3u8
 #EXTINF:-1, WILLOW HD
 http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16164.m3u8
+#EXTINF:-1, WILLOW HD
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16167.m3u8
 
 
 #EXTINF:-1, WILLOW HD
@@ -240,12 +242,18 @@ http://mhdtvlive.online/delta/airtel.php?c=sonysixhd&e=.m3u8
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/04.m3u8
 #EXTINF:0, TEN 1 
 http://mhdtvlive.online/delta/airtel.php?c=sonyten1&e=.m3u8
+#EXTINF:-1, TEN 1 HD
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16181.m3u8
 #EXTINF:0, TEN 1 HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/04.m3u8
+#EXTINF:-1, TEN 2
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16182.m3u8
 #EXTINF:0, TEN 2 
 http://mhdtvlive.online/delta/airtel.php?c=sonyten2&e=.m3u8
 #EXTINF:0, TEN 2 HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/04.m3u8
+#EXTINF:-1, TEN 3
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16173.m3u8
 #EXTINF:0, TEN 3 
 http://mhdtvlive.online/delta/airtel.php?c=sonyten3&e=.m3u8
 #EXTINF:0, TEN 3 HD
@@ -264,3 +272,5 @@ http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16171.m3u8
 http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16180.m3u8
 #EXTINF:-1, STAR SPORTS2 HD
 http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16170.m3u8
+#EXTNF:-1, TEN SPORTS
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16166.m3u8
