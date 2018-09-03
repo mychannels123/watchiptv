@@ -228,6 +228,8 @@ http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16167.m3u8
 
 #EXTINF:-1, WILLOW HD
 http://50.7.198.170:8081/abcd/willow/playlist.m3u8
+#EXTINF:-1, SKY SPORTS HD CRICKET
+http://173.208.184.250:8554/live/sks2/playlist.m3u8
 #EXTINF:-1, SKY SPORTS HD
 http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/1076.m3u8
 #EXTINF:-1, PTV SPORTS
