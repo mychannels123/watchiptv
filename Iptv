@@ -160,10 +160,6 @@ http://103.14.127.37:1935/cinematv/cinematv.stream_360p/chunklist_w1838533965.m3
 http://mhdtvlive.online/delta/airtel.php?c=cinematv&e=.m3u8
 #EXTINF:-1, B4U MOVIES
 http://103.14.127.37:1935/b4umoviesindia/b4umoviesindia.stream_360p/chunklist_w1781157802.m3u8
-#EXTINF:-1, MANORANJAN MOVIES
-http://125.17.105.168/PLTV/88888888/224/3221226225/02.m3u8
-#EXTINF:-1, MAHA MOVIES
-http://125.17.105.168/PLTV/88888888/224/3221226225/02.m3u8
 #EXTINF:-1, MAHA MOVIES
 http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.m3u8
 #EXTINF:-1, FILMY
@@ -234,8 +230,6 @@ http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16167.m3u8
 http://50.7.198.170:8081/abcd/willow/playlist.m3u8
 #EXTINF:-1, SKY SPORTS HD CRICKET
 http://173.208.184.250:8554/live/sks2/playlist.m3u8
-#EXTINF:-1, SKY SPORTS MIX
-http://31.220.0.176:1935/tv/EGgVdH1jMn20180321/playlist_w2022129449_tkaGxzZW5kdGltZT0xNTM1OTYzNzAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9M2V0ZTU2Yld6aFVSNVJZU21sWldIaFRUTXM4eXZKUnNwYjF5ekNDVkFDdz0=.m3u8
 #EXTINF:-1, SKY SPORTS HD
 http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/1076.m3u8
 #EXTINF:-1, PTV SPORTS
