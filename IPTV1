@@ -118,7 +118,7 @@ http://50.7.198.170:8081/Ind/STARGOLD/playlist.m3u8
 #EXTINF:-1, MH1
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226114/01.m3u8
 #EXTINF:-1, ENTER 10
-http://218.248.64.74:1935/live/enter10_webA.sdp/chunklist_w1965038994.m3u8
+http://218.248.64.74:1935/live/enter10_webA.sdp/playlist_w1965038994.m3u8
 #EXTINF:-1, &TV HD
 http://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
 #EXTINF:-1, AND PICTURES HD
