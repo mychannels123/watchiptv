@@ -11,6 +11,8 @@ http://50.7.198.170:8081/PB/PTCNEWS/chunks.m3u8
 http://50.7.198.170:8081/PB/PTCNEWS/playlist.m3u8
 #EXTINF:-1, PTC PUNJABI
 http://50.7.198.170:8081/PB/PTCPUNJABI/playlist.m3u8
+#EXTINF:-1, PBN MUSIC
+http://bpgdlwlwr3ze-hls-live.wmncdn.net/1178/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/tracks-v1a1/index.m3u8
 #EXTINF:-1, JUS PUNJABI
 http://50.7.198.170:8081/PB/JUSONE/playlist.m3u8
 #EXTINF:-1, PUNJABI TADKA
@@ -278,6 +280,8 @@ http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16173.m3u8
 http://mhdtvlive.online/delta/airtel.php?c=sonyten3&e=.m3u8
 #EXTINF:0, TEN 3 HD
 http://125.17.105.168/PLTV/88888888/224/3221226330/01.m3u8
+#EXTINF:-1, STAR SPORTS SELECT 2 HD
+http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16169.m3u8
 #EXTINF:-1, STAR SPORTS FIRST 1
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
