@@ -154,6 +154,10 @@ http://103.14.127.37:1935/cinematv/cinematv.stream_360p/chunklist_w1838533965.m3
 http://mhdtvlive.online/delta/airtel.php?c=cinematv&e=.m3u8
 #EXTINF:-1, B4U MOVIES
 http://103.14.127.37:1935/b4umoviesindia/b4umoviesindia.stream_360p/chunklist_w1781157802.m3u8
+#EXTINF:-1, MANORANJAN MOVIES
+http://125.17.105.168/PLTV/88888888/224/3221226225/02.m3u8
+#EXTINF:-1, MAHA MOVIES
+http://125.17.105.168/PLTV/88888888/224/3221226225/02.m3u8
 #EXTINF:-1, MAHA MOVIES
 http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.m3u8
 #EXTINF:-1, FILMY
