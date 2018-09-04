@@ -108,8 +108,10 @@ http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
 #EXTINF:-1, LIFE PUNJABI
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTM3U
+#EXTINF:-1, MUSIC INDIA
+http://103.14.127.37:1935/musicindia/musicindia.stream_360p/chunklist_w984729855.m3u8
 #EXTINF:-1, B4U MUSIC
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16260.m3u8
+http://103.14.127.37:1935/b4umusicindia/b4umusicindia.stream_360p/chunklist_w66794027.m3u8
 #EXTINF:-1, COLORS HD
 http://173.208.184.250:8554/live/chd/playlist.m3u8
 #EXTINF:-1, COLORS HD
@@ -148,8 +150,6 @@ http://mhdtvlive.online/delta/airtel.php?c=andpictures&e=.m3u8
 https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
 #EXTINF:-1, ENTER10
 http://cdn.asianetmobiletvplus.online/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/chunklist.m3u8
-#EXTINF:-1, ENTER 10
-http://218.248.64.74:1935/live/enter10_webA.sdp/playlist.m3u8?token=8987631630
 #EXTINF:-1, ENTER 10
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8
 #EXTINF:-1, ZEE ACTION
