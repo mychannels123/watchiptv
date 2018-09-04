@@ -171,7 +171,7 @@ http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.
 #EXTINF:-1, FILMY
 http://103.14.127.37:1935/saharafir/saharafir.stream_360p/chunklist_w1290565054.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16205.m3u8
+http://tv.redboxtv.net:4554/laila/zeeclassic/playlist.m3u8
 #EXTINF:-1, ZEE CLASSIC
 http://mhdtvlive.online/delta/airtel.php?c=zeeclassic&e=.m3u8
 #EXTINF:-1, ZEE CLASSIC
