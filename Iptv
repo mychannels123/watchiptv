@@ -26,7 +26,7 @@ http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
 #EXTINF:-1, ANKHILA PUNJAB
 http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
 #EXTINF:-1, 9X TASHAN
- http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16261.m3u8
+http://185.21.217.50:7071/beta/9xtashan/playlist.m3u8
 #EXTINF:-1, 9X TASHAN
 http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16264.m3u8
 #EXTINF:-1, 9X JALWA
@@ -45,6 +45,8 @@ http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 http://lzyr7zo8dvw2-hls-live.wmncdn.net/1164/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/tracks-v1a1/index.m3u8
 #EXTINF:-1, SHAN PUNJABI TV 
 http://fastway.ddns.net:6421/fastway/live101/tracks-v1a1/index.m3u8
+#EXTINF:-1, CHARDIKLA TIME TV
+http://185.21.217.50:7071/beta/chardikalatv/playlist.m3u8
 #EXTINF:-1, CHARDIKLA TIME TV 
 http://fastway.ddns.net:6421/fastway/live5/tracks-v1a1/index.m3u8
 #EXTINF:-1, PUNJAB TV
@@ -83,6 +85,8 @@ http://capcobroadcaststream.in:1935/capco/gopunjabi/playlist.m3u8
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1, MASTI TV
 http://cdn.samtv.ca/mastitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, MH1
+http://185.21.217.50:7071/beta/mh1/playlist.m3u8
 #EXTINF:-1, MH1
 http://125.17.105.168/PLTV/88888888/224/3221226114/01.m3u8
 #EXTINF:-1, PITAARA TV
