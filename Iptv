@@ -223,11 +223,10 @@ http://103.14.127.39:1935/mastii/mastii.stream_360p/chunklist_w70489765.m3u8
 
 #EXTM3U
 #EXTINF:-1, SUPER GEO
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16305.m3u8
+http://173.208.203.74:8554/fox/geosuper/playlist.m3u8
 #EXTINF:-1, WILLOW HD
 http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16164.m3u8
-#EXTINF:-1, WILLOW HD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16167.m3u8
+
 
 
 #EXTINF:-1, WILLOW HD
@@ -297,5 +296,4 @@ http://107.150.37.162:8554/live/starsp1/playlist.m3u8
 #EXTINF:-1, STAR SPORTS2 HD
 http://107.150.37.162:8554/live/starsp2/playlist.m3u8
 #EXTINF:-1, TEN SPORTS
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16166.m3u8
-
+http://107.150.37.162:8554/live/tens/playlist.m3u8
