@@ -278,8 +278,10 @@ http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16173.m3u8
 http://mhdtvlive.online/delta/airtel.php?c=sonyten3&e=.m3u8
 #EXTINF:0, TEN 3 HD
 http://125.17.105.168/PLTV/88888888/224/3221226330/01.m3u8
-#EXTINF:-1, STAR SPORTS SELECT 2 HD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16169.m3u8
+#EXTINF:-1, STAR SPORTS SELECT 2
+http://107.150.37.162:8554/live/ss2hd/playlist.m3u8
+#EXTINF:-1, STAR SPORTS SELECT
+http://107.150.37.162:8554/live/ss1/playlist.m3u8
 #EXTINF:-1, STAR SPORTS FIRST 1
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
@@ -291,9 +293,9 @@ http://94.102.51.27:8088/live/starsports1gr/playlist.m3u8?id=31776&wowzasessioni
 #EXTINF:-1, STAR SPORTS
 http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16171.m3u8
 #EXTINF:-1, STAR SPORTS
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16180.m3u8
+http://107.150.37.162:8554/live/starsp1/playlist.m3u8
 #EXTINF:-1, STAR SPORTS2 HD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16170.m3u8
+http://107.150.37.162:8554/live/starsp2/playlist.m3u8
 #EXTINF:-1, TEN SPORTS
 http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16166.m3u8
 
