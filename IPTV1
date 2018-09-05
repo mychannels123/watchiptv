@@ -23,8 +23,12 @@ http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
 #EXTINF:-1, ANKHILA PUNJAB
 http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
 #EXTINF:-1, 9X TASHAN
+http://cshms3.airtel.tv/PLTV/88888888/224/3221226017/02.m3u8
+#EXTINF:-1, 9X TASHAN
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226017/01.m3u8
 #EXTINF:-1, PTC CHAKDE
+http://185.21.217.50:7071/beta/ptcchakde/playlist.m3u8
+#EXTINF:-1, CHAKDE TV
 http://streamer3.ultapulta.com:7050/
 #EXTINF:-1, JHANJAR MUSIC
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
