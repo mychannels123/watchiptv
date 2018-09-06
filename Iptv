@@ -35,6 +35,8 @@ http://125.17.105.168/PLTV/88888888/224/3221226017/01.m3u8
 http://185.21.217.50:7071/beta/ptcchakde/playlist.m3u8
 #EXTINF:-1, CHAKDE TV
 http://streamer3.ultapulta.com:7050/
+#EXTINF:-1, BULLAND TV
+http://94krv9bxqb6p-hls-live.wmncdn.net/1237/buland/b04de4cdf2ceee6b13f7270be87a23f2.sdp/tracks-v1a1/index.m3u8
 #EXTINF:-1, JHANJAR MUSIC
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1, JHANJAR HD
