@@ -109,8 +109,6 @@ http://103.14.127.37:1935/musicindia/musicindia.stream_360p/chunklist_w984729855
 #EXTINF:-1, B4U MUSIC
 http://103.14.127.37:1935/b4umusicindia/b4umusicindia.stream_360p/chunklist_w66794027.m3u8
 #EXTM3U
-#EXTINF:-1, STAR BHARAT
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16132.m3u8
 #EXTINF:-1, COLORS HD
 http://50.7.198.170:8081/Ind/COLORSHD/playlist.m3u8
 #EXTINF:-1, STAR PLUS HD
@@ -154,15 +152,23 @@ http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.
 #EXTINF:-1, FILMY
 http://103.14.127.37:1935/saharafir/saharafir.stream_360p/chunklist_w1290565054.m3u8
 #EXTINF:-1, B4U MOVIES
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/1.m3u8
+#EXTINF:-1, B4U MOVIES
 http://103.14.127.37:1935/b4umoviesindia/b4umoviesindia.stream_360p/chunklist_w1781157802.m3u8
 #EXTINF:-1, WOW CINEMA
 http://cdn.asianetmobiletvplus.online/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/playlist.m3u8
 #EXTINF:1, WOW CINEMA
 http://mhms9.airtel.tv/wh7f454c46tw2968469580_2008495343/PLTV/88888888/224/3221226263/03.m3u8
 #EXTINF:-1, CINEMA TV
+http://103.14.127.37:1935/cinematv/cinematv.stream_360p/chunklist_w1838533965.m3u8
+#EXTINF:-1, CINEMA TV
+http://cdn.asianetmobiletvplus.online/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
+#EXTINF:-1, CINEMA TV
 http://mhms8.airtel.tv/wh7f454c46tw1547650707_1052100671/PLTV/88888888/224/3221226246/03.m3u8
 #EXTINF:-1, ZEE ACTION
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226331/1.m3u8
+#EXTINF:-1, ZEE BOLLYWOOD
+http://188.93.238.184:8000/live/ryan/ryan/31255.m3u8
 #EXTINF:-1, ZEE CLASSIC
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8
 #EXTINF:-1, ZEE TV HD
@@ -173,8 +179,6 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://cshms2.airtel.tv/wh7f454c46tw1426839479_1338613003/PLTV/88888888/224/3221225776/03.m3u8
 #EXTINF:-1, SONY MAX
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/index.m3u8
-#EXTINF:-1, SONY MAX2
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16073.m3u8
 #EXTINF:-1, SONY MAX2
 http://cshms1.airtel.tv/wh7f454c46tw3181837615_1055582630/PLTV/88888888/224/3221225812/03.m3u8
 #EXTINF:-1, SONY TV HD
