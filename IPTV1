@@ -14,6 +14,8 @@ http://50.7.198.170:8081/PB/PTCPUNJABI/playlist.m3u8
 http://50.7.198.170:8081/PB/JUSONE/playlist.m3u8
 #EXTINF:-1, PUNJABI TADKA
 http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:-1, BULLAND TV
+http://94krv9bxqb6p-hls-live.wmncdn.net/1237/buland/b04de4cdf2ceee6b13f7270be87a23f2.sdp/tracks-v1a1/index.m3u8
 #EXTINF:-1, HAMDARD TV
 http://cdn.samtv.ca/hamdard/tracks-v1a1/mono.m3u8
 #EXTINF:-1, NVK TV FILMY
@@ -22,6 +24,8 @@ http://162.244.80.206:1935/live/nadivaid/chunklist_w566662471.m3u8
 http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
 #EXTINF:-1, ANKHILA PUNJAB
 http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
+#EXTINF:-1, 9X TASHAN
+http://185.21.217.50:7071/beta/9xtashan/playlist.m3u8
 #EXTINF:-1, 9X TASHAN
 http://cshms3.airtel.tv/PLTV/88888888/224/3221226017/02.m3u8
 #EXTINF:-1, 9X TASHAN
@@ -38,6 +42,8 @@ http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 http://lzyr7zo8dvw2-hls-live.wmncdn.net/1164/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/tracks-v1a1/index.m3u8
 #EXTINF:-1, SHAN PUNJABI TV 
 http://fastway.ddns.net:6421/fastway/live101/tracks-v1a1/index.m3u8
+#EXTINF:-1, CHARDIKLA TIME TV
+http://185.21.217.50:7071/beta/chardikalatv/playlist.m3u8
 #EXTINF:-1, CHARDIKLA TIME TV 
 http://fastway.ddns.net:6421/fastway/live5/tracks-v1a1/index.m3u8
 #EXTINF:-1, PUNJAB TV
@@ -96,6 +102,10 @@ http://j2ldmzkpqobv-hls-live.wmncdn.net/1168/dpd/5a16ddba9a8a76d59cbc10c1f02b328
 http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
 #EXTINF:-1, LIFE PUNJABI
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1, MUSIC INDIA
+http://103.14.127.37:1935/musicindia/musicindia.stream_360p/chunklist_w984729855.m3u8
+#EXTINF:-1, B4U MUSIC
+http://103.14.127.37:1935/b4umusicindia/b4umusicindia.stream_360p/chunklist_w66794027.m3u8
 #EXTM3U
 #EXTINF:-1, STAR BHARAT
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/16132.m3u8
