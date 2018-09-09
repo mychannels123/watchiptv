@@ -122,7 +122,9 @@ http://50.7.198.170:8081/Ind/STARGOLD/playlist.m3u8
 #EXTINF:-1, MH1
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226114/01.m3u8
 #EXTINF:-1, ENTER 10
-http://218.248.64.74:1935/live/enter10_webA.sdp/playlist_w748229717.m3u8
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8
+#EXTINF:-1, ENTER 10
+http://cdn.asianetmobiletvplus.online/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
 #EXTINF:-1, &TV HD
 http://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
 #EXTINF:-1, AND PICTURES HD
@@ -141,6 +143,8 @@ http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.
 http://103.14.127.37:1935/saharafir/saharafir.stream_360p/chunklist_w1290565054.m3u8
 #EXTINF:-1, B4U MOVIES
 http://103.14.127.37:1935/b4umoviesindia/b4umoviesindia.stream_360p/chunklist_w1781157802.m3u8
+#EXTINF:-1, WOW CINEMA
+http://cdn.asianetmobiletvplus.online/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/playlist.m3u8
 #EXTINF:1, WOW CINEMA
 http://mhms9.airtel.tv/wh7f454c46tw2968469580_2008495343/PLTV/88888888/224/3221226263/03.m3u8
 #EXTINF:-1, CINEMA TV
@@ -149,6 +153,8 @@ http://mhms8.airtel.tv/wh7f454c46tw1547650707_1052100671/PLTV/88888888/224/32212
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226331/1.m3u8
 #EXTINF:-1, ZEE CLASSIC
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/index.m3u8
+#EXTINF:-1, ZEE TV HD
+http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE TV
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225878/index.m3u8
 #EXTINF:-1, SONY MAX HD
@@ -197,6 +203,8 @@ http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748
 http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
 #EXTINF:-1, STAR SPORTS SELECT 1
 http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
+#EXTINF:-1, STAR SPORTS HINDI
+http://cdn.asianetmobiletvplus.online/channels/bfouryou_tzlqmfbbcgaacuxgfrpqimneunsjzuhe/playlist.m3u8
 
 #EXTINF:0, group-title="SPORTS",Sony Ten 1
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/01.m3u8
