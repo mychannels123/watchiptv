@@ -133,13 +133,9 @@ http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, SONY WAH
 http://mhdtvlive.online/delta/airtel.php?c=sonywah&e=.m3u8
 #EXTINF:-1, B4U PLUS
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16257.m3u8
-#EXTINF:-1, RISHTEY CINEPLEX
-http://tv.redboxtv.net:4554/laila/rishtaycineplex/playlist.m3u8
+http://188.93.238.184:8000/live/ryan/ryan/11323.m3u8
 #EXTINF:-1, UTV MOVIES
-http://tv.redboxtv.net:4554/laila/utvmoviesint/playlist.m3u8
-#EXTINF:-1, UTV ACTION
-http://50.7.198.170:8081/Ind/UTVACTION/playlist.m3u8
+https://ylive31-i.akamaihd.net/hls/live/690889/utvmovies/playlist.m3u8
 #EXTINF:-1, MOVIES OK
 http://tv.redboxtv.net:4554/majnu/moviesok/playlist.m3u8
 #EXTINF:-1, STAR GOLD HD
