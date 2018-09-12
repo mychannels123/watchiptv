@@ -288,7 +288,7 @@ http://107.150.37.162:8554/live/ss1/playlist.m3u8
 #EXTINF:-1, STAR SPORTS FIRST 1
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
-http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
+http://51.15.5.246:8010/Star2/Spo0Rts2/index.m3u8
 #EXTINF:-1, STAR SPORTS SELECT 1
 http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
