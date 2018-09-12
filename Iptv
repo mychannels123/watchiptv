@@ -287,12 +287,5 @@ http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
 http://163.172.85.133:8080/Cricket/4/index.m3u8
 
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=669731,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=512x288
-https://ylive31-i.akamaihd.net/hls/live/690889/utvmovies/utvmovies_600/chunklist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1203500,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=722x406
-https://ylive31-i.akamaihd.net/hls/live/690889/utvmovies/utvmovies_1200/chunklist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1747497,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=704x396
-https://ylive31-i.akamaihd.net/hls/live/690889/utvmovies/utvmovies_1800/chunklist.m3u8
+
 
