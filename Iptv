@@ -262,23 +262,25 @@ http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16248.m3u8
 http://mhdtvlive.online/delta/airtel.php?c=sonysixhd&e=.m3u8
 #EXTINF:0,SONY SIX HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/04.m3u8
+#EXTINF:-1, TEN 1
+http://163.172.50.217:9091/sky/cricket/index.m3u8
 #EXTINF:0, TEN 1 
 http://mhdtvlive.online/delta/airtel.php?c=sonyten1&e=.m3u8
-#EXTINF:-1, TEN 1 HD
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16181.m3u8
 #EXTINF:0, TEN 1 HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/04.m3u8
-#EXTINF:-1, TEN 2
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16182.m3u8
 #EXTINF:0, TEN 2 
 http://mhdtvlive.online/delta/airtel.php?c=sonyten2&e=.m3u8
 #EXTINF:0, TEN 2 HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/04.m3u8
 #EXTINF:-1, TEN 3
-http://iptv.oneiptv.tv:8080/live/OLkY4zKC7c/n0aa1hCLV6/16173.m3u8
+http://163.172.50.217:9091/sky/cricket/index.m3u8
 #EXTINF:0, TEN 3 
 http://mhdtvlive.online/delta/airtel.php?c=sonyten3&e=.m3u8
-#EXTINF:0, TEN 3 HD
+#EXTINF:-1, TEN 3 HD
+http://163.172.58.77:8080/Cricket/5/index.m3u8
+#EXTINF:-1, TEN 3 HD
+http://163.172.50.217:9091/sky/cricket/index.m3u8
+#EXTINF:0, TEN 3
 http://125.17.105.168/PLTV/88888888/224/3221226330/01.m3u8
 #EXTINF:-1, STAR SPORTS FIRST 1
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
