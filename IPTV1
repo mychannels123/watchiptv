@@ -104,10 +104,18 @@ http://j2ldmzkpqobv-hls-live.wmncdn.net/1168/dpd/5a16ddba9a8a76d59cbc10c1f02b328
 http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
 #EXTINF:-1, LIFE PUNJABI
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1, MANORANJAN TV
+http://cdn.asianetmobiletvplus.online/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmvieiaysg/chunklist.m3u8
+#EXTINF:-1, SAHARA ONE
+http://103.14.127.37:1935/saharaone/saharaone.stream_360p/chunklist_w1367885184.m3u8
+#EXTINF:-1, STAR BHARAT 
+http://103.14.127.39:1935/starbharat/starbharat.stream_360p/chunklist_w517288949.m3u8
 #EXTINF:-1, MUSIC INDIA
 http://103.14.127.37:1935/musicindia/musicindia.stream_360p/chunklist_w984729855.m3u8
 #EXTINF:-1, B4U MUSIC
 http://103.14.127.37:1935/b4umusicindia/b4umusicindia.stream_360p/chunklist_w66794027.m3u8
+#EXTINF:-1, B4U PLUS
+http://188.93.238.184:8000/live/ryan/ryan/11323.m3u8
 #EXTM3U
 #EXTINF:-1, COLORS HD
 http://50.7.198.170:8081/Ind/COLORSHD/playlist.m3u8
@@ -123,8 +131,8 @@ http://51.15.5.246:8010/Color/IndiaColrr/index.m3u8
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, SONY WAH
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/01.m3u8
-#EXTINF:-1, UTV ACTION
-http://50.7.198.170:8081/Ind/UTVACTION/playlist.m3u8
+#EXTINF:-1, UTV MOVIES
+https://ylive31-i.akamaihd.net/hls/live/690889/utvmovies/playlist.m3u8
 #EXTINF:-1, STAR GOLD HD
 http://50.7.198.170:8081/Ind/STARGOLDHD/playlist.m3u8
 #EXTINF:-1, STAR GOLD
@@ -229,7 +237,16 @@ http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
 http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
 http://cdn.asianetmobiletvplus.online/channels/bfouryou_tzlqmfbbcgaacuxgfrpqimneunsjzuhe/playlist.m3u8
-
+#EXTINF:-1, WILLOW HD
+http://163.172.85.133:8080/Cricket/3/index.m3u8
+#EXTINF:-1, PTV SPORTS
+http://51.15.6.69:8080/ptv/sp/index.m3u8
+#EXTINF:-1, STAR SPORTS HINDI
+http://163.172.85.133:8080/Cricket/4/index.m3u8
+#EXTINF:-1, STAR SPORTS FIRST 1
+http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
+#EXTINF:-1, STAR SPORTS 1 HD
+http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
 #EXTINF:0, group-title="SPORTS",Sony Ten 1
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/01.m3u8
 #EXTINF:0, group-title="SPORTS",Sony Ten 2
