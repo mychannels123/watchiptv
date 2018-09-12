@@ -108,8 +108,10 @@ http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
 #EXTINF:-1, LIFE PUNJABI
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTM3U
-#EXTINF:-1, STAR BHARAT HD
-http://tv4embed.com/jioapp/Star_Bharat_HD/Star_Bharat_HD_800.m3u8
+#EXTINF:-1, SAHARA ONE
+http://103.14.127.37:1935/saharaone/saharaone.stream_360p/chunklist_w1367885184.m3u8
+#EXTINF:-1, STAR BHARAT 
+http://103.14.127.39:1935/starbharat/starbharat.stream_360p/chunklist_w517288949.m3u8
 #EXTINF:-1, MUSIC INDIA
 http://103.14.127.37:1935/musicindia/musicindia.stream_360p/chunklist_w984729855.m3u8
 #EXTINF:-1, B4U MUSIC
