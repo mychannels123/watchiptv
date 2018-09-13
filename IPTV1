@@ -5,15 +5,19 @@ http://m6gdawxeln93-hls-live.5centscdn.com/854/apntv/c9a1fdac6e082dd89e7173244f3
 #EXTINF:-1, DIP
 http://manjit15.flashmediacast.com:1935/manjit11/livestream1/playlist.m3u8
 #EXTINF:-1, PTC NEWS
-http://50.7.198.170:8081/PB/PTCNEWS/chunks.m3u8
+http://185.21.217.50:7071/beta/ptcnews/playlist.m3u8
 #EXTINF:-1, PTC NEWS
 http://50.7.198.170:8081/PB/PTCNEWS/playlist.m3u8
+#EXTINF:-1, PTC PUNJABI
+http://185.21.217.50:7071/beta/ptcpunjabi/playlist.m3u8
 #EXTINF:-1, PTC PUNJABI
 http://50.7.198.170:8081/PB/PTCPUNJABI/playlist.m3u8
 #EXTINF:-1, JUS PUNJABI
 http://50.7.198.170:8081/PB/JUSONE/playlist.m3u8
 #EXTINF:-1, PUNJABI TADKA
 http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:-1, ONLY MUSIC
+http://185.21.217.50:7071/beta/onlymusic/playlist.m3u8
 #EXTINF:-1, BULLAND TV
 http://94krv9bxqb6p-hls-live.wmncdn.net/1237/buland/b04de4cdf2ceee6b13f7270be87a23f2.sdp/tracks-v1a1/index.m3u8
 #EXTINF:-1, HAMDARD TV
@@ -78,6 +82,10 @@ http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
 http://cdn.samtv.ca/wahpunjabi/index.m3u8
 #EXTINF:-1, GO PUNJABI HD
 http://capcobroadcaststream.in:1935/capco/gopunjabi/playlist.m3u8
+#EXTINF:-1, DESI PLUS
+http://185.21.217.50:7071/beta/desiplus/playlist.m3u8
+#EXTINF:-1, BRIT ASIA TV
+http://185.21.217.50:7071/beta/britasia/playlist.m3u8
 #EXTINF:-1, GUBRU TV
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1, MASTI TV
@@ -86,6 +94,8 @@ http://cdn.samtv.ca/mastitv/tracks-v1a1/mono.m3u8
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226114/1.m3u8
 #EXTINF:-1, MH1
 http://185.21.217.50:7071/beta/mh1/playlist.m3u8
+#EXTINF:-1, PITAARA TV
+http://185.21.217.50:7071/beta/pitaaratv/playlist.m3u8
 #EXTINF:-1, PITAARA TV
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1, GAUNDA PUNJAB
