@@ -156,11 +156,17 @@ http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/32212
 #EXTINF:-1, ENTER 10
 http://cdn.asianetmobiletvplus.online/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
 #EXTINF:-1, AND TV
+http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
+#EXTINF:-1, AND TV
 http://cshms3.airtel.tv/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226048/01.m3u8
 #EXTINF:-1, AND TV HD
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226084/03.m3u8
 #EXTINF:-1, AND TV HD
 http://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
+#EXTINF:-1, AND PICTURES
+http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
+#EXTINF:-1, AND PICTURES
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226049/04.m3u8
 #EXTINF:-1, AND PICTURES HD
 http://rrs.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226203/04.m3u8
 #EXTINF:-1, AND PICTURES HD
