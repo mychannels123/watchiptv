@@ -243,10 +243,12 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
-#EXTINF:-1, STAR SPORTS SELECT 1
-http://50.7.198.170:8081/abcd/starsports2/playlist.m3u8
-#EXTINF:-1, STAR SPORTS HINDI
-http://cdn.asianetmobiletvplus.online/channels/bfouryou_tzlqmfbbcgaacuxgfrpqimneunsjzuhe/playlist.m3u8
+#EXTINF:-1, STAR SPORTS SELECT 1 HD
+http://195.154.181.182:8081/THOPSports/LiveStream-id-3/playlist.m3u8
+#EXTINF:-1, STAR SPORTS SELECT 2 HD
+http://195.154.181.182:8081/THOPSports/LiveStream-id-2/playlist.m3u8
+#EXTINF:-1, STAR SPORTS HINDI 
+http://195.154.181.182:8081/THOPSports/LiveStream-id-5/playlist.m3u8
 #EXTINF:-1, WILLOW HD
 http://163.172.85.133:8080/Cricket/3/index.m3u8
 #EXTINF:-1, PTV SPORTS
@@ -283,7 +285,7 @@ http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/322122
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/01.m3u8
 #EXTINF:0, group-title="Sports 1",Sony Six HD
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/01.m3u8
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/and_tv_hd_App.smil/playlist.m3u8
+
 
 
 
