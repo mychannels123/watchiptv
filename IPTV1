@@ -256,7 +256,9 @@ http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/322122
 #EXTINF:-1, STAR SPORTS FIRST 1
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
-http://50.7.198.170:8081/abcd/starsports1/playlist.m3u8
+http://54.39.144.139:8080/StarSports3HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, STAR SPORTS 2 HD
+http://54.39.144.139:8080/StarSports2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS SELECT 1 HD
 http://195.154.181.182:8081/THOPSports/LiveStream-id-3/playlist.m3u8
 #EXTINF:-1, STAR SPORTS SELECT 2 HD
