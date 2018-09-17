@@ -20,6 +20,8 @@ http://cdn.samtv.ca/hamdard/tracks-v1a1/mono.m3u8
 http://162.244.80.206:1935/live/nadivaid/chunklist_w566662471.m3u8
 #EXTINF:-1, SABRANG TV
 http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
+#EXTINF:-1, BRIT ASIA TV
+http://50.7.198.170:8081/PB/BRITASIA/playlist.m3u8
 #EXTINF:-1, ANKHILA PUNJAB
 http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
 #EXTINF:-1, 9X TASHAN
@@ -57,7 +59,7 @@ http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 #EXTINF:-1, SARDARI TV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 #EXTINF:-1, VIRSA LIVE
-http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8
+http://103.228.112.96:1935/virsalivetv/live/playlist.m3u8
 #EXTINF:-1, TV PUNJAB
 http://cdn.samtv.ca/tvpunjab/index.m3u8
 #EXTINF:-1, TORRONTO 360
@@ -75,9 +77,7 @@ http://cdn.samtv.ca/wahpunjabi/index.m3u8
 #EXTINF:-1, GO PUNJABI HD
 http://capcobroadcaststream.in:1935/capco/gopunjabi/playlist.m3u8
 #EXTINF:-1, DESI PLUS
-http://185.21.217.50:7071/beta/desiplus/playlist.m3u8
-#EXTINF:-1, BRIT ASIA TV
-http://185.21.217.50:7071/beta/britasia/playlist.m3u8
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:-1, GUBRU TV
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1, MASTI TV
@@ -132,6 +132,8 @@ http://103.14.127.39:1935/rishtey/rishtey.stream_360p/chunklist_w563700042.m3u8
 #EXTINF:-1, STAR PLUS
 http://50.7.198.170:8081/Ind/STARPLUS/playlist.m3u8
 #EXTINF:-1, COLORS TV
+http://188.93.238.184:8000/live/ryan/ryan/270.m3u8
+#EXTINF:-1, COLORS TV
 http://51.15.5.246:8010/Color/IndiaColr/index.m3u8
 #EXTINF:-1, NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
@@ -177,6 +179,8 @@ http://103.14.127.37:1935/starutsavmovies/starutsavmovies.stream_360p/chunklist_
 http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.m3u8
 #EXTINF:-1, FILMY
 http://103.14.127.37:1935/saharafir/saharafir.stream_360p/chunklist_w1290565054.m3u8
+#EXTINF:-1, B4U MOVIES
+http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
 #EXTINF:-1, B4U MOVIES
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/1.m3u8
 #EXTINF:-1, B4U MOVIES
