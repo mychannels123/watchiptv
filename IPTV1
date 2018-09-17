@@ -264,6 +264,8 @@ http://54.39.144.139:8080/StarSports2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS SELECT 1 HD
 http://195.154.181.182:8081/THOPSports/LiveStream-id-3/playlist.m3u8
 #EXTINF:-1, STAR SPORTS SELECT 2 HD
+http://195.154.181.182:8081/THOPSports/LiveStream-id-4/chunks.m3u8
+#EXTINF:-1, STAR SPORTS SELECT 2 HD
 http://195.154.181.182:8081/THOPSports/LiveStream-id-2/playlist.m3u8
 #EXTINF:-1, STAR SPORTS HINDI 
 http://195.154.181.182:8081/THOPSports/LiveStream-id-5/playlist.m3u8
