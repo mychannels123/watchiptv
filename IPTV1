@@ -192,6 +192,8 @@ http://cdn.asianetmobiletvplus.online/channels/cinematv_ptiwautekttzxckrgphaarue
 #EXTINF:-1, CINEMA TV
 http://mhms8.airtel.tv/wh7f454c46tw1547650707_1052100671/PLTV/88888888/224/3221226246/03.m3u8
 #EXTINF:-1, ZEE ACTION
+http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
+#EXTINF:-1, ZEE ACTION
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226331/1.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
 http://188.93.238.184:8000/live/ryan/ryan/31255.m3u8
@@ -247,11 +249,11 @@ http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16128.m3u8
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
 #EXTINF:-1, TEN 2 HD
 http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16127.m3u8
-#EXTINF:0, TEN 2 SD
+#EXTINF:0, TEN 2 
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/index.m3u8
 #EXTINF:-1, TEN 2 HD
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
-#EXTINF:0, TEN 3 SD
+#EXTINF:0, TEN 3 
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/index.m3u8
 #EXTINF:0, TEN 3 HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
