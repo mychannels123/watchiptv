@@ -2,8 +2,8 @@
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:1, APNA PUNJAB USA
 http://m6gdawxeln93-hls-live.5centscdn.com/854/apntv/c9a1fdac6e082dd89e7173244f34d7b3.sdp/tracks-v1a1/index.m3u8
-#EXTINF:-1, DIP
-http://manjit15.flashmediacast.com:1935/manjit11/livestream1/playlist.m3u8
+#EXTINF:-1, PTC CHAKDE
+http://50.7.198.170:8081/PB/PTCCHAKDE/playlist.m3u8
 #EXTINF:-1, PTC NEWS
 http://50.7.198.170:8081/PB/PTCNEWS/playlist.m3u8
 #EXTINF:-1, PTC PUNJABI
