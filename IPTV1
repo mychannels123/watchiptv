@@ -141,8 +141,8 @@ http://51.15.5.246:8010/Color/IndiaColr/index.m3u8
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, SONY WAH
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/01.m3u8
-#EXTINF:-1, HOUSEFULL ACTION
-http://218.248.64.82:1935/live/housefulaction_webA.sdp/chunklist_w991484660.m3u8
+#EXTINF:-1, RISHTEY CINEPLEX
+http://188.93.238.184:8000/live/ryan/ryan/3603.m3u8
 #EXTINF:-1, CINE MOVIES
 http://cdn.asianetmobiletvplus.online/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/chunklist.m3u8
 #EXTINF:-1, UTV MOVIES
