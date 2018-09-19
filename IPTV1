@@ -2,6 +2,8 @@
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:1, APNA PUNJAB USA
 http://m6gdawxeln93-hls-live.5centscdn.com/854/apntv/c9a1fdac6e082dd89e7173244f34d7b3.sdp/tracks-v1a1/index.m3u8
+#EXTINF:-1, BEATBOX TV
+http://yourside.live-s.cdn.bitgravity.com/cdn-live/_definst_/yourside/live/BeatBoxTV.smil/playlist.m3u8
 #EXTINF:-1, PTC CHAKDE
 http://50.7.198.170:8081/PB/PTCCHAKDE/playlist.m3u8
 #EXTINF:-1, PTC NEWS
@@ -139,6 +141,8 @@ http://51.15.5.246:8010/Color/IndiaColr/index.m3u8
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, SONY WAH
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/01.m3u8
+#EXTINF:-1, CINE MOVIES
+http://cdn.asianetmobiletvplus.online/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/chunklist.m3u8
 #EXTINF:-1, UTV MOVIES
 https://ylive31-i.akamaihd.net/hls/live/690889/utvmovies/playlist.m3u8
 #EXTINF:-1, STAR GOLD HD
@@ -265,8 +269,8 @@ http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/32212
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/index.m3u8
 #EXTINF:0, TEN 3 HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
-#EXTINF:-1, SKY SPORTS CRICKET
-http://cdn.whostreams.net:8080/hls/0m1md.m3u8?s=9yFBofwYhfCEoqD1a7-Uew&e=1537273960
+#EXTINF:-1, OSN SPORTS CRICKET
+http://163.172.85.133:8080/Cricket/3/index.m3u8
 #EXTINF:-1, SKY SPORTS CRICKET
 http://31.220.0.82:8081/live/sscric/chunks.m3u8
 #EXTINF:-1, OSN SPORTS CRICKET
