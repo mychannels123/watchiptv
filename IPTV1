@@ -106,6 +106,8 @@ http://j2ldmzkpqobv-hls-live.wmncdn.net/1168/dpd/5a16ddba9a8a76d59cbc10c1f02b328
 http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
 #EXTINF:-1, LIFE PUNJABI
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1, UTV BINDASS
+https://ylive31-i.akamaihd.net/hls/live/690890/utvbindaas/utvbindaas_600/chunklist.m3u8
 #EXTINF:-1, STAR TV
 http://103.14.127.37:1935/starutsav/starutsav.stream_360p/chunklist_w764760373.m3u8
 #EXTINF:-1, MANORANJAN TV
