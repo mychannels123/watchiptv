@@ -112,6 +112,14 @@ https://ylive31-i.akamaihd.net/hls/live/690890/utvbindaas/utvbindaas_600/chunkli
 http://103.14.127.37:1935/starutsav/starutsav.stream_360p/chunklist_w764760373.m3u8
 #EXTINF:-1, MANORANJAN TV
 http://cdn.asianetmobiletvplus.online/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmvieiaysg/chunklist.m3u8
+#EXTINF:-1, ZING TV
+https://z5ams.akamaized.net/zing/tracks-v2a1/index.m3u8
+#EXTINF:-1, ZING TV
+http://103.14.127.37:1935/zing/zing.stream_360p/chunklist_w1311655443.m3u8
+#EXTINF:-1, MASTI TV
+http://103.14.127.39:1935/mastii/mastii.stream_360p/chunklist_w70489765.m3u8
+#EXTINF:-1, SONY MIX
+http://103.14.127.39:1935/sonymix/sonymix.stream_360p/chunklist_w979348591.m3u8
 #EXTINF:-1, 9X JALWA
 https://57a1b3b8b4855.streamlock.net/live/9xjalwa_webA.sdp/media_w1416490179_2194.m3u8
 #EXTINF:-1, SAHARA ONE
