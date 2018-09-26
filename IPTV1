@@ -220,7 +220,7 @@ http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE ACTION
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226331/1.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
-https://z5ams.akamaized.net/classic/tracks-v4a1/mono.m3u8
+https://z5ams.akamaized.net/classic/tracks-v4a1/index.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
 http://188.93.238.184:8000/live/ryan/ryan/31255.m3u8
 #EXTINF:-1, ZEE CLASSIC
