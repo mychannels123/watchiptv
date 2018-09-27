@@ -261,6 +261,8 @@ http://cshms4.airtel.tv/wh7f454c46tw2908601020_1514856797/PLTV/88888888/224/3221
 http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225935/1.m3u8
+#EXTINF:-1, DD SPORTS
+http://103.14.127.37:1935/match/match.stream_360p/playlist.m3u8
 #EXTINF:0,SONY ESPN SD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8
 #EXTINF:0,SONY ESPN HD
