@@ -133,7 +133,7 @@ http://103.14.127.39:1935/mastii/mastii.stream_360p/chunklist_w70489765.m3u8
 #EXTINF:-1, SONY MIX
 http://103.14.127.39:1935/sonymix/sonymix.stream_360p/chunklist_w979348591.m3u8
 #EXTINF:-1, 9X JALWA
-https://57a1b3b8b4855.streamlock.net/live/9xjalwa_webA.sdp/media_w1416490179_2194.m3u8
+http://cshms4.airtel.tv/PLTV/88888888/224/3221226011/01.m3u8
 #EXTINF:-1, SAHARA ONE
 http://103.14.127.37:1935/saharaone/saharaone.stream_360p/chunklist_w1367885184.m3u8
 #EXTINF:-1, STAR BHARAT HD
@@ -168,7 +168,7 @@ http://51.15.5.246:8010/Color/IndiaColr/index.m3u8
 #EXTINF:-1, NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, SONY WAH
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/01.m3u8
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/02.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX
 http://188.93.238.184:8000/live/ryan/ryan/3603.m3u8
 #EXTINF:-1, CINE MOVIES
