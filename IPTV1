@@ -145,7 +145,7 @@ http://103.14.127.37:1935/musicindia/musicindia.stream_360p/chunklist_w984729855
 #EXTINF:-1, B4U MUSIC
 http://103.14.127.37:1935/b4umusicindia/b4umusicindia.stream_360p/chunklist_w66794027.m3u8
 #EXTINF:-1, JASHAN TV
-http://live.wmncdn.netmwtv/f1cf7bd21ba17d7e65fac82935e07dae.sdp/index.m3u8
+http://live.wmncdn.net/mwtv/f1cf7bd21ba17d7e65fac82935e07dae.sdp/index.m3u8
 #EXTM3U
 #EXTINF:-1, COLORS HD
 http://54.39.144.139:8080/ColorsHD/tracks-v1a1/mono.m3u8
