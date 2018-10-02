@@ -16,10 +16,36 @@ http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 http://yourside.live-s.cdn.bitgravity.com/cdn-live/_definst_/yourside/live/BeatBoxTV.smil/playlist.m3u8
 #EXTINF:-1, APNA PUNJAB NRITV
 http://livestream.5centscdn.com/apntv/c9a1fdac6e082dd89e7173244f34d7b3.sdp/tracks-v1a1/index.m3u8
+#EXTINF;-1, EKTA TV
+http://fastway.ddns.net:6421/fastway/alive/index.m3u8
+#EXTINF:-1, SADA PUNJAB
+http://103.81.156.115:1935/IPTV/saadapunjab/playlist.m3u8
+#EXTINF:-1, TV 84
+http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
+#EXTINF:-1, MANJE TE SPEAKER
+https://vrz.gigabitcdn.com/gL2oRVNQRUFLRVIX3QRVRFU1BFQUtFUg/mtshd/playlist.m3u8
+#EXTINF:-1, RAONUK PUNJAB DI
+https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/raunak-punjab/playlist.m3u8
+#EXTINF:-1, TOHAR TV
+https://vrz.gigabitcdn.com/VE8L2oQVJUVgX3QSEFSVFY/tohar-tv/playlist.m3u8
+#EXTINF:-1, AONE TV
+http://live.cloud6.in:1935/live2/aonetv/playlist.m3u8
+#EXTINF:-1, PBN MUSIC
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
+#EXTINF:-1, ONLY MUSIC
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD348L720P/chunklist_b700000.m3u8
+#EXTINF:-1, SHAN PUNJABI TV
+https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/shan-punjabi/playlist.m3u8
+#EXTINF:-1, PTC CHAKDE
+https://vrz.gigabitcdn.com/secure/JTV/UFRDL2oSEFLREUX3QQ0hBS0RF/playlist.m3u8
 #EXTINF:-1, PTC CHAKDE
 http://50.7.198.170:8081/PB/PTCCHAKDE/playlist.m3u8
 #EXTINF:-1, PTC NEWS
+https://vrz.gigabitcdn.com/secure/JTV/UFQL2oTkVXUwX3QQ05FV1M/playlist.m3u8
+#EXTINF:-1, PTC NEWS
 http://50.7.198.170:8081/PB/PTCNEWS/playlist.m3u8
+#EXTINF:-1, PTC PUNJABI
+https://vrz.gigabitcdn.com/secure/JTV/UFRDUFUL2oUFVOSkFCSQX3QTkpBQkk/playlist.m3u8
 #EXTINF:-1, PTC PUNJABI
 http://50.7.198.170:8081/PB/PTCPUNJABI/playlist.m3u8
 #EXTINF:-1, JUS PUNJABI
@@ -171,18 +197,14 @@ http://51.15.5.246:8010/Color/IndiaColr/index.m3u8
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, SONY WAH
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/02.m3u8
-#EXTINF:-1, RISHTEY CINEPLEX
-http://188.93.238.184:8000/live/ryan/ryan/3603.m3u8
+#EXTINF:-1, HOUSEFULL ACTION
+https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/Housefull/playlist.m3u8
+#EXTINF:-1, BFLIX MOVIES
+https://vrz.gigabitcdn.com/QkZML2oTU9WSUVTX3QSVhNT1ZJRVM/bflix-movies/playlist.m3u8
 #EXTINF:-1, CINE MOVIES
 http://cdn.asianetmobiletvplus.online/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/chunklist.m3u8
 #EXTINF:-1, UTV MOVIES
 https://ylive31-i.akamaihd.net/hls/live/690889/utvmovies/playlist.m3u8
-#EXTINF:-1, STAR GOLD HD
-http://54.39.144.139:8080/StarGoldHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, STAR GOLD
-http://62.210.78.84:25461/live/iiiiiiiiiiindian/alllllllllll/261.ts
-#EXTINF:-1, MH1
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226114/01.m3u8
 #EXTINF:-1, ENTER 10
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8
 #EXTINF:-1, ENTER 10
