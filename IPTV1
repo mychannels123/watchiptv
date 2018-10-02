@@ -16,7 +16,7 @@ http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 http://yourside.live-s.cdn.bitgravity.com/cdn-live/_definst_/yourside/live/BeatBoxTV.smil/playlist.m3u8
 #EXTINF:-1, APNA PUNJAB NRITV
 http://livestream.5centscdn.com/apntv/c9a1fdac6e082dd89e7173244f34d7b3.sdp/tracks-v1a1/index.m3u8
-#EXTINF;-1, EKTA TV
+#EXTINF:-1, EKTA TV
 http://fastway.ddns.net:6421/fastway/alive/index.m3u8
 #EXTINF:-1, SADA PUNJAB
 http://103.81.156.115:1935/IPTV/saadapunjab/playlist.m3u8
