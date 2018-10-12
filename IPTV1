@@ -352,8 +352,8 @@ http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10708.m3u8
 
 #EXTINF:-1, STAR SPORTS FIRST 1
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
-#EXTINF:-1, STAR SPORTS 1
-http://94.102.51.27:8088/live/starsports1gr/playlist.m3u8?id=31776&pk=dcbbe2e3f66187a6da2f83b11587e9bd5c8af4750f6e9923ce87d683c737c2ea
+#EXTINF:-1, STAR SPORTS 
+http://51.15.182.30:7077/Stsp1Hindi/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/testing2/playlist.m3u8
 #EXTINF:-1, WILLOW HD
