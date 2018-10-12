@@ -291,6 +291,8 @@ https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
 http://cshms4.airtel.tv/wh7f454c46tw2908601020_1514856797/PLTV/88888888/224/3221226083/05.m3u8
 #EXTINF:-1, ZEE CINEMA
+https://ylive31-i.akamaihd.net/hls/live/690887/zeecinema/playlist.m3u8
+#EXTINF:-1, ZEE CINEMA
 http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225935/1.m3u8
