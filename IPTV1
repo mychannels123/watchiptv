@@ -178,6 +178,8 @@ http://103.14.127.39:1935/starbharat/starbharat.stream_360p/chunklist_w517288949
 #EXTINF:-1, MUSIC INDIA
 http://103.14.127.37:1935/musicindia/musicindia.stream_360p/chunklist_w984729855.m3u8
 #EXTINF:-1, B4U MUSIC
+http://103.199.161.254:80/Content/B4Umusic/Live/Channel(B4Umusic)/Stream(03)/index.m3u8
+#EXTINF:-1, B4U MUSIC
 http://103.14.127.37:1935/b4umusicindia/b4umusicindia.stream_360p/chunklist_w66794027.m3u8
 #EXTINF:-1, JASHAN TV
 http://live.wmncdn.net/mwtv/f1cf7bd21ba17d7e65fac82935e07dae.sdp/index.m3u8
