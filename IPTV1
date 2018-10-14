@@ -356,7 +356,8 @@ http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7540.m3u8
 #EXTINF:-1, SKY SPORTS MAIN EVENT
 http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10708.m3u8
 
-
+#EXTINF:-1, TEN SPORTS
+http://163.172.85.133:8080/Cricket/3/index.m3u8
 #EXTINF:-1, STAR SPORTS FIRST 1
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
 #EXTINF:-1, STAR SPORTS 
@@ -367,8 +368,6 @@ https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/testing2/playlist.m3u8
 http://163.172.85.133:8080/Cricket/2/index.m3u8
 #EXTINF:-1, WILLOW HD
 http://163.172.85.133:8080/Cricket/3/index.m3u8
-#EXTINF:-1, STAR SPORTS FIRST 1
-http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
 #EXTINF:0, group-title="SPORTS",Sony Ten 1
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/01.m3u8
 #EXTINF:0, group-title="SPORTS",Sony Ten 2
