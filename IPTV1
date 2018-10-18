@@ -86,7 +86,8 @@ http://fastway.ddns.net:6421/fastway/live101/tracks-v1a1/index.m3u8
 #EXTINF:-1, CHARDIKLA TIME TV
 http://cshms4.airtel.tv/wh7f454c46tw2951628978_155934702/PLTV/88888888/224/3221226087/01.m3u8
 #EXTINF:-1, CHARDIKLA TIME TV 
-http://fastway.ddns.net:6421/fastway/live5/tracks-v1a1/index.m3u8
+http://cdn.asianetmobiletvplus.com/channels/chardiklatime_knumgbigutiuosmfxpnxflkddajysnsd/playlist.m3u8
+#EXTINF:-1, CHARDIKLA TIME TV
 #EXTINF:-1, PUNJAB TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
 #EXTINF:-1, AD 24
@@ -171,6 +172,8 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://103.14.127.39:1935/sonymix/sonymix.stream_360p/chunklist_w979348591.m3u8
 #EXTINF:-1, 9X JALWA
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226011/01.m3u8
+#EXTINF:-1, SAHARA ONE
+https://vrz.gigabitcdn.com/secure/JTV/U0FIL2oUkFPTkUX3QQVJBT05F/playlist.m3u8
 #EXTINF:-1, SAHARA ONE
 http://103.14.127.37:1935/saharaone/saharaone.stream_360p/chunklist_w1367885184.m3u8
 #EXTINF:-1, STAR BHARAT 
