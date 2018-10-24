@@ -1,11 +1,4 @@
-#EXTINF:-1, SONY MAX2
-http://125.17.129.14/wh7f454c46tw3470469196_665281243/PLTV/88888888/224/3221225812/02.m3u8
-#EXTINF:-1, SONY MIX
-http://125.17.129.14/wh7f454c46tw1057540217_1708235528/PLTV/88888888/224/3221225816/02.m3u8
-#EXTINF:-1, SONY MAX HD
-http://125.17.129.13/wh7f454c46tw1726864441_279093997/PLTV/88888888/224/3221225776/05.m3u8
-#EXTINF:-1, ENTER 10
-http://125.17.129.9/wh7f454c46tw101888350_1860065810/PLTV/88888888/224/3221226218/02.m3u8
+
 #EXTINF:-1, INDIA TV
 http://103.14.127.39:1935/indiatv/indiatv.stream_360p/playlist.m3u8
 #EXTINF:-1, INDIA NEWS
@@ -205,6 +198,8 @@ http://51.15.5.246:8010/Color/IndiaColrnewsddd/index.m3u8
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, SONY WAH
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/02.m3u8
+#EXTINF:-1, STAR GOLD
+http://150.242.21.2/stargold.m3u8
 #EXTINF:-1, HOUSEFULL ACTION
 https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/Housefull/playlist.m3u8
 #EXTINF:-1, BFLIX MOVIES
@@ -374,7 +369,7 @@ http://163.172.85.133:8080/Cricket/3/index.m3u8
 #EXTINF:-1, STAR SPORTS FIRST 1
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
-http://150.242.21.2/starsportsthree.m3u8?bandwidth=956&playlistlength=25&shift=0
+http://150.242.21.2/starsportsthree.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/testing2/playlist.m3u8
 #EXTINF:-1, WILLOW HD
