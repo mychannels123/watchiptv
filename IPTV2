@@ -125,6 +125,8 @@ http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1, MASTI TV
 http://cdn.samtv.ca/mastitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, MH1
+http://mhonestream.in:1935/mhone/mhonemusic/chunklist.m3u8
+#EXTINF:-1, MH1
 http://125.17.129.12/wh7f454c46tw1877612773_1804643306/PLTV/88888888/224/3221226114/04.m3u8
 #EXTINF:-1, PITAARA TV
 http://125.17.129.14/wh7f454c46tw625809434_1219440973/PLTV/88888888/224/3221226122/04.m3u8
@@ -198,7 +200,7 @@ https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/Housefull/playlist.m3u8
 #EXTINF:-1, BFLIX MOVIES
 https://vrz.gigabitcdn.com/QkZML2oTU9WSUVTX3QSVhNT1ZJRVM/bflix-movies/playlist.m3u8
 #EXTINF:-1, CINE MOVIES
-http://cdn.asianetmobiletvplus.online/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/chunklist.m3u8
+http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
 #EXTINF:-1, UTV MOVIES
 https://ylive31-i.akamaihd.net/hls/live/690889/utvmovies/playlist.m3u8
 #EXTINF:-1, BOLLYWOOD HD
@@ -208,7 +210,7 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259
 #EXTINF:-1, ENTER 10
 http://125.17.129.9/wh7f454c46tw101888350_1860065810/PLTV/88888888/224/3221226218/02.m3u8
 #EXTINF:-1, ENTER 10
-http://cdn.asianetmobiletvplus.online/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
+http://cdn.asianetmobiletvplus.com/channels/bfouryou_tzlqmfbbcgaacuxgfrpqimneunsjzuhe/playlist.m3u8
 #EXTINF:-1, AND TV
 http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
 #EXTINF:-1, AND TV
@@ -244,13 +246,13 @@ http://125.17.129.14/wh7f454c46tw860742880_1592046413/PLTV/88888888/224/32212261
 #EXTINF:-1, B4U MOVIES
 http://103.14.127.37:1935/b4umoviesindia/b4umoviesindia.stream_360p/chunklist_w1781157802.m3u8
 #EXTINF:-1, WOW CINEMA
-http://cdn.asianetmobiletvplus.online/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/playlist.m3u8
+http://cdn.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/playlist.m3u8
 #EXTINF:1, WOW CINEMA
 http://125.17.129.10/wh7f454c46tw288261252_1997237550/PLTV/88888888/224/3221226263/03.m3u8
 #EXTINF:-1, CINEMA TV
 http://103.14.127.37:1935/cinematv/cinematv.stream_360p/chunklist_w1838533965.m3u8
 #EXTINF:-1, CINEMA TV
-http://cdn.asianetmobiletvplus.online/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
+http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
 #EXTINF:-1, CINEMA TV
 http://125.17.129.10/wh7f454c46tw337727457_1837506593/PLTV/88888888/224/3221226386/04.m3u8
 #EXTINF:-1, ZEE ACTION
