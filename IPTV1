@@ -25,6 +25,8 @@ http://103.81.156.115:1935/IPTV/saadapunjab/playlist.m3u8
 http://103.81.156.115:1935/IPTV/saadapunjab/playlist.m3u8
 #EXTINF:-1, TV 84
 http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
+#EXTINF:-1, JASHAN TV
+http://live.wmncdn.net/mwtv/f1cf7bd21ba17d7e65fac82935e07dae.sdp/index.m3u8
 #EXTINF:-1, MANJE TE SPEAKER
 https://vrz.gigabitcdn.com/gL2oRVNQRUFLRVIX3QRVRFU1BFQUtFUg/mtshd/playlist.m3u8
 #EXTINF:-1, RAONUK PUNJAB DI
@@ -177,6 +179,10 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://103.14.127.39:1935/sonymix/sonymix.stream_360p/chunklist_w979348591.m3u8
 #EXTINF:-1, 9X JALWA
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226011/01.m3u8
+#EXTINF:-1, COLORS TV
+http://51.15.5.246:8010/Color/IndiaColrnewsdd/index.m3u8
+#EXTINF:-1, STAR PLUS
+http://51.15.5.246:8010/Str0r/PAlus/index.m3u8
 #EXTINF:-1, SAHARA ONE
 https://vrz.gigabitcdn.com/secure/JTV/U0FIL2oUkFPTkUX3QQVJBT05F/playlist.m3u8
 #EXTINF:-1, SAHARA ONE
@@ -189,8 +195,6 @@ http://103.14.127.37:1935/musicindia/musicindia.stream_360p/chunklist_w984729855
 http://103.199.161.254:80/Content/B4Umusic/Live/Channel(B4Umusic)/Stream(03)/index.m3u8
 #EXTINF:-1, B4U MUSIC
 http://103.14.127.37:1935/b4umusicindia/b4umusicindia.stream_360p/chunklist_w66794027.m3u8
-#EXTINF:-1, JASHAN TV
-http://live.wmncdn.net/mwtv/f1cf7bd21ba17d7e65fac82935e07dae.sdp/index.m3u8
 #EXTM3U
 #EXTINF:-1, RISHTEY TV
 http://103.14.127.39:1935/rishtey/rishtey.stream_360p/chunklist_w563700042.m3u8
