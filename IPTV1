@@ -26,7 +26,7 @@ http://103.81.156.115:1935/IPTV/saadapunjab/playlist.m3u8
 #EXTINF:-1, TV 84
 http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
 #EXTINF:-1, JASHAN TV
-http://live.wmncdn.net/mwtv/f1cf7bd21ba17d7e65fac82935e07dae.sdp/index.m3u8
+http://gmkd57nmrnxo-hls-live.wmncdn.net/1176/mwtv/f1cf7bd21ba17d7e65fac82935e07dae.sdp/tracks-v1a1/index.m3u8
 #EXTINF:-1, MANJE TE SPEAKER
 https://vrz.gigabitcdn.com/gL2oRVNQRUFLRVIX3QRVRFU1BFQUtFUg/mtshd/playlist.m3u8
 #EXTINF:-1, RAONUK PUNJAB DI
