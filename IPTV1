@@ -58,7 +58,7 @@ https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_378_av-p.m3u8
 #EXTINF:-1, PUNJABI TADKA
 http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
 #EXTINF:-1, BULLAND TV
-http://94krv9bxqb6p-hls-live.wmncdn.net/1237/buland/b04de4cdf2ceee6b13f7270be87a23f2.sdp/tracks-v1a1/index.m3u8
+http://103.228.112.96:1935/bulandtv/live/playlist.m3u8
 #EXTINF:-1, HAMDARD TV
 http://cdn.samtv.ca/hamdard/tracks-v1a1/mono.m3u8
 #EXTINF:-1, NVK TV FILMY
@@ -103,8 +103,10 @@ http://cdn.samtv.ca/ptv24/index.m3u8
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 #EXTINF:-1, SARDARI TV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1, VIRSA HITS HD
+http://103.228.112.96:1935/virsa/live/playlist.m3u8
 #EXTINF:-1, VIRSA LIVE
-http://103.228.112.96:1935/virsalivetv/live/playlist.m3u8
+http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8
 #EXTINF:-1, TV PUNJAB
 http://cdn.samtv.ca/tvpunjab/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TORRONTO 360
@@ -151,6 +153,8 @@ http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8
 http://j2ldmzkpqobv-hls-live.wmncdn.net/1168/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/tracks-v1a1/index.m3u8
 #EXTINF:-1, FASTWAY TV
 http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
+#EXTINF:-1, LIFE PUNJABI HD
+http://103.228.112.96:1935/lifepunjabi/live/playlist.m3u8
 #EXTINF:-1, LIFE PUNJABI
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTINF:-1, UTV BINDASS
