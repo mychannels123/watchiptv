@@ -373,6 +373,8 @@ http://31.220.0.82:8081/live/sscric/chunks.m3u8
 http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7540.m3u8
 #EXTINF:-1, SKY SPORTS MAIN EVENT
 http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10708.m3u8
+#EXTINF:-1, SKY SPORTS ARENA
+http://62.210.93.115/live?channelId=121&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 
 #EXTINF:-1, TEN SPORTS
 http://163.172.85.133:8080/Cricket/3/index.m3u8
