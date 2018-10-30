@@ -380,6 +380,8 @@ http://62.210.93.115/live?channelId=121&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 http://163.172.85.133:8080/Cricket/3/index.m3u8
 #EXTINF:-1, STAR SPORTS FIRST 1
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
+#EXTINF:-1, STAR SPORTS 2
+http://live.xx.cdn2.kikflix.com:8081/StarSports2/tracks-v1a1/mono.m3u8?token=35c3589e388b311b47323b5bd1d2a60521398c64-239fb49562d50325d4c6d13e1f638f06-1540893966-1540889166
 #EXTINF:-1, STAR SPORTS HINDI
 http://150.242.21.2/starsportsthree.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
