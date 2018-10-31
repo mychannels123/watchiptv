@@ -11,7 +11,7 @@ http://103.14.127.37:1935/samay/samay.stream_360p/playlist.m3u8
 http://103.14.127.35:1935/ddloksabha/ddloksabha.stream_360p/playlist.m3u8
 #EXTINF:-1, INDIA NEWS PUNJAB
 https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newspunjab_all/chunklist_w1082226080_b1628000.m3u8
-#EXTINF:-1, PRIME ASIA HD
+EXTINF:0, group-title="PUNJABI",PRIME ASIA
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:-1, BEATBOX TV
 http://yourside.live-s.cdn.bitgravity.com/cdn-live/_definst_/yourside/live/BeatBoxTV.smil/playlist.m3u8
@@ -198,12 +198,6 @@ http://103.14.127.37:1935/b4umusicindia/b4umusicindia.stream_360p/chunklist_w667
 #EXTM3U
 #EXTINF:-1, RISHTEY TV
 http://103.14.127.39:1935/rishtey/rishtey.stream_360p/chunklist_w563700042.m3u8
-#EXTINF:-1, STAR PLUS
-http://51.15.5.246:8010/Strr/PAlus/index.m3u8
-#EXTINF:-1, RISHTEY CINEPLEX
-http://hindi.galaxystreamz.xyz:7071/7656/rishtaycineplex/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxOCA5OjEzOjI2IEFNJmhhc2hfdmFsdWU9K25RV3h2WTZVUmRlUS9CKzR2VEdGUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1, COLORS HD
-http://live.xx.cdn2.kikflix.com:8081/ColorsTv/index.m3u8?token=07445c6da6904cf3bac9947cb80bf6a4f6779116-b5b92a38ebd6f26a563f554eac63d6dc-1540895360-1540890560
 #EXTINF:-1, COLORS HD
 http://216.144.250.174/Colors_TV_HD_02/index.m3u8
 #EXTINF:-1, COLORS TV
@@ -384,10 +378,6 @@ http://62.210.93.115/live?channelId=121&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 http://163.172.85.133:8080/Cricket/3/index.m3u8
 #EXTINF:-1, STAR SPORTS FIRST 1
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
-#EXTINF:-1, STAR SPORTS 1HD
-http://live.xx.cdn2.kikflix.com:8081/StarSports1Hindi/tracks-v1a1/mono.m3u8?token=bf27becf39120a6082a1f2b4cddb316f47e60540-1551cb868efba6847657d0ed53ba85ae-1540896051-1540891251
-#EXTINF:-1, STAR SPORTS 2
-http://live.xx.cdn2.kikflix.com:8081/StarSports2/tracks-v1a1/mono.m3u8?token=35c3589e388b311b47323b5bd1d2a60521398c64-239fb49562d50325d4c6d13e1f638f06-1540893966-1540889166
 #EXTINF:-1, STAR SPORTS HINDI
 http://150.242.21.2/starsportsthree.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
@@ -424,7 +414,7 @@ http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/32212
 http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/01.m3u8
 
 #EXTINF:-1, TEZ TV
-https://ind43-lh.akamaihd.net/i/ind43_teznews@595087/master.m3u8
+https://ind43-lh.akamaihd.net/i/ind43_teznews@595087/master.m3u8?hdnea=st=1540970072~exp=1540970672~acl=!*/i/ind43_teznews@595087/*!/payload/yuppTVCom_5_-1_7779ef14e9ad49eb_US_66.96.183.59/*~hmac=632b17a2026d770a4f2a66c98aa5c10a7f20e2f2c10c349d9397a622ae39b914
 
 
 
