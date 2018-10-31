@@ -11,7 +11,7 @@ http://103.14.127.37:1935/samay/samay.stream_360p/playlist.m3u8
 http://103.14.127.35:1935/ddloksabha/ddloksabha.stream_360p/playlist.m3u8
 #EXTINF:-1, INDIA NEWS PUNJAB
 https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newspunjab_all/chunklist_w1082226080_b1628000.m3u8
-#EXTINF:-0, group-title="PUNJABI",PRIME ASIA HD
+#EXTINF:0, group-title="PUNJABI",PRIME ASIA HD
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:-1, BEATBOX TV
 http://yourside.live-s.cdn.bitgravity.com/cdn-live/_definst_/yourside/live/BeatBoxTV.smil/playlist.m3u8
