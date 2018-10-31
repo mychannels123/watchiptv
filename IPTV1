@@ -1,4 +1,5 @@
-
+http://hotstar.live.cdn.jio.com/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1.m3u8
+http://hotstar.live.cdn.jio.com/Star_Sports_Select_HD_2/Star_Sports_Select_HD_2.m3u8
 #EXTINF:-1, INDIA TV
 http://103.14.127.39:1935/indiatv/indiatv.stream_360p/playlist.m3u8
 #EXTINF:-1, INDIA NEWS
