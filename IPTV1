@@ -379,13 +379,16 @@ http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7540.m3u8
 http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10708.m3u8
 #EXTINF:-1, SKY SPORTS ARENA
 http://62.210.93.115/live?channelId=121&uid=4292&deviceMac=00:1a:79:3c:c0:9c
-
+#EXTINF:-1, TEN SPORTS
+http://31.220.0.176:1935/tv/gnwLjSeLqA20180401/chunklist_w400910606_tkaGxzZW5kdGltZT0xNTQxMjQxNzIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9M3BDMEszRjkwcThOS3BkTnFobUY5SFV6MTNyY2QwZjMtOEowY0YwT2Y0ND0=.m3u8
 #EXTINF:-1, TEN SPORTS
 http://163.172.85.133:8080/Cricket/3/index.m3u8
 #EXTINF:-1, STAR SPORTS FIRST 1
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
 http://150.242.21.2/starsportsthree.m3u8
+#EXTINF:-1, STAR SPORTS 1 HD
+http://31.220.1.7:1935/tv/OK9x8VufKK20180321/chunklist_w638186312_tkaGxzZW5kdGltZT0xNTQxMjQyMDIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9TUxyN21VU04xN3ltcHNoaEtOZ0tlQkpzeFdtcnB5WVRlcW4tY1dDMmpnRT0=.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/testing2/playlist.m3u8
 #EXTINF:-1, WILLOW HD
