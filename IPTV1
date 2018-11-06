@@ -387,7 +387,7 @@ http://150.242.21.2/starsportsthree.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/testing2/playlist.m3u8
 #EXTINF:-1, WILLOW HD
-http://access.shared-servers.net:80/live/Nsa4iSMtDO/ykbm86QOky/11233.m3u8
+http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/117.ts?.coms
 #EXTINF:-1, WILLOW HD
 http://163.172.85.133:8080/Cricket/3/index.m3u8
 #EXTINF:0, group-title="SPORTS",Sony Ten 1
