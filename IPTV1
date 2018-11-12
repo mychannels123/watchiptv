@@ -108,7 +108,7 @@ http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 #EXTINF:-1, VIRSA HITS HD
 http://103.228.112.96:1935/virsa/live/playlist.m3u8
 #EXTINF:-1, VIRSA LIVE
-http://live.agmediachandigarh.com/virsaa/c0fd29c1386ee29ab9563a202db9f943.sdp/index.m3u8
+http://skystar.livebox.co.in/virsatvchannelhls/livetv.m3u8
 #EXTINF:-1, TV PUNJAB
 http://cdn.samtv.ca/tvpunjab/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TORRONTO 360
@@ -373,10 +373,8 @@ http://163.172.85.133:8080/Cricket/3/index.m3u8
 http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7538.m3u8
 #EXTINF:-1, SKY SPORTS CRICKET
 http://31.220.0.82:8081/live/sscric/chunks.m3u8
-#EXTINF:-1, SKY SPORTS ACTION
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/7540.m3u8
-#EXTINF:-1, SKY SPORTS MAIN EVENT
-http://feedsrus.info:25461/live/MeDirectCheck/xlgYrXcLZL/10708.m3u8
+#EXTINF:-1, OSN SPORTS HD
+http://51.15.6.67:8080/cr/1/index.m3u8
 #EXTINF:-1, SKY SPORTS ARENA
 http://62.210.93.115/live?channelId=121&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 http://163.172.85.133:8080/Cricket/3/index.m3u8
