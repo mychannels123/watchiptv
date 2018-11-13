@@ -195,17 +195,15 @@ http://103.14.127.37:1935/musicindia/musicindia.stream_360p/chunklist_w984729855
 http://103.199.161.254:80/Content/B4Umusic/Live/Channel(B4Umusic)/Stream(03)/index.m3u8
 #EXTINF:-1, B4U MUSIC
 http://103.14.127.37:1935/b4umusicindia/b4umusicindia.stream_360p/chunklist_w66794027.m3u8
+#EXTINF:-1, B4U MUSIC
+http://mhdtvlive.stream/alpha/airtel.php?c=3221226055&s=125.17.129.15&e=.m3u8
 #EXTM3U
 #EXTINF:-1, RISHTEY TV
 http://103.14.127.39:1935/rishtey/rishtey.stream_360p/chunklist_w563700042.m3u8
-#EXTINF:-1, COLORS HD
-http://216.144.250.174/Colors_TV_HD_02/index.m3u8
-#EXTINF:-1, COLORS TV
-http://51.15.5.246:8010/Color/IndiaColrnewsddd/index.m3u8
 #EXTINF:-1, NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, SONY WAH
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/02.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221226413&s=125.17.129.10&e=.m3u8
 #EXTINF:-1, BBO CLASSIC
 https://ylive32-i.akamaihd.net/hls/live/690730/bboclassic/playlist.m3u8
 #EXTINF:-1, STAR GOLD
@@ -229,17 +227,17 @@ http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjx
 #EXTINF:-1, AND TV
 http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
 #EXTINF:-1, AND TV
-http://cshms3.airtel.tv/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226048/01.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221226048&s=125.17.105.168&e=.m3u8
 #EXTINF:-1, AND TV HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226084/03.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221226084&s=125.17.105.168&e=.m3u8
 #EXTINF:-1, AND TV HD
 http://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
 #EXTINF:-1, AND PICTURES
 https://z5ams.akamaized.net/andpicssd/tracks-v2a1/index.m3u8
 #EXTINF:-1, AND PICTURES
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226049/04.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221226049&s=125.17.105.168&e=.m3u8
 #EXTINF:-1, AND PICTURES HD
-http://rrs.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226203/04.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221226203&s=125.17.105.168&e=.m3u8
 #EXTINF:-1, AND PICTURES HD
 https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
 #EXTINF:-1, ZEE ANMOL CINEMA
@@ -280,8 +278,8 @@ http://mhdtvlive.stream/alpha/airtel.php?c=3221226331&s=125.17.129.8&e=.m3u8
 http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
 http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
-#EXTINF:-1, ZEE CLASSIC
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/1.m3u8
+#EXTINF:-1, ZEE BOLLYWOOD
+http://mhdtvlive.stream/alpha/airtel.php?c=3221226067&s=125.17.129.13&e=.m3u8
 #EXTINF:-1, ZEE TV HD
 http://mhdtvlive.stream/alpha/airtel.php?c=3221225942&s=125.17.129.14&e=.m3u8
 #EXTINF:-1, ZEE TV HD
@@ -366,10 +364,6 @@ http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748
 http://150.242.21.2/starsportsthree.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/testing2/playlist.m3u8
-#EXTINF:-1, WILLOW HD
-http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/117.ts?.coms
-#EXTINF:-1, WILLOW HD
-http://163.172.85.133:8080/Cricket/3/index.m3u8
 #EXTINF:0, group-title="SPORTS",Sony Ten 1
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/01.m3u8
 #EXTINF:0, group-title="SPORTS",Sony Ten 2
