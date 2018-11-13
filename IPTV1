@@ -223,7 +223,7 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodHD/1.m3u8/Level(545259)?sta
 #EXTINF:-1, BOLLYWOOD CLASSIC
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1, ENTER 10
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221226218&s=125.17.105.168&e=.m3u8
 #EXTINF:-1, ENTER 10
 http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
 #EXTINF:-1, AND TV
@@ -261,105 +261,87 @@ http://103.14.127.37:1935/saharafir/saharafir.stream_360p/chunklist_w1290565054.
 #EXTINF:-1, B4U MOVIES
 http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
 #EXTINF:-1, B4U MOVIES
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/1.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221226118&s=125.17.129.14&e=.m3u8
 #EXTINF:-1, B4U MOVIES
 http://103.14.127.37:1935/b4umoviesindia/b4umoviesindia.stream_360p/chunklist_w1781157802.m3u8
 #EXTINF:-1, WOW CINEMA
 http://cdn.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/playlist.m3u8
 #EXTINF:1, WOW CINEMA
-http://mhms9.airtel.tv/wh7f454c46tw2968469580_2008495343/PLTV/88888888/224/3221226263/03.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221226263&s=125.17.129.13&e=.m3u8
 #EXTINF:-1, CINEMA TV
 http://103.14.127.37:1935/cinematv/cinematv.stream_360p/chunklist_w1838533965.m3u8
 #EXTINF:-1, CINEMA TV
 http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
 #EXTINF:-1, CINEMA TV
-http://mhms8.airtel.tv/wh7f454c46tw1547650707_1052100671/PLTV/88888888/224/3221226246/03.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221226246&s=125.17.105.168&e=.m3u8
+#EXTINF:-1, ZEE ACTION
+http://mhdtvlive.stream/alpha/airtel.php?c=3221226331&s=125.17.129.8&e=.m3u8
 #EXTINF:-1, ZEE ACTION
 http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
-#EXTINF:-1, ZEE ACTION
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226331/1.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
 http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CLASSIC
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/1.m3u8
 #EXTINF:-1, ZEE TV HD
-http://188.93.238.184:8000/live/ryan/ryan/267.m3u8
-#EXTINF:-1, ZEE TV HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225942/1.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221225942&s=125.17.129.14&e=.m3u8
 #EXTINF:-1, ZEE TV HD
 http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225878/1.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221225878&s=125.17.129.14&e=.m3u8
 #EXTINF:-1, ZEE TV
 http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
 #EXTINF:-1, Z LIVING USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX HD
-http://cshms2.airtel.tv/wh7f454c46tw1426839479_1338613003/PLTV/88888888/224/3221225776/03.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221225776&s=125.17.129.13&e=.m3u8
 #EXTINF:-1, SONY MAX
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/1.m3u8
 #EXTINF:-1, SONY MAX2
-http://cshms1.airtel.tv/wh7f454c46tw3181837615_1055582630/PLTV/88888888/224/3221225812/03.m3u8
+
 #EXTINF:-1, SONY TV HD
-http://cshms4.airtel.tv/wh7f454c46tw1375599167_1532996093/PLTV/88888888/224/3221225772/1.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221225772&s=125.17.129.13&e=.m3u8
 #EXTINF:-1, SONY TV
-http://188.93.238.184:8000/live/ryan/ryan/269.m3u8
-#EXTINF:-1, SONY TV
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/1.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221225803&s=125.17.129.14&e=.m3u8
 #EXTINF:-1, SONY SAB HD
 http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/1.m3u8
 #EXTINF:-1, SONY SAB
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225825/1.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221225825&s=125.17.129.14&e=.m3u8
+#EXTINF:-1, ZEE CINEMA HD
+http://mhdtvlive.stream/alpha/airtel.php?c=3221226083&s=125.17.129.13&e=.m3u8
 #EXTINF:-1, ZEE CINEMA HD
 https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
-#EXTINF:-1, ZEE CINEMA HD
-http://cshms4.airtel.tv/wh7f454c46tw2908601020_1514856797/PLTV/88888888/224/3221226083/05.m3u8
 #EXTINF:-1, ZEE CINEMA
 https://ylive31-i.akamaihd.net/hls/live/690887/zeecinema/playlist.m3u8
 #EXTINF:-1, ZEE CINEMA
-http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221225935&s=125.17.129.13&e=.m3u8
 #EXTINF:-1, ZEE CINEMA
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225935/1.m3u8
+http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, DD SPORTS
 http://103.14.127.35:1935/ind/ind.stream_360p/playlist.m3u8
 #EXTINF:-1, DD SPORTS
 http://103.14.127.37:1935/match/match.stream_360p/playlist.m3u8
 #EXTINF:0,SONY ESPN SD
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221225805&s=125.17.129.7&e=.m3u8
 #EXTINF:0,SONY ESPN HD
-http://cshms2.airtel.tv/wh7f454c46tw1033387593_346937752/PLTV/88888888/224/3221226076/03.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221226076&s=125.17.129.13&e=.m3u8
 #EXTINF:-1, SONY SIX SD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/1.m3u8
-#EXTINF:0,SONY SIX SD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/index.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221225827&s=125.17.129.16&e=.m3u8
 #EXTINF:-1, SONY SIX HD
-http://cshms2.airtel.tv/wh7f454c46tw1305229559_2056998348/PLTV/88888888/224/3221225780/03.m3u8
-#EXTINF:0,SONY SIX HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
-#EXTINF:-1,TEN 1 SD
+http://mhdtvlive.stream/alpha/airtel.php?c=3221225780&s=125.17.129.13&e=.m3u8
 
 #EXTINF:0, TEN 1 SD
-http://cshms3.airtel.tv/wh7f454c496tw4163224253_611767333/PLTV/88888888/224/3221225931/index.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221225931&s=125.17.129.16&e=.m3u8
 #EXTINF:-1, TEN 1 HD
-http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/03.m3u8
-#EXTINF:0, TEN 1 HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221225875&s=125.17.129.13&e=.m3u8
+
 #EXTINF:-1, TEN 2
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/1.m3u8
-#EXTINF:0, TEN 2 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/index.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221225932&s=125.17.129.14&e=.m3u8
 #EXTINF:-1, TEN 2 HD
-http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/03.m3u8
-#EXTINF:-1, TEN 2 HD
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221226077&s=125.17.129.13&e=.m3u8
 #EXTINF:-1, TEN 3
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/1.m3u8
-#EXTINF:0, TEN 3 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/index.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221225933&s=125.17.129.16&e=.m3u8
 #EXTINF:-1, TEN 3 HD
-http://mhms8.airtel.tv/wh7f454c46tw1915960971_986066483/PLTV/88888888/224/3221226330/03.m3u8
-#EXTINF:0, TEN 3 HD
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221226330&s=125.17.129.7&e=.m3u8
 
 #EXTINF:-1,STAR SPORTS SELECT 1HD
 http://51.15.6.67/star/3/index.m3u8
