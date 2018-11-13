@@ -345,8 +345,12 @@ http://mhdtvlive.stream/alpha/airtel.php?c=3221226330&s=125.17.129.7&e=.m3u8
 http://51.15.6.67/star/3/index.m3u8
 #EXTINF:-1, STAR SPORTS SELECT 2HD
 http://51.15.6.67/star/4/index.m3u8
-#EXTINF:-1, PTV SPORTS
-http://163.172.85.133:8080/Cricket/4/index.m3u8
+#EXTINF:-1, SKY SPORTS HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/18772
+#EXTINF:-1, SKY SPORTS CRICKET
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9128
+#EXTINF:-1, SKY SPORTS CRICKET HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/18771
 #EXTINF:-1, OSN SPORTS CRICKET
 http://163.172.85.133:8080/Cricket/3/index.m3u8
 #EXTINF:-1, SKY SPORTS CRICKET
