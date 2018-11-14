@@ -172,9 +172,11 @@ https://z5ams.akamaized.net/zing/tracks-v2a1/index.m3u8
 #EXTINF:-1, ZING TV
 http://103.14.127.37:1935/zing/zing.stream_360p/chunklist_w1311655443.m3u8
 #EXTINF:-1, MASTI TV
+http://mhdtvlive.stream/alpha/airtel.php?c=3221226021&s=125.17.105.168&e=.m3u8
+#EXTINF:-1, MASTI TV
 http://103.14.127.39:1935/mastii/mastii.stream_360p/chunklist_w70489765.m3u8
 #EXTINF:-1, SONY MIX
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/1.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221225816&s=125.17.129.14&e=.m3u8
 #EXTINF:-1, SONY MIX
 http://103.14.127.39:1935/sonymix/sonymix.stream_360p/chunklist_w979348591.m3u8
 #EXTINF:-1, 9X JALWA
@@ -293,15 +295,15 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX HD
 http://mhdtvlive.stream/alpha/airtel.php?c=3221225776&s=125.17.129.13&e=.m3u8
 #EXTINF:-1, SONY MAX
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/1.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221225811&s=125.17.129.14&e=.m3u8
 #EXTINF:-1, SONY MAX2
-
+http://mhdtvlive.stream/alpha/airtel.php?c=3221225812&s=125.17.129.12&e=.m3u8
 #EXTINF:-1, SONY TV HD
 http://mhdtvlive.stream/alpha/airtel.php?c=3221225772&s=125.17.129.13&e=.m3u8
 #EXTINF:-1, SONY TV
 http://mhdtvlive.stream/alpha/airtel.php?c=3221225803&s=125.17.129.14&e=.m3u8
 #EXTINF:-1, SONY SAB HD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/1.m3u8
+http://mhdtvlive.stream/alpha/airtel.php?c=3221226078&s=125.17.129.13&e=.m3u8
 #EXTINF:-1, SONY SAB
 http://mhdtvlive.stream/alpha/airtel.php?c=3221225825&s=125.17.129.14&e=.m3u8
 #EXTINF:-1, ZEE CINEMA HD
@@ -327,7 +329,7 @@ http://mhdtvlive.stream/alpha/airtel.php?c=3221225827&s=125.17.129.16&e=.m3u8
 #EXTINF:-1, SONY SIX HD
 http://mhdtvlive.stream/alpha/airtel.php?c=3221225780&s=125.17.129.13&e=.m3u8
 
-#EXTINF:0, TEN 1 SD
+#EXTINF:0, TEN 1 
 http://mhdtvlive.stream/alpha/airtel.php?c=3221225931&s=125.17.129.16&e=.m3u8
 #EXTINF:-1, TEN 1 HD
 http://mhdtvlive.stream/alpha/airtel.php?c=3221225875&s=125.17.129.13&e=.m3u8
