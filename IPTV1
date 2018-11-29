@@ -92,7 +92,6 @@ http://fastway.ddns.net:6421/fastway/live101/tracks-v1a1/index.m3u8
 http://liveradio.lapunjabiradio.com:8081/live/chardiklatimetv/chunks.m3u8
 #EXTINF:-1, CHARDIKLA TIME TV 
 http://cdn.asianetmobiletvplus.com/channels/chardiklatime_knumgbigutiuosmfxpnxflkddajysnsd/playlist.m3u8
-#EXTINF:-1, CHARDIKLA TIME TV
 #EXTINF:-1, PUNJAB TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
 #EXTINF:-1, AD 24
@@ -123,6 +122,8 @@ http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 http://cdn25.live247stream.com/steelbirdmusic/tv/steelbirdmusic/stream1/chunks.m3u8
 #EXTINF:-1, PUNJABI ZINDABAAD
 http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, WAH PUNJABI
+http://live.agmediachandigarh.com/wahpunjabi/45f5bff56a47f9ebb68595aac72db8b0.sdp/index.m3u8
 #EXTINF:-1, WAH PUNJABI
 http://cdn.samtv.ca/wahpunjabi/index.m3u8
 #EXTINF:-1, GO PUNJABI HD
