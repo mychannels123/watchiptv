@@ -171,7 +171,7 @@ https://vrz.gigabitcdn.com/secure/JTV/U1RBL2oVVRTQVYX3QUlVUU0FW/playlist.m3u8
 #EXTINF:-1, STAR TV
 http://103.14.127.37:1935/starutsav/starutsav.stream_360p/chunklist_w764760373.m3u8
 #EXTINF:-1, MANORANJAN TV
-http://cdn.asianetmobiletvplus.online/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmvieiaysg/chunklist.m3u8
+http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmvieiaysg/playlist.m3u8
 #EXTINF:-1, ZING TV
 https://z5ams.akamaized.net/zing/tracks-v2a1/index.m3u8
 #EXTINF:-1, ZING TV
@@ -217,6 +217,8 @@ https://ylive32-i.akamaihd.net/hls/live/690730/bboclassic/playlist.m3u8
 http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1912
 #EXTINF:-1, STAR GOLD
 http://150.242.21.2/stargold.m3u8
+#EXTINF:-1, HOUSEFULL ACTION
+http://103.14.127.35:1935/rishteycineplex/rishteycineplex.stream_360p/playlist.m3u8
 #EXTINF:-1, HOUSEFULL ACTION
 https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/Housefull/playlist.m3u8
 #EXTINF:-1, BFLIX MOVIES
