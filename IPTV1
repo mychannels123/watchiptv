@@ -1,6 +1,10 @@
 
 #EXTINF:-1, INDIA TV
 http://103.14.127.39:1935/indiatv/indiatv.stream_360p/playlist.m3u8
+#EXTINF:-1, DELHI AAJ TAK
+https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live2/chunks.
+https://vidcdn.vidgyor.com/tez-origin/liveabr/tez-origin/live1/chunks.m3u8
+#EXTINF:-1, TEZ
 #EXTINF:-1, INDIA NEWS
 http://103.14.127.35:1935/ddrajyasabha/ddrajyasabha.stream_360p/playlist.m3u8
 #EXTINF:-1, NEWS 24
@@ -213,10 +217,6 @@ http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 http://mhdtvlive.stream/alpha/airtel.php?c=3221226413&s=125.17.129.10&e=.m3u8
 #EXTINF:-1, BBO CLASSIC
 https://ylive32-i.akamaihd.net/hls/live/690730/bboclassic/playlist.m3u8
-#EXTINF:-1, STAR GOLD SELECT
-http://formen1.com:8080/live/hdiptv74/7400/16989.m3u8
-#EXTINF:-1, STAR GOLD
-http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1912
 #EXTINF:-1, STAR GOLD
 http://150.242.21.2/stargold.m3u8
 #EXTINF:-1, HOUSEFULL ACTION
@@ -253,7 +253,7 @@ http://mhdtvlive.stream/alpha/airtel.php?c=3221226049&s=125.17.105.168&e=.m3u8
 http://mhdtvlive.stream/alpha/airtel.php?c=3221226203&s=125.17.105.168&e=.m3u8
 #EXTINF:-1, AND PICTURES HD
 https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
-#EXTINF:-1, ZEE ANMOL CINEMA
+#EXTINF:-1, MULTIPLEX
 http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w381295327.m3u8
 #EXTINF:-1, ZEE ANMOL CINEMA
 https://z5ams.akamaized.net/zanmolcnm/tracks-v1a1/index.m3u8
@@ -353,28 +353,12 @@ http://mhdtvlive.stream/alpha/airtel.php?c=3221226077&s=125.17.129.13&e=.m3u8
 http://mhdtvlive.stream/alpha/airtel.php?c=3221225933&s=125.17.129.16&e=.m3u8
 #EXTINF:-1, TEN 3 HD
 http://mhdtvlive.stream/alpha/airtel.php?c=3221226330&s=125.17.129.7&e=.m3u8
-#EXTINF:-1, WILLOW HD
-http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1873
-#EXTINF:-1, PTV SPORTS
-http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1884
-#EXTINF:-1, TEN SPORTS
-http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1867
-#EXTINF:-1, OSN SPORTS HD
-http://51.15.6.67:8080/cr/1/index.m3u8
 #EXTINF:-1, SKY SPORTS ARENA
 http://62.210.93.115/live?channelId=121&uid=4292&deviceMac=00:1a:79:3c:c0:9c
 #EXTINF:-1, STAR SPORTS FIRST 1
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
-#EXTINF:-1, STAR SPORTS
-http://formen1.com:8080/live/hdiptv74/7400/16970.m3u8
-#EXTINF:-1, STAR SPORTS 2
-http://formen1.com:8080/live/hdiptv74/7400/16991.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
 http://150.242.21.2/starsportsthree.m3u8
-#EXTINF:-1, STAR SPORTS 1HD HINDI
-http://formen1.com:8080/live/hdiptv74/7400/16990.m3u8
-#EXTINF:-1, STAR SPORTS 1HD
-http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1881
 #EXTINF:-1, STAR SPORTS 1 HD
 https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/testing2/playlist.m3u8
 #EXTINF:0, group-title="SPORTS",Sony Ten 1
