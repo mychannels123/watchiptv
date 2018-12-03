@@ -260,6 +260,8 @@ http://mhdtvlive.stream/alpha/airtel.php?c=3221226203&s=125.17.105.168&e=.m3u8
 #EXTINF:-1, AND PICTURES HD
 https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
 #EXTINF:-1, MULTIPLEX
+https://57a1b3b8b4855.streamlock.net/live/multiplex_webA.sdp/chunklist_w285812016.m3u8?token=9250672164
+#EXTINF:-1, MULTIPLEX
 http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w381295327.m3u8
 #EXTINF:-1, ZEE ANMOL CINEMA
 https://z5ams.akamaized.net/zanmolcnm/tracks-v1a1/index.m3u8
