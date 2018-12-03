@@ -17,6 +17,8 @@ http://103.14.127.37:1935/samay/samay.stream_360p/playlist.m3u8
 http://103.14.127.35:1935/ddloksabha/ddloksabha.stream_360p/playlist.m3u8
 #EXTINF:-1, INDIA NEWS PUNJAB
 https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newspunjab_all/chunklist_w1082226080_b1628000.m3u8
+#EXTINF:-1, PUNJABI
+http://cdn.samtv.ca/akaarworldpunjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1, PRIME ASIA HD
 http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 #EXTINF:-1, BEATBOX TV
@@ -182,6 +184,8 @@ http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmv
 https://z5ams.akamaized.net/zing/tracks-v2a1/index.m3u8
 #EXTINF:-1, ZING TV
 http://103.14.127.37:1935/zing/zing.stream_360p/chunklist_w1311655443.m3u8
+#EXTINF:-1, MASTI TV
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD254L480P/chunklist_b150000.m3u8
 #EXTINF:-1, MASTI TV
 http://mhdtvlive.stream/alpha/airtel.php?c=3221226021&s=125.17.105.168&e=.m3u8
 #EXTINF:-1, MASTI TV
