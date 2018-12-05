@@ -225,8 +225,8 @@ http://103.14.127.39:1935/rishtey/rishtey.stream_360p/chunklist_w563700042.m3u8
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, SONY WAH
 http://mhdtvlive.stream/alpha/airtel.php?c=3221226413&s=125.17.129.10&e=.m3u8
-#EXTINF:-1, BBO CLASSIC
-https://ylive32-i.akamaihd.net/hls/live/690730/bboclassic/playlist.m3u8
+#EXTINF:-1, STAR GOLD
+http://163.172.86.59:3135/Pak/T35t/index.m3u8?http://163.172.86.57:3135/NZ/pakS6/index.m3u8?http://hls3-criclngif.cdnvideo.ru/LiveApp/streams/cricingif.m3u8
 #EXTINF:-1, STAR GOLD
 http://150.242.21.2/stargold.m3u8
 #EXTINF:-1, HOUSEFULL ACTION
@@ -371,6 +371,8 @@ http://mhdtvlive.stream/alpha/airtel.php?c=3221225933&s=125.17.129.16&e=.m3u8
 http://mhdtvlive.stream/alpha/airtel.php?c=3221226330&s=125.17.129.7&e=.m3u8
 #EXTINF:-1, SKY SPORTS ARENA
 http://62.210.93.115/live?channelId=121&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1, PTV SPORTS
+http://163.172.86.59:3135/toPTV/HD/index.m3u8
 #EXTINF:-1, STAR SPORTS FIRST 1
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
