@@ -189,11 +189,9 @@ https://z5ams.akamaized.net/zing/tracks-v2a1/index.m3u8
 #EXTINF:-1, ZING TV
 http://103.14.127.37:1935/zing/zing.stream_360p/chunklist_w1311655443.m3u8
 #EXTINF:-1, MASTI TV
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD254L480P/chunklist_b150000.m3u8
-#EXTINF:-1, MASTI TV
 http://mhdtvlive.stream/alpha/airtel.php?c=3221226021&s=125.17.105.168&e=.m3u8
 #EXTINF:-1, MASTI TV
-http://103.14.127.39:1935/mastii/mastii.stream_360p/chunklist_w70489765.m3u8
+http://103.14.127.37:1935/mastiii/mastiii.stream_360p/playlist.m3u8
 #EXTINF:-1, MUSIC INDIA
 https://akamaimidrol.akamaized.net/amagi_hls_data_yupptvAAA-mob-musicindia/CDN/384x216_320798/index.m3u8
 #EXTINF:-1, WOW MUSIC
