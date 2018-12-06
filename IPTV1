@@ -1,6 +1,8 @@
 
 #EXTINF:-1, INDIA TV
 http://103.14.127.39:1935/indiatv/indiatv.stream_360p/playlist.m3u8
+#EXTINF:-1, NEWS INDIA
+http://103.14.127.37:1935/musiczone/musiczone.stream_360p/playlist.m3u8
 #EXTINF:-1, INDIA NEWS
 https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/chunklist_w2030209424_b1628000.m3u8
 #EXTINF:-1, INDIA NEWS
@@ -56,7 +58,7 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD348L720P
 #EXTINF:-1, SHAN PUNJABI TV
 https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/shan-punjabi/playlist.m3u8
 #EXTINF:-1, PTC CHAKDE
-http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1943
+http://103.14.127.37:1935/ptcchakde/ptcchakde.stream_360p/playlist.m3u8
 #EXTINF:-1, PTC CHAKDE
 https://vrz.gigabitcdn.com/secure/JTV/UFRDL2oSEFLREUX3QQ0hBS0RF/playlist.m3u8
 #EXTINF:-1, PTC CHAKDE
@@ -71,6 +73,8 @@ https://vrz.gigabitcdn.com/secure/JTV/UFRDUFUL2oUFVOSkFCSQX3QTkpBQkk/playlist.m3
 http://50.7.198.170:8081/PB/PTCPUNJABI/playlist.m3u8
 #EXTINF:-1, JUS PUNJABI
 http://50.7.198.170:8081/PB/JUSONE/playlist.m3u8
+#EXTINF:-1, BALLE BALLE 
+http://103.14.127.37:1935/balleballe/balleballe.stream_360p/playlist.m3u8
 #EXTINF:-1, BALLE BALLE
 http://162.244.80.206:1935/balleballe/Live/chunklist_w769795482.m3u8
 #EXTINF:1, POP PATAKA
