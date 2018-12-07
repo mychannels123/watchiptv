@@ -71,8 +71,8 @@ https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist
 https://vrz.gigabitcdn.com/secure/JTV/UFRDUFUL2oUFVOSkFCSQX3QTkpBQkk/playlist.m3u8
 #EXTINF:-1, PTC PUNJABI
 http://50.7.198.170:8081/PB/PTCPUNJABI/playlist.m3u8
-#EXTINF:-1, JUS PUNJABI
-http://50.7.198.170:8081/PB/JUSONE/playlist.m3u8
+#EXTINF:-1, JUS PUNJABI HD
+https://hlsengnews-lh.akamaihd.net/i/ams18_jus247@92090/index_200_av-p.m3u8?sd=10&dw=10080&b=100-2500&rebase=on&hdntl=exp=1544240452~acl=!*%2fi%2fams18_jus247%4092090%2f*!%2fpayload%2fyupptvnewservice_5_-1_na_IN_101.53.145.181%2f*~data=hdntl~hmac=bc994cbd0ba909058d3827d1410ca152d02553a84b5c56fba20d923b74a14954
 #EXTINF:-1, BALLE BALLE 
 http://103.14.127.37:1935/balleballe/balleballe.stream_360p/playlist.m3u8
 #EXTINF:-1, BALLE BALLE
