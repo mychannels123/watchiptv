@@ -111,6 +111,8 @@ http://lzyr7zo8dvw2-hls-live.wmncdn.net/1164/cinevoice/508a8ec9dfdb9c61df9823aac
 #EXTINF:-1, SHAN PUNJABI TV 
 http://fastway.ddns.net:6421/fastway/live101/tracks-v1a1/index.m3u8
 #EXTINF:-1, CHARDIKLA TIME TV
+http://digi1.nexg.tv/livewap/chardikalatime-w.smil/chunklist_w15707094_b328000_t64TFEgVmlkZW8=.m3u8
+#EXTINF:-1, CHARDIKLA TIME TV
 http://liveradio.lapunjabiradio.com:8081/live/chardiklatimetv/chunks.m3u8
 #EXTINF:-1, CHARDIKLA TIME TV 
 http://cdn.asianetmobiletvplus.com/channels/chardiklatime_knumgbigutiuosmfxpnxflkddajysnsd/playlist.m3u8
@@ -156,6 +158,8 @@ http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1, MASTI TV
 http://cdn.samtv.ca/mastitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, MH1
+http://digi1.nexg.tv/livewap/mh1-w.smil/chunklist_w26988576_b328000_t64TFEgVmlkZW8=.m3u8
 #EXTINF:-1, MH1
 http://125.17.129.12/wh7f454c46tw1877612773_1804643306/PLTV/88888888/224/3221226114/04.m3u8
 #EXTINF:-1, MH1
@@ -303,6 +307,8 @@ http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
 http://mhdtvlive.stream/alpha/airtel.php?c=3221226118&s=125.17.129.14&e=.m3u8
 #EXTINF:-1, B4U MOVIES
 http://103.14.127.35:1935/b4umoviesindia/b4umoviesindia.stream_360p/playlist.m3u8
+#EXTINF:-1, WOW CINEMA
+http://digi1.nexg.tv/livewap/waocinema-w.smil/chunklist_w89024655_b328000_t64TFEgVmlkZW8=.m3u8
 #EXTINF:-1, WOW CINEMA
 http://cdn.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/playlist.m3u8
 #EXTINF:1, WOW CINEMA
