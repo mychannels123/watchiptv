@@ -111,6 +111,8 @@ http://lzyr7zo8dvw2-hls-live.wmncdn.net/1164/cinevoice/508a8ec9dfdb9c61df9823aac
 #EXTINF:-1, SHAN PUNJABI TV 
 http://fastway.ddns.net:6421/fastway/live101/tracks-v1a1/index.m3u8
 #EXTINF:-1, CHARDIKLA TIME TV
+http://fastway.ddns.net:6421/fastway/live5/tracks-v1a1/mono.m3u8?token=fastwaytvstreams
+#EXTINF:-1, CHARDIKLA TIME TV
 http://liveradio.lapunjabiradio.com:8081/live/chardiklatimetv/chunks.m3u8
 #EXTINF:-1, CHARDIKLA TIME TV 
 http://cdn.asianetmobiletvplus.com/channels/chardiklatime_knumgbigutiuosmfxpnxflkddajysnsd/playlist.m3u8
