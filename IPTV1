@@ -392,6 +392,10 @@ http://mhdtvlive.stream/alpha/airtel.php?c=3221225933&s=125.17.129.16&e=.m3u8
 http://mhdtvlive.stream/alpha/airtel.php?c=3221226330&s=125.17.129.7&e=.m3u8
 #EXTINF:-1, SKY SPORTS ARENA
 http://62.210.93.115/live?channelId=121&uid=4292&deviceMac=00:1a:79:3c:c0:9c
+#EXTINF:-1, BT SPORT 2 HD
+https://stream.wicket.pw/app/sonysixhd.m3u8
+#EXTINF:-1, WILLOW HD
+https://stream.wicket.pw/app/willowhd.m3u8
 #EXTINF:-1, WILLOW HD
 http://flu.topeuserver.com:8080/LOLO/3/index.m3u8
 #EXTINF:-1, PTV SPORTS
