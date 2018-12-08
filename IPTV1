@@ -59,6 +59,8 @@ http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD348L720P/chunklist_b700000.m3u8
 #EXTINF:-1, SHAN PUNJABI TV
 https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/shan-punjabi/playlist.m3u8
+#EXTINF:-1, RTV PUNJABI
+http://stream.rtvpunjabi.com/rtvpunjabi.m3u8
 #EXTINF:-1, PTC CHAKDE
 http://103.14.127.37:1935/ptcchakde/ptcchakde.stream_360p/playlist.m3u8
 #EXTINF:-1, PTC CHAKDE
