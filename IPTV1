@@ -156,6 +156,8 @@ http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1, MASTI TV
 http://cdn.samtv.ca/mastitv/tracks-v1a1/mono.m3u8
+#EXTINF: MH1
+http://103.14.127.37:1935/mh1music/mh1music.stream_360p/playlist.m3u8
 #EXTINF:-1, MH1
 http://125.17.129.12/wh7f454c46tw1877612773_1804643306/PLTV/88888888/224/3221226114/04.m3u8
 #EXTINF:-1, MH1
@@ -189,6 +191,8 @@ https://vrz.gigabitcdn.com/secure/JTV/U1RBL2oVVRTQVYX3QUlVUU0FW/playlist.m3u8
 #EXTINF:-1, STAR TV
 http://103.14.127.37:1935/starutsav/starutsav.stream_360p/chunklist_w764760373.m3u8
 #EXTINF:-1, MANORANJAN TV
+http://103.14.127.39:1935/manoranjan/manoranjan.stream_360p/playlist.m3u8
+#EXTINF:-1, MANORANJAN TV
 http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmvieiaysg/playlist.m3u8
 #EXTINF:-1, ZING TV
 https://z5ams.akamaized.net/zing/tracks-v2a1/index.m3u8
@@ -200,6 +204,8 @@ http://mhdtvlive.stream/alpha/airtel.php?c=3221226021&s=125.17.105.168&e=.m3u8
 http://103.14.127.37:1935/mastiii/mastiii.stream_360p/playlist.m3u8
 #EXTINF:-1, MUSIC INDIA
 https://akamaimidrol.akamaized.net/amagi_hls_data_yupptvAAA-mob-musicindia/CDN/384x216_320798/index.m3u8
+#EXTINF:-1, WOW MUSIC
+http://103.14.127.39:1935/wow/wow.stream_360p/playlist.m3u8
 #EXTINF:-1, WOW MUSIC
 http://209.58.160.177/wowouthls/live_240p.m3u8
 #EXTINF:-1, ISHQ TV
@@ -219,7 +225,7 @@ http://51.15.5.246:8010/Str0r/PAlus/index.m3u8
 #EXTINF:-1, SAHARA ONE
 https://vrz.gigabitcdn.com/secure/JTV/U0FIL2oUkFPTkUX3QQVJBT05F/playlist.m3u8
 #EXTINF:-1, SAHARA ONE
-http://103.14.127.37:1935/saharaone/saharaone.stream_360p/chunklist_w1367885184.m3u8
+http://103.14.127.39:1935/saharaone/saharaone.stream_360p/playlist.m3u8
 #EXTINF:-1, STAR BHARAT 
 http://103.14.127.39:1935/starbharat/starbharat.stream_360p/chunklist_w517288949.m3u8
 #EXTINF:-1, MUSIC INDIA
@@ -245,6 +251,8 @@ http://150.242.21.2/stargold.m3u8
 http://103.14.127.35:1935/rishteycineplex/rishteycineplex.stream_360p/playlist.m3u8
 #EXTINF:-1, HOUSEFULL ACTION
 https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/Housefull/playlist.m3u8
+#EXTINF:-1, BFLIX MOVIES
+http://103.14.127.39:1935/bflixmovies/bflixmovies.stream_360p/playlist.m3u8
 #EXTINF:-1, BFLIX MOVIES
 https://vrz.gigabitcdn.com/QkZML2oTU9WSUVTX3QSVhNT1ZJRVM/bflix-movies/playlist.m3u8
 #EXTINF:-1, CINE MOVIES
