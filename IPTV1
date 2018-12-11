@@ -386,10 +386,10 @@ http://mhdtvlive.stream/alpha/airtel.php?c=3221226076&s=125.17.129.13&e=.m3u8
 #EXTINF:-1, SONY SIX SD
 http://mhdtvlive.stream/alpha/airtel.php?c=3221225827&s=125.17.129.16&e=.m3u8
 #EXTINF:-1, SONY SIX HD
-http://mhdtvlive.stream/alpha/airtel.php?c=3221225780&s=125.17.129.13&e=.m3u8
+http://163.172.86.59:3135/sONY/6sICHD/index.m3u8
 
 #EXTINF:0, TEN 1 
-http://mhdtvlive.stream/alpha/airtel.php?c=3221225931&s=125.17.129.16&e=.m3u8
+http://163.172.86.59:3135/tEN/1sPOHd/index.m3u8
 #EXTINF:-1, TEN 1 HD
 http://mhdtvlive.stream/alpha/airtel.php?c=3221225875&s=125.17.129.13&e=.m3u8
 #EXTINF:-1, TEN 2
@@ -402,14 +402,24 @@ http://mhdtvlive.stream/alpha/airtel.php?c=3221226077&s=125.17.129.13&e=.m3u8
 http://mhdtvlive.stream/alpha/airtel.php?c=3221225933&s=125.17.129.16&e=.m3u8
 #EXTINF:-1, TEN 3 HD
 http://mhdtvlive.stream/alpha/airtel.php?c=3221226330&s=125.17.129.7&e=.m3u8
+#EXTINF:-1, GTV HD
+http://163.172.86.57:3135/2G/tv/index.m3u8
+#EXTINF:-1, TEN CRICKET
+http://163.172.86.59:3135/tEN/3SpOSd/index.m3u8
 #EXTINF:-1, TEN CRICKET
 http://163.172.86.57:3135/Ten/3/index.m3u8
 #EXTINF:-1, TEN SPORTS
-http://mag.homeip.net:8080/live/muharrem/123456/15531.m3u8
+http://163.172.86.57:3135/Ten/Sport/index.m3u8
+#EXTINF:-1, SKY SPORTS HD MIX
+http://163.172.211.93:8081/Sky/Mix/index.m3u8
 #EXTINF:-1, SKY SPORTS
 https://stream.wicket.pw/app/skysportshd.m3u8
+#EXTINF:-1, OSN SPORTS HD CRICKET
+http://163.172.86.59:3135/osn/Cr/index.m3u8
 #EXTINF:-1, BT SPORT 2 HD
 https://stream.wicket.pw/app/sonysixhd.m3u8
+#EXTINF:-1, FOX CRICKET
+http://163.172.86.59:3135/Fox/AUSI/index.m3u8
 #EXTINF:-1, WILLOW HD
 https://stream.wicket.pw/app/willowhd.m3u8
 #EXTINF:-1, WILLOW HD
@@ -420,6 +430,8 @@ http://163.172.86.59:3135/vPTV/SPORTS/index.m3u8
 http://163.172.86.59:3135/toPTV/HD/index.m3u8
 #EXTINF:-1, STAR SPORTS FIRST 1
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
+#EXTINF:-1, STAR SPORTS 1
+http://163.172.211.93:8081/1Star/S1/index.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
 http://150.242.21.2/starsportsthree.m3u8
 #EXTINF:-1, STAR SPORTS
