@@ -163,7 +163,7 @@ http://103.228.112.96:1935/masti/live/playlist.m3u8
 #EXTINF:-1, MH1
 http://103.14.127.37:1935/mh1music/mh1music.stream_360p/playlist.m3u8
 #EXTINF:-1, MH1
-http://125.17.129.12/wh7f454c46tw1877612773_1804643306/PLTV/88888888/224/3221226114/04.m3u8
+http://163.172.86.59:3135/MH1/Music/index.m3u8
 #EXTINF:-1, MH1
 http://mhonestream.in:1935/mhone/mhonemusic/chunklist.m3u8
 #EXTINF:-1, PITAARA TV
@@ -212,6 +212,8 @@ https://akamaimidrol.akamaized.net/amagi_hls_data_yupptvAAA-mob-musicindia/CDN/3
 http://103.14.127.39:1935/wow/wow.stream_360p/playlist.m3u8
 #EXTINF:-1, WOW MUSIC
 http://209.58.160.177/wowouthls/live_240p.m3u8
+#EXTINF:-1, WOW MUSIC
+http://163.172.86.59:3135/Wow/Music/index.m3u8
 #EXTINF:-1, ISHQ TV
 http://209.58.164.155/WOWhls/wowlive.m3u8
 #EXTINF:-1, MTV BEATS HD
@@ -227,7 +229,7 @@ http://103.14.127.37:1935/9xjhalwa/9xjhalwa.stream_360p/playlist.m3u8
 #EXTINF:-1, COLORS HD
 https://redflixtv.online/jazz/jasmine.php?c=Colors_HD&q=800&e=.m3u8
 #EXTINF:-1, STAR PLUS HD
-http://mag.homeip.net:8080/live/muharrem/123456/15597.m3u8
+http://163.172.86.59:3135/Star/plusHD/index.m3u8
 #EXTINF:-1, STAR PLUS
 http://51.15.5.246:8010/Str0r/PAlus/index.m3u8
 #EXTINF:-1, SAHARA ONE
@@ -254,7 +256,7 @@ http://mhdtvlive.stream/alpha/airtel.php?c=3221226413&s=125.17.129.10&e=.m3u8
 #EXTINF:-1, STAR GOLD HD
 http://mag.homeip.net:8080/live/muharrem/123456/15450.m3u8
 #EXTINF:-1, STAR GOLD
-http://163.172.86.59:3135/Pak/T35t/index.m3u8?http://163.172.86.57:3135/NZ/pakS6/index.m3u8?http://hls3-criclngif.cdnvideo.ru/LiveApp/streams/cricingif.m3u8
+http://163.172.86.59:3135/Star/Gold/index.m3u8
 #EXTINF:-1, STAR GOLD
 http://150.242.21.2/stargold.m3u8
 #EXTINF:-1, HOUSEFULL ACTION
@@ -412,6 +414,8 @@ https://stream.wicket.pw/app/sonysixhd.m3u8
 https://stream.wicket.pw/app/willowhd.m3u8
 #EXTINF:-1, WILLOW HD
 http://flu.topeuserver.com:8080/LOLO/3/index.m3u8
+#EXTINF:-1, PTV SPORTS
+http://163.172.86.59:3135/vPTV/SPORTS/index.m3u8
 #EXTINF:-1, PTV SPORTS
 http://163.172.86.59:3135/toPTV/HD/index.m3u8
 #EXTINF:-1, STAR SPORTS FIRST 1
