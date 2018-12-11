@@ -58,6 +58,8 @@ http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:-1, ONLY MUSIC
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/amlst:sweetbcha1novD348L720P/chunklist_b700000.m3u8
 #EXTINF:-1, SHAN PUNJABI TV
+http://103.228.112.96:1935/shan/live/playlist.m3u8
+#EXTINF:-1, SHAN PUNJABI TV
 https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/shan-punjabi/playlist.m3u8
 #EXTINF:-1, RTV PUNJABI
 http://stream.rtvpunjabi.com/rtvpunjabi.m3u8
@@ -157,7 +159,7 @@ http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:-1, GUBRU TV
 http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:-1, MASTI TV
-http://cdn.samtv.ca/mastitv/tracks-v1a1/mono.m3u8
+http://103.228.112.96:1935/masti/live/playlist.m3u8
 #EXTINF:-1, MH1
 http://103.14.127.37:1935/mh1music/mh1music.stream_360p/playlist.m3u8
 #EXTINF:-1, MH1
