@@ -369,7 +369,8 @@ http://163.172.86.59:3135/sONY/3sPnHd/index.m3u8
 http://mhdtvlive.stream/alpha/airtel.php?c=3221225827&s=125.17.129.16&e=.m3u8
 #EXTINF:-1, SONY SIX HD
 http://163.172.86.59:3135/sONY/6sICHD/index.m3u8
-
+#EXTINF:-1, SONY SIX HD
+http://163.172.86.57:3135/Jio/Cricket/index.m3u8
 #EXTINF:0, TEN 1 
 http://163.172.86.59:3135/tEN/1sPOHd/index.m3u8
 #EXTINF:-1, TEN 1 HD
