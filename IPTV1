@@ -261,7 +261,7 @@ http://163.172.86.59:3135/Star/Gold/index.m3u8
 http://150.242.21.2/stargold.m3u8
 #EXTINF:-1, HOUSEFULL ACTION
 http://103.14.127.35:1935/rishteycineplex/rishteycineplex.stream_360p/playlist.m3u8
-#EXTINF:-1, HOUSEFULL ACTION
+#EXTINF:-1,  HOUSEFULL MOVIES
 https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/Housefull/playlist.m3u8
 #EXTINF:-1, BFLIX MOVIES
 http://103.14.127.39:1935/bflixmovies/bflixmovies.stream_360p/playlist.m3u8
@@ -329,22 +329,12 @@ http://mhdtvlive.stream/alpha/airtel.php?c=3221226263&s=125.17.129.13&e=.m3u8
 https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/chunklist.m3u8
 #EXTINF:-1, CINEMA TV
 http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
-#EXTINF:-1, CINEMA TV
-http://mhdtvlive.stream/alpha/airtel.php?c=3221226246&s=125.17.105.168&e=.m3u8
-#EXTINF:-1, ZEE ACTION
-http://mhdtvlive.stream/alpha/airtel.php?c=3221226331&s=125.17.129.8&e=.m3u8
 #EXTINF:-1, ZEE ACTION
 http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
 http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
-#EXTINF:-1, ZEE BOLLYWOOD
-http://mhdtvlive.stream/alpha/airtel.php?c=3221226067&s=125.17.129.13&e=.m3u8
-#EXTINF:-1, ZEE TV HD
-http://mhdtvlive.stream/alpha/airtel.php?c=3221225942&s=125.17.129.14&e=.m3u8
 #EXTINF:-1, ZEE TV HD
 http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
-#EXTINF:-1, ZEE TV
-http://mhdtvlive.stream/alpha/airtel.php?c=3221225878&s=125.17.129.14&e=.m3u8
 #EXTINF:-1, ZEE TV
 http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
 #EXTINF:-1, Z LIVING USA
@@ -359,18 +349,8 @@ http://mhdtvlive.stream/alpha/airtel.php?c=3221225812&s=125.17.129.12&e=.m3u8
 http://mhdtvlive.stream/alpha/airtel.php?c=3221225772&s=125.17.129.13&e=.m3u8
 #EXTINF:-1, SONY TV
 http://mhdtvlive.stream/alpha/airtel.php?c=3221225803&s=125.17.129.14&e=.m3u8
-#EXTINF:-1, SONY SAB HD
-http://mhdtvlive.stream/alpha/airtel.php?c=3221226078&s=125.17.129.13&e=.m3u8
-#EXTINF:-1, SONY SAB
-http://mhdtvlive.stream/alpha/airtel.php?c=3221225825&s=125.17.129.14&e=.m3u8
-#EXTINF:-1, ZEE CINEMA HD
-http://mhdtvlive.stream/alpha/airtel.php?c=3221226083&s=125.17.129.13&e=.m3u8
 #EXTINF:-1, ZEE CINEMA HD
 https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
-#EXTINF:-1, ZEE CINEMA
-https://ylive31-i.akamaihd.net/hls/live/690887/zeecinema/playlist.m3u8
-#EXTINF:-1, ZEE CINEMA
-http://mhdtvlive.stream/alpha/airtel.php?c=3221225935&s=125.17.129.13&e=.m3u8
 #EXTINF:-1, ZEE CINEMA
 http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, DD SPORTS
@@ -438,40 +418,14 @@ http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748
 http://163.172.211.93:8081/1Star/S1/index.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
 http://150.242.21.2/starsportsthree.m3u8
-#EXTINF:-1, STAR SPORTS
-http://mag.homeip.net:8080/live/muharrem/123456/15472.m3u8
+#EXTINF:-1, STAR SPORTS 2 HD
+http://139.59.87.155/StarSports2HD/index.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
-http://mag.homeip.net:8080/live/muharrem/123456/15471.m3u8
+http://139.59.87.155:80/StarSports1HD/index.m3u8
 #EXTINF:0, group-title="SPORTS",Sony Ten 1
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/01.m3u8
-#EXTINF:0, group-title="SPORTS",Sony Ten 2
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/01.m3u8
-#EXTINF:0, group-title="SPORTS",Sony Ten 3
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/01.m3u8
-#EXTINF:0, group-title="Sports 1",DD Sports
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/01.m3u8
-#EXTINF:0, group-title="Sports 1",D Sport
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226392/1.m3u8
-#EXTINF:0, group-title="Sports 1",D Sports HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8
-#EXTINF:0, group-title="Sports 1",Neo Prime
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8
-#EXTINF:0, group-title="Sports 1",Neo Sports
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8
-#EXTINF:0, group-title="Sports 1",NHK World
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226408/index.m3u8
-#EXTINF:0, group-title="Sports 1",Sony ESPN
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225805/01.m3u8
-#EXTINF:0, group-title="Sports 1",Sony ESPN HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/01.m3u8
-#EXTINF:0, group-title="Sports 1",Sony Six
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/01.m3u8
-#EXTINF:0, group-title="Sports 1",Sony Six HD
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/01.m3u8
-#EXTINF:-1, STAR SPORTS 1
-http://thoptv.strangled.net/api/allium/chunks.m3u8?url=http://cshms4.airtel.tv/PLTV/88888888/224/3221225776/05.m3u8
 
 
 
