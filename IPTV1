@@ -254,9 +254,7 @@ http://103.14.127.39:1935/rishtey/rishtey.stream_360p/chunklist_w563700042.m3u8
 #EXTINF:-1, NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, SONY WAH
-http://mhdtvlive.stream/alpha/airtel.php?c=3221226413&s=125.17.129.10&e=.m3u8
-#EXTINF:-1, STAR GOLD HD
-http://13.126.249.45/india/proxy.php?https://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000_471172.ts
+http://india.thoptv.rocks/allium/chunks.php?url=http://mhms8.airtel.tv/PLTV/88888888/224/3221226413/04.m3u8
 #EXTINF:-1, STAR GOLD
 http://163.172.86.59:3135/Star/Gold/index.m3u8
 #EXTINF:-1, STAR GOLD
@@ -282,23 +280,23 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodHD/1.m3u8/Level(545259)?sta
 #EXTINF:-1, BOLLYWOOD CLASSIC
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1, ENTER 10
-http://mhdtvlive.stream/alpha/airtel.php?c=3221226218&s=125.17.105.168&e=.m3u8
+http://india.thoptv.rocks/allium/chunks.php?url=http://mhms9.airtel.tv/PLTV/88888888/224/3221226218/02.m3u8
 #EXTINF:-1, ENTER 10
 http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
 #EXTINF:-1, AND TV
 http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
 #EXTINF:-1, AND TV
-http://mhdtvlive.stream/alpha/airtel.php?c=3221226048&s=125.17.105.168&e=.m3u8
+http://india.thoptv.rocks/allium/chunks.php?url=http://cshms3.airtel.tv/PLTV/88888888/224/3221226048/04.m3u8
 #EXTINF:-1, AND TV HD
-http://mhdtvlive.stream/alpha/airtel.php?c=3221226084&s=125.17.105.168&e=.m3u8
+http://india.thoptv.rocks/allium/chunks.php?url=http://cshms2.airtel.tv/PLTV/88888888/224/3221226084/05.m3u8
 #EXTINF:-1, AND TV HD
 http://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
 #EXTINF:-1, AND PICTURES
 https://z5ams.akamaized.net/andpicssd/tracks-v2a1/index.m3u8
 #EXTINF:-1, AND PICTURES
-http://mhdtvlive.stream/alpha/airtel.php?c=3221226049&s=125.17.105.168&e=.m3u8
+http://india.thoptv.rocks/allium/chunks.php?url=http://cshms3.airtel.tv/PLTV/88888888/224/3221226049/04.m3u8
 #EXTINF:-1, AND PICTURES HD
-http://mhdtvlive.stream/alpha/airtel.php?c=3221226203&s=125.17.105.168&e=.m3u8
+http://india.thoptv.rocks/allium/chunks.php?url=http://mhms7.airtel.tv/PLTV/88888888/224/3221226203/04.m3u8
 #EXTINF:-1, AND PICTURES HD
 https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
 #EXTINF:-1, MULTIPLEX
@@ -320,13 +318,13 @@ http://103.14.127.35:1935/saharafir/saharafir.stream_360p/playlist.m3u8
 #EXTINF:-1, B4U MOVIES
 http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
 #EXTINF:-1, B4U MOVIES
-http://mhdtvlive.stream/alpha/airtel.php?c=3221226118&s=125.17.129.14&e=.m3u8
+http://india.thoptv.rocks/allium/chunks.php?url=http://cshms1.airtel.tv/PLTV/88888888/224/3221226118/04.m3u8
 #EXTINF:-1, B4U MOVIES
 http://103.14.127.35:1935/b4umoviesindia/b4umoviesindia.stream_360p/playlist.m3u8
 #EXTINF:-1, WOW CINEMA
 http://cdn.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/playlist.m3u8
 #EXTINF:1, WOW CINEMA
-http://mhdtvlive.stream/alpha/airtel.php?c=3221226263&s=125.17.129.13&e=.m3u8
+http://india.thoptv.rocks/allium/chunks.php?url=http://mhms9.airtel.tv/PLTV/88888888/224/3221226263/04.m3u8
 #EXTINF:-1, CINEMA TV
 https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/chunklist.m3u8
 #EXTINF:-1, CINEMA TV
