@@ -342,15 +342,15 @@ http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
 #EXTINF:-1, Z LIVING USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX HD
-http://mhdtvlive.stream/alpha/airtel.php?c=3221225776&s=125.17.129.13&e=.m3u8
+http://india.thoptv.rocks/allium/chunks.php?url=http://cshms4.airtel.tv/PLTV/88888888/224/3221225776/05.m3u8
 #EXTINF:-1, SONY MAX
-http://mhdtvlive.stream/alpha/airtel.php?c=3221225811&s=125.17.129.14&e=.m3u8
+http://india.thoptv.rocks/allium/chunks.php?url=http://cshms1.airtel.tv/PLTV/88888888/224/3221225811/04.m3u8
 #EXTINF:-1, SONY MAX2
-http://mhdtvlive.stream/alpha/airtel.php?c=3221225812&s=125.17.129.12&e=.m3u8
+http://india.thoptv.rocks/allium/chunks.php?url=http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/04.m3u8
 #EXTINF:-1, SONY TV HD
-http://mhdtvlive.stream/alpha/airtel.php?c=3221225772&s=125.17.129.13&e=.m3u8
+http://india.thoptv.rocks/allium/chunks.php?url=http://cshms2.airtel.tv/PLTV/88888888/224/3221225772/04.m3u8
 #EXTINF:-1, SONY TV
-http://mhdtvlive.stream/alpha/airtel.php?c=3221225803&s=125.17.129.14&e=.m3u8
+http://india.thoptv.rocks/allium/chunks.php?url=http://cshms3.airtel.tv/PLTV/88888888/224/3221225803/04.m3u8
 #EXTINF:-1, ZEE CINEMA HD
 https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA
