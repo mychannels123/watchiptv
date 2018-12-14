@@ -407,6 +407,8 @@ http://163.172.86.59:3135/Fox/AUSI/index.m3u8
 https://stream.wicket.pw/app/willowhd.m3u8
 #EXTINF:-1, WILLOW HD
 http://flu.topeuserver.com:8080/LOLO/3/index.m3u8
+#EXTINF:-1, WILLOW HD
+http://185.93.1.79:8080/edge/18980/tracks-v1a1/mono.m3u8?token=25.1.36036.7c536d82012ce7c421315e5571540a1e.1.1.1.921.0.0.23992dc52d256002e227b7ef4a2caca0
 #EXTINF:-1, PTV SPORTS
 http://163.172.86.59:3135/vPTV/SPORTS/index.m3u8
 #EXTINF:-1, PTV SPORTS
