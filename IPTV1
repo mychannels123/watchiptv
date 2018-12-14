@@ -326,11 +326,13 @@ http://cdn.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsql
 #EXTINF:1, WOW CINEMA
 http://india.thoptv.rocks/allium/chunks.php?url=http://mhms9.airtel.tv/PLTV/88888888/224/3221226263/04.m3u8
 #EXTINF:-1, CINEMA TV
-https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/chunklist.m3u8
+http://india.thoptv.rocks/allium/chunks.php?url=http://mhms9.airtel.tv/PLTV/88888888/224/3221226386/04.m3u8
 #EXTINF:-1, CINEMA TV
 http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
 #EXTINF:-1, ZEE ACTION
 http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
+#EXTINF:-1, ZEE BOLLYWOOD
+http://india.thoptv.rocks/allium/chunks.php?url=http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/04.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
 http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE TV HD
@@ -358,7 +360,9 @@ http://103.14.127.35:1935/ind/ind.stream_360p/playlist.m3u8
 #EXTINF:-1, DD SPORTS
 http://103.14.127.37:1935/match/match.stream_360p/playlist.m3u8
 #EXTINF:0,SONY ESPN SD
-http://mhdtvlive.stream/alpha/airtel.php?c=3221225805&s=125.17.129.7&e=.m3u8
+http://india.thoptv.rocks/allium/chunks.php?url=http://mhms6.airtel.tv/PLTV/88888888/224/3221225805/04.m3u8
+#EXTINF:-1, SONY ESPN HD
+http://india.thoptv.rocks/allium/chunks.php?url=http://cshms2.airtel.tv/PLTV/88888888/224/3221226076/05.m3u8
 #EXTINF:-1, SONY ESPN HD
 https://stream.wicket.pw/app/sonyespnhd.m3u8
 #EXTINF:0,SONY ESPN HD
@@ -409,8 +413,6 @@ http://163.172.86.59:3135/Fox/AUSI/index.m3u8
 https://stream.wicket.pw/app/willowhd.m3u8
 #EXTINF:-1, WILLOW HD
 http://flu.topeuserver.com:8080/LOLO/3/index.m3u8
-#EXTINF:-1, WILLOW HD
-http://185.93.1.79:8080/edge/18980/tracks-v1a1/mono.m3u8?token=25.1.36036.7c536d82012ce7c421315e5571540a1e.1.1.1.921.0.0.23992dc52d256002e227b7ef4a2caca0
 #EXTINF:-1, PTV SPORTS
 http://163.172.86.59:3135/vPTV/SPORTS/index.m3u8
 #EXTINF:-1, PTV SPORTS
