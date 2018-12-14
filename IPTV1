@@ -256,7 +256,7 @@ http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, SONY WAH
 http://mhdtvlive.stream/alpha/airtel.php?c=3221226413&s=125.17.129.10&e=.m3u8
 #EXTINF:-1, STAR GOLD HD
-http://mag.homeip.net:8080/live/muharrem/123456/15450.m3u8
+http://13.126.249.45/india/proxy.php?https://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000_471172.ts
 #EXTINF:-1, STAR GOLD
 http://163.172.86.59:3135/Star/Gold/index.m3u8
 #EXTINF:-1, STAR GOLD
