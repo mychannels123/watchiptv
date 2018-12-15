@@ -226,6 +226,8 @@ http://mhdtvlive.stream/alpha/airtel.php?c=3221225816&s=125.17.129.14&e=.m3u8
 http://103.14.127.39:1935/sonymix/sonymix.stream_360p/chunklist_w979348591.m3u8
 #EXTINF:-1, 9X JALWA
 http://103.14.127.37:1935/9xjhalwa/9xjhalwa.stream_360p/playlist.m3u8
+#EXTINF:-1, COLORS TV
+http://163.172.86.59:3135/Color/tv/index.m3u8
 #EXTINF:-1, COLORS HD
 https://redflixtv.online/jazz/jasmine.php?c=Colors_HD&q=800&e=.m3u8
 #EXTINF:-1, STAR PLUS HD
@@ -247,7 +249,7 @@ http://103.199.161.254:80/Content/B4Umusic/Live/Channel(B4Umusic)/Stream(03)/ind
 #EXTINF:-1, B4U MUSIC
 http://103.14.127.37:1935/b4umusicindia/b4umusicindia.stream_360p/chunklist_w66794027.m3u8
 #EXTINF:-1, B4U MUSIC
-http://mhdtvlive.stream/alpha/airtel.php?c=3221226055&s=125.17.129.15&e=.m3u8
+http://163.172.86.59:3135/B4u/Music/index.m3u8
 #EXTM3U
 #EXTINF:-1, RISHTEY TV
 http://103.14.127.39:1935/rishtey/rishtey.stream_360p/chunklist_w563700042.m3u8
@@ -255,6 +257,8 @@ http://103.14.127.39:1935/rishtey/rishtey.stream_360p/chunklist_w563700042.m3u8
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, SONY WAH
 http://india.thoptv.rocks/allium/chunks.php?url=http://mhms8.airtel.tv/PLTV/88888888/224/3221226413/04.m3u8
+#EXTINF:-1, STAR GOLD HD
+https://redflixtv.online/api/proxy.php?https://staragold-i.akamaihd.net/hls/live/569910/staragold/master_2000_14288.ts
 #EXTINF:-1, STAR GOLD
 http://163.172.86.59:3135/Star/Gold/index.m3u8
 #EXTINF:-1, STAR GOLD
@@ -375,6 +379,8 @@ http://india.thoptv.rocks/allium/chunks.php?url=http://cshms3.airtel.tv/PLTV/888
 http://163.172.86.59:3135/sONY/6sICHD/index.m3u8
 #EXTINF:-1, SONY SIX HD
 http://163.172.86.57:3135/Jio/Cricket/index.m3u8
+#EXTINF:-1, SONY TEN
+http://flu1.podzone.net:9091/En/Sl/index.m3u8
 #EXTINF:-1, TEN 1
 http://india.thoptv.rocks/allium/chunks.php?url=http://mhms9.airtel.tv/PLTV/88888888/224/3221225931/04.m3u8
 #EXTINF:0, TEN 1 
