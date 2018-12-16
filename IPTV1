@@ -382,21 +382,22 @@ http://163.172.86.57:3135/Jio/Cricket/index.m3u8
 #EXTINF:-1, SONY TEN
 http://flu1.podzone.net:9091/En/Sl/index.m3u8
 #EXTINF:-1, TEN 1
-http://india.thoptv.rocks/allium/chunks.php?url=http://mhms9.airtel.tv/PLTV/88888888/224/3221225931/04.m3u8
+http://srilankatv.online/airtel/at.php?id=http://mhms9.airtel.tv/PLTV/88888888/224/3221225931/03.m3u8
 #EXTINF:0, TEN 1 
 http://163.172.86.59:3135/tEN/1sPOHd/index.m3u8
 #EXTINF:-1, TEN 1 HD
-http://india.thoptv.rocks/allium/chunks.php?url=http://cshms3.airtel.tv/PLTV/88888888/224/3221225875/04.m3u8
+http://srilankatv.online/airtel/at.php?id=http://cshms2.airtel.tv/PLTV/88888888/224/3221225875/03.m3u8
 #EXTINF:-1, TEN 2
 http://hls3-criclngif.cdnvideo.ru/LiveApp/streams/cricingif.m3u8
 #EXTINF:-1, TEN 2
-http://india.thoptv.rocks/allium/chunks.php?url=http://mhms9.airtel.tv/PLTV/88888888/224/3221225932/04.m3u8
+http://srilankatv.online/airtel/at.php?id=http://mhms9.airtel.tv/PLTV/88888888/224/3221225932/03.m3u8
 #EXTINF:-1, TEN 2 HD
-http://india.thoptv.rocks/allium/chunks.php?url=http://cshms3.airtel.tv/PLTV/88888888/224/3221226077/05.m3u8
-#EXTINF:-1, TEN 3
-http://mhdtvlive.stream/alpha/airtel.php?c=3221225933&s=125.17.129.16&e=.m3u8
+http://srilankatv.online/airtel/at.php?id=http://cshms1.airtel.tv/PLTV/88888888/224/3221226077/03.m3u8
 #EXTINF:-1, TEN 3 HD
-http://allium4.thoptv.rocks/play.php?url=http://mhms8.airtel.tv/PLTV/88888888/224/3221226330/1544927256-1-386231814.hls.ts&key=TNMTU0NDkyNzI1Ng==
+http://srilankatv.online/airtel/at.php?id=http://cshms3.airtel.tv/PLTV/88888888/224/3221225780/03.m3u8
+
+#EXTINF:-1, TEN 3 HD
+http://srilankatv.online/airtel/at.php?id=http://mhms8.airtel.tv/PLTV/88888888/224/3221226330/03.m3u8
 #EXTINF:-1, GTV HD
 http://163.172.86.57:3135/2G/tv/index.m3u8
 #EXTINF:-1, TEN CRICKET
