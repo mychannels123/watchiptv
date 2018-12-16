@@ -227,7 +227,7 @@ http://103.14.127.37:1935/9xjhalwa/9xjhalwa.stream_360p/playlist.m3u8
 #EXTINF:-1, COLORS TV
 http://163.172.86.59:3135/Color/tv/index.m3u8
 #EXTINF:-1, COLORS HD
-http://13.126.249.45/live/jasmine.php?c=Colors_HD&q=800&e=.m3u8
+http://13.126.249.45/live/jasmine.php?c=Colors_HD&q=400&e=.m3u8
 #EXTINF:-1, STAR PLUS HD
 http://163.172.86.59:3135/Star/plusHD/index.m3u8
 #EXTINF:-1, STAR PLUS
@@ -282,7 +282,7 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodHD/1.m3u8/Level(545259)?sta
 #EXTINF:-1, BOLLYWOOD CLASSIC
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1, ENTER 10
-http://india.thoptv.rocks/allium/chunks.php?url=http://mhms9.airtel.tv/PLTV/88888888/224/3221226218/02.m3u8
+http://13.126.249.45/live/jasmine.php?c=Colors_HD&q=400&e=.m3u8
 #EXTINF:-1, ENTER 10
 http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
 #EXTINF:-1, AND TV
