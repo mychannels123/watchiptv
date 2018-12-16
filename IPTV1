@@ -311,6 +311,8 @@ https://z5ams.akamaized.net/zanmolcnm/tracks-v1a1/index.m3u8
 http://d2y6ekwadkc8z7.cloudfront.net/multitvcdn/smil:MovieHouse.smil/chunklist_b164000_sleng.m3u8
 #EXTINF:-1, MOVIES HOUSE
 http://d2y6ekwadkc8z7.cloudfront.net/multitvcdn/smil:MovieHouse.smil/playlist.m3u8
+#EXTINF:-1, RISHTEY CINEPLEX
+http://13.126.249.45/live/jasmine.php?c=Rishtey_Cineplex&q=1200&e=.m3u8
 #EXTINF:-1, STAR UTSUV MOVIES
 http://103.14.127.35:1935/starutsav/starutsav.stream_360p/playlist.m3u8
 #EXTINF:-1, MAHA MOVIES
@@ -350,7 +352,7 @@ http://india.thoptv.rocks/allium/chunks.php?url=http://cshms4.airtel.tv/PLTV/888
 #EXTINF:-1, SONY MAX
 http://india.thoptv.rocks/allium/chunks.php?url=http://cshms1.airtel.tv/PLTV/88888888/224/3221225811/04.m3u8
 #EXTINF:-1, SONY MAX2
-http://india.thoptv.rocks/allium/chunks.php?url=http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/04.m3u8
+http://13.126.249.45/live/jasmine.php?c=Sony_MAX2&q=400&e=.m3u8
 #EXTINF:-1, SONY TV HD
 http://india.thoptv.rocks/allium/chunks.php?url=http://cshms2.airtel.tv/PLTV/88888888/224/3221225772/04.m3u8
 #EXTINF:-1, SONY TV
