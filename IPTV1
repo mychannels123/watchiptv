@@ -396,7 +396,7 @@ http://india.thoptv.rocks/allium/chunks.php?url=http://cshms3.airtel.tv/PLTV/888
 #EXTINF:-1, TEN 3
 http://mhdtvlive.stream/alpha/airtel.php?c=3221225933&s=125.17.129.16&e=.m3u8
 #EXTINF:-1, TEN 3 HD
-http://india.thoptv.rocks/allium/chunks.php?url=http://mhms8.airtel.tv/PLTV/88888888/224/3221226330/04.m3u8
+http://india.thoptv.rocks/allium/chunks.php?url=http://mhms8.airtel.tv/PLTV/88888888/224/3221226330/04.m3u8&key=thMTU0NDkyNzMyOQ==
 #EXTINF:-1, GTV HD
 http://163.172.86.57:3135/2G/tv/index.m3u8
 #EXTINF:-1, TEN CRICKET
