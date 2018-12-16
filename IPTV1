@@ -441,8 +441,8 @@ https://stream.wicket.pw/app/starsports1hd.m3u8
 http://139.59.87.155:80/StarSports1HD/index.m3u8
 #EXTINF:0, group-title="SPORTS",Sony Ten 1
 http://india.thoptv.rocks/allium/play.php?url=http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/index.m3u8
+http://india.thoptv.rocks/allium/chunks.php?url=http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/03.m3u8&key=eaMTU0NDk2NjA4OA==
 
-http://thoptv.strangled.net/api/allium/play.m3u8?channel=http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/index.m3u8
 
 
 
