@@ -263,8 +263,8 @@ http://103.14.127.39:1935/bflixmovies/bflixmovies.stream_360p/playlist.m3u8
 https://vrz.gigabitcdn.com/QkZML2oTU9WSUVTX3QSVhNT1ZJRVM/bflix-movies/playlist.m3u8
 #EXTINF:-1, CINE MOVIES
 http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
-#EXTINF:-1, UTV MOVIES
-https://ylive31-i.akamaihd.net/hls/live/690889/utvmovies/playlist.m3u8
+#EXTINF:-1, BBO MOVIES
+https://msluscen1s.akamaized.net/hls/live/2000127/bbomsl/bbo_300/chunklist.m3u8
 #EXTINF:-1, CLASSIC HINDI
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhincla.stream_all/chunklist_w1902359197_b1296000.m3u8
 #EXTINF:-1, PREMIUM HINDI
@@ -323,8 +323,10 @@ http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
 http://srilankatv.online/airtel/at.php?id=http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/04.m3u8
-
-
+#EXTINF:-1, SONY MAX HD
+http://srilankatv.online/airtel/at.php?id=http://cshms4.airtel.tv/PLTV/88888888/224/3221225776/03.m3u8
+#EXTINF:-1, SONY TV HD
+http://srilankatv.online/airtel/at.php?id=http://cshms2.airtel.tv/PLTV/88888888/224/3221225772/03.m3u8
 #EXTINF:-1, ZEE CINEMA HD
 https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA
