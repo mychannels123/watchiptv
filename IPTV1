@@ -1,6 +1,6 @@
 
 #EXTINF:-1, INDIA TV
-http://103.14.127.39:1935/indiatv/indiatv.stream_360p/playlist.m3u8
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
 #EXTINF:-1, JANTA TV
 http://284rnk9kr7xv-hls-live.wmncdn.net/jantatv/live.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1, NEWS INDIA
