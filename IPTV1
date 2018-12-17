@@ -98,9 +98,9 @@ http://50.7.198.170:8081/PB/BRITASIA/playlist.m3u8
 #EXTINF:-1, ANKHILA PUNJAB
 http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
 #EXTINF:-1, 9X TASHAN
-https://msluk4s.akamaized.net/hls/live/2000136/9xtashanmsl/9xtashan_2000/chunklist.m3u8?hdntl=exp=1544094426~acl=/*~data=hdntl~hmac=b78a48852784756cd92e053a02b36fca8e9e956c1fb940fc5606135de076376e
+https://msluk4s.akamaized.net/hls/live/2000136/9xtashanmsl/9xtashan_2000/chunklist.m3u8
 #EXTINF:-1, 9X TASHAN
-http://125.17.129.12/wh7f454c46tw3360797827_746081361/PLTV/88888888/224/3221226017/04.m3u8
+https://msluk4s.akamaized.net/hls/live/2000136/9xtashanmsl/9xtashan_2000/chunklist.m3u8?hdntl=exp=1544094426~acl=/*~data=hdntl~hmac=b78a48852784756cd92e053a02b36fca8e9e956c1fb940fc5606135de076376e
 #EXTINF:-1, CHAKDE TV
 http://streamer3.ultapulta.com:7050/
 #EXTINF:-1, JHANJAR MUSIC
