@@ -321,7 +321,9 @@ http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
 #EXTINF:-1, Z LIVING USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1, SONY TV
+#EXTINF:-1, SONY MAX 2
+http://srilankatv.online/airtel/at.php?id=http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/04.m3u8
+
 
 #EXTINF:-1, ZEE CINEMA HD
 https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
@@ -331,6 +333,8 @@ http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 http://103.14.127.35:1935/ind/ind.stream_360p/playlist.m3u8
 #EXTINF:-1, DD SPORTS
 http://103.14.127.37:1935/match/match.stream_360p/playlist.m3u8
+#EXTINF:-1, SONY ESPN SD
+
 #EXTINF:-1, SONY ESPN HD
 https://stream.wicket.pw/app/sonyespnhd.m3u8
 #EXTINF:0,SONY ESPN HD
@@ -360,7 +364,7 @@ http://srilankatv.online/airtel/at.php?id=http://mhms9.airtel.tv/PLTV/88888888/2
 #EXTINF:-1, TEN 2 HD
 http://srilankatv.online/airtel/at.php?id=http://cshms1.airtel.tv/PLTV/88888888/224/3221226077/03.m3u8
 #EXTINF:-1, TEN 3
-
+http://srilankatv.online/airtel/at.php?id=http://mhms6.airtel.tv/PLTV/88888888/224/3221225805/03.m3u8
 #EXTINF:-1, TEN 3 HD
 http://srilankatv.online/airtel/at.php?id=http://mhms8.airtel.tv/PLTV/88888888/224/3221226330/03.m3u8
 #EXTINF:-1, GTV HD
@@ -381,6 +385,10 @@ https://stream.wicket.pw/app/skysportshd.m3u8
 http://flu.topeuserver.com:8080/LOLO/1/index.m3u8
 #EXTINF:-1, OSN SPORTS HD CRICKET
 http://163.172.86.59:3135/osn/Cr/index.m3u8
+#EXTINF:-1, 7 HD
+http://163.172.86.57:3135/indaus/Fox/index.m3u8
+#EXTINF:-1,E BT SPORT 1
+http://163.172.86.59:3135/INDtyu/aus/index.m3u8
 #EXTINF:-1, BT SPORT 2 HD
 https://stream.wicket.pw/app/sonysixhd.m3u8
 #EXTINF:-1, FOX CRICKET
@@ -416,8 +424,7 @@ https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 http://139.59.87.155:80/StarSports1HD/index.m3u8
 #EXTINF:0, group-title="SPORTS",Sony Ten 1
-http://srilankatv.online/airtel/at.php?id=http://mhms6.airtel.tv/PLTV/88888888/224/3221225805/03.m3u8
-http://srilankatv.online/airtel/at.php?id=http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/04.m3u8
+
 
 
 
