@@ -321,7 +321,7 @@ http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
 #EXTINF:-1, Z LIVING USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1, SONY MAX 2
+#EXTINF:-1, SONY MAX2
 http://srilankatv.online/airtel/at.php?id=http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/04.m3u8
 
 
@@ -387,7 +387,7 @@ http://flu.topeuserver.com:8080/LOLO/1/index.m3u8
 http://163.172.86.59:3135/osn/Cr/index.m3u8
 #EXTINF:-1, 7 HD
 http://163.172.86.57:3135/indaus/Fox/index.m3u8
-#EXTINF:-1,E BT SPORT 1
+#EXTINF:-1, BT SPORT 1
 http://163.172.86.59:3135/INDtyu/aus/index.m3u8
 #EXTINF:-1, BT SPORT 2 HD
 https://stream.wicket.pw/app/sonysixhd.m3u8
