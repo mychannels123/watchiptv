@@ -68,7 +68,7 @@ http://103.14.127.37:1935/ptcchakde/ptcchakde.stream_360p/playlist.m3u8
 #EXTINF:-1, PTC CHAKDE
 https://vrz.gigabitcdn.com/secure/JTV/UFRDL2oSEFLREUX3QQ0hBS0RF/playlist.m3u8
 #EXTINF:-1, PTC NEWS
-https://vrz.gigabitcdn.com/secure/JTV/UFQL2oTkVXUwX3QQ05FV1M/playlist.m3u8
+https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist.m3u8
 #EXTINF:-1, PTC NEWS
 https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist.m3u8?hdntl=exp=1544087271~acl=/*~data=hdntl~hmac=9d948b08f521a29e40e7cae073772c9dc54308c5661b62cd232e4e7b9d291fe9
 #EXTINF:-1, PTC PUNJABI
