@@ -331,10 +331,8 @@ http://srilankatv.online/airtel/at.php?id=http://cshms2.airtel.tv/PLTV/88888888/
 https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA
 http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
-#EXTINF:-1, DD SPORTS
-http://103.14.127.35:1935/ind/ind.stream_360p/playlist.m3u8
-#EXTINF:-1, DD SPORTS
-http://103.14.127.37:1935/match/match.stream_360p/playlist.m3u8
+#EXTINF:-1, D SPORTS
+https://ind20-lh.akamaihd.net/i/ind20_dsport@623048/index_1800_av-p.m3u8?sd=10&dw=7200&b=100-2500&rebase=on&hdntl=exp=1545219112~acl=!*%2fi%2find20_dsport%40623048%2f*!%2fpayload%2fyupptvnewservice_5_-1_na_IN_101.53.145.181%2f*~data=hdntl~hmac=f1f8d0f77a9d6ccc46c75a5294c4f9d21fe4495ef3450a74abc34a83777f39e2
 #EXTINF:-1, SONY ESPN SD
 
 #EXTINF:-1, SONY ESPN HD
