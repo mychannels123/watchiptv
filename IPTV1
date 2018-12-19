@@ -276,7 +276,7 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodHD/1.m3u8/Level(545259)?sta
 #EXTINF:-1, BOLLYWOOD CLASSIC
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1, ENTER 10
-http://13.127.205.24/thoptv/jasmine.php?c=Enterr_10&q=600&e=.m3u8
+http://srilankatv.online/airtel/at.php?id=http://mhms9.airtel.tv/PLTV/88888888/224/3221226218/02.m3u8
 #EXTINF:-1, ENTER 10
 http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
 #EXTINF:-1, AND TV
@@ -314,7 +314,7 @@ http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatc
 #EXTINF:-1, ZEE ACTION
 http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
-http://13.127.205.24/thoptv/jasmine.php?c=Zee_Classic&q=600&e=.m3u8
+http://srilankatv.online/airtel/at.php?id=http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/04.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
 http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE TV HD
