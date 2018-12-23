@@ -212,6 +212,8 @@ http://209.58.164.155/WOWhls/wowlive.m3u8
 http://srilankatv.online/airtel/at.php?id=http://cshms1.airtel.tv/PLTV/88888888/224/3221225816/04.m3u8
 #EXTINF:-1, 9X JALWA
 http://103.14.127.37:1935/9xjhalwa/9xjhalwa.stream_360p/playlist.m3u8
+#EXTINF:-1, COLORS HD
+http://35.154.113.152/jasmine.php?c=Colors_HD&q=800&e=.m3u8
 #EXTINF:-1, COLORS TV
 http://163.172.86.59:3135/Color/tv/index.m3u8
 #EXTINF:-1, STAR PLUS HD
