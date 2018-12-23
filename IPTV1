@@ -322,7 +322,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, SET MAX
 http://srilankatv.online/airtel/at.php?id=http://cshms1.airtel.tv/PLTV/88888888/224/3221225811/04.m3u8
 #EXTINF:-1, SONY MAX2
-http://35.154.113.152/jasmine.php?c=Sony_MAX2&q=400&e=.m3u8
+http://35.154.113.152/jasmine.php?c=Sony_MAX2&q=800&e=.m3u8
 #EXTINF:-1, SONY MAX HD
 http://35.154.113.152/jasmine.php?c=Sony_Max_HD&q=600&e=.m3u8
 #EXTINF:-1, SONY TV HD
