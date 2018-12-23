@@ -326,7 +326,7 @@ http://srilankatv.online/airtel/at.php?id=http://cshms3.airtel.tv/PLTV/88888888/
 #EXTINF:-1, SONY MAX HD
 http://srilankatv.online/airtel/at.php?id=http://cshms4.airtel.tv/PLTV/88888888/224/3221225776/03.m3u8
 #EXTINF:-1, SONY TV HD
-http://srilankatv.online/airtel/at.php?id=http://cshms2.airtel.tv/PLTV/88888888/224/3221225772/03.m3u8
+http://35.154.113.152/jasmine.php?c=Sony_HD&q=800&e=.m3u8
 #EXTINF:-1, ZEE CINEMA HD
 https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA
