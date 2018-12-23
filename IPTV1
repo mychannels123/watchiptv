@@ -339,12 +339,8 @@ https://ind20-lh.akamaihd.net/i/ind20_dsport@623048/index_1800_av-p.m3u8?sd=10&d
 https://stream.wicket.pw/app/sonyespnhd.m3u8
 #EXTINF:0,SONY ESPN HD
 http://163.172.86.59:3135/sONY/3sPnHd/index.m3u8
-#EXTINF:-1, SONY SIX SD
-http://srilankatv.online/airtel/at.php?id=http://cshms2.airtel.tv/PLTV/88888888/224/3221225827/01.m3u8
 #EXTINF:-1, SONY SIX HD
-http://srilankatv.online/airtel/at.php?id=http://cshms2.airtel.tv/PLTV/88888888/224/3221225780/01.m3u8
-#EXTINF:-1, SONY SIX HD
-http://srilankatv.online/airtel/at.php?id=http://cshms2.airtel.tv/PLTV/88888888/224/3221225780/03.m3u8
+http://163.172.218.205:8081/Six/HD/index.m3u8
 #EXTINF:-1, SONY SIX HD
 http://163.172.86.59:3135/sONY/6sICHD/index.m3u8
 #EXTINF:-1, SONY SIX HD
@@ -352,23 +348,21 @@ http://163.172.86.57:3135/Jio/Cricket/index.m3u8
 #EXTINF:-1, SONY TEN
 http://flu1.podzone.net:9091/En/Sl/index.m3u8
 #EXTINF:-1, TEN 1
-http://srilankatv.online/airtel/at.php?id=http://mhms9.airtel.tv/PLTV/88888888/224/3221225931/03.m3u8
+
 #EXTINF:0, TEN 1 
 http://163.172.86.59:3135/tEN/1sPOHd/index.m3u8
 #EXTINF:-1, TEN 1 HD
-http://srilankatv.online/airtel/at.php?id=http://cshms2.airtel.tv/PLTV/88888888/224/3221225875/03.m3u8
+http://163.172.218.205:8081/T/1/index.m3u8
 #EXTINF:-1, TEN 2
 http://hls3-criclngif.cdnvideo.ru/LiveApp/streams/cricingif.m3u8
 #EXTINF:-1, TEN 2
-http://srilankatv.online/airtel/at.php?id=http://mhms9.airtel.tv/PLTV/88888888/224/3221225932/03.m3u8
+
 #EXTINF:-1, TEN 2 HD
-http://srilankatv.online/airtel/at.php?id=http://cshms1.airtel.tv/PLTV/88888888/224/3221226077/03.m3u8
+http://163.172.218.205:8081/T/2/index.m3u8
 #EXTINF:-1, TEN 3
 http://srilankatv.online/airtel/at.php?id=http://mhms6.airtel.tv/PLTV/88888888/224/3221225805/03.m3u8
 #EXTINF:-1, TEN 3 HD
-http://srilankatv.online/airtel/at.php?id=http://mhms8.airtel.tv/PLTV/88888888/224/3221226330/03.m3u8
-#EXTINF:-1, GTV HD
-http://163.172.86.57:3135/2G/tv/index.m3u8
+http://163.172.218.205:8081/T/3/index.m3u8
 #EXTINF:-1, TEN CRICKET
 http://163.172.86.59:3135/tEN/3SpOSd/index.m3u8
 #EXTINF:-1, TEN SPORTS
