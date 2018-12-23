@@ -101,6 +101,8 @@ http://srilankatv.online/airtel/at.php?id=http://cshms3.airtel.tv/PLTV/88888888/
 https://msluk4s.akamaized.net/hls/live/2000136/9xtashanmsl/9xtashan_2000/chunklist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
 https://msluk4s.akamaized.net/hls/live/2000136/9xtashanmsl/9xtashan_2000/chunklist.m3u8?hdntl=exp=1544094426~acl=/*~data=hdntl~hmac=b78a48852784756cd92e053a02b36fca8e9e956c1fb940fc5606135de076376e
+#EXTINF:-1, CHAKDE TV
+https://msluseast1s.akamaized.net/hls/live/2000129/chakdecstmsl/chakdecst_2000/chunklist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",CHAKDE TV
 http://streamer3.ultapulta.com:7050/
 #EXTINF:-1, group-title="PUNJABI TV",JHANJAR MUSIC
