@@ -323,22 +323,22 @@ http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
 #EXTINF:-1, Z LIVING USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1, SET MAX
+#EXTINF:-1, SONY MAX
 http://mark.srilankatv.online/airtel/at.php?id=http://cshms1.airtel.tv/PLTV/88888888/224/3221225811/04.m3u8
 #EXTINF:-1, SONY MAX2
-http://35.154.113.152/jasmine.php?c=Sony_MAX2&q=800&e=.m3u8
+http://mark.srilankatv.online/airtel/at.php?id=http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/02.m3u8
 #EXTINF:-1, SONY MAX HD
-http://35.154.113.152/jasmine.php?c=Sony_Max_HD&q=600&e=.m3u8
+http://mark.srilankatv.online/airtel/at.php?id=http://cshms4.airtel.tv/PLTV/88888888/224/3221225776/05.m3u8
 #EXTINF:-1, SONY TV HD
-http://mark.srilankatv.online/airtel/at.php?id=Sony_HD&q=800&e=.m3u8
+http://mark.srilankatv.online/airtel/at.php?id=
 #EXTINF:-1, ZEE CINEMA HD
 https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA
 http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="SPORTS",D SPORTS
-https://ind20-lh.akamaihd.net/i/ind20_dsport@623048/index_1800_av-p.m3u8?sd=10&dw=7200&b=100-2500&rebase=on&hdntl=exp=1545219112~acl=!*%2fi%2find20_dsport%40623048%2f*!%2fpayload%2fyupptvnewservice_5_-1_na_IN_101.53.145.181%2f*~data=hdntl~hmac=f1f8d0f77a9d6ccc46c75a5294c4f9d21fe4495ef3450a74abc34a83777f39e2
-#EXTINF:-1, SONY ESPN SD
-
+#EXTINF:-1, group-title="SPORTS",SONY ESPN SD
+http://mark.srilankatv.online/airtel/at.php?id=http://mhms6.airtel.tv/PLTV/88888888/224/3221225805/03.m3u8
+#EXTINF:-1, SONY ESPN HD
+http://mark.srilankatv.online/airtel/at.php?id=http://cshms2.airtel.tv/PLTV/88888888/224/3221226076/05.m3u8
 #EXTINF:-1, SONY ESPN HD
 https://stream.wicket.pw/app/sonyespnhd.m3u8
 #EXTINF:0,SONY ESPN HD
