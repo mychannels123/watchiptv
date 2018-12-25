@@ -307,6 +307,8 @@ http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
 http://103.14.127.35:1935/b4umoviesindia/b4umoviesindia.stream_360p/playlist.m3u8
 #EXTINF:-1, B4U MOVIES
 http://anandmedia.cinesoft.live:8880/anandmedia/b4umovies_360/chunklist.m3u8
+#EXTINF:-1, RISHTEY CINEPLEX
+https://msleurope2s.akamaized.net/hls/live/2000183/ristheycineplex/ristheycineplex_1800/chunklist.m3u8
 #EXTINF:-1, WOW CINEMA
  https://acv.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/chunklist.m3u8
 #EXTINF:-1, WOW CINEMA
