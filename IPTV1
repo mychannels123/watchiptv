@@ -194,8 +194,8 @@ http://103.14.127.39:1935/manoranjan/manoranjan.stream_360p/playlist.m3u8
 http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmvieiaysg/playlist.m3u8
 #EXTINF:-1, ZING TV
 https://z5ams.akamaized.net/zing/tracks-v2a1/index.m3u8
-#EXTINF:-1, ZING TV
-http://103.14.127.37:1935/zing/zing.stream_360p/chunklist_w1311655443.m3u8
+#EXTINF:-1, MASTI TV
+https://57a1bb14d0f06.streamlock.net/live/mastii_webA.sdp/chunklist_w1710677711.m3u8?token=8095480312
 #EXTINF:-1, MASTI TV
 http://103.14.127.37:1935/mastiii/mastiii.stream_360p/playlist.m3u8
 #EXTINF:-1, MUSIC INDIA
@@ -286,7 +286,7 @@ http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w3
 #EXTINF:-1, ZEE ANMOL CINEMA
 https://z5ams.akamaized.net/zanmolcnm/tracks-v1a1/index.m3u8
 #EXTINF:-1, MOVIES HOUSE
-http://d2y6ekwadkc8z7.cloudfront.net/multitvcdn/smil:MovieHouse.smil/playlist.m3u8
+https://57a1b3b8b4855.streamlock.net/live/moviehouse_webA.sdp/chunklist_w942299867.m3u8?token=8095480312
 #EXTINF:-1, STAR UTSUV MOVIES
 http://103.14.127.35:1935/starutsav/starutsav.stream_360p/playlist.m3u8
 #EXTINF:-1, MAHA MOVIES
@@ -303,6 +303,8 @@ http://103.14.127.35:1935/b4umoviesindia/b4umoviesindia.stream_360p/playlist.m3u
 http://anandmedia.cinesoft.live:8880/anandmedia/b4umovies_360/chunklist.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX
 https://msleurope2s.akamaized.net/hls/live/2000183/ristheycineplex/ristheycineplex_1800/chunklist.m3u8
+#EXTINF:-1, WOW CINEMA
+https://57a1bb14d0f06.streamlock.net/live/wowcinema_webA.sdp/chunklist_w2131194326.m3u8?token=8095480312
 #EXTINF:-1, WOW CINEMA
  https://acv.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/chunklist.m3u8
 #EXTINF:-1, WOW CINEMA
