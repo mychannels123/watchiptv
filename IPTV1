@@ -215,6 +215,8 @@ http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7947.m3u8
 #EXTINF:-1, COLORS TV
 http://163.172.86.59:3135/Color/tv/index.m3u8
 #EXTINF:-1, STAR PLUS HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7871.m3u8
+#EXTINF:-1, STAR PLUS 
 http://163.172.86.59:3135/Star/plusHD/index.m3u8
 #EXTINF:-1, STAR PLUS
 http://51.15.5.246:8010/Str0r/PAlus/index.m3u8
@@ -322,7 +324,7 @@ http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7879.m3u8
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7879.m3u8
 #EXTINF:-1, SONY MAX HD
 http://vidioplus.com/XtransX/Sony_Max_HD/Sony_Max_HD_600.m3u8
-#EXTINF:-1, SONT TV
+#EXTINF:-1, SONY TV
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7877.m3u8
 #EXTINF:-1, SONY TV HD
 http://vidioplus.com/XtransX/Sony_HD/Sony_HD_600.m3u8
