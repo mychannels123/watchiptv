@@ -76,7 +76,7 @@ https://vrz.gigabitcdn.com/secure/JTV/UFRDUFUL2oUFVOSkFCSQX3QTkpBQkk/playlist.m3
 #EXTINF:-1, group-title="PUNJABI TV",PTC PUNJABI
 http://50.7.198.170:8081/PB/PTCPUNJABI/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",JUS PUNJABI HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7986.ts
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7986.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",BALLE BALLE 
 http://103.14.127.37:1935/balleballe/balleballe.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",BALLE BALLE
@@ -211,7 +211,7 @@ http://vidioplus.com/XtransX/Sony_Mix/Sony_Mix_600.m3u8
 #EXTINF:-1, 9X JALWA
 http://103.14.127.37:1935/9xjhalwa/9xjhalwa.stream_360p/playlist.m3u8
 #EXTINF:-1, COLORS HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7947.ts
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7947.m3u8
 #EXTINF:-1, COLORS TV
 http://163.172.86.59:3135/Color/tv/index.m3u8
 #EXTINF:-1, STAR PLUS HD
@@ -319,11 +319,11 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
 http://vidioplus.com/XtransX/Sony_MAX2/Sony_MAX2_600.m3u8
 #EXTINF:-1, SONY MAX2
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7879.ts
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7879.m3u8
 #EXTINF:-1, SONY MAX HD
 http://vidioplus.com/XtransX/Sony_Max_HD/Sony_Max_HD_600.m3u8
 #EXTINF:-1, SONT TV
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7877.ts
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7877.m3u8
 #EXTINF:-1, SONY TV HD
 http://vidioplus.com/XtransX/Sony_HD/Sony_HD_600.m3u8
 #EXTINF:-1, SONY TV HD
