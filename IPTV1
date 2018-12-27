@@ -195,8 +195,6 @@ http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmv
 #EXTINF:-1, ZING TV
 https://z5ams.akamaized.net/zing/tracks-v2a1/index.m3u8
 #EXTINF:-1, MASTI TV
-https://57a1bb14d0f06.streamlock.net/live/mastii_webA.sdp/chunklist_w1710677711.m3u8?token=8095480312
-#EXTINF:-1, MASTI TV
 http://103.14.127.37:1935/mastiii/mastiii.stream_360p/playlist.m3u8
 #EXTINF:-1, MUSIC INDIA
 https://akamaimidrol.akamaized.net/amagi_hls_data_yupptvAAA-mob-musicindia/CDN/384x216_320798/index.m3u8
@@ -213,7 +211,7 @@ http://vidioplus.com/XtransX/Sony_Mix/Sony_Mix_600.m3u8
 #EXTINF:-1, 9X JALWA
 http://103.14.127.37:1935/9xjhalwa/9xjhalwa.stream_360p/playlist.m3u8
 #EXTINF:-1, COLORS HD
-http://vidioplus.com/XtransX/Colors_HD/Colors_HD_600.m3u8
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7947.ts
 #EXTINF:-1, COLORS TV
 http://163.172.86.59:3135/Color/tv/index.m3u8
 #EXTINF:-1, STAR PLUS HD
@@ -270,8 +268,6 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodHD/1.m3u8/Level(545259)?sta
 #EXTINF:-1, BOLLYWOOD CLASSIC
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1, ENTER 10
-https://57a1bb14d0f06.streamlock.net/live/enter10_webA.sdp/chunklist_w261717075.m3u8?token=5867157084
-#EXTINF:-1, ENTER 10
 http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
 #EXTINF:-1, AND TV
 http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
@@ -286,7 +282,7 @@ http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w3
 #EXTINF:-1, ZEE ANMOL CINEMA
 https://z5ams.akamaized.net/zanmolcnm/tracks-v1a1/index.m3u8
 #EXTINF:-1, MOVIES HOUSE
-https://57a1b3b8b4855.streamlock.net/live/moviehouse_webA.sdp/chunklist_w942299867.m3u8?token=8095480312
+
 #EXTINF:-1, STAR UTSUV MOVIES
 http://103.14.127.35:1935/starutsav/starutsav.stream_360p/playlist.m3u8
 #EXTINF:-1, MAHA MOVIES
@@ -325,8 +321,11 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
 http://vidioplus.com/XtransX/Sony_MAX2/Sony_MAX2_600.m3u8
 #EXTINF:-1, SONY MAX2
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7879.ts
 #EXTINF:-1, SONY MAX HD
 http://vidioplus.com/XtransX/Sony_Max_HD/Sony_Max_HD_600.m3u8
+#EXTINF:-1, SONT TV
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7877.ts
 #EXTINF:-1, SONY TV HD
 http://vidioplus.com/XtransX/Sony_HD/Sony_HD_600.m3u8
 #EXTINF:-1, SONY TV HD
