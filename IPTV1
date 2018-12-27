@@ -317,7 +317,7 @@ http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX
 #EXTINF:-1, SONY MAX2
-http://vidioplus.com/XtransX/Sony_MAX2/Sony_MAX2_600.m3u8
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7879.m3u8
 #EXTINF:-1, SONY MAX2
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7879.m3u8
 #EXTINF:-1, SONY MAX HD
@@ -408,8 +408,10 @@ http://163.172.86.59:3135/1009PTV/HD/index.m3u8
 https://stream.wicket.pw/app/ptvsportshd.m3u8
 #EXTINF:-1, PTV SPORTS
 http://51.15.6.67:8080/ptv/sports/index.m3u8
-#EXTINF:-1, STAR SPORTS FIRST 1
-http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
+#EXTINF:-1, STAR SPORTS 1 HD
+http://c2z.me:8000/rock-iptv/tpbu98w5qH/24640
+#EXTINF:-1, STAR SELECT 1 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7875.m3u8
 #EXTINF:-1, STAR SPORTS 1
 http://163.172.211.93:8081/Star/S1/index.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
