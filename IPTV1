@@ -425,8 +425,10 @@ http://163.172.211.93:8081/Star/S1HD/index.m3u8
 https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, LADDI TV
 https://youtu.be/Q5XB36Lp2uo
-
-
+#EXTINF:-1, LADDI2
+http://india.thoptv.rocks/allium/play.php?url=http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/index.m3u8
+#EXTINF:-1, LADDI3
+http://thoptv.strangled.net/api/allium/play.m3u8?channel=http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/index.m3u8
 
 
 
