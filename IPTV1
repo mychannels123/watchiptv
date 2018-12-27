@@ -341,8 +341,6 @@ http://mark.srilankatv.online/airtel/at.php?id=http://mhms6.airtel.tv/PLTV/88888
 http://vidioplus.com/XtransX/Sony_ESPN_HD/Sony_ESPN_HD_600.m3u8
 #EXTINF:-1, SONY ESPN HD
 https://stream.wicket.pw/app/sonyespnhd.m3u8
-#EXTINF:0,SONY ESPN HD
-http://163.172.86.59:3135/sONY/3sPnHd/index.m3u8
 #EXTINF:-1, SONY SIX SD
 http://vidioplus.com/XtransX/Sony_Six_SD/Sony_Six_SD_600.m3u8
 #EXTINF:-1, SONY SIX HD
@@ -380,7 +378,7 @@ http://163.172.218.205:8081/T/3/index.m3u8
 #EXTINF:-1, TEN CRICKET
 http://163.172.86.59:3135/tEN/3SpOSd/index.m3u8
 #EXTINF:-1, TEN SPORTS
-
+http://163.172.86.57:3135/Teyn/Sport/index.m3u8
 #EXTINF:-1, SKY SPORTS HD MIX
 http://163.172.211.93:8081/Sky/Mix/index.m3u8
 #EXTINF:-1, SKY SPORTS
@@ -389,6 +387,10 @@ https://stream.wicket.pw/app/skysportshd.m3u8
 http://flu.topeuserver.com:8080/LOLO/1/index.m3u8
 #EXTINF:-1, OSN SPORTS HD CRICKET
 http://163.172.86.59:3135/osn/Cr/index.m3u8
+#EXTINF:-1, GTV HD
+http://163.172.86.57:3135/jui2G/tv/index.m3u8
+#EXTINF:-1, FOX CRICKET
+http://163.172.86.59:3135/Fox/AUiSI/index.m3u8
 #EXTINF:-1, BT SPORT 1
 http://163.172.86.59:3135/INDtyu/aus/index.m3u8
 #EXTINF:-1, BT SPORT 2 HD
@@ -397,8 +399,10 @@ https://stream.wicket.pw/app/sonysixhd.m3u8
 http://163.172.86.59:3135/Fox/AUSI/index.m3u8
 #EXTINF:-1, WILLOW HD
 https://stream.wicket.pw/app/willowhd.m3u8
-#EXTINF:-1, WILLOW HD
-http://flu.topeuserver.com:8080/LOLO/3/index.m3u8
+#EXTINF:-1, PTV SPORTS
+http://flu1.podzone.net:9091/En/Sl/index.m3u8
+#EXTINF:-1, PTV SPORTS
+http://163.172.211.93:8081/Cric/SK/index.m3u8
 #EXTINF:-1, PTV SPORTS
 http://163.172.86.59:3135/vPTV/SPORTS/index.m3u8
 #EXTINF:-1, PTV SPORTS
@@ -411,14 +415,10 @@ http://51.15.6.67:8080/ptv/sports/index.m3u8
 http://103.14.127.39:1935/starsports1/starsports1.stream_360p/chunklist_w1608748103.m3u8
 #EXTINF:-1, STAR SPORTS 1
 http://163.172.211.93:8081/Star/S1/index.m3u8
-#EXTINF:-1, STAR SPORTS 1
-http://163.172.211.93:8081/1Star/S1/index.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
 http://150.242.21.2/starsportsthree.m3u8
 #EXTINF:-1, STAR SPORTS 2
 http://163.172.211.93:8081/Star/S2/index.m3u8
-#EXTINF:-1, STAR SPORTS 2 HD
-http://139.59.87.155/StarSports2HD/index.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD HINDI
 http://163.172.211.93:8081/Star/S1HD/index.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
