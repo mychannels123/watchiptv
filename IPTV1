@@ -287,8 +287,8 @@ https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
 http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w381295327.m3u8
 #EXTINF:-1, ZEE ANMOL CINEMA
 https://z5ams.akamaized.net/zanmolcnm/tracks-v1a1/index.m3u8
-#EXTINF:-1, MOVIES HOUSE
-
+#EXTINF:-1, ZEE ANMOL CINEMA
+http://mhdtvworld.com/delta/jio/m3u8.php?c=Zee_Anmol_Cinema&q=800&e=.m3u8
 #EXTINF:-1, STAR UTSUV MOVIES
 http://103.14.127.35:1935/starutsav/starutsav.stream_360p/playlist.m3u8
 #EXTINF:-1, MAHA MOVIES
@@ -304,7 +304,7 @@ http://103.14.127.35:1935/b4umoviesindia/b4umoviesindia.stream_360p/playlist.m3u
 #EXTINF:-1, B4U MOVIES
 http://anandmedia.cinesoft.live:8880/anandmedia/b4umovies_360/chunklist.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX
-http://mhdtvworld.com/delta/jio/m3u8.php?c=Rishtey_Cineplex&q=600&e=.m3u8
+http://mhdtvworld.com/delta/jio/m3u8.php?c=Rishtey_Cineplex&q=800&e=.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX
 https://msleurope2s.akamaized.net/hls/live/2000183/ristheycineplex/ristheycineplex_1800/chunklist.m3u8
 #EXTINF:-1, WOW CINEMA
@@ -316,6 +316,8 @@ http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatc
 #EXTINF:-1, ZEE ACTION
 http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
+http://mhdtvworld.com/delta/jio/m3u8.php?c=Zee_Classic&q=800&e=.m3u8
+#EXTINF:-1, ZEE BOLLYWOOD
 http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE TV HD
 http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
@@ -324,7 +326,11 @@ http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
 #EXTINF:-1, Z LIVING USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
+http://mhdtvworld.com/delta/jio/m3u8.php?c=Zee_Cinema_HD&q=800&e=.m3u8
+#EXTINF:-1, ZEE CINEMA HD
 https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:-1, ZEE CINEMA
+http://mhdtvworld.com/delta/jio/m3u8.php?c=Zee_Cinema&q=800&e=.m3u8
 #EXTINF:-1, ZEE CINEMA
 http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
