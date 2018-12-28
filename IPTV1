@@ -298,6 +298,8 @@ http://103.14.127.35:1935/b4umoviesindia/b4umoviesindia.stream_360p/playlist.m3u
 #EXTINF:-1, B4U MOVIES
 http://anandmedia.cinesoft.live:8880/anandmedia/b4umovies_360/chunklist.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX
+http://mhdtvworld.com/delta/jio/m3u8.php?c=Rishtey_Cineplex&q=600&e=.m3u8
+#EXTINF:-1, RISHTEY CINEPLEX
 https://msleurope2s.akamaized.net/hls/live/2000183/ristheycineplex/ristheycineplex_1800/chunklist.m3u8
 #EXTINF:-1, WOW CINEMA
  https://acv.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/chunklist.m3u8
@@ -315,22 +317,22 @@ http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
 #EXTINF:-1, Z LIVING USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:-1, ZEE CINEMA HD
+https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:-1, ZEE CINEMA
+http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
 http://mhdtvlive.online/mhdtvlive/airtel/test.php?c=sonymax2&e=.m3u8
 #EXTINF:-1, SONY MAX2
 http://mhdtvworld.com/delta/jio/m3u8.php?c=Sony_MAX2&q=600&e=.m3u8
 #EXTINF:-1, SONY MAX HD
 http://mhdtvworld.com/delta/jio/m3u8.php?c=Sony_Max_HD&q=600&e=.m3u8
-#EXTINF:-1, SONY TV
+#EXTINF:-1, SONY TV HD
 http://mhdtvworld.com/delta/jio/m3u8.php?c=Sony_HD&q=600&e=.m3u8
-#EXTINF:-1, SONY TV HD
-http://vidioplus.com/XtransX/Sony_HD/Sony_HD_600.m3u8
-#EXTINF:-1, SONY TV HD
-http://mark.srilankatv.online/airtel/at.php?id=
-#EXTINF:-1, ZEE CINEMA HD
-https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
-#EXTINF:-1, ZEE CINEMA
-http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
+#EXTINF:-1, SONY SAB HD
+http://mhdtvworld.com/delta/jio/m3u8.php?c=Sony_SAB_HD&q=600&e=.m3u8
+#EXTINF:-1, SONY SAB
+http://mhdtvworld.com/delta/jio/m3u8.php?c=Sony_SAB&q=600&e=.m3u8
 #EXTINF:-1, group-title="SPORTS",SONY ESPN SD
 http://mark.srilankatv.online/airtel/at.php?id=http://mhms6.airtel.tv/PLTV/88888888/224/3221225805/03.m3u8
 #EXTINF:-1, SONY ESPN HD
