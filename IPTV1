@@ -15,6 +15,10 @@ https://z5ams.akamaized.net/zeenews/tracks-v4a1/mono.m3u8
 http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 #EXTINF:-1, group-title="NEWS",DELHI AAJ TAK
 https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live2/chunks.m3u8
+#EXTINF:-1, AAJ TAK
+https://msl40s.akamaized.net/hls/live/692167/msl/aajtak_1800/chunklist.m3u8?hdntl=exp=1546165268~acl=/*~data=hdntl~hmac=b6b986668275d7cae74aa5783dadeed34328b49da44ada63b80651cc5c0b8388
+#EXTINF:-1, TEZ
+https://msluk6s.akamaized.net/hls/live/2000171/teznewsmsl/teznews_1100/chunklist.m3u8
 #EXTINF:-1, group-title="NEWS",TEZ
 https://vidcdn.vidgyor.com/tez-origin/liveabr/tez-origin/live1/chunks.m3u8
 #EXTINF:-1, group-title="NEWS",INDIA NEWS
