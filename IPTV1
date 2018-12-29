@@ -242,6 +242,8 @@ http://103.199.161.254:80/Content/B4Umusic/Live/Channel(B4Umusic)/Stream(03)/ind
 http://103.14.127.37:1935/b4umusicindia/b4umusicindia.stream_360p/chunklist_w66794027.m3u8
 #EXTINF:-1, B4U MUSIC
 http://163.172.86.59:3135/B4u/Music/index.m3u8
+#EXTINF:-1, B4U MUSIC
+http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
 #EXTINF:-1, MTV INDIA
 https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 #EXTM3U
@@ -403,6 +405,8 @@ http://163.172.86.59:3135/Fox/AUiSI/index.m3u8
 http://163.172.86.59:3135/INDtyu/aus/index.m3u8
 #EXTINF:-1, BT SPORT 2 HD
 https://stream.wicket.pw/app/sonysixhd.m3u8
+#EXTINF:-1, SPORT MAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 #EXTINF:-1, FOX CRICKET
 http://163.172.86.59:3135/Fox/AUSI/index.m3u8
 #EXTINF:-1, WILLOW HD
