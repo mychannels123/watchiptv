@@ -217,7 +217,9 @@ http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7947.m3u8
 #EXTINF:-1, COLORS HD
 http://mhdtvworld.com/delta/jio/mhdtvworld.php?c=Colors_HD&q=800&e=.m3u8
 #EXTINF:-1, COLORS TV
-http://163.172.86.59:3135/Color/tv/index.m3u8
+https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
+#EXTINF:-1, COLORS TV
+http://51.15.1.147:8010/color/clre/index.m3u8
 #EXTINF:-1, STAR PLUS HD
 http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7871.m3u8
 #EXTINF:-1, STAR PLUS 
