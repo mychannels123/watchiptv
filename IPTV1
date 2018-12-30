@@ -1,6 +1,8 @@
 
-#EXTINF:-1,  group-title="NEWS", INDIA NEWS
+#EXTINF:-1,  group-title="NEWS", INDIA TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
+#EXTINF:-1, INDIA TV
+https://msluk6s.akamaized.net/hls/live/2000171/indiatvmsl/indiatv_2000/chunklist.m3u8
 #EXTINF:-1, group-title="NEWS", JANTA TV
 http://284rnk9kr7xv-hls-live.wmncdn.net/jantatv/live.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="NEWS",NEWS INDIA
