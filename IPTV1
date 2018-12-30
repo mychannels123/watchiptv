@@ -344,9 +344,9 @@ http://mhdtvworld.com/delta/jio/mhdtvlive.php?c=Sony_Max_HD&q=600&e=.m3u8
 #EXTINF:-1, SONY TV HD
 http://mhdtvworld.com/delta/jio/mhdtvlive.php?c=Sony_HD&q=600&e=.m3u8
 #EXTINF:-1, SONY SAB HD
-http://mhdtvworld.com/delta/jio/mhdtvlive.php?c=Sony_SAB_HD&q=600&e=.m3u8
+http://mhdtvworld.com/delta/jio/mhdtvonline.php?c=Sony_SAB_HD&q=600&e=.m3u8
 #EXTINF:-1, SONY SAB
-
+http://mhdtvworld.com/delta/jio/stream2.php?ts=Sony_MAX2/Sony_MAX2_800-1546148798000.ts
 #EXTINF:-1, group-title="SPORTS",SONY ESPN SD
 http://mark.srilankatv.online/airtel/at.php?id=http://mhms6.airtel.tv/PLTV/88888888/224/3221225805/03.m3u8
 #EXTINF:_1, SONY ESPN HD
