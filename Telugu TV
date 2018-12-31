@@ -1,0 +1,110 @@
+#EXTINF:-1, ZEE CINEMA
+https://z5ams.akamaized.net/zcinemalusd/tracks-v4a1/mono.m3u8
+#EXTINF:-1, DISCOVERY
+http://mhdtvworld.com/delta/jio/mhdtvonline.php?c=Discovery_Channel_Telugu&q=600&e=.m3u8
+#EXTINF:-1, ZEE TV
+https://z5ams.akamaized.net/zeetelegusd/tracks-v4a1/mono.m3u8
+#EXTINF:-1, ZEE TV 
+https://msluseasts.akamaized.net/hls/live/2000128/zeetelusmsl/zeetelus_2000/chunklist.m3u8
+#EXTINF:-1, ZEE TV HD
+https://z5ams.akamaized.net/zeeteleguhd/tracks-v4a1/mono.m3u8
+#EXTINF:-1, PREMIUM TELUGU
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelpre.stream_all/chunklist_w1440095634_b1296000.m3u8
+#EXTINF:-1, COMEDY TELUGU
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcom.stream_all/chunklist_w271510809_b1296000.m3u8
+#EXTINF:-1, CLASSICS TELUGU
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/chunklist_w317513876_b1296000.m3u8
+#EXTINF:-1, VISSA TV
+https://z5ams.akamaized.net/vissatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, RAJ MUSIC TELUGU
+https://z5ams.akamaized.net/rajmusixtel/tracks-v1a1/mono.m3u8
+#EXTINF:-1, GEMINI
+https://msluseasts.akamaized.net/hls/live/2000128/geminiusmsl/geminius_2000/chunklist.m3u8
+#EXTINF:-1, GEMINI TV
+https://msluk6s.akamaized.net/hls/live/2000171/geminisdmsl/geminisd_2000/chunklist.m3u8
+#EXTINF:-1, GEMINI MUSIC
+http://mhdtvworld.com/delta/jio/mhdtvonline.php?c=Gemini_Music&q=600&e=.m3u8
+#EXTINF:-1, GEMINI MUSIC HD
+http://mhdtvworld.com/delta/jio/mhdtvonline.php?c=Gemini_Music_HD&q=600&e=.m3u8
+#EXTINF:-1, GEMINI MOVIES
+http://mhdtvworld.com/delta/jio/mhdtvonline.php?c=Gemini_Movies&q=600&e=.m3u8
+#EXTINF:-1, GEMINI MOVIES HD
+http://mhdtvworld.com/delta/jio/mhdtvonline.php?c=Gemini_Movies_HD&q=600&e=.m3u8
+#EXTINF:-1, ETV CINEMA
+https://msluk2s.akamaized.net/hls/live/2000134/etvcinemamsl/etvcinema_2000/chunklist.m3u8
+#EXTINF:-1, ETV
+https://msluscen1s.akamaized.net/hls/live/2000127/etvcinemaus/etvcinemaus_2400/chunklist.m3u8
+#EXTINF:-1, ETV LIFE
+https://msluk2s.akamaized.net/hls/live/2000134/etvlifemsl/etvlife_2000/chunklist.m3u8
+#EXTINF:-1, ETV LIFE
+https://msluscen1s.akamaized.net/hls/live/2000127/etvlifeus/etvlifeus_2400/chunklist.m3u8
+#EXTINF:-1, ETV PLUS
+https://msluk4s.akamaized.net/hls/live/2000136/etvplusmsl/etvplus_2000/chunklist.m3u8
+#EXTINF:-1, ETV PLUS
+https://msluscen1s.akamaized.net/hls/live/2000127/etvplusus/etvplusus_2400/chunklist.m3u8
+#EXTINF:-1, ETV ABHIRUCHI
+https://msluk2s.akamaized.net/hls/live/2000134/etvabhiruchimsl/etvabhiruchi_1100/chunklist.m3u8
+#EXTINF:-1, Y BOX OFFICE TELUGU
+https://msluseasts.akamaized.net/hls/live/2000128/tbomsl/tbo_600/chunklist.m3u8
+#EXTINF:-1, TV9 TELUGU
+http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/Stream(04)/index.m3u8
+#EXTINF:-1, CVR ENGLISH
+https://dbgz3a72bx1vv.cloudfront.net/yuppenc2/ngrp:cvrnewseng_all/chunklist_b2179072.m3u8?hdnea=st%3D1546218817%7Eexp%3D1546219417%7Eacl%3D%21*%2Fyuppenc2%2Fngrp%3Acvrnewseng_all%2F*%21%2Fpayload%2FyuppTVCom_5_-1_8d7da2ac7ed3484f_NL_103.194.171.65%2F*%7Ehmac%3D5d63f2fd42fd8ebe6e3210875b4b3402ddec83e3438c94b40659f78adddbe04a
+#EXTINF:-1, ETV ANDHRA PARDESH
+https://ylive29-i.akamaihd.net/hls/live/690714/etv2/etv2_200/chunklist.m3u8?hdntl=exp=1546305288~acl=!*/live/690714/*!/payload/yuppTVCom_5_-1_269434fb17dd4602_NL_103.194.171.65/*~data=hdntl~hmac=dcfc51135af9967cea7fd406862c46be440e2143541e3935d76589d018e7c0d2
+#EXTINF:-1, AP 24 7
+https://ind34-lh.akamaihd.net/i/ind34_ap24x7@91730/index_200_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1546305342~acl=!*%2fi%2find34_ap24x7%4091730%2f*!%2fpayload%2fyuppTVCom_5_-1_2adee57ffaf44914_NL_103.194.171.65%2f*~data=hdntl~hmac=fccfa2e81b73403628577a35a6c570a0007b927ff0335fbe938e555f9f6733e9
+#EXTINF:-1, ABN
+https://msluk8s.akamaized.net/hls/live/2000173/abnmsl/abn_2000/chunklist.m3u8
+#EXTINF:-1, RAJ NEWS TELUGU
+https://z5ams.akamaized.net/rajnewstel/tracks-v3a1/mono.m3u8
+#EXTINF:-1, T NEWS
+https://msluk4s.akamaized.net/hls/live/2000136/tnewsmsl/tnews_1100/chunklist.m3u8
+#EXTINF:-1, HMTV
+https://msluk4s.akamaized.net/hls/live/2000136/hmtvmsl/hmtv_1100/chunklist.m3u8
+#EXTINF:-1, V6 NEWS
+https://hlstelextra-lh.akamaihd.net/i/ams9_v6news@568691/index_200_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1546305711~acl=!*%2fi%2fams9_v6news%40568691%2f*!%2fpayload%2fyuppTVCom_5_-1_6941e84919004eba_NL_103.194.171.65%2f*~data=hdntl~hmac=000faaff1fd2532511631414ce3fefd16144bede348cfccab36397e9ee16edca
+#EXTINF:-1, STUDIO N NEWS
+https://ylive1-i.akamaihd.net/hls/live/678721/studion/studion_1800/chunklist.m3u8
+#EXTINF:-1, TV5 NEWS
+https://msluks.akamaized.net/hls/live/2000132/tv5intmsl/tv5int800k/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
