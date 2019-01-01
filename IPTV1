@@ -25,10 +25,16 @@ https://msluk6s.akamaized.net/hls/live/2000171/teznewsmsl/teznews_1100/chunklist
 https://vidcdn.vidgyor.com/tez-origin/liveabr/tez-origin/live1/chunks.m3u8
 #EXTINF:-1, group-title="NEWS",INDIA NEWS
 http://103.14.127.35:1935/ddrajyasabha/ddrajyasabha.stream_360p/playlist.m3u8
+#EXTINF:-1, TV100
+http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist_w1840712472.m3u8
+#EXTINF:-1, NEWS 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1, group-title="NEWS",NEWS 24
 http://103.14.127.39:1935/news24/news24.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="NEWS",SAMAY
 http://103.14.127.37:1935/samay/samay.stream_360p/playlist.m3u8
+#EXTINF:-1, ABP NEWS
+https://hls_live_hindi-i.akamaihd.net/hls/live/582539/abphindi/masterhls_96.m3u8
 #EXTINF:-1, group-title="NEWS",ABP NEWS
 http://103.14.127.35:1935/ddloksabha/ddloksabha.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="NEWS",INDIA NEWS PUNJAB
