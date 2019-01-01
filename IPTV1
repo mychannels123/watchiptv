@@ -415,12 +415,8 @@ http://163.172.86.59:3135/1009PTV/HD/index.m3u8
 https://stream.wicket.pw/app/ptvsportshd.m3u8
 #EXTINF:-1, PTV SPORTS
 http://51.15.6.67:8080/ptv/sports/index.m3u8
-#EXTINF:-1, STAR SPORTS SELECT 1HD
-http://142.93.219.225/StarSportsSelect1HD/index.m3u8
-#EXTINF:-1, STAR SPORTS SELECT 2HD
-http://142.93.219.225/StarSportsSelect2HD/index.m3u8
-#EXTINF:-1, STAR SPORTS 1HD
-http://142.93.219.225/StarSports1HD/index.m3u8
+#EXTINF:-1, STAR SPORTS 2HD
+http://198.204.251.138:8080/edge/19030/tracks-v1a1/mono.m3u8?token=25.1.36036.0ac1f9240df96b3586c220faef490724.1.1.1.963.0.0.a612d0893e622b90ef2ac16701c1a738
 #EXTINF:-1, STAR SPORTS 1
 http://163.172.211.93:8081/Star/S1/index.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
