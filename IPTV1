@@ -251,6 +251,10 @@ https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 #EXTM3U
 #EXTINF:-1, NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+#EXTINF:-1, STAR GOLD HD
+http://212.8.253.141:7071/induk2050/stargoldhd/chunks.m3u8?nimblesessionid=90216578&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTkgNzoxMDozNyBBTSZoYXNoX3ZhbHVlPWVNSkxHNnBzaitwZUJmcHA1YVJaUUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1, STAR GOLD SELECT
+http://212.8.253.141:7071/induk2050/stargoldselect/chunks.m3u8?nimblesessionid=90381650&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTkgMTE6MzI6MDAgQU0maGFzaF92YWx1ZT1QNjFjOXV0YUFqQmpGNGNqTG9BVVBBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1, STAR GOLD
 http://163.172.86.59:3135/Star/Gold/index.m3u8
 #EXTINF:-1, STAR GOLD
@@ -334,9 +338,9 @@ http://212.8.253.141:7071/induk2050/sonymax2/chunks.m3u8?nimblesessionid=9027601
 #EXTINF:-1, SONY MAX2
 http://mhdtvworld.com/delta/jio/mhdtvworldtv.php?c=Sony_MAX2&q=600&e=.m3u8
 #EXTINF:-1, SONY MAX HD
-http://mhdtvworld.com/delta/jio/mhdtvworldtv.php?c=Sony_Max_HD&q=600&e=.m3u8
-#EXTINF:-1, SONY TV HD
-http://mhdtvworld.com/delta/jio/mhdtvworldtv.php?c=Sony_HD&q=600&e=.m3u8
+http://212.8.253.141:7071/induk2050/sonymaxhd/chunks.m3u8?nimblesessionid=90383008&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTkgMTE6MzM6MzggQU0maGFzaF92YWx1ZT1nN1NFZlZSeVRTTEhnWS9WZmg5bGhnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1, SONY TV 
+http://212.8.253.141:7071/induk2050/sonytvusa/chunks.m3u8?nimblesessionid=90382163&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTkgMTE6MzI6MzcgQU0maGFzaF92YWx1ZT1mWmJDV1I5V2doMXRqSWRIRFdxUVVBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1, SONY SAB HD
 http://mhdtvworld.com/delta/jio/mhdtvworldtv.php?c=Sony_SAB_HD&q=600&e=.m3u8
 #EXTINF:-1, SONY SAB
@@ -433,8 +437,6 @@ http://163.172.211.93:8081/Star/S1HD/index.m3u8
 https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, LADDI TV
 https://youtu.be/Q5XB36Lp2uo
-#EXTINF:-1, LADDI2
-http://212.8.253.141:7071/induk2050/stargoldhd/chunks.m3u8?nimblesessionid=90216578&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTkgNzoxMDozNyBBTSZoYXNoX3ZhbHVlPWVNSkxHNnBzaitwZUJmcHA1YVJaUUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 
 
