@@ -217,7 +217,7 @@ http://mhdtvworld.com/delta/jio/mhdtvworldtv.php?c=Sony_Mix&q=600&e=.m3u8
 #EXTINF:-1, 9X JALWA
 http://103.14.127.37:1935/9xjhalwa/9xjhalwa.stream_360p/playlist.m3u8
 #EXTINF:-1, COLORS HD
-http://142.54.168.122:8080/edge/19037/tracks-v1a1/mono.m3u8?token=25.1.36036.0ac1f9240df96b3586c220faef490724.1.1.1.962.0.0.cf79b387d86c788821d4bae10c520486
+http://tvchannels.channelsiptv.com/india_iptv2345kkj4bb6bc2fgcx2xbxt52g2x3c6/colorshindilive/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTkgOTowMzoyMCBBTSZoYXNoX3ZhbHVlPTk5NUt2UUtMSnZaUlJRS2hBMUZXamc9PSZ2YWxpZG1pbnV0ZXM9MQ==
 #EXTINF:-1, COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
 #EXTINF:-1, COLORS TV
@@ -415,8 +415,6 @@ http://163.172.86.59:3135/1009PTV/HD/index.m3u8
 https://stream.wicket.pw/app/ptvsportshd.m3u8
 #EXTINF:-1, PTV SPORTS
 http://51.15.6.67:8080/ptv/sports/index.m3u8
-#EXTINF:-1, STAR SPORTS 2HD
-http://198.204.251.138:8080/edge/19030/tracks-v1a1/mono.m3u8?token=25.1.36036.0ac1f9240df96b3586c220faef490724.1.1.1.963.0.0.a612d0893e622b90ef2ac16701c1a738
 #EXTINF:-1, STAR SPORTS 1
 http://163.172.211.93:8081/Star/S1/index.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
@@ -433,8 +431,6 @@ https://stream.wicket.pw/app/starsports1hd.m3u8
 https://youtu.be/Q5XB36Lp2uo
 #EXTINF:-1, LADDI2
 http://212.8.253.141:7071/induk2050/stargoldhd/chunks.m3u8?nimblesessionid=90216578&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTkgNzoxMDozNyBBTSZoYXNoX3ZhbHVlPWVNSkxHNnBzaitwZUJmcHA1YVJaUUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
-#EXTINF:-1, LADDI3
-http://142.54.168.122:8080/edge/19037/tracks-v1a1/mono.m3u8?token=25.1.36036.0ac1f9240df96b3586c220faef490724.1.1.1.962.0.0.cf79b387d86c788821d4bae10c520486
 
 
 
