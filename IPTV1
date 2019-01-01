@@ -81,10 +81,6 @@ https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist
 https://vrz.gigabitcdn.com/secure/JTV/UFRDUFUL2oUFVOSkFCSQX3QTkpBQkk/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC PUNJABI
 http://50.7.198.170:8081/PB/PTCPUNJABI/playlist.m3u8
-#EXTINF:-1, JUS ONE
-http://mhdtvworld.com/delta/jio/mhdtvworldtv.php?c=JUSOne&q=600&e=.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",JUS PUNJABI HD
-http://mhdtvworld.com/delta/jio/mhdtvworldtv.php?c=JUSPunjabi&q=600&e=.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",BALLE BALLE 
 http://103.14.127.37:1935/balleballe/balleballe.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",BALLE BALLE
@@ -103,8 +99,6 @@ http://162.244.80.206:1935/live/nadivaid/chunklist_w566662471.m3u8
 http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",ANKHILA PUNJAB
 http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
-http://srilankatv.online/airtel/at.php?id=http://cshms3.airtel.tv/PLTV/88888888/224/3221226017/04.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
 https://msluk4s.akamaized.net/hls/live/2000136/9xtashanmsl/9xtashan_2000/chunklist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
@@ -168,8 +162,8 @@ http://103.228.112.96:1935/masti/live/playlist.m3u8
 http://103.14.127.37:1935/mh1music/mh1music.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",MH1
 http://163.172.86.59:3135/MH1/Music/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",MH1
-http://mhonestream.in:1935/mhone/mhonemusic/chunklist.m3u8
+#EXTINF:-1, group-title="PUNJABI TV",MH1 NEWS
+http://mhonestream.in:1935/mhone/mhonenews/chunklist_w1975801534.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PITAARA TV
 https://livepitaara.planetcast.in/pitaaraTV.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",GAUNDA PUNJAB
