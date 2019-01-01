@@ -436,9 +436,7 @@ https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, LADDI TV
 https://youtu.be/Q5XB36Lp2uo
 #EXTINF:-1, LADDI2
-http://5.189.130.188/assets/swift.php?c=Sony_HD&q=600&e=.m3u8
-#EXTINF:-1, LADDI3
-http://5.189.130.188/assets/swift.php?c=sonymax2&e=.m3u8
+http://212.8.253.141:7071/induk2050/stargoldhd/chunks.m3u8?nimblesessionid=90216578&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTkgNzoxMDozNyBBTSZoYXNoX3ZhbHVlPWVNSkxHNnBzaitwZUJmcHA1YVJaUUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 
 
