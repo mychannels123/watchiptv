@@ -336,7 +336,7 @@ http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
 http://212.8.253.141:7071/induk2050/sonymax2/chunks.m3u8?nimblesessionid=90276018&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTkgOToxMjozNyBBTSZoYXNoX3ZhbHVlPUNaWG03OHh6bng5UkhlYjUyaHFEZ0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1, SONY MAX2
-http://mhdtvworld.com/delta/jio/mhdtvworldtv.php?c=Sony_MAX2&q=600&e=.m3u8
+http://mike.ruby.pt:4554/neptune/sonymax2/chunks.m3u8?nimblesessionid=121849&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTkgMTE6NTQ6MjMgQU0maGFzaF92YWx1ZT1zcy9Ka1lsRFN3MWJGcWt3RFpyTm5nPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1, SONY MAX HD
 http://212.8.253.141:7071/induk2050/sonymaxhd/chunks.m3u8?nimblesessionid=90383008&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTkgMTE6MzM6MzggQU0maGFzaF92YWx1ZT1nN1NFZlZSeVRTTEhnWS9WZmg5bGhnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1, SONY TV 
