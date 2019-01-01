@@ -217,7 +217,7 @@ http://mhdtvworld.com/delta/jio/mhdtvworldtv.php?c=Sony_Mix&q=600&e=.m3u8
 #EXTINF:-1, 9X JALWA
 http://103.14.127.37:1935/9xjhalwa/9xjhalwa.stream_360p/playlist.m3u8
 #EXTINF:-1, STAR BHARAT HD
-http://212.8.253.141:7071/induk2050/starbharathd/chunks.m3u8?nimblesessionid=90305801&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTkgOTo1OToyMyBBTSZoYXNoX3ZhbHVlPWlrUW9Vdks0MGlCWXdPTVRWb0w2dmc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://212.8.253.141:7071/induk2050/starbharathd/chunks.m3u8?nimblesessionid=90376496&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTkgMTE6MjU6MjIgQU0maGFzaF92YWx1ZT1Gbjh2aUtpN3Y5eCthMlU2VllkeUdnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1, COLORS HD
 http://212.8.253.141:7071/induk2050/colorshd/chunks.m3u8?nimblesessionid=90307386&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTkgMTA6MDE6MjMgQU0maGFzaF92YWx1ZT1UNXRkQ0NzL1VwVVpjaUVHN0x6Y2xRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1, COLORS TV
