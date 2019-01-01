@@ -224,6 +224,8 @@ http://212.8.253.141:7071/induk2050/colorshd/chunks.m3u8?nimblesessionid=9030738
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
 #EXTINF:-1, COLORS TV
 http://51.15.1.147:8010/color/clre/index.m3u8
+#EXTINF:-1, STAR PLUS HD
+http://212.8.253.141:7071/induk2050/starplushd/chunks.m3u8?nimblesessionid=90378586&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTkgMTE6Mjg6MTEgQU0maGFzaF92YWx1ZT1MQ1RJOXRGNU9IY25rS3VmaGs0M0J3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1, STAR PLUS 
 http://163.172.86.59:3135/Star/plusHD/index.m3u8
 #EXTINF:-1, STAR PLUS
