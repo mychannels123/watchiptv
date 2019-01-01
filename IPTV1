@@ -326,7 +326,7 @@ https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA
 http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
-http://mhdtvlive.online/mhdtvlive/airtel/test.php?c=sonymax2&e=.m3u8
+http://212.8.253.141:7071/induk2050/sonymax2/chunks.m3u8?nimblesessionid=90276018&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMTkgOToxMjozNyBBTSZoYXNoX3ZhbHVlPUNaWG03OHh6bng5UkhlYjUyaHFEZ0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1, SONY MAX2
 http://mhdtvworld.com/delta/jio/mhdtvworldtv.php?c=Sony_MAX2&q=600&e=.m3u8
 #EXTINF:-1, SONY MAX HD
