@@ -144,8 +144,6 @@ http://skystar.livebox.co.in/virsatvchannelhls/livetv.m3u8
 http://cdn.samtv.ca/tvpunjab/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",TORRONTO 360
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",MEHAK TV
-http://cdn.samtv.ca/mehaktv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",TORRONTO 16
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",STEELBIRD MUSIC
