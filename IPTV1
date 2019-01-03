@@ -423,18 +423,12 @@ http://142.93.219.225/StarSports2HD/tracks-v1a1/mono.m3u8
 http://163.172.211.93:8081/Star/S1/index.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
 http://150.242.21.2/starsportsthree.m3u8
-#EXTINF:-1, STAR SPORTS 2HD
-http://142.93.219.225/StarSports2HD/index.m3u8
 #EXTINF:-1, STAR SPORTS 2
 http://163.172.211.93:8081/Star/S2/index.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD HINDI
 http://163.172.211.93:8081/Star/S1HD/index.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://stream.wicket.pw/app/starsports1hd.m3u8
-#EXTINF:-1, LADDI TV
-https://youtu.be/Q5XB36Lp2uo
-#EXTINF:-1, LADDI2
-http://185.152.64.54:2200/R-EX/HINDI_COLORS_HD_S-in/tracks-v1a1/2019/01/03/05/08/10-10000.ts?token=254a09f9bdf4bce70ea3014f1c92aa26&star7=star7
 
 
 
