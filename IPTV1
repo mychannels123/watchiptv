@@ -211,11 +211,11 @@ http://163.172.86.59:3135/Wow/Music/index.m3u8
 #EXTINF:-1, ISHQ TV
 http://209.58.164.155/WOWhls/wowlive.m3u8
 #EXTINF:-1, SONY MIX
-http://mhdtvworld.com/delta/jio/mhdtvworldtv.php?c=Sony_Mix&q=600&e=.m3u8
+http://mhdtvworld.com/delta/jio/jiomhworld.php?c=Sony_Mix&q=600&e=.m3u8
 #EXTINF:-1, 9X JALWA
 http://103.14.127.37:1935/9xjhalwa/9xjhalwa.stream_360p/playlist.m3u8
 #EXTINF:-1, COLORS HD
-http://malayalamtv.stream/jio/jio.php?c=Colors_HD&q=600&e=.m3u8
+http://malayalamtv.stream/jio/jiomhworld.php?c=Colors_HD&q=600&e=.m3u8
 #EXTINF:-1, COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
 #EXTINF:-1, COLORS TV
@@ -300,7 +300,7 @@ http://103.14.127.35:1935/b4umoviesindia/b4umoviesindia.stream_360p/playlist.m3u
 #EXTINF:-1, B4U MOVIES
 http://anandmedia.cinesoft.live:8880/anandmedia/b4umovies_360/chunklist.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX
-http://malayalamtv.stream/jio/jio.php?c=Rishtey_Cineplex&q=800&e=.m3u8
+http://malayalamtv.stream/jio/jiomhworld.php?c=Rishtey_Cineplex&q=800&e=.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX
 https://msleurope2s.akamaized.net/hls/live/2000183/ristheycineplex/ristheycineplex_1800/chunklist.m3u8
 #EXTINF:-1, WOW CINEMA
@@ -324,29 +324,27 @@ https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA
 http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
-http://malayalamtv.stream/jio/jio.php?c=Sony_MAX2&q=600&e=.m3u8
+http://malayalamtv.stream/jio/jiomhdworld.php?c=Sony_MAX2&q=800&e=.m3u8
 #EXTINF:-1, SONY MAX2
 http://mhdtvlive.online/mhdtvlive/airtel/test.php?c=sonymax2&e=.m3u8
 #EXTINF:-1, SONY MAX HD
-http://malayalamtv.stream/jio/jio.php?c=Sony_Max_HD&q=600&e=.m3u8
+http://malayalamtv.stream/jio/jiomhdworld.php?c=Sony_Max_HD&q=600&e=.m3u8
 #EXTINF:-1, SONY MAX
 http://malayalamtv.stream/jio/jio.php?c=Sony_Max&q=600&e=.m3u8
 #EXTINF:-1, SONY TV HD
-http://malayalamtv.stream/jio/jio.php?c=Sony_HD&q=600&e=.m3u8
-#EXTINF:-1, SONY TV
-http://malayalamtv.stream/jio/jio.php?c=Sony&q=600&e=.m3u8
+http://malayalamtv.stream/jio/jiomhdworld.php?c=Sony_HD&q=600&e=.m3u8
 #EXTINF:-1, SONY SAB HD
-http://malayalamtv.stream/jio/jio.php?c=Sony_SAB_HD&q=600&e=.m3u8
+http://malayalamtv.stream/jio/jiomhdworld.php?c=Sony_SAB_HD&q=600&e=.m3u8
 #EXTINF:-1, SONY SAB
 
 #EXTINF:-1, group-title="SPORTS",SONY ESPN SD
 http://mark.srilankatv.online/airtel/at.php?id=http://mhms6.airtel.tv/PLTV/88888888/224/3221225805/03.m3u8
 #EXTINF:_1, SONY ESPN HD
-http://malayalamtv.stream/jio/jio.php?c=Sony_ESPN_HD&q=600&e=.m3u8
+http://malayalamtv.stream/jio/jiomhworld.php?c=Sony_ESPN_HD&q=600&e=.m3u8
 #EXTINF:-1, SONY ESPN HD
 https://stream.wicket.pw/app/sonyespnhd.m3u8
 #EXTINF:-1, SONY SIX HD
-http://malayalamtv.stream/jio/jio.php?c=Six_HD&q=600&e=.m3u8
+http://malayalamtv.stream/jio/jiomhworld.php?c=Six_HD&q=600&e=.m3u8
 #EXTINF:-1, SONY SIX HD
 http://163.172.218.205:8081/Six/HD/index.m3u8
 #EXTINF:-1, SONY SIX HD
@@ -356,25 +354,25 @@ http://flu1.podzone.net:9091/En/Sl/index.m3u8
 #EXTINF:0, TEN 1 
 http://malayalamtv.stream/jio/jio.php?c=Ten_1&q=600&e=.m3u8
 #EXTINF:-1, TEN 1 HD
-http://malayalamtv.stream/jio/jio.php?c=Ten_HD&q=600&e=.m3u8
+http://malayalamtv.stream/jio/jiomhworld.php?c=Ten_HD&q=600&e=.m3u8
 #EXTINF:-1, TEN 1 HD
 http://163.172.218.205:8081/T/1/index.m3u8
 #EXTINF:-1, TEN 2
-http://malayalamtv.stream/jio/jio.php?c=Ten_2&q=600&e=.m3u8
+http://malayalamtv.stream/jio/jiomhworld.php?c=Ten_2&q=600&e=.m3u8
 #EXTINF:-1, TEN 2
 http://hls3-criclngif.cdnvideo.ru/LiveApp/streams/cricingif.m3u8
 #EXTINF:-1, TEN 2 HD
-http://malayalamtv.stream/jio/jio.php?c=Ten2_HD&q=600&e=.m3u8
+http://malayalamtv.stream/jio/jiomhworld.php?c=Ten2_HD&q=600&e=.m3u8
 #EXTINF:-1, TEN 2 HD
 http://163.172.218.205:8081/T/2/index.m3u8
 #EXTINF:-1, TEN 3
-http://malayalamtv.stream/jio/jio.php?c=Ten_3&q=600&e=.m3u8
+http://malayalamtv.stream/jio/jiomhworld.php?c=Ten_3&q=600&e=.m3u8
 #EXTINF:-1, TEN 3
 http://163.172.86.59:3135/tEN/3SpOSd/index.m3u8
 #EXTINF:-1, TEN 3 HD
 http://163.172.86.59:3135/tEN/3SpOSd/index.m3u8
 #EXTINF:-1, TEN 3 HD
-http://malayalamtv.stream/jio/jio.php?c=Ten3_HD&q=600&e=.m3u8
+http://malayalamtv.stream/jio/jiomhworld.php?c=Ten3_HD&q=600&e=.m3u8
 #EXTINF:-1, TEN 3 HD
 http://163.172.218.205:8081/T/3/index.m3u8
 #EXTINF:-1, TEN CRICKET
