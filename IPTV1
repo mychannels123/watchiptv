@@ -354,25 +354,25 @@ http://flu1.podzone.net:9091/En/Sl/index.m3u8
 #EXTINF:0, TEN 1 
 http://malayalamtv.stream/jio/jiomhdworld.php?c=Ten_1&q=800&e=.m3u8
 #EXTINF:-1, TEN 1 HD
-http://malayalamtv.stream/jio/jiomhworld.php?c=Ten_HD&q=800&e=.m3u8
+http://malayalamtv.stream/jio/jiomhdworld.php?c=Ten_HD&q=800&e=.m3u8
 #EXTINF:-1, TEN 1 HD
 http://163.172.218.205:8081/T/1/index.m3u8
 #EXTINF:-1, TEN 2
-http://malayalamtv.stream/jio/jiomhworld.php?c=Ten_2&q=800&e=.m3u8
+http://malayalamtv.stream/jio/jiomhdworld.php?c=Ten_2&q=800&e=.m3u8
 #EXTINF:-1, TEN 2
 http://hls3-criclngif.cdnvideo.ru/LiveApp/streams/cricingif.m3u8
 #EXTINF:-1, TEN 2 HD
-http://malayalamtv.stream/jio/jiomhworld.php?c=Ten2_HD&q=800&e=.m3u8
+http://malayalamtv.stream/jio/jiomhdworld.php?c=Ten2_HD&q=800&e=.m3u8
 #EXTINF:-1, TEN 2 HD
 http://163.172.218.205:8081/T/2/index.m3u8
 #EXTINF:-1, TEN 3
-http://malayalamtv.stream/jio/jiomhworld.php?c=Ten_3&q=800&e=.m3u8
+http://malayalamtv.stream/jio/jiomhdworld.php?c=Ten_3&q=800&e=.m3u8
 #EXTINF:-1, TEN 3
 http://163.172.86.59:3135/tEN/3SpOSd/index.m3u8
 #EXTINF:-1, TEN 3 HD
 http://163.172.86.59:3135/tEN/3SpOSd/index.m3u8
 #EXTINF:-1, TEN 3 HD
-http://malayalamtv.stream/jio/jiomhworld.php?c=Ten3_HD&q=800&e=.m3u8
+http://malayalamtv.stream/jio/jiomhdworld.php?c=Ten3_HD&q=800&e=.m3u8
 #EXTINF:-1, TEN 3 HD
 http://163.172.218.205:8081/T/3/index.m3u8
 #EXTINF:-1, TEN CRICKET
