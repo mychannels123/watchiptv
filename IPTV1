@@ -443,7 +443,8 @@ http://163.172.211.93:8081/Star/S2/index.m3u8
 http://163.172.211.93:8081/Star/S1HD/index.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://stream.wicket.pw/app/starsports1hd.m3u8
-
+#EXTINF:-1, LADDI
+http://tamiltvlive.online/livetv/sports/wicketm3u8.php?c=starsports1hd
 
 
 
