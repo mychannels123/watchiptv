@@ -251,6 +251,8 @@ https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 #EXTM3U
 #EXTINF:-1, NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+#EXTINF:-1, STAR GOLD HD
+http://142.93.219.225/StarGoldHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR GOLD
 http://163.172.86.59:3135/Star/Gold/index.m3u8
 #EXTINF:-1, STAR GOLD
@@ -304,6 +306,8 @@ http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
 #EXTINF:-1, B4U MOVIES
 http://103.14.127.35:1935/b4umoviesindia/b4umoviesindia.stream_360p/playlist.m3u8
 #EXTINF:-1, B4U MOVIES
+http://malayalamtv.stream/anand3/airtel.php?c=b4umovies&e=.m3u8
+#EXTINF:-1, B4U MOVIES
 http://anandmedia.cinesoft.live:8880/anandmedia/b4umovies_360/chunklist.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX
 http://malayalamtv.stream/jio/jiomhdworld.php?c=Rishtey_Cineplex&q=800&e=.m3u8
@@ -334,7 +338,7 @@ https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/c
 #EXTINF:-1, ZEE CINEMA
 http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
-http://malayalamtv.stream/jio/jioworldtv.php?c=Sony_MAX2&q=800&e=.m3u8
+http://malayalamtv.stream/anand3/airtel.php?c=Sony_MAX2&q=800&e=.m3u8
 #EXTINF:-1, SONY MAX2
 http://mhdtvlive.online/mhdtvlive/airtel/test.php?c=sonymax2&e=.m3u8
 #EXTINF:-1, SONY MAX HD
