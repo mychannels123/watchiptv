@@ -214,8 +214,6 @@ http://103.14.127.37:1935/9xjhalwa/9xjhalwa.stream_360p/playlist.m3u8
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
 #EXTINF:-1, STAR BHARAT HD
 http://142.93.219.225/StarBharatHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, COLORS HD
-http://103.117.180.106/198333192015/Colors_HD/Colors_HD_1200.m3u8
 #EXTINF:-1, COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
 #EXTINF:-1, COLORS TV
