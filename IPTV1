@@ -429,10 +429,6 @@ http://163.172.86.59:3135/1009PTV/HD/index.m3u8
 https://stream.wicket.pw/app/ptvsportshd.m3u8
 #EXTINF:-1, PTV SPORTS
 http://51.15.6.67:8080/ptv/sports/index.m3u8
-#EXTINF:-1, STAR SPORTS 1HD
-http://tv.wlive.tv/tv/OK9x8VufKK20180321/chunklist_w1137780209_tkaGxzZW5kdGltZT0xNTQ2NzU0NTgwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9Umlwd21JMldCT20xUTFPYmh5ZVRsemZZdGo5RU5lakJCRlBuQjRPZjNwYz0=.m3u8
-#EXTINF:-1, STAR SPORTS 2HD
-http://142.93.219.225/StarSports2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS 1
 http://163.172.211.93:8081/Star/S1/index.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
@@ -444,7 +440,7 @@ http://163.172.211.93:8081/Star/S1HD/index.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, LADDI
-http://tamiltvlive.online/livetv/sports/wicketm3u8.php?c=starsports1hd
+http://stream.bdtv.live:8081/amr90/starsports2/chunks.m3u8?nimblesessionid=1881278&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMTkgMToyNDoyMyBBTSZoYXNoX3ZhbHVlPW9yWlJIVVRqTGo5K3F1WkZRK2Jia3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 
 
