@@ -61,6 +61,8 @@ http://gmkd57nmrnxo-hls-live.wmncdn.net/1176/mwtv/f1cf7bd21ba17d7e65fac82935e07d
 https://vrz.gigabitcdn.com/gL2oRVNQRUFLRVIX3QRVRFU1BFQUtFUg/mtshd/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",RAONUK PUNJAB DI
 https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/raunak-punjab/playlist.m3u8
+#EXTINF:-1, KANSHI TV
+http://live.kanshitv.co.uk/mobile/kanshitvkey_high/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",TOHAR TV
 https://vrz.gigabitcdn.com/VE8L2oQVJUVgX3QSEFSVFY/tohar-tv/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",AONE TV
