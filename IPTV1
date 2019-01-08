@@ -320,9 +320,15 @@ http://cdn.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsql
 #EXTINF:-1, CINEMA TV
 http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
 #EXTINF:-1, ZEE ACTION
+http://163.172.86.59:3135/Zee/action/index.m3u8
+#EXTINF:-1, ZEE ACTION
 http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
+http://163.172.86.59:3135/Zee/classic/index.m3u8
+#EXTINF:-1, ZEE BOLLYWOOD
 http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
+#EXTINF:-1, ZEE T HD
+http://163.172.86.59:3135/Zee/Tv/index.m3u8
 #EXTINF:-1, ZEE TV HD
 http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE TV
@@ -331,6 +337,8 @@ http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
 https://mslapacs.akamaized.net/hls/live/692167/zeecinemaapachd/zeecinemaapachd_2400k/chunklist.m3u8
+#EXTINF:-1, ZEE CINEMA HD
+http://163.172.86.59:3135/Zee/cinemaHd/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
 https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA
