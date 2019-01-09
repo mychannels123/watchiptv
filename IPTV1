@@ -356,7 +356,7 @@ http://103.117.180.106/198333192015/Sony_Max_HD/Sony_Max_HD_1200.m3u8
 #EXTINF:-1, SONY TV HD
 http://103.117.180.106/198333192015/Sony_HD/Sony_HD_1200.m3u8
 #EXTINF:-1, SONY SAB HD
-http://103.117.180.106/198333192015/Sony_SAB_HD/Sony_SAB_HD_1200.m3u8
+http://malayalamtv.stream/airtel/airtelTV.php?c=sabhd&s=&e=.m3u8
 
 #EXTINF:-1, group-title="SPORTS",SONY ESPN SD
 http://mark.srilankatv.online/airtel/at.php?id=http://mhms6.airtel.tv/PLTV/88888888/224/3221225805/03.m3u8
@@ -451,7 +451,7 @@ https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, LADDI
 http://stream.bdtv.live:8081/amr90/starsports2/chunks.m3u8?nimblesessionid=1881278&wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMTkgMToyNDoyMyBBTSZoYXNoX3ZhbHVlPW9yWlJIVVRqTGo5K3F1WkZRK2Jia3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF:-1, LADDI2
-
+http://malayalamtv.stream/airtel/airtelTV.php?c=sonymax2&e=.m3u8
 
 
 
