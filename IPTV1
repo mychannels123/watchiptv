@@ -99,6 +99,8 @@ https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_378_av-p.m3u8
 http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",BULLAND TV
 http://103.228.112.96:1935/bulandtv/live/playlist.m3u8
+#EXTINF:-1, HAMDARD TV
+http://hamdard.dyndns.tv/hamdard/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",HAMDARD TV
 http://cdn.samtv.ca/hamdard/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="PUNJABI TV", NVK TV FILMY
