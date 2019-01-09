@@ -221,13 +221,13 @@ http://103.14.127.37:1935/9xjhalwa/9xjhalwa.stream_360p/playlist.m3u8
 #EXTINF:-1, STAR BHARAT
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
 #EXTINF:-1, STAR BHARAT HD
-http://142.93.219.225/StarBharatHD/tracks-v1a1/mono.m3u8
+http://142.93.219.225:8081/StarBharatHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
 #EXTINF:-1, COLORS TV
 http://51.15.1.147:8010/color/clre/index.m3u8
 #EXTINF:-1, STAR PLUS HD
-http://142.93.219.225/StarPlusHD/tracks-v1a1/mono.m3u8
+http://142.93.219.225:8081/StarPlusHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR PLUS
 https://mslapacs.akamaized.net/hls/live/692167/starplusau/starplusau_1800k/chunklist.m3u8
 #EXTINF:-1, STAR PLUS 
@@ -258,7 +258,7 @@ https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 #EXTINF:-1, NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, STAR GOLD HD
-http://142.93.219.225/StarGoldHD/tracks-v1a1/mono.m3u8
+http://142.93.219.225:8081/StarGoldHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR GOLD
 http://163.172.86.59:3135/Star/Gold/index.m3u8
 #EXTINF:-1, STAR GOLD
