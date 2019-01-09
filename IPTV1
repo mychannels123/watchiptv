@@ -18,6 +18,8 @@ http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 #EXTINF:-1, group-title="NEWS",DELHI AAJ TAK
 https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live2/chunks.m3u8
 #EXTINF:-1, AAJ TAK
+http://malayalamtv.stream/airtel/airtelTV.php?c=aajtak&s=&e=.m3u8
+#EXTINF:-1, AAJ TAK
 https://msl40s.akamaized.net/hls/live/692167/msl/aajtak_1800/chunklist.m3u8?hdntl=exp=1546165268~acl=/*~data=hdntl~hmac=b6b986668275d7cae74aa5783dadeed34328b49da44ada63b80651cc5c0b8388
 #EXTINF:-1, TEZ
 https://msluk6s.akamaized.net/hls/live/2000171/teznewsmsl/teznews_1100/chunklist.m3u8
@@ -103,6 +105,8 @@ http://162.244.80.206:1935/live/nadivaid/chunklist_w566662471.m3u8
 http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",ANKHILA PUNJAB
 http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
+#EXTINF:-1, 9X TASHAN
+http://malayalamtv.stream/airtel/airtelTV.php?c=9xtashan&s=&e=.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
 https://msluk4s.akamaized.net/hls/live/2000136/9xtashanmsl/9xtashan_2000/chunklist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
@@ -358,7 +362,7 @@ http://malayalamtv.stream/airtel/airtelTV.php?c=sonymax&s=&e=.m3u8
 #EXTINF:-1, SONY TV HD
 http://malayalamtv.stream/airtel/airtelTV.php?c=sethd&s=&e=.m3u8
 #EXTINF:-1, SONY TV
-http://malayalamtv.stream/airtel/airtelTV.php?c=sethd&s=&e=.m3u8
+http://malayalamtv.stream/airtel/airtelTV.php?c=set&s=&e=.m3u8
 #EXTINF:-1, SONY SAB
 http://malayalamtv.stream/airtel/airtelTV.php?c=sab&s=&e=.m3u8
 #EXTINF:-1, SONY SAB HD
