@@ -69,6 +69,8 @@ http://live.kanshitv.co.uk/mobile/kanshitvkey_high/index.m3u8
 https://vrz.gigabitcdn.com/VE8L2oQVJUVgX3QSEFSVFY/tohar-tv/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",AONE TV
 http://live.cloud6.in:1935/live2/aonetv/playlist.m3u8
+#EXTINF:-1, PBN MUSIC
+http://163.172.86.59:3135/PBN/Music/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PBN MUSIC
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",SHAN PUNJABI TV
