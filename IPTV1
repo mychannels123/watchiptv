@@ -314,9 +314,13 @@ http://anandmedia.cinesoft.live:8880/anandmedia/b4umovies_360/chunklist.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX
 https://msleurope2s.akamaized.net/hls/live/2000183/ristheycineplex/ristheycineplex_1800/chunklist.m3u8
 #EXTINF:-1, WOW CINEMA
+http://malayalamtv.stream/airtel/airtelTV.php?c=wowcinema&s=&e=.m3u8
+#EXTINF:-1, WOW CINEMA
  https://acv.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/chunklist.m3u8
 #EXTINF:-1, WOW CINEMA
 http://cdn.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/playlist.m3u8
+#EXTINF:-1, CINEMA TV
+http://malayalamtv.stream/airtel/airtelTV.php?c=cinematv&s=&e=.m3u8
 #EXTINF:-1, CINEMA TV
 http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
 #EXTINF:-1, ZEE ACTION
