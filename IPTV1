@@ -269,8 +269,10 @@ https://vrz.gigabitcdn.com/QkZML2oTU9WSUVTX3QSVhNT1ZJRVM/bflix-movies/playlist.m
 http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
 #EXTINF:-1, BBO CLASSIC
 https://msluscens.akamaized.net/hls/live/2000126/bboclassicmsl/bboclassic_1800/chunklist.m3u8
+#EXTINF:-1, BBO HD
+https://msluseasts.akamaized.net/hls/live/2000128/bbousmsl/bbous_2000/chunklist.m3u8
 #EXTINF:-1, BBO MOVIES
-https://msluscen1s.akamaized.net/hls/live/2000127/bbomsl/bbo_300/chunklist.m3u8
+https://msluscen1s.akamaized.net/hls/live/2000127/bbomsl/bbo_2400/chunklist.m3u8
 #EXTINF:-1, CLASSIC HINDI
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhincla.stream_all/chunklist_w1902359197_b1296000.m3u8
 #EXTINF:-1, PREMIUM HINDI
