@@ -362,7 +362,7 @@ http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
 http://malayalamtv.stream/airtel/airtelTV.php?c=sonymax2&e=.m3u8
 #EXTINF:-1, SONY MAX2
-https://blazeintv.online/m3u8.php?c=Sony_MAX2&q=600&e=.m3u8
+http://142.93.219.225:8081/SonyMax2/index.m3u8
 #EXTINF:-1, SONY MAX HD
 http://malayalamtv.stream/airtel/airtelTV.php?c=sonymaxhd&s=&e=.m3u8
 #EXTINF:-1, SONY MAX
@@ -462,6 +462,8 @@ http://51.15.6.67:8080/ptv/sports/index.m3u8
 http://142.93.219.225:8081/StarSports1HD/index.m3u8
 #EXTINF:-1, STAR SPORTS 2HD
 http://142.93.219.225:8081/StarSports2HD/index.m3u8
+#EXTINF:-1, STAR SPORTS 3
+http://142.93.219.225:8081/StarSports3/index.m3u8
 #EXTINF:-1, STAR SPORTS 1
 http://163.172.211.93:8081/Star/S1/index.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
