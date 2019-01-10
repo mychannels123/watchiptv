@@ -359,6 +359,8 @@ https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/c
 http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
 http://malayalamtv.stream/airtel/airtelTV.php?c=sonymax2&e=.m3u8
+#EXTINF:-1, SONY MAX2
+https://blazeintv.online/m3u8.php?c=Sony_MAX2&q=800&e=.m3u8
 #EXTINF:-1, SONY MAX HD
 http://malayalamtv.stream/airtel/airtelTV.php?c=sonymaxhd&s=&e=.m3u8
 #EXTINF:-1, SONY MAX
