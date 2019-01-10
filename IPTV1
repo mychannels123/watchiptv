@@ -368,6 +368,8 @@ http://malayalamtv.stream/airtel/airtellivetv.php?c=sonymaxhd&s=&e=.m3u8
 #EXTINF:-1, SONY MAX
 http://malayalamtv.stream/airtel/airtelTV.php?c=sonymax&s=&e=.m3u8
 #EXTINF:-1, SONY TV HD
+http://142.93.219.225:8081/SonyHD/index.m3u8
+#EXTINF:-1, SONY TV HD
 http://malayalamtv.stream/airtel/airtellivetv.php?c=sethd&s=&e=.m3u8
 #EXTINF:-1, SONY TV
 http://malayalamtv.stream/airtel/airtelTV.php?c=set&s=&e=.m3u8
