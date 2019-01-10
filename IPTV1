@@ -472,6 +472,8 @@ http://142.93.219.225:8081/StarSportsSelect1HD/index.m3u8
 http://142.93.219.225:8081/StarSportsSelect2HD/index.m3u8
 #EXTINF:-1, STAR SPORTS FIRST
 http://142.93.219.225:8081/StarSportsFirst/index.m3u8
+#EXTINF:-1, STAR SPORTS 1HINDI HD
+http://142.93.219.225:8081/StarSports1HindiHD/index.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
 http://142.93.219.225:8081/StarSports1HD/index.m3u8
 #EXTINF:-1, STAR SPORTS 2HD
