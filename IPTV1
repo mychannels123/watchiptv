@@ -225,7 +225,7 @@ https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.
 #EXTINF:-1, STAR BHARAT HD
 http://142.93.219.225:8081/StarBharatHD/index.m3u8
 #EXTINF:-1, COLORS HD
-https://blazeintv.online/m3u8.php?c=Colors_HD&q=800&e=.m3u8
+http://142.93.219.225:8081/ColorsHD/index.m3u8
 #EXTINF:-1, COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
 #EXTINF:-1, COLORS TV
@@ -396,6 +396,8 @@ http://flu1.podzone.net:9091/En/Sl/index.m3u8
 http://malayalamtv.stream/airtel/airtelTV.php?c=sonyten1&s=&e=.m3u8
 #EXTINF:-1, TEN 1 HD
 http://malayalamtv.stream/airtel/airtelTV.php?c=sonyten1hd&s=&e=.m3u8
+#EXTINF:-1, TEN 1 HD
+http://142.93.219.225:8081/Ten1HD/index.m3u8
 #EXTINF:-1, TEN 1 HD
 http://163.172.218.205:8081/T/1/index.m3u8
 #EXTINF:-1, TEN 2
