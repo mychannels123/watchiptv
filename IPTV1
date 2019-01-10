@@ -420,8 +420,8 @@ http://163.172.86.59:3135/tEN/3SpOSd/index.m3u8
 http://malayalamtv.stream/airtel/airtelTV.php?c=sonyten3hd&s=&e=.m3u8
 #EXTINF:-1, TEN 3 HD
 http://163.172.218.205:8081/T/3/index.m3u8
-#EXTINF:-1, JIO CRICKET
-http://103.117.180.106/198333192015/Jio_Cricket_1_HD/Jio_Cricket_1_HD_1200.m3u8
+#EXTINF:-1, WWE 
+http://142.93.219.225:8081/WWENetwork/index.m3u8
 #EXTINF:-1, TEN CRICKET
 http://163.172.86.59:3135/tEN/3SpOSd/index.m3u8
 #EXTINF:-1, TEN SPORTS
@@ -449,6 +449,8 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 #EXTINF:-1, FOX CRICKET
 http://163.172.86.59:3135/Fox/AUSI/index.m3u8
 #EXTINF:-1, WILLOW HD
+http://142.93.219.225:8081/WillowCricketHD/index.m3u8
+#EXTINF:-1, WILLOW HD
 http://163.172.86.59:3135/1009PTV/HD/index.m3u8
 #EXTINF:-1, WILLOW HD
 https://stream.wicket.pw/app/willowhd.m3u8
@@ -464,6 +466,12 @@ http://163.172.86.59:3135/1009PTV/HD/index.m3u8
 https://stream.wicket.pw/app/ptvsportshd.m3u8
 #EXTINF:-1, PTV SPORTS
 http://51.15.6.67:8080/ptv/sports/index.m3u8
+#EXTINF:-1, STAR SPORTS SELECT 1HD
+http://142.93.219.225:8081/StarSportsSelect1HD/index.m3u8
+#EXTINF:-1, STAR SPORTS SELECT 2HD
+http://142.93.219.225:8081/StarSportsSelect2HD/index.m3u8
+#EXTINF:-1, STAR SPORTS FIRST
+http://142.93.219.225:8081/StarSportsFirst/index.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
 http://142.93.219.225:8081/StarSports1HD/index.m3u8
 #EXTINF:-1, STAR SPORTS 2HD
