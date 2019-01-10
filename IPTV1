@@ -375,6 +375,8 @@ http://malayalamtv.stream/airtel/airtelTV.php?c=set&s=&e=.m3u8
 http://malayalamtv.stream/airtel/airtelTV.php?c=sab&s=&e=.m3u8
 #EXTINF:-1, SONY SAB HD
 http://malayalamtv.stream/airtel/airtelTV.php?c=sabhd&s=&e=.m3u8
+#EXTINF:-1, SONY SAB HD
+http://142.93.219.225:8081/SonySABHD/index.m3u8
 
 #EXTINF:-1, group-title="SPORTS",SONY ESPN SD
 
