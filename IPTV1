@@ -463,11 +463,11 @@ http://163.172.86.59:3135/1009PTV/HD/index.m3u8
 #EXTINF:-1, WILLOW HD
 https://stream.wicket.pw/app/willowhd.m3u8
 #EXTINF:-1, PTV SPORTS
+http://flu.topeuserver.com:8080/LOLO/1/index.m3u8
+#EXTINF:-1, PTV SPORTS
 http://flu1.podzone.net:9091/En/Sl/index.m3u8
 #EXTINF:-1, PTV SPORTS
 http://163.172.211.93:8081/Cric/SK/index.m3u8
-#EXTINF:-1, PTV SPORTS
-http://163.172.86.59:3135/vPTV/SPORTS/index.m3u8
 #EXTINF:-1, PTV SPORTS
 http://163.172.86.59:3135/1009PTV/HD/index.m3u8
 #EXTINF:-1, PTV SPORTS
