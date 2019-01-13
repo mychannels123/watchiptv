@@ -261,6 +261,8 @@ https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 #EXTM3U
 #EXTINF:-1, NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+#EXTINF:-1, STAR GOLD SELECT HD
+http://142.93.219.225:8081/StarGoldSelectHD/index.m3u8
 #EXTINF:-1, STAR GOLD HD
 http://142.93.219.225:8081/StarGoldHD/index.m3u8
 #EXTINF:-1, STAR GOLD
