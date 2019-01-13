@@ -165,7 +165,7 @@ http://capcobroadcaststream.in:1935/capco/gopunjabi/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",DESI PLUS
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:-1,group-title="PUNJABI TV", GUBRU TV
-http://104.237.60.234/live/gabruutv.m3u8
+https://livetv.gabruu.com/live/mgabruutv.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",MASTI TV
 http://103.228.112.96:1935/masti/live/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",MH1
