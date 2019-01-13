@@ -360,7 +360,7 @@ https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/c
 #EXTINF:-1, ZEE CINEMA
 http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
-http://malayalamtv.stream/airtel/airtellivetv.php?c=sonymax2&e=.m3u8
+http://142.93.219.225:8081/SonyMax2/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, SONY MAX2
 http://142.93.219.225:8081/SonyMax2/index.m3u8
 #EXTINF:-1, SONY MAX HD
@@ -368,13 +368,13 @@ http://malayalamtv.stream/airtel/airtellivetv.php?c=sonymaxhd&s=&e=.m3u8
 #EXTINF:-1, SONY MAX
 http://malayalamtv.stream/airtel/airtelTV.php?c=sonymax&s=&e=.m3u8
 #EXTINF:-1, SONY TV HD
-http://142.93.219.225:8081/SonyHD/index.m3u8
+http://142.93.219.225:8081/SonyHD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, SONY TV HD
 http://malayalamtv.stream/airtel/airtellivetv.php?c=sethd&s=&e=.m3u8
 #EXTINF:-1, SONY TV
 http://malayalamtv.stream/airtel/airtelTV.php?c=set&s=&e=.m3u8
 #EXTINF:-1, SONY SAB
-http://malayalamtv.stream/airtel/airtellivetv.php?c=sab&s=&e=.m3u8
+https://mslapacs.akamaized.net/hls/live/692167/sabtvau/sabtvau_1800k/chunklist.m3u8
 #EXTINF:-1, SONY SAB HD
 http://malayalamtv.stream/airtel/airtellivetv.php?c=sabhd&s=&e=.m3u8
 #EXTINF:-1, SONY SAB HD
