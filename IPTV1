@@ -226,6 +226,8 @@ https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.
 http://142.93.219.225:8081/StarBharatHD/index.m3u8
 #EXTINF:-1, COLORS HD
 http://142.93.219.225:8081/ColorsHD/index.m3u8
+#EXTINF:-1, COLORS HD
+http://pkin.satocean.com:25461/stalker/stalker/155
 #EXTINF:-1, COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
 #EXTINF:-1, COLORS TV
@@ -415,7 +417,7 @@ http://malayalamtv.stream/airtel/airtellivetv.php?c=sonyten2&s=&e=.m3u8
 #EXTINF:-1, TEN 2
 http://hls3-criclngif.cdnvideo.ru/LiveApp/streams/cricingif.m3u8
 #EXTINF:-1, TEN 2 HD
-http://malayalamtv.stream/airtel/airtellivetv.php?c=sonyten2hd&s=&e=.m3u8
+http://pkin.satocean.com:25461/stalker/stalker/283
 #EXTINF:-1, TEN 2HD
 http://142.93.219.225:8081/Ten2HD/index.m3u8
 #EXTINF:-1, TEN 2 HD
