@@ -366,6 +366,8 @@ https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/c
 #EXTINF:-1, ZEE CINEMA
 http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
+http://malayalamtv.stream/airtel/airtellivetv.php?c=sonymax2&s=&e=.m3u8
+#EXTINF:-1, SONY MAX2
 http://142.93.219.225:8081/SonyMax2/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, SONY MAX2
 http://142.93.219.225:8081/SonyMax2/index.m3u8
@@ -511,7 +513,7 @@ http://163.172.211.93:8081/Star/S1HD/index.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, LADDI
-
+https://blazeintv.online/m3u8.php?c=sonymax2&s=&e=.m3u8
 
 
 
