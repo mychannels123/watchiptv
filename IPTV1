@@ -18,7 +18,7 @@ http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 #EXTINF:-1, group-title="NEWS",DELHI AAJ TAK
 https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live2/chunks.m3u8
 #EXTINF:-1, AAJ TAK
-http://malayalamtv.stream/airtel/airtellivetv.php?c=aajtak&s=&e=.m3u8
+http://malayalamtv.stream/airtel/mallu.php?c=aajtak&s=&e=.m3u8
 #EXTINF:-1, AAJ TAK
 https://msl40s.akamaized.net/hls/live/692167/msl/aajtak_1800/chunklist.m3u8?hdntl=exp=1546165268~acl=/*~data=hdntl~hmac=b6b986668275d7cae74aa5783dadeed34328b49da44ada63b80651cc5c0b8388
 #EXTINF:-1, TEZ
@@ -207,7 +207,7 @@ http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmv
 #EXTINF:-1, ZING TV
 https://z5ams.akamaized.net/zing/tracks-v2a1/index.m3u8
 #EXTINF:-1, MASTI TV
-http://malayalamtv.stream/airtel/airtellivetv.php?c=mastiii&s=&e=.m3u8
+http://malayalamtv.stream/airtel/mallu.php?c=mastiii&s=&e=.m3u8
 #EXTINF:-1, MUSIC INDIA
 https://akamaimidrol.akamaized.net/amagi_hls_data_yupptvAAA-mob-musicindia/CDN/384x216_320798/index.m3u8
 #EXTINF:-1, WOW MUSIC
@@ -219,7 +219,7 @@ http://163.172.86.59:3135/Wow/Music/index.m3u8
 #EXTINF:-1, ISHQ TV
 http://209.58.164.155/WOWhls/wowlive.m3u8
 #EXTINF:-1, SONY MIX
-http://malayalamtv.stream/airtel/airtellivetv.php?c=sonymix&s=&e=.m3u8
+http://malayalamtv.stream/airtel/mallu.php?c=sonymix&s=&e=.m3u8
 #EXTINF:-1, 9XM
 http://z5ams.akamaized.net/9xm/tracks-v1a1/mono.m3u8
 #EXTINF:-1, 9X JALWA
@@ -336,13 +336,13 @@ http://anandmedia.cinesoft.live:8880/anandmedia/b4umovies_360/chunklist.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX
 https://msleurope2s.akamaized.net/hls/live/2000183/ristheycineplex/ristheycineplex_1800/chunklist.m3u8
 #EXTINF:-1, WOW CINEMA
-http://malayalamtv.stream/airtel/airtellivetv.php?c=wowcinema&s=&e=.m3u8
+http://malayalamtv.stream/airtel/mallu.php?c=wowcinema&s=&e=.m3u8
 #EXTINF:-1, WOW CINEMA
  https://acv.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/chunklist.m3u8
 #EXTINF:-1, WOW CINEMA
 http://cdn.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/playlist.m3u8
 #EXTINF:-1, CINEMA TV
-http://malayalamtv.stream/airtel/airtellivetv.php?c=cinematv&s=&e=.m3u8
+http://malayalamtv.stream/airtel/mallu.php?c=cinematv&s=&e=.m3u8
 #EXTINF:-1, CINEMA TV
 http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
 #EXTINF:-1, ZEE ACTION
@@ -372,25 +372,25 @@ https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/c
 #EXTINF:-1, ZEE CINEMA
 http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
-http://malayalamtv.stream/airtel/airtellivetv.php?c=sonymax2&s=&e=.m3u8
+http://malayalamtv.stream/airtel/mallu.php?c=sonymax2&s=&e=.m3u8
 #EXTINF:-1, SONY MAX2
 http://142.93.219.225:8081/SonyMax2/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, SONY MAX2
 http://142.93.219.225:8081/SonyMax2/index.m3u8
 #EXTINF:-1, SONY MAX HD
-http://malayalamtv.stream/airtel/airtellivetv.php?c=sonymaxhd&s=&e=.m3u8
+http://malayalamtv.stream/airtel/mallu.php?c=sonymaxhd&s=&e=.m3u8
 #EXTINF:-1, SONY MAX
-http://malayalamtv.stream/airtel/airtelTV.php?c=sonymax&s=&e=.m3u8
+http://malayalamtv.stream/airtel/mallu.php?c=sonymax&s=&e=.m3u8
 #EXTINF:-1, SONY TV HD
 http://142.93.219.225:8081/SonyHD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, SONY TV HD
-http://malayalamtv.stream/airtel/airtellivetv.php?c=sethd&s=&e=.m3u8
+http://malayalamtv.stream/airtel/mallu.php?c=sethd&s=&e=.m3u8
 #EXTINF:-1, SONY TV
-http://malayalamtv.stream/airtel/airtelTV.php?c=set&s=&e=.m3u8
+http://malayalamtv.stream/airtel/mallu.php?c=set&s=&e=.m3u8
 #EXTINF:-1, SONY SAB
 https://mslapacs.akamaized.net/hls/live/692167/sabtvau/sabtvau_1800k/chunklist.m3u8
 #EXTINF:-1, SONY SAB HD
-http://malayalamtv.stream/airtel/airtellivetv.php?c=sabhd&s=&e=.m3u8
+http://malayalamtv.stream/airtel/mallu.php?c=sabhd&s=&e=.m3u8
 #EXTINF:-1, SONY SAB HD
 http://142.93.219.225:8081/SonySABHD/index.m3u8
 
@@ -401,9 +401,9 @@ https://stream.wicket.pw/app/willowsd.m3u8
 #EXTINF:-1, SONY ESPN HD
 https://stream.wicket.pw/app/sonyespnhd.m3u8
 #EXTINF:-1, SONY SIX SD
-http://malayalamtv.stream/airtel/airtellivetv.php?c=sonysix&s=&e=.m3u8
+http://malayalamtv.stream/airtel/mallu.php?c=sonysix&s=&e=.m3u8
 #EXTINF:-1, SONY SIX HD
-http://malayalamtv.stream/airtel/airtellivetv.php?c=sonysixhd&s=&e=.m3u8
+http://malayalamtv.stream/airtel/mallu.php?c=sonysixhd&s=&e=.m3u8
 #EXTINF:-1, SONY SIX HD
 http://142.93.219.225:8081/SixHD/index.m3u8
 #EXTINF:-1, SONY SIX HD
@@ -413,15 +413,15 @@ http://163.172.86.57:3135/Jio/Cricket/index.m3u8
 #EXTINF:-1, SONY TEN
 http://flu1.podzone.net:9091/En/Sl/index.m3u8
 #EXTINF:0, TEN 1 
-http://malayalamtv.stream/airtel/airtellivetv.php?c=sonyten1&s=&e=.m3u8
+http://malayalamtv.stream/airtel/mallu.php?c=sonyten1&s=&e=.m3u8
 #EXTINF:-1, TEN 1 HD
-http://malayalamtv.stream/airtel/airtellivetv.php?c=sonyten1hd&s=&e=.m3u8
+http://malayalamtv.stream/airtel/mallu.php?c=sonyten1hd&s=&e=.m3u8
 #EXTINF:-1, TEN 1 HD
 http://142.93.219.225:8081/Ten1HD/index.m3u8
 #EXTINF:-1, TEN 1 HD
 http://163.172.218.205:8081/T/1/index.m3u8
 #EXTINF:-1, TEN 2
-http://malayalamtv.stream/airtel/airtellivetv.php?c=sonyten2&s=&e=.m3u8
+http://malayalamtv.stream/airtel/mallu.php?c=sonyten2&s=&e=.m3u8
 #EXTINF:-1, TEN 2
 http://hls3-criclngif.cdnvideo.ru/LiveApp/streams/cricingif.m3u8
 #EXTINF:-1, TEN 2 HD
@@ -431,7 +431,7 @@ http://142.93.219.225:8081/Ten2HD/index.m3u8
 #EXTINF:-1, TEN 2 HD
 http://163.172.218.205:8081/T/2/index.m3u8
 #EXTINF:-1, TEN 3
-http://malayalamtv.stream/airtel/airtellivetv.php?c=sonyten3&s=&e=.m3u8
+http://malayalamtv.stream/airtel/mallu.php?c=sonyten3&s=&e=.m3u8
 #EXTINF:-1, TEN 3
 http://163.172.86.59:3135/tEN/3SpOSd/index.m3u8
 #EXTINF:-1, TEN 3 HD
@@ -439,7 +439,7 @@ http://142.93.219.225:8081/Ten3HD/index.m3u8
 #EXTINF:-1, TEN 3 HD
 http://163.172.86.59:3135/tEN/3SpOSd/index.m3u8
 #EXTINF:-1, TEN 3 HD
-http://malayalamtv.stream/airtel/airtellivetv.php?c=sonyten3hd&s=&e=.m3u8
+http://malayalamtv.stream/airtel/mallu.php?c=sonyten3hd&s=&e=.m3u8
 #EXTINF:-1, TEN 3 HD
 http://163.172.218.205:8081/T/3/index.m3u8
 #EXTINF:-1, WWE 
