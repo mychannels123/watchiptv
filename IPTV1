@@ -516,10 +516,10 @@ http://163.172.211.93:8081/Star/S2/index.m3u8
 http://163.172.211.93:8081/Star/S1HD/index.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://stream.wicket.pw/app/starsports1hd.m3u8
-#EXTINF:-1, LADDI
-https://redflixtv.online/jasmine.php?c=Sony_MAX2&q=800
+#EXTINF:-1, STAR SPORTS 1HD
+http://142.54.168.122:8080/edge/18962/tracks-v1a1/mono.m3u8?token=25.1.36036.0ac1f9240df96b3586c220faef490724.1.1.1.962.0.0.bb09ade3169baf7fad36e11f699ccecd
 #EXTINF:-1, LADDI2
-https://redflixtv.online/jasmine.php?c=Sony_Max_HD&q=600&e=.m3u8
+https://57a1b3b8b4855.streamlock.net/live/moviehouse_webA.sdp/chunklist_w1235993229.m3u8?token=7725846146
 
 
 
