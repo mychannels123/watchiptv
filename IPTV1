@@ -517,8 +517,9 @@ http://163.172.211.93:8081/Star/S1HD/index.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, LADDI
-https://redflixtv.online/jasmine.php?c=Colors_HD&q=800&e=.m3u8
-
+https://redflixtv.online/jasmine.php?c=Sony_ESPN_HD&q=600&e=.m3u8
+#EXTINF:-1, LADDI2
+https://redflixtv.online/jasmine.php?c=Sony_Max_HD&q=600&e=.m3u8
 
 
 
