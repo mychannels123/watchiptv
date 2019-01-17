@@ -368,7 +368,7 @@ https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/c
 #EXTINF:-1, ZEE CINEMA
 http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
-http://212.8.253.141:7071/induk2040/utvmovies/chunks.m3u8?nimblesessionid=107674583&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNi8yMDE5IDEwOjIwOjQ0IEFNJmhhc2hfdmFsdWU9TjIvaHFzMytKWTFSSG5BWndkRjF1dz09JnZhbGlkbWludXRlcz0y
+http://103.117.180.106/v30hyfytvdeskv30/Sony_MAX2/Sony_MAX2_800.m3u8
 #EXTINF:-1, SONY MAX2
 http://142.93.219.225:8081/SonyMax2/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, SONY MAX2
