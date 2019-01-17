@@ -518,7 +518,7 @@ https://stream.wicket.pw/app/starsports1hd.m3u8
 http://142.54.168.122:8080/edge/18962/tracks-v1a1/mono.m3u8?token=25.1.36036.0ac1f9240df96b3586c220faef490724.1.1.1.962.0.0.bb09ade3169baf7fad36e11f699ccecd
 #EXTINF:-1, LADDI2
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8?hdnea=st=1547708459~exp=1547709059~acl=!*/20/preview/ndtvhindi/*!/payload/yuppTVCom_5_-1_dd147aac8a9d42a0_US_66.96.183.59/*~hmac=5eb08af0dfd7e831143dbadcbf290c85befcf8d4389a30452fc91ef693aee9c1
-#EXTINF:-1, LADDI3
+#EXTINF:-1, LADDI1
 https://hlsengnews-lh.akamaihd.net/i/ams18_jus247@92090/index_1100_av-p.m3u8?sd=10&dw=10080&b=100-2500&rebase=on&hdntl=exp=1547795074~acl=!*%2fi%2fams18_jus247%4092090%2f*!%2fpayload%2fyupptvnewservice_5_-1_na_IN_103.240.91.70%2f*~data=hdntl~hmac=3fa6efbef10ac3fd6a19f8e6508704522e372bdf65e7e8fb7a3dbf682530c9a3
 
 
