@@ -260,6 +260,8 @@ http://103.14.127.37:1935/b4umusicindia/b4umusicindia.stream_360p/chunklist_w667
 http://163.172.86.59:3135/B4u/Music/index.m3u8
 #EXTINF:-1, B4U MUSIC
 http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
+#EXTINF:-1, B4U MUSIC
+https://ind17-lh.akamaihd.net/i/ind17_b4umusic@68543/index_2000_av-p.m3u8?sd=10&dw=7200&b=100-2500&rebase=on
 #EXTINF:-1, MTV INDIA
 https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 #EXTM3U
