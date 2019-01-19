@@ -276,6 +276,8 @@ http://142.93.219.225:8081/MoviesOK/index.m3u8
 #EXTINF:-1, STAR GOLD SELECT HD
 http://142.93.219.225:8081/StarGoldSelectHD/index.m3u8
 #EXTINF:-1, STAR GOLD HD
+http://stream1.thoptv.space:8880/thoptv/stargold/chunks.m3u8
+#EXTINF:-1, STAR GOLD HD
 http://142.93.219.225:8081/StarGoldHD/index.m3u8
 #EXTINF:-1, STAR GOLD
 http://163.172.86.59:3135/Star/Gold/index.m3u8
@@ -384,7 +386,7 @@ http://142.93.219.225:8081/SonyMax2/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, SONY MAX2
 http://142.93.219.225:8081/SonyMax2/index.m3u8
 #EXTINF:-1, SONY MAX HD
-http://malayalamtv.stream/airtel/xstreamtv.php?c=sonymaxhd&s=&e=.m3u8
+http://stream1.thoptv.space:8880/thoptv/sonymax/chunks.m3u8
 #EXTINF:-1, SONY MAX
 http://malayalamtv.stream/airtel/xstreamtv.php?c=sonymax&s=&e=.m3u8
 #EXTINF:-1, SONY TV HD
@@ -509,7 +511,11 @@ http://142.93.219.225:8081/StarSportsFirst/index.m3u8
 #EXTINF:-1, STAR SPORTS 1HINDI HD
 http://142.93.219.225:8081/StarSports1HindiHD/index.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
+http://stream1.thoptv.space:8880/thoptv/starsports1/chunks.m3u8
+#EXTINF:-1, STAR SPORTS 1HD
 http://142.93.219.225:8081/StarSports1HD/index.m3u8
+#EXTINF:-1, STAR SPORTS 2HD
+http://stream1.thoptv.space:8880/thoptv/starsports2/chunks.m3u8
 #EXTINF:-1, STAR SPORTS 2HD
 http://142.93.219.225:8081/StarSports2HD/index.m3u8
 #EXTINF:-1, STAR SPORTS 3
