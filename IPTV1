@@ -1,6 +1,8 @@
 
 #EXTINF:-1,  group-title="NEWS", INDIA TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
+#EXTINF:-1, NDTV
+https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8?hdnea=st=1547708459~exp=1547709059~acl=!*/20/preview/ndtvhindi/*!/payload/yuppTVCom_5_-1_dd147aac8a9d42a0_US_66.96.183.59/*~hmac=5eb08af0dfd7e831143dbadcbf290c85befcf8d4389a30452fc91ef693aee9c1
 #EXTINF:-1, INDIA TV
 https://msluk6s.akamaized.net/hls/live/2000171/indiatvmsl/indiatv_2000/chunklist.m3u8
 #EXTINF:-1, group-title="NEWS", JANTA TV
@@ -276,7 +278,7 @@ http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, MOVIES OK
 http://142.93.219.225:8081/MoviesOK/index.m3u8
 #EXTINF:-1, STAR GOLD SELECT HD
-http://142.93.219.225:8081/StarGoldSelectHD/index.m3u8
+http://stream1.thoptv.space:8880/thoptv/stargoldselect/chunks.m3u8
 #EXTINF:-1, STAR GOLD HD
 http://stream1.thoptv.space:8880/thoptv/stargold/chunks.m3u8
 #EXTINF:-1, STAR GOLD HD
@@ -533,9 +535,5 @@ http://163.172.211.93:8081/Star/S1HD/index.m3u8
 https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
 http://142.54.168.122:8080/edge/18962/tracks-v1a1/mono.m3u8?token=25.1.36036.0ac1f9240df96b3586c220faef490724.1.1.1.962.0.0.bb09ade3169baf7fad36e11f699ccecd
-#EXTINF:-1, LADDI2
-https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8?hdnea=st=1547708459~exp=1547709059~acl=!*/20/preview/ndtvhindi/*!/payload/yuppTVCom_5_-1_dd147aac8a9d42a0_US_66.96.183.59/*~hmac=5eb08af0dfd7e831143dbadcbf290c85befcf8d4389a30452fc91ef693aee9c1
-#EXTINF:-1, LADDI1
-https://r6---sn-q4f7sn7e.googlevideo.com/videoplayback?gir=yes&noclen=1&cmbypass=yes&mime=video%2Fmp4&key=yt6&ei=JkhAXITWOYyDwQGqn4-IAg&mn=sn-q4f7sn7e&sparams=aitags%2Ccmbypass%2Cei%2Cgcr%2Cgir%2Chang%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clive%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnoclen%2Cpl%2Crequiressl%2Csource%2Cexpire&c=web&expire=1547738247&signature=19CB0C8D2D3BF93B3B1E2DB2B048F17368B4CD5B.2BFA103AFCFD5C27C46E0B8EFF97AD0741CCD078&initcwndbps=1671250&mm=32&ip=2603%3A3014%3A1004%3A6300%3A4c15%3Aaa7d%3A3c09%3A944a&itag=136&ipbits=0&id=ObtObeVFYIU.1&pl=32&keepalive=yes&ms=lv&mt=1547716578&mv=m&aitags=133%2C134%2C135%2C136%2C160&hang=1&source=yt_live_broadcast&live=1&requiressl=yes&gcr=us&alr=yes&cpn=AxmSzq7nmzNbmT3i&cver=html5&headm=3&rn=1
 #EXTINF:-1,LADDI3
 http://hz1.0o010o0.com/ts/566607/826856/0196fdffc7162b9b03021d274164c396/9129/2792?star7=star7
