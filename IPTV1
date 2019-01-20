@@ -127,8 +127,6 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",CINE VOICE
 http://lzyr7zo8dvw2-hls-live.wmncdn.net/1164/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/tracks-v1a1/index.m3u8
-#EXTINF:-1, JUS HINDI HD
-https://hlsengnews-lh.akamaihd.net/i/ams18_jus247@92090/index_1100_av-p.m3u8?sd=10&dw=10080&b=100-2500&rebase=on&hdntl=exp=1548063848~acl=!*%2fi%2fams18_jus247%4092090%2f*!%2fpayload%2fyupptvnewservice_5_-1_na_IN_103.240.91.70%2f*~data=hdntl~hmac=01d8ac15f663b57d9bb784fcf134beeaf2ee3fb2041594e22844e6f88bc0b472
 #EXTINF:-1, group-title="PUNJABI TV",SHAN PUNJABI TV 
 http://fastway.ddns.net:6421/fastway/live101/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",CHARDIKLA TIME TV
@@ -234,7 +232,7 @@ https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.
 #EXTINF:-1, STAR BHARAT HD
 http://142.93.219.225:8081/StarBharatHD/index.m3u8
 #EXTINF:-1, COLORS HD
-http://stream1.thoptv.space:8880/thoptv/colorshd/chunks.m3u8
+http://stream1.thoptv.space:8880/thoptv/colorshd/chunks.m3u8?nimblesessionid=4083935
 #EXTINF:-1, COLORS HD
 http://142.93.219.225:8081/ColorsHD/index.m3u8
 #EXTINF:-1, COLORS TV
