@@ -233,6 +233,8 @@ https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.
 #EXTINF:-1, STAR BHARAT HD
 http://142.93.219.225:8081/StarBharatHD/index.m3u8
 #EXTINF:-1, COLORS HD
+http://stream1.thoptv.space:8880/thoptv/colorshd/chunks.m3u8
+#EXTINF:-1, COLORS HD
 http://142.93.219.225:8081/ColorsHD/index.m3u8
 #EXTINF:-1, COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
@@ -338,19 +340,13 @@ http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/Stream(04)/inde
 #EXTINF:-1, B4U MOVIES
 http://103.14.127.35:1935/b4umoviesindia/b4umoviesindia.stream_360p/playlist.m3u8
 #EXTINF:-1, B4U MOVIES
-http://malayalamtv.stream/anand3/airtel.php?c=b4umovies&e=.m3u8
-#EXTINF:-1, B4U MOVIES
-http://anandmedia.cinesoft.live:8880/anandmedia/b4umovies_360/chunklist.m3u8
+http://stream1.thoptv.space:8880/thoptv/rishteycineplex/chunks.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX
 https://msleurope2s.akamaized.net/hls/live/2000183/ristheycineplex/ristheycineplex_1800/chunklist.m3u8
-#EXTINF:-1, WOW CINEMA
-http://malayalamtv.stream/airtel/xtream.php?c=wowcinema&s=&e=.m3u8
 #EXTINF:-1, WOW CINEMA
  https://acv.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/chunklist.m3u8
 #EXTINF:-1, WOW CINEMA
 http://cdn.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/playlist.m3u8
-#EXTINF:-1, CINEMA TV
-http://malayalamtv.stream/airtel/xtream.php?c=cinematv&s=&e=.m3u8
 #EXTINF:-1, CINEMA TV
 http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
 #EXTINF:-1, ZEE ACTION
@@ -402,7 +398,8 @@ http://malayalamtv.stream/airtel/xstreamtv.php?c=sabhd&s=&e=.m3u8
 #EXTINF:-1, SONY SAB HD
 http://142.93.219.225:8081/SonySABHD/index.m3u8
 
-#EXTINF:-1, group-title="SPORTS",SONY ESPN SD
+#EXTINF:-1, group-title="SPORTS",SONY ESPN HD
+http://stream1.thoptv.space:8880/thoptv/espnhd/chunks.m3u8
 
 #EXTINF:_1, SONY ESPN HD
 https://stream.wicket.pw/app/willowsd.m3u8
@@ -458,6 +455,8 @@ http://142.93.219.225:8081/WWENetwork/index.m3u8
 http://163.172.86.59:3135/tEN/3SpOSd/index.m3u8
 #EXTINF:-1, TEN SPORTS
 http://163.172.86.57:3135/Teyn/Sport/index.m3u8
+#EXTINF:-1, SKY SPORTS CRICKET
+http://stream1.thoptv.space:8880/thoptv/8/chunks.m3u8
 #EXTINF:-1, SKY SPORTS HD MIX
 http://163.172.211.93:8081/Sky/Mix/index.m3u8
 #EXTINF:-1, SKY SPORTS
@@ -539,4 +538,4 @@ https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8?hdnea=st=154770
 #EXTINF:-1, LADDI1
 https://r6---sn-q4f7sn7e.googlevideo.com/videoplayback?gir=yes&noclen=1&cmbypass=yes&mime=video%2Fmp4&key=yt6&ei=JkhAXITWOYyDwQGqn4-IAg&mn=sn-q4f7sn7e&sparams=aitags%2Ccmbypass%2Cei%2Cgcr%2Cgir%2Chang%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clive%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnoclen%2Cpl%2Crequiressl%2Csource%2Cexpire&c=web&expire=1547738247&signature=19CB0C8D2D3BF93B3B1E2DB2B048F17368B4CD5B.2BFA103AFCFD5C27C46E0B8EFF97AD0741CCD078&initcwndbps=1671250&mm=32&ip=2603%3A3014%3A1004%3A6300%3A4c15%3Aaa7d%3A3c09%3A944a&itag=136&ipbits=0&id=ObtObeVFYIU.1&pl=32&keepalive=yes&ms=lv&mt=1547716578&mv=m&aitags=133%2C134%2C135%2C136%2C160&hang=1&source=yt_live_broadcast&live=1&requiressl=yes&gcr=us&alr=yes&cpn=AxmSzq7nmzNbmT3i&cver=html5&headm=3&rn=1
 #EXTINF:-1,LADDI3
-http://malayalamtv.stream/jio/stream2.php?ts=Sony_MAX2/Sony_MAX2_800-1547863454000.ts
+http://hz1.0o010o0.com/ts/566607/826856/0196fdffc7162b9b03021d274164c396/9129/2792?star7=star7
