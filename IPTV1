@@ -89,8 +89,6 @@ https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist
 https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist.m3u8?hdntl=exp=1544087271~acl=/*~data=hdntl~hmac=9d948b08f521a29e40e7cae073772c9dc54308c5661b62cd232e4e7b9d291fe9
 #EXTINF:-1, group-title="PUNJABI TV",PTC PUNJABI
 https://vrz.gigabitcdn.com/secure/JTV/UFRDUFUL2oUFVOSkFCSQX3QTkpBQkk/playlist.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",PTC PUNJABI
-http://50.7.198.170:8081/PB/PTCPUNJABI/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",BALLE BALLE 
 http://103.14.127.37:1935/balleballe/balleballe.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",BALLE BALLE
@@ -501,6 +499,8 @@ http://163.172.86.59:3135/1009PTV/HD/index.m3u8
 https://stream.wicket.pw/app/ptvsportshd.m3u8
 #EXTINF:-1, PTV SPORTS
 http://51.15.6.67:8080/ptv/sports/index.m3u8
+#EXTINF:-1,STAR SPORTS SELECT 1
+http://150.242.21.2/starsportsfour.m3u8
 #EXTINF:-1, STAR SPORTS SELECT 1
 http://142.93.219.225:8081/StarSportsSelect1/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, STAR SPORTS SELECT 2
