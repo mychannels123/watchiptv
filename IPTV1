@@ -264,8 +264,8 @@ https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, MOVIES OK
 http://142.93.219.225:8081/MoviesOK/index.m3u8
-#EXTINF:-1, STAR GOLD SELECT HD
-http://stream1.thoptv.space:8880/thoptv/stargoldselect/chunks.m3u8
+#EXTINF:-1, STAR GOLD HD
+http://stream1.thoptv.space:8880/thoptv/stargold/chunks.m3u8?nimblesessionid=4199303&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE5IDM6MTg6MDEgQU0maGFzaF92YWx1ZT1BaU5ocWlXTXp4OWk4TEE2b1ltaHJnPT0mdmFsaWRtaW51dGVzPTI=&key=9067c1a09276c04bda70d76229ea519c
 #EXTINF:-1, STAR GOLD HD
 http://142.93.219.225:8081/StarGoldHD/index.m3u8
 #EXTINF:-1, STAR GOLD
