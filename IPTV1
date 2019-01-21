@@ -326,8 +326,6 @@ http://103.14.127.35:1935/saharafir/saharafir.stream_360p/playlist.m3u8
 http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/Stream(04)/index.m3u8
 #EXTINF:-1, B4U MOVIES
 http://103.14.127.35:1935/b4umoviesindia/b4umoviesindia.stream_360p/playlist.m3u8
-#EXTINF:-1, B4U MOVIES
-http://stream1.thoptv.space:8880/thoptv/rishteycineplex/chunks.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX
 https://msleurope2s.akamaized.net/hls/live/2000183/ristheycineplex/ristheycineplex_1800/chunklist.m3u8
 #EXTINF:-1, WOW CINEMA
@@ -363,23 +361,17 @@ https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/c
 #EXTINF:-1, ZEE CINEMA
 http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
-http://103.117.180.106/v30hyfytvdeskv30/Sony_MAX2/Sony_MAX2_800.m3u8
-#EXTINF:-1, SONY MAX2
 http://142.93.219.225:8081/SonyMax2/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, SONY MAX2
 http://142.93.219.225:8081/SonyMax2/index.m3u8
 #EXTINF:-1, SONY MAX HD
-http://malayalamtv.stream/airtel/xm3u8.php?c=sonymaxhd&e=.m3u8
+http://stream1.thoptv.space:8880/thoptv/sonymax/chunks.m3u8?nimblesessionid=4240346&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE5IDk6MzE6MjMgQU0maGFzaF92YWx1ZT13am8zSldZaVVEb0UvN0tDcEN2emFRPT0mdmFsaWRtaW51dGVzPTI=&key=2c15b70970a69be5fd4a16f28bd1714b
 #EXTINF:-1, SONY MAX
 http://malayalamtv.stream/airtel/xm3u8.php?c=sonymax&e=.m3u8
 #EXTINF:-1, SONY TV HD
 http://142.93.219.225:8081/SonyHD/tracks-v1a1/mono.m3u8?token=RedflixTV
-#EXTINF:-1, SONY TV
-http://malayalamtv.stream/airtel/xstreamtv.php?c=set&s=&e=.m3u8
 #EXTINF:-1, SONY SAB
 https://mslapacs.akamaized.net/hls/live/692167/sabtvau/sabtvau_1800k/chunklist.m3u8
-#EXTINF:-1, SONY SAB HD
-http://malayalamtv.stream/airtel/xstreamtv.php?c=sabhd&s=&e=.m3u8
 #EXTINF:-1, SONY SAB HD
 http://142.93.219.225:8081/SonySABHD/index.m3u8
 
@@ -390,8 +382,6 @@ http://malayalamtv.stream/airtel/xm3u8.php?c=sonymax&e=.m3u8
 https://stream.wicket.pw/app/willowsd.m3u8
 #EXTINF:-1, SONY ESPN HD
 https://stream.wicket.pw/app/sonyespnhd.m3u8
-#EXTINF:-1, SONY SIX SD
-http://malayalamtv.stream/airtel/xstreamtv.php?c=sonysix&s=&e=.m3u8
 #EXTINF:-1, SONY SIX HD
 http://142.93.219.225:8081/SixHD/index.m3u8
 #EXTINF:-1, SONY SIX HD
@@ -400,8 +390,6 @@ http://163.172.218.205:8081/Six/HD/index.m3u8
 http://163.172.86.57:3135/Jio/Cricket/index.m3u8
 #EXTINF:-1, SONY TEN
 http://flu1.podzone.net:9091/En/Sl/index.m3u8
-#EXTINF:0, TEN 1 
-http://malayalamtv.stream/airtel/xstreamtv.php?c=sonyten1&s=&e=.m3u8
 #EXTINF:-1, TEN 1 HD
 http://john.redflixhosting.services/url/cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/02.m3u8
 #EXTINF:-1, TEN 1 HD
@@ -416,8 +404,6 @@ http://hls3-criclngif.cdnvideo.ru/LiveApp/streams/cricingif.m3u8
 http://142.93.219.225:8081/Ten2HD/index.m3u8
 #EXTINF:-1, TEN 2 HD
 http://163.172.218.205:8081/T/2/index.m3u8
-#EXTINF:-1, TEN 3
-http://stream1.thoptv.space:8880/thoptv/ten3/chunks.m3u8
 #EXTINF:-1, TEN 3
 http://163.172.86.59:3135/tEN/3SpOSd/index.m3u8
 #EXTINF:-1, TEN 3 HD
@@ -484,20 +470,12 @@ http://150.242.21.2/starsportsfour.m3u8
 http://142.93.219.225:8081/StarSportsSelect1/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, STAR SPORTS SELECT 2
 http://142.93.219.225:8081/StarSportsSelect2/tracks-v1a1/mono.m3u8?token=RedflixTV
-#EXTINF:-1, STAR SPORTS SELECT 1HD
-http://stream1.thoptv.space:8880/thoptv/select1/chunks.m3u8
-#EXTINF:-1, STAR SPORTS SELECT 2HD
-http://stream1.thoptv.space:8880/thoptv/select2/chunks.m3u8
 #EXTINF:-1, STAR SPORTS FIRST
 http://142.93.219.225:8081/StarSportsFirst/index.m3u8
 #EXTINF:-1, STAR SPORTS 1HINDI HD
 http://142.93.219.225:8081/StarSports1HindiHD/index.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
-http://stream1.thoptv.space:8880/thoptv/starsports1/chunks.m3u8
-#EXTINF:-1, STAR SPORTS 1HD
 http://142.93.219.225:8081/StarSports1HD/index.m3u8
-#EXTINF:-1, STAR SPORTS 2HD
-http://stream1.thoptv.space:8880/thoptv/starsports2/chunks.m3u8
 #EXTINF:-1, STAR SPORTS 2HD
 http://142.93.219.225:8081/StarSports2HD/index.m3u8
 #EXTINF:-1, STAR SPORTS 3
