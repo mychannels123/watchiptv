@@ -213,6 +213,10 @@ http://103.14.127.39:1935/wow/wow.stream_360p/playlist.m3u8
 http://209.58.160.177/wowouthls/live_240p.m3u8
 #EXTINF:-1, WOW MUSIC
 http://163.172.86.59:3135/Wow/Music/index.m3u8
+#EXTINF:-1, SONY MIX
+http://103.117.180.106/hyfytvdottoday/Sony_Mix/Sony_Mix_800.m3u8
+#EXTINF:-1, MASTI TV
+http://103.117.180.106/hyfytvdottoday/Mastiii/Mastiii_800.m3u8
 #EXTINF:-1, 9XM
 http://z5ams.akamaized.net/9xm/tracks-v1a1/mono.m3u8
 #EXTINF:-1, 9X JALWA
@@ -265,8 +269,6 @@ http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, MOVIES OK
 http://142.93.219.225:8081/MoviesOK/index.m3u8
 #EXTINF:-1, STAR GOLD HD
-http://stream1.thoptv.space:8880/thoptv/stargold/chunks.m3u8?nimblesessionid=4199303&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE5IDM6MTg6MDEgQU0maGFzaF92YWx1ZT1BaU5ocWlXTXp4OWk4TEE2b1ltaHJnPT0mdmFsaWRtaW51dGVzPTI=&key=9067c1a09276c04bda70d76229ea519c
-#EXTINF:-1, STAR GOLD HD
 http://142.93.219.225:8081/StarGoldHD/index.m3u8
 #EXTINF:-1, STAR GOLD
 http://163.172.86.59:3135/Star/Gold/index.m3u8
@@ -317,6 +319,8 @@ https://z5ams.akamaized.net/zanmolcnm/tracks-v1a1/index.m3u8
 #EXTINF:-1, STAR UTSUV MOVIES
 http://103.14.127.35:1935/starutsav/starutsav.stream_360p/playlist.m3u8
 #EXTINF:-1, MAHA MOVIES
+http://103.117.180.106/hyfytvdottoday/Maha_Movies/Maha_Movies_800.m3u8
+#EXTINF:-1, MAHA MOVIES
 http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.m3u8
 #EXTINF:-1, FILMY
 https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/filmy/playlist.m3u8
@@ -360,6 +364,8 @@ https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
 https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/chunklist.m3u8
 #EXTINF:-1, ZEE CINEMA
 http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
+#EXTINF:-1, SONY MAX2
+http://103.117.180.106/hyfytvdottoday/Sony_MAX2/Sony_MAX2_800.m3u8
 #EXTINF:-1, SONY MAX2
 http://142.93.219.225:8081/SonyMax2/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, SONY MAX2
