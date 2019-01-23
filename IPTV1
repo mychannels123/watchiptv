@@ -214,9 +214,9 @@ http://209.58.160.177/wowouthls/live_240p.m3u8
 #EXTINF:-1, WOW MUSIC
 http://163.172.86.59:3135/Wow/Music/index.m3u8
 #EXTINF:-1, SONY MIX
-http://103.117.180.106/hyfytvdottoday/Sony_Mix/Sony_Mix_800.m3u8
+http://stream1.thoptv.space:8880/thoptv/sonymix/chunks.m3u8
 #EXTINF:-1, MASTI TV
-http://103.117.180.106/hyfytvdottoday/Mastiii/Mastiii_800.m3u8
+http://stream1.thoptv.space:8880/thoptv/musicmasti/chunks.m3u8
 #EXTINF:-1, 9XM
 http://z5ams.akamaized.net/9xm/tracks-v1a1/mono.m3u8
 #EXTINF:-1, 9X JALWA
@@ -227,6 +227,8 @@ http://ind17-lh.akamaihd.net/i/ind17_9xjalwa@68546/index_2000_av-p.m3u8?sd=10&re
 http://103.14.127.37:1935/9xjhalwa/9xjhalwa.stream_360p/playlist.m3u8
 #EXTINF:-1, STAR BHARAT
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
+#EXTINF:-1, STAR BHARAT HD
+http://stream1.thoptv.space:8880/thoptv/starbharat/chunks.m3u8
 #EXTINF:-1, STAR BHARAT HD
 http://142.93.219.225:8081/StarBharatHD/index.m3u8
 #EXTINF:-1, COLORS HD
@@ -268,6 +270,8 @@ https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, MOVIES OK
 http://142.93.219.225:8081/MoviesOK/index.m3u8
+#EXTINF:-1, STAR GOLD HD
+http://stream1.thoptv.space:8880/thoptv/stargold/chunks.m3u8
 #EXTINF:-1, STAR GOLD HD
 http://142.93.219.225:8081/StarGoldHD/index.m3u8
 #EXTINF:-1, STAR GOLD
@@ -472,6 +476,8 @@ https://stream.wicket.pw/app/ptvsportshd.m3u8
 http://51.15.6.67:8080/ptv/sports/index.m3u8
 #EXTINF:-1,STAR SPORTS SELECT 1
 http://150.242.21.2/starsportsfour.m3u8
+#EXTINF:-1, STAR SPORTS SELECT 1HD
+http://stream1.thoptv.space:8880/thoptv/select1/chunks.m3u8
 #EXTINF:-1, STAR SPORTS SELECT 1
 http://142.93.219.225:8081/StarSportsSelect1/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, STAR SPORTS SELECT 2
