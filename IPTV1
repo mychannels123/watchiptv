@@ -232,6 +232,8 @@ http://142.93.219.225:8081/ColorsHD/index.m3u8
 #EXTINF:-1, COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
 #EXTINF:-1, COLORS TV
+http://103.205.133.43/hls/colors.m3u8
+#EXTINF:-1, COLORS TV
 http://51.15.1.147:8010/color/clre/index.m3u8
 #EXTINF:-1, STAR PLUS HD
 http://142.93.219.225:8081/StarPlusHD/index.m3u8
