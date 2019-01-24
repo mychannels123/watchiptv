@@ -228,7 +228,7 @@ https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.
 #EXTINF:-1, STAR BHARAT HD
 http://142.93.219.225:8081/StarBharatHD/index.m3u8
 #EXTINF:-1, COLORS HD
-http://142.93.219.225:8081/ColorsHD/index.m3u8
+http://103.240.91.71:808/Colors_HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
 #EXTINF:-1, COLORS TV
@@ -367,19 +367,17 @@ http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
 http://103.117.180.106/hyfytvdottoday/Sony_MAX2/Sony_MAX2_800.m3u8
 #EXTINF:-1, SONY MAX2
-http://142.93.219.225:8081/SonyMax2/tracks-v1a1/mono.m3u8?token=RedflixTV
-#EXTINF:-1, SONY MAX2
-http://142.93.219.225:8081/SonyMax2/index.m3u8
+http://103.240.91.71:808/Sony_MAX2/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, SONY MAX HD
 http://stream1.thoptv.space:8880/thoptv/sonymax/chunks.m3u8?nimblesessionid=4240346&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE5IDk6MzE6MjMgQU0maGFzaF92YWx1ZT13am8zSldZaVVEb0UvN0tDcEN2emFRPT0mdmFsaWRtaW51dGVzPTI=&key=2c15b70970a69be5fd4a16f28bd1714b
 #EXTINF:-1, SONY MAX
 http://malayalamtv.stream/airtel/xm3u8.php?c=sonymax&e=.m3u8
 #EXTINF:-1, SONY TV HD
-http://142.93.219.225:8081/SonyHD/tracks-v1a1/mono.m3u8?token=RedflixTV
+http://103.240.91.71:808/Sony_HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, SONY SAB
 https://mslapacs.akamaized.net/hls/live/692167/sabtvau/sabtvau_1800k/chunklist.m3u8
 #EXTINF:-1, SONY SAB HD
-http://142.93.219.225:8081/SonySABHD/index.m3u8
+http://103.240.91.71:808/Sony_SAB_HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 
 #EXTINF:-1, group-title="SPORTS",SONY ESPN HD
 http://malayalamtv.stream/airtel/xm3u8.php?c=sonymax&e=.m3u8
