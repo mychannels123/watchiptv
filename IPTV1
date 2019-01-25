@@ -367,9 +367,11 @@ http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
 http://103.117.180.106/hyfytvdottoday/Sony_MAX2/Sony_MAX2_800.m3u8
 #EXTINF:-1, SONY MAX2
+http://malayalamtv.stream/airtel/steamXxm3u8.php?c=sonymax2&e=.m3u8
+#EXTINF:-1, SONY MAX2
 http://103.240.91.71:808/Sony_MAX2/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, SONY MAX HD
-http://stream1.thoptv.space:8880/thoptv/sonymax/chunks.m3u8?nimblesessionid=4240346&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMS8yMDE5IDk6MzE6MjMgQU0maGFzaF92YWx1ZT13am8zSldZaVVEb0UvN0tDcEN2emFRPT0mdmFsaWRtaW51dGVzPTI=&key=2c15b70970a69be5fd4a16f28bd1714b
+
 #EXTINF:-1, SONY MAX
 http://malayalamtv.stream/airtel/xm3u8.php?c=sonymax&e=.m3u8
 #EXTINF:-1, SONY TV HD
