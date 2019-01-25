@@ -286,10 +286,6 @@ https://vrz.gigabitcdn.com/QkZML2oTU9WSUVTX3QSVhNT1ZJRVM/bflix-movies/playlist.m
 http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
 #EXTINF:-1, BBO CLASSIC
 https://msluscens.akamaized.net/hls/live/2000126/bboclassicmsl/bboclassic_1800/chunklist.m3u8
-#EXTINF:-1, UTV ACTION
-http://142.93.219.225:8081/UTVAction/tracks-v1a1/mono.m3u8
-#EXTINF:-1, UTV MOVIES
-http://142.93.219.225:8081/UTVMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BBO HD
 https://msluseasts.akamaized.net/hls/live/2000128/bbousmsl/bbous_2000/chunklist.m3u8
 #EXTINF:-1, BBO MOVIES
@@ -300,6 +296,8 @@ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhincla.stream_all/chunkli
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhinpre.stream_all/chunklist_w1077732830_b1296000.m3u8
 #EXTINF:-1, BOLLYWOOD HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodHD/1.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1, MBC BOLLYWOOD
+http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1, BOLLYWOOD CLASSIC
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1, ENTER 10
