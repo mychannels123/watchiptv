@@ -363,10 +363,6 @@ https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/c
 #EXTINF:-1, ZEE CINEMA
 http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
 #EXTINF:-1, SONY MAX2
-http://103.117.180.106/hyfytvdottoday/Sony_MAX2/Sony_MAX2_800.m3u8
-#EXTINF:-1, SONY MAX2
-http://malayalamtv.stream/airtel/steamXxm3u8.php?c=sonymax2&e=.m3u8
-#EXTINF:-1, SONY MAX2
 http://103.240.91.71:808/Sony_MAX2/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, SONY MAX HD
 
@@ -449,10 +445,6 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 #EXTINF:-1, FOX CRICKET
 http://163.172.86.59:3135/Fox/AUSI/index.m3u8
 #EXTINF:-1, WILLOW HD
-http://142.93.219.225:8081/WillowCricketHD/index.m3u8
-#EXTINF:-1, WILLOW HD
-http://142.93.219.225:8081/WillowCricketHD/index.m3u8
-#EXTINF:-1, WILLOW HD
 http://163.172.86.59:3135/1009PTV/HD/index.m3u8
 #EXTINF:-1, WILLOW HD
 https://stream.wicket.pw/app/willowhd.m3u8
@@ -470,22 +462,6 @@ https://stream.wicket.pw/app/ptvsportshd.m3u8
 http://51.15.6.67:8080/ptv/sports/index.m3u8
 #EXTINF:-1,STAR SPORTS SELECT 1
 http://150.242.21.2/starsportsfour.m3u8
-#EXTINF:-1, STAR SPORTS SELECT 1HD
-http://stream1.thoptv.space:8880/thoptv/select1/chunks.m3u8
-#EXTINF:-1, STAR SPORTS SELECT 1
-http://142.93.219.225:8081/StarSportsSelect1/tracks-v1a1/mono.m3u8?token=RedflixTV
-#EXTINF:-1, STAR SPORTS SELECT 2
-http://142.93.219.225:8081/StarSportsSelect2/tracks-v1a1/mono.m3u8?token=RedflixTV
-#EXTINF:-1, STAR SPORTS FIRST
-http://142.93.219.225:8081/StarSportsFirst/index.m3u8
-#EXTINF:-1, STAR SPORTS 1HINDI HD
-http://142.93.219.225:8081/StarSports1HindiHD/index.m3u8
-#EXTINF:-1, STAR SPORTS 1HD
-http://142.93.219.225:8081/StarSports1HD/index.m3u8
-#EXTINF:-1, STAR SPORTS 2HD
-http://142.93.219.225:8081/StarSports2HD/index.m3u8
-#EXTINF:-1, STAR SPORTS 3
-http://142.93.219.225:8081/StarSports3/index.m3u8
 #EXTINF:-1, STAR SPORTS 1
 http://163.172.211.93:8081/Star/S1/index.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
