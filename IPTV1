@@ -471,4 +471,4 @@ http://142.54.168.122:8080/edge/18962/tracks-v1a1/mono.m3u8?token=25.1.36036.0ac
 #EXTINF:-1,LADDI3
 http://sbglrcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_HD/Ten_HD_800-1548126588000.ts
 #EXTINF:-1, LADDI
-http://malayalamtv.stream/jio/stream2.php?ts=Ten_3/Ten_3_600-1548206292000.ts
+https://z5ams.akamaized.net/zcinemahd/tracks-v5a1/exp=1548839323~acl=%2f*~data=hdntl~hmac=142812482c26cd861207972043062aa0d5afaab2eac3eee95d00371a40fffbd7/mono.m3u8
