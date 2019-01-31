@@ -472,3 +472,5 @@ http://142.54.168.122:8080/edge/18962/tracks-v1a1/mono.m3u8?token=25.1.36036.0ac
 http://sbglrcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_HD/Ten_HD_800-1548126588000.ts
 #EXTINF:-1, LADDI
 https://z5ams.akamaized.net/zcinemahd/tracks-v5a1/exp=1548839323~acl=%2f*~data=hdntl~hmac=142812482c26cd861207972043062aa0d5afaab2eac3eee95d00371a40fffbd7/mono.m3u8
+#EXTINF:-1, LADDI2
+https://digi1.nexg.tv/live/_definst_/waocinema_HDD.sdp/key_w487885895_b524000_t64SFEgVmlkZW8=.m3u8key?wowzasessionid=487885895&wmsAuthSign=20190131104432820_d799a8257be34abb9834b3694de9ef4282373b1a_ba5aac9d599e85131de82fb6f8e09639729f8570&did=e61def4d-83f1-460d-97f2-2935eaa76a3c&udid=pT5E1tZ%2BR2hs%2FcjWrbkU%2Bg%3D%3D&msisdn=0&region=CM_OF&item_id=CH766&os=wap&app=mobilesite&sf=digivive_offdeck_wap&cid=&scid=&ct=
