@@ -203,8 +203,6 @@ http://103.14.127.37:1935/starutsav/starutsav.stream_360p/chunklist_w764760373.m
 http://103.14.127.39:1935/manoranjan/manoranjan.stream_360p/playlist.m3u8
 #EXTINF:-1, MANORANJAN TV
 http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmvieiaysg/playlist.m3u8
-#EXTINF:-1, ZING TV
-https://z5ams.akamaized.net/zing/tracks-v2a1/index.m3u8
 #EXTINF:-1, MUSIC INDIA
 https://akamaimidrol.akamaized.net/amagi_hls_data_yupptvAAA-mob-musicindia/CDN/384x216_320798/index.m3u8
 #EXTINF:-1, WOW MUSIC
@@ -225,16 +223,14 @@ http://ind17-lh.akamaihd.net/i/ind17_9xjalwa@68546/index_2000_av-p.m3u8?sd=10&re
 http://103.14.127.37:1935/9xjhalwa/9xjhalwa.stream_360p/playlist.m3u8
 #EXTINF:-1, STAR BHARAT
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
+#EXTINF:-1, STAR BHARAT
+http://51.159.4.21:3135/Life/ok/index.m3u8
 #EXTINF:-1, STAR BHARAT HD
 http://142.93.219.225:8081/StarBharatHD/index.m3u8
 #EXTINF:-1, COLORS HD
 http://103.240.91.71:808/Colors_HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
-#EXTINF:-1, COLORS TV
-http://103.205.133.43/hls/colors.m3u8
-#EXTINF:-1, COLORS TV
-http://51.15.1.147:8010/color/clre/index.m3u8
 #EXTINF:-1, STAR PLUS HD
 http://142.93.219.225:8081/StarPlusHD/index.m3u8
 #EXTINF:-1, STAR PLUS
@@ -244,7 +240,7 @@ http://163.172.86.59:3135/Star/plusHD/index.m3u8
 #EXTINF:-1, STAR PLUS
 http://51.15.5.246:8010/Str0r/PAlus/index.m3u8
 #EXTINF:-1, ZEE ANMOL
-https://z5ams.akamaized.net/zeeanmol/tracks-v2a1/mono.m3u8
+http://51.159.4.21:3135/Zee/anmol/index.m3u8
 #EXTINF:-1, SAHARA ONE
 https://vrz.gigabitcdn.com/secure/JTV/U0FIL2oUkFPTkUX3QQVJBT05F/playlist.m3u8
 #EXTINF:-1, SAHARA ONE
@@ -266,10 +262,6 @@ https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 #EXTM3U
 #EXTINF:-1, NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
-#EXTINF:-1, MOVIES OK
-http://142.93.219.225:8081/MoviesOK/index.m3u8
-#EXTINF:-1, STAR GOLD HD
-http://142.93.219.225:8081/StarGoldHD/index.m3u8
 #EXTINF:-1, STAR GOLD
 http://163.172.86.59:3135/Star/Gold/index.m3u8
 #EXTINF:-1, STAR GOLD
@@ -282,6 +274,10 @@ https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/Housefull/playlist.m3u8
 http://103.14.127.39:1935/bflixmovies/bflixmovies.stream_360p/playlist.m3u8
 #EXTINF:-1, BFLIX MOVIES
 https://vrz.gigabitcdn.com/QkZML2oTU9WSUVTX3QSVhNT1ZJRVM/bflix-movies/playlist.m3u8
+#EXTINF:-1, MBC BOLLYWOOD
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+#EXTINF:-1, B4U PLUS
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1, CINE MOVIES
 http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
 #EXTINF:-1, BBO CLASSIC
@@ -305,7 +301,7 @@ http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjx
 #EXTINF:-1, AND TV
 http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
 #EXTINF:-1, AND TV HD
-http://z5ams.akamaized.net/andtvhd/tracks-v2a1/index.m3u8
+http://51.159.4.21:3135/And/Tv/index.m3u8
 #EXTINF:-1, AND PICTURES
 https://z5ams.akamaized.net/andpicssd/tracks-v2a1/index.m3u8
 #EXTINF:-1, AND PICTURES HD
@@ -316,8 +312,6 @@ http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w3
 https://z5ams.akamaized.net/zanmolcnm/tracks-v1a1/index.m3u8
 #EXTINF:-1, STAR UTSUV MOVIES
 http://103.14.127.35:1935/starutsav/starutsav.stream_360p/playlist.m3u8
-#EXTINF:-1, MAHA MOVIES
-http://103.117.180.106/hyfytvdottoday/Maha_Movies/Maha_Movies_800.m3u8
 #EXTINF:-1, MAHA MOVIES
 http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.m3u8
 #EXTINF:-1, FILMY
@@ -337,15 +331,11 @@ http://cdn.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsql
 #EXTINF:-1, CINEMA TV
 http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
 #EXTINF:-1, ZEE ACTION
-http://163.172.86.59:3135/Zee/action/index.m3u8
-#EXTINF:-1, ZEE ACTION
-http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
+http://51.159.4.21:3135/Zee/action/index.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
-http://163.172.86.59:3135/Zee/classic/index.m3u8
-#EXTINF:-1, ZEE BOLLYWOOD
-http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
+http://51.159.4.21:3135/Zee/classic/index.m3u8
 #EXTINF:-1, ZEE TV HD
-http://163.172.86.59:3135/Zee/Tv/index.m3u8
+http://51.159.4.21:3135/Zee/Tv/index.m3u8
 #EXTINF:-1, ZEE TV HD
 http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE TV
@@ -355,21 +345,19 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
 https://mslapacs.akamaized.net/hls/live/692167/zeecinemaapachd/zeecinemaapachd_2400k/chunklist.m3u8
 #EXTINF:-1, ZEE CINEMA HD
-http://163.172.86.59:3135/Zee/cinemaHd/index.m3u8
-#EXTINF:-1, ZEE CINEMA HD
-https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
+http://51.159.4.21:3135/Zee/cinemaHd/index.m3u8
 #EXTINF:-1, ZEE CINEMA
 https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/chunklist.m3u8
 #EXTINF:-1, ZEE CINEMA
-http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
+http://51.159.4.21:3135/Zee/cinemame/index.m3u8
 #EXTINF:-1, SONY MAX2
 http://103.240.91.71:808/Sony_MAX2/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, SONY MAX HD
 
 #EXTINF:-1, SONY MAX
-http://malayalamtv.stream/airtel/xm3u8.php?c=sonymax&e=.m3u8
-#EXTINF:-1, SONY TV HD
-http://103.240.91.71:808/Sony_HD/tracks-v1a1/mono.m3u8?token=RedflixTV
+http://51.159.4.21:3135/Set/max/index.m3u8
+#EXTINF:-1, SONY TV 
+http://51.159.4.21:3135/Sony/Tv/index.m3u8
 #EXTINF:-1, SONY SAB
 https://mslapacs.akamaized.net/hls/live/692167/sabtvau/sabtvau_1800k/chunklist.m3u8
 #EXTINF:-1, SONY SAB HD
