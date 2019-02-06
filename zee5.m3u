@@ -1,0 +1,32 @@
+#EX#EXTINF:-1, AND TV HD
+https://z5ams.akamaized.net/andtvhd/tracks-v1a1/exp=1548906418~acl=%2f*~data=hdntl~hmac=6aa69db651b64655d4f0031481fb0fc71c9cf04b9cc24fabbb349c3ef5908b17/mono.m3u8
+#extinf:-1, zee tv hd
+https://z5ams.akamaized.net/zeetvhd/tracks-v1a1/exp=1548907172~acl=%2f*~data=hdntl~hmac=13a0fdb811d58b59de1493cd36d1079b016883f38141ff85f6d1ccff2204a05e/mono.m3u8
+#extinf:-1, zee cinema hd
+https://z5ams.akamaized.net/zcinemahd/tracks-v1a1/exp=1548907266~acl=%2f*~data=hdntl~hmac=83ace3cb60345f2066220524c6e7cbe5b718f784a28b4e2765e862d30a787208/mono.m3u8
+#extinf:-1, zee cinema
+https://z5ams.akamaized.net/zcinemasd/tracks-v1a1/exp=1548907302~acl=%2f*~data=hdntl~hmac=c585af7e8ad3553b37c395a69ea4b6c9cb58ef5eb6d4c5410b7ad7afae7bc368/mono.m3u8
+#extinf:-1, and pictures
+https://z5ams.akamaized.net/andpicssd/tracks-v1a1/exp=1548907415~acl=%2f*~data=hdntl~hmac=d16d0cf4e4c960351c1e50301e935139b7a07bae54ad57887b12e82e5b153218/mono.m3u8
+#extinf:-1, zee action
+https://z5ams.akamaized.net/action/tracks-v1a1/exp=1548907473~acl=%2f*~data=hdntl~hmac=81eaaecea17a26889ea325fb73584c437f37c86acb186c43562c644c0f113194/mono.m3u8
+#extinf:-1, zee bollywood
+https://z5ams.akamaized.net/classic/tracks-v1a1/exp=1548907610~acl=%2f*~data=hdntl~hmac=ddd98622edc2ed79d5c23f647925f81d14f5f99089d55e089d2627ada32f72ea/mono.m3u8
+#extinf:-1, zee anmol cinema
+https://z5ams.akamaized.net/zanmolcnm/tracks-v1a1/exp=1548907569~acl=%2f*~data=hdntl~hmac=3e96281464b9287472624f26a2754fc3f7b86d7be7939c719eba8776995eaa76/mono.m3u8
+
+
+
+
+
+
+#extinf:-1, and pictures hd
+https://z5ams.akamaized.net/andpicshd/tracks-v1a1/exp=1548907356~acl=%2f*~data=hdntl~hmac=3e91b3e824268aa74d62051002fd3ca9381215a7e74555fa5d4914cb50628506/mono.m3u8
+
+
+
+
+
+
+#extinf:-1, zee tv
+https://z5ams.akamaized.net/zeetvsd/tracks-v1a1/exp=1548907022~acl=%2f*~data=hdntl~hmac=d0abd8c4800486eef9489c5f0c55767c807375ea70077d69af4720dbb98987c5/mono.m3u8
