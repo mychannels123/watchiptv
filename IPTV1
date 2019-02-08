@@ -44,7 +44,7 @@ http://103.14.127.35:1935/ddloksabha/ddloksabha.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="NEWS",INDIA NEWS PUNJAB
 https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newspunjab_all/chunklist_w1082226080_b1628000.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",10 PUNJABI TV
-http://cdn.samtv.ca/10tvpunjabi/tracks-v1a1/mono.m3u8
+http://live.wmncdn.net/10tvpunjabi/e4152730b968f5b2774b47411db98651.sdp/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PUNJABI
 http://cdn.samtv.ca/akaarworldpunjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PRIME ASIA HD
@@ -196,11 +196,7 @@ http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",LIFE PUNJABI
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTINF:-1, group-title="HINDI",STAR TV
-https://vrz.gigabitcdn.com/secure/JTV/U1RBL2oVVRTQVYX3QUlVUU0FW/playlist.m3u8
-#EXTINF:-1, group-title="HINDI",STAR TV
-http://103.14.127.37:1935/starutsav/starutsav.stream_360p/chunklist_w764760373.m3u8
-#EXTINF:-1, MANORANJAN TV
-http://103.14.127.39:1935/manoranjan/manoranjan.stream_360p/playlist.m3u8
+https://vrz.gig
 #EXTINF:-1, MANORANJAN TV
 http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmvieiaysg/playlist.m3u8
 #EXTINF:-1, MUSIC INDIA
@@ -213,46 +209,20 @@ http://209.58.160.177/wowouthls/live_240p.m3u8
 http://163.172.86.59:3135/Wow/Music/index.m3u8
 #EXTINF:-1, MASTI TV
 http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqerafjrxcph/playlist.m3u8
-#EXTINF:-1, 9XM
-http://z5ams.akamaized.net/9xm/tracks-v1a1/mono.m3u8
-#EXTINF:-1, 9X JALWA
-http://z5ams.akamaized.net/9xjalwa/tracks-v1a1/mono.m3u8
 #EXTINF:-1, 9X JALWA
 http://ind17-lh.akamaihd.net/i/ind17_9xjalwa@68546/index_2000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, 9X JALWA
-http://103.14.127.37:1935/9xjhalwa/9xjhalwa.stream_360p/playlist.m3u8
 #EXTINF:-1, STAR BHARAT
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
 #EXTINF:-1, STAR BHARAT
 http://51.159.4.21:3135/Life/ok/index.m3u8
-#EXTINF:-1, STAR BHARAT HD
-http://142.93.219.225:8081/StarBharatHD/index.m3u8
-#EXTINF:-1, COLORS HD
-http://103.240.91.71:808/Colors_HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
-#EXTINF:-1, STAR PLUS HD
-http://142.93.219.225:8081/StarPlusHD/index.m3u8
 #EXTINF:-1, STAR PLUS
 https://mslapacs.akamaized.net/hls/live/692167/starplusau/starplusau_1800k/chunklist.m3u8
-#EXTINF:-1, STAR PLUS 
-http://163.172.86.59:3135/Star/plusHD/index.m3u8
-#EXTINF:-1, STAR PLUS
-http://51.15.5.246:8010/Str0r/PAlus/index.m3u8
 #EXTINF:-1, ZEE ANMOL
 http://51.159.4.21:3135/Zee/anmol/index.m3u8
 #EXTINF:-1, SAHARA ONE
-https://vrz.gigabitcdn.com/secure/JTV/U0FIL2oUkFPTkUX3QQVJBT05F/playlist.m3u8
-#EXTINF:-1, SAHARA ONE
 http://103.14.127.39:1935/saharaone/saharaone.stream_360p/playlist.m3u8
-#EXTINF:-1, MUSIC INDIA
-http://103.14.127.37:1935/musicindia/musicindia.stream_360p/chunklist_w984729855.m3u8
-#EXTINF:-1, B4U MUSIC
-http://103.199.161.254:80/Content/B4Umusic/Live/Channel(B4Umusic)/Stream(03)/index.m3u8
-#EXTINF:-1, B4U MUSIC
-http://103.14.127.37:1935/b4umusicindia/b4umusicindia.stream_360p/chunklist_w66794027.m3u8
-#EXTINF:-1, B4U MUSIC
-http://163.172.86.59:3135/B4u/Music/index.m3u8
 #EXTINF:-1, B4U MUSIC
 http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
 #EXTINF:-1, B4U MUSIC
@@ -263,17 +233,11 @@ https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 #EXTINF:-1, NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, STAR GOLD
-http://163.172.86.59:3135/Star/Gold/index.m3u8
+
 #EXTINF:-1, STAR GOLD
 http://150.242.21.2/stargold.m3u8
-#EXTINF:-1, HOUSEFULL ACTION
-http://103.14.127.35:1935/rishteycineplex/rishteycineplex.stream_360p/playlist.m3u8
-#EXTINF:-1,  HOUSEFULL MOVIES
-https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/Housefull/playlist.m3u8
 #EXTINF:-1, BFLIX MOVIES
 http://103.14.127.39:1935/bflixmovies/bflixmovies.stream_360p/playlist.m3u8
-#EXTINF:-1, BFLIX MOVIES
-https://vrz.gigabitcdn.com/QkZML2oTU9WSUVTX3QSVhNT1ZJRVM/bflix-movies/playlist.m3u8
 #EXTINF:-1, MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 #EXTINF:-1, B4U PLUS
@@ -298,24 +262,14 @@ http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1, ENTER 10
 http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
-#EXTINF:-1, AND TV
-http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
 #EXTINF:-1, AND TV HD
 http://51.159.4.21:3135/And/Tv/index.m3u8
-#EXTINF:-1, AND PICTURES
-https://z5ams.akamaized.net/andpicssd/tracks-v2a1/index.m3u8
-#EXTINF:-1, AND PICTURES HD
-https://z5ams.akamaized.net/andpicshd/tracks-v2a1/index.m3u8
 #EXTINF:-1, MULTIPLEX
 http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w381295327.m3u8
-#EXTINF:-1, ZEE ANMOL CINEMA
-https://z5ams.akamaized.net/zanmolcnm/tracks-v1a1/index.m3u8
 #EXTINF:-1, STAR UTSUV MOVIES
 http://103.14.127.35:1935/starutsav/starutsav.stream_360p/playlist.m3u8
 #EXTINF:-1, MAHA MOVIES
 http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.m3u8
-#EXTINF:-1, FILMY
-https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/filmy/playlist.m3u8
 #EXTINF:-1, FILMY
 http://103.14.127.35:1935/saharafir/saharafir.stream_360p/playlist.m3u8
 #EXTINF:-1, B4U MOVIES
@@ -360,8 +314,6 @@ http://51.159.4.21:3135/Set/max/index.m3u8
 http://51.159.4.21:3135/Sony/Tv/index.m3u8
 #EXTINF:-1, SONY SAB
 https://mslapacs.akamaized.net/hls/live/692167/sabtvau/sabtvau_1800k/chunklist.m3u8
-#EXTINF:-1, SONY SAB HD
-http://103.240.91.71:808/Sony_SAB_HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 
 #EXTINF:-1, group-title="SPORTS",SONY ESPN HD
 http://malayalamtv.stream/airtel/xm3u8.php?c=sonymax&e=.m3u8
@@ -372,93 +324,32 @@ https://stream.wicket.pw/app/willowsd.m3u8
 https://stream.wicket.pw/app/sonyespnhd.m3u8
 #EXTINF:-1, SONY SIX HD
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29548?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
-#EXTINF:-1, SONY SIX HD
-http://163.172.86.57:3135/Jio/Cricket/index.m3u8
+
 #EXTINF:-1, SONY TEN
 http://flu1.podzone.net:9091/En/Sl/index.m3u8
 #EXTINF:-1, TEN 1 HD
 http://john.redflixhosting.services/url/cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/02.m3u8
-#EXTINF:-1, TEN 1 HD
-http://163.172.218.205:8081/T/1/index.m3u8
-#EXTINF:-1, TEN 2
-http://hls3-criclngif.cdnvideo.ru/LiveApp/streams/cricingif.m3u8
 #EXTINF:-1, TEN 2 HD
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29547?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
-#EXTINF:-1, TEN 2 HD
-http://163.172.218.205:8081/T/2/index.m3u8
-#EXTINF:-1, TEN 3
-http://163.172.86.59:3135/tEN/3SpOSd/index.m3u8
-#EXTINF:-1, TEN 3 HD
-http://142.93.219.225:8081/Ten3HD/index.m3u8
-#EXTINF:-1, TEN 3 HD
-http://163.172.86.59:3135/tEN/3SpOSd/index.m3u8
+
 #EXTINF:-1, TEN 3 HD
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29546?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
-#EXTINF:-1, TEN 3 HD
-http://163.172.218.205:8081/T/3/index.m3u8
-#EXTINF:-1, WWE 
-http://142.93.219.225:8081/WWENetwork/index.m3u8
-#EXTINF:-1, TEN CRICKET
-http://161.0.157.9/PLTV/88888888/224/3221226394/03.m3u8
-#EXTINF:-1, TEN SPORTS
-http://163.172.86.57:3135/Teyn/Sport/index.m3u8
-#EXTINF:-1, SKY SPORTS CRICKET
-http://stream1.thoptv.space:8880/thoptv/8/chunks.m3u8
-#EXTINF:-1, SKY SPORTS HD MIX
-http://163.172.211.93:8081/Sky/Mix/index.m3u8
 #EXTINF:-1, SKY SPORTS
 https://stream.wicket.pw/app/skysportshd.m3u8
-#EXTINF:-1, OSN SPORTS HD CRICKET
-http://flu.topeuserver.com:8080/LOLO/1/index.m3u8
-#EXTINF:-1, OSN SPORTS HD CRICKET
-http://163.172.86.59:3135/osn/Cr/index.m3u8
-#EXTINF:-1, GTV HD
-http://163.172.86.57:3135/jui2G/tv/index.m3u8
-#EXTINF:-1, FOX CRICKET
-http://163.172.86.59:3135/Fox/AUiSI/index.m3u8
-#EXTINF:-1, BT SPORT 1
-http://163.172.46.35:8080/ind/wi/index.m3u8
-#EXTINF:-1, BT SPORT 1
-http://163.172.86.59:3135/INDtyu/aus/index.m3u8
 #EXTINF:-1, BT SPORT 2 HD
 https://stream.wicket.pw/app/sonysixhd.m3u8
 #EXTINF:-1, SPORT MAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
-#EXTINF:-1, FOX CRICKET
-http://163.172.86.59:3135/Fox/AUSI/index.m3u8
-#EXTINF:-1, WILLOW HD
-http://163.172.86.59:3135/1009PTV/HD/index.m3u8
 #EXTINF:-1, WILLOW HD
 https://stream.wicket.pw/app/willowhd.m3u8
 #EXTINF:-1, PTV SPORTS
-http://flu.topeuserver.com:8080/LOLO/1/index.m3u8
-#EXTINF:-1, PTV SPORTS
-http://flu1.podzone.net:9091/En/Sl/index.m3u8
-#EXTINF:-1, PTV SPORTS
-http://163.172.211.93:8081/Cric/SK/index.m3u8
-#EXTINF:-1, PTV SPORTS
-http://163.172.86.59:3135/1009PTV/HD/index.m3u8
-#EXTINF:-1, PTV SPORTS
 https://stream.wicket.pw/app/ptvsportshd.m3u8
-#EXTINF:-1, PTV SPORTS
-http://51.15.6.67:8080/ptv/sports/index.m3u8
 #EXTINF:-1,STAR SPORTS SELECT 1
 http://150.242.21.2/starsportsfour.m3u8
-#EXTINF:-1, STAR SPORTS 1
-http://163.172.211.93:8081/Star/S1/index.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
 http://150.242.21.2/starsportsthree.m3u8
-#EXTINF:-1, STAR SPORTS 2
-http://163.172.211.93:8081/Star/S2/index.m3u8
-#EXTINF:-1, STAR SPORTS 1 HD HINDI
-http://163.172.211.93:8081/Star/S1HD/index.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
 http://142.54.168.122:8080/edge/18962/tracks-v1a1/mono.m3u8?token=25.1.36036.0ac1f9240df96b3586c220faef490724.1.1.1.962.0.0.bb09ade3169baf7fad36e11f699ccecd
-#EXTINF:-1,LADDI3
-http://malayalamtv.stream/jio/play.php?c=PTC_Punjabi_Gold
-#EXTINF:-1, LADDI
-https://z5ams.akamaized.net/zcinemahd/tracks-v5a1/exp=1548839323~acl=%2f*~data=hdntl~hmac=142812482c26cd861207972043062aa0d5afaab2eac3eee95d00371a40fffbd7/mono.m3u8
-#EXTINF:-1, LADDI2
-http://jiotvweb.live/behudTV/#STAR%20GOLD%20SELECT
+
