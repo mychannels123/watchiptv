@@ -225,7 +225,7 @@ https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 #EXTINF:-1, NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, STAR GOLD
-
+http://51.159.4.21:3135/Star/Gold/index.m3u8
 #EXTINF:-1, STAR GOLD
 http://150.242.21.2/stargold.m3u8
 #EXTINF:-1, BFLIX MOVIES
