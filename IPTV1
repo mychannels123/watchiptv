@@ -71,8 +71,6 @@ http://live.kanshitv.co.uk/mobile/kanshitvkey_high/index.m3u8
 https://vrz.gigabitcdn.com/VE8L2oQVJUVgX3QSEFSVFY/tohar-tv/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",AONE TV
 http://live.cloud6.in:1935/live2/aonetv/playlist.m3u8
-#EXTINF:-1, PBN MUSIC
-http://163.172.86.59:3135/PBN/Music/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PBN MUSIC
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",SHAN PUNJABI TV
@@ -87,8 +85,6 @@ http://103.14.127.37:1935/ptcchakde/ptcchakde.stream_360p/playlist.m3u8
 https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC NEWS
 https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist.m3u8?hdntl=exp=1544087271~acl=/*~data=hdntl~hmac=9d948b08f521a29e40e7cae073772c9dc54308c5661b62cd232e4e7b9d291fe9
-#EXTINF:-1, group-title="PUNJABI TV",PTC PUNJABI
-https://vrz.gigabitcdn.com/secure/JTV/UFRDUFUL2oUFVOSkFCSQX3QTkpBQkk/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",BALLE BALLE 
 http://103.14.127.37:1935/balleballe/balleballe.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",BALLE BALLE
@@ -111,8 +107,6 @@ http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
 http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
 #EXTINF:-1, BRIT ASIA TV
 https://stream-01.nyc.dailymotion.com/sec(oqY34t1NIwbiLJBkRzm88m-vYPOnvgmZh6dSaZnUtDw)/dm/3/x6s18p8/s/live-3.m3u8
-#EXTINF:-1, 9X TASHAN
-http://z5ams.akamaized.net/9xtashan/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
 https://msluk4s.akamaized.net/hls/live/2000136/9xtashanmsl/9xtashan_2000/chunklist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
@@ -129,8 +123,6 @@ http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 http://lzyr7zo8dvw2-hls-live.wmncdn.net/1164/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",SHAN PUNJABI TV 
 http://fastway.ddns.net:6421/fastway/live101/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",CHARDIKLA TIME TV
-http://z5ams.akamaized.net/chardiktmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",CHARDIKLA TIME TV 
 http://cdn.asianetmobiletvplus.com/channels/chardiklatime_knumgbigutiuosmfxpnxflkddajysnsd/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PUNJAB TV
