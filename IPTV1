@@ -207,6 +207,8 @@ http://ind17-lh.akamaihd.net/i/ind17_9xjalwa@68546/index_2000_av-p.m3u8?sd=10&re
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
 #EXTINF:-1, STAR BHARAT
 http://51.159.4.21:3135/Life/ok/index.m3u8
+#EXTINF:-1, COLORS HD
+http://vidioplus.com/watchji0tv/Colors_HD/Colors_HD_1200.m3u8
 #EXTINF:-1, COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
 #EXTINF:-1, STAR PLUS
@@ -254,6 +256,8 @@ http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1, ENTER 10
 http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
+#EXTINF:-1, HOUSEFULL MOVIES
+http://vidioplus.com/watchji0tv/Housefull_Movies/Housefull_Movies_800.m3u8
 #EXTINF:-1, AND TV HD
 http://51.159.4.21:3135/And/Tv/index.m3u8
 #EXTINF:-1, MULTIPLEX
@@ -262,6 +266,8 @@ http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w3
 http://103.14.127.35:1935/starutsav/starutsav.stream_360p/playlist.m3u8
 #EXTINF:-1, MAHA MOVIES
 http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.m3u8
+#EXTINF:-1, MAHA MOVIES
+http://vidioplus.com/watchji0tv/Maha_Movies/Maha_Movies_800.m3u8
 #EXTINF:-1, FILMY
 http://103.14.127.35:1935/saharafir/saharafir.stream_360p/playlist.m3u8
 #EXTINF:-1, B4U MOVIES
@@ -296,12 +302,15 @@ http://51.159.4.21:3135/Zee/cinemaHd/index.m3u8
 https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/chunklist.m3u8
 #EXTINF:-1, ZEE CINEMA
 http://51.159.4.21:3135/Zee/cinemame/index.m3u8
-#EXTINF:-1, SONY MAX2
-http://103.240.91.71:808/Sony_MAX2/tracks-v1a1/mono.m3u8?token=RedflixTV
-#EXTINF:-1, SONY MAX HD
 
+#EXTINF:-1, SONY MAX HD
+http://vidioplus.com/watchji0tv/Sony_Max_HD/Sony_Max_HD_1200.m3u8
+#EXTINF:-1, SONY MAX2
+http://vidioplus.com/watchji0tv/Sony_MAX2/Sony_MAX2_800.m3u8
 #EXTINF:-1, SONY MAX
 http://51.159.4.21:3135/Set/max/index.m3u8
+#EXTINF:-1, SONY HD
+http://vidioplus.com/watchji0tv/Sony_Max_HD/Sony_Max_HD_1200.m3u8
 #EXTINF:-1, SONY TV 
 http://51.159.4.21:3135/Sony/Tv/index.m3u8
 #EXTINF:-1, SONY SAB
