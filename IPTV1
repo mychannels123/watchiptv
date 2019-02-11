@@ -288,10 +288,6 @@ http://51.159.4.21:3135/Zee/action/index.m3u8
 http://51.159.4.21:3135/Zee/classic/index.m3u8
 #EXTINF:-1, ZEE TV HD
 http://51.159.4.21:3135/Zee/Tv/index.m3u8
-#EXTINF:-1, ZEE TV HD
-http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
-#EXTINF:-1, ZEE TV
-http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
 #EXTINF:-1, Z LIVING USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
