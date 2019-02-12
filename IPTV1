@@ -347,8 +347,27 @@ http://150.242.21.2/starsportsfour.m3u8
 http://150.242.21.2/starsportsthree.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://stream.wicket.pw/app/starsports1hd.m3u8
-#EXTINF:-1, STAR SPORTS 1HD
-http://642815872484749244979246527962192454975624854792612979249219267.star7-live.net/ts/608199/150457/257226f2cfc458f960fa2ddf0e8c208e/9127/1858
+#EXTINF:-1, STAR SPORTS 1
+http://redflixiptv.ddns.net:81/StarSports1HD/tracks-v1a1/mono.m3u8?token=RedflixTV
+#EXTINF:-1, STAR SPORTS 1 HINDI
+http://thoptv.strangled.net:8880/StarSports1HindiHD/tracks-v1a1/mono.m3u8?token=RedflixTV
+#EXTINF:-1, STAR SPORTS 2HD
+http://thoptv.strangled.net:8880/StarSports2HD/video.m3u8?token=RedflixTV
+#EXTINF:-1, STAR SPORTS SELECT 1HD
+http://stream1.thoptv.space:8880/thoptv/select1/chunks.m3u8?nimblesessionid=142264&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDE5IDExOjU5OjE1IFBNJmhhc2hfdmFsdWU9THNqOVNxTk5NYXdxd3E1M2x1Q0JtZz09JnZhbGlkbWludXRlcz0y&key=6bb839a9475a031c099e7ec25bf025b1
+#EXTINF:-1, STAR SPORTS SELECT
+http://thoptv.strangled.net:8880/StarSportsSelect1HD/tracks-v1a1/mono.m3u8?token=RedflixTV
+
+
+
+
+
+
+
+
+
+
+
 
 
 
