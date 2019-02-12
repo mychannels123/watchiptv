@@ -74,9 +74,7 @@ http://live.cloud6.in:1935/live2/aonetv/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PBN MUSIC
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",SHAN PUNJABI TV
-http://103.228.112.96:1935/shan/live/playlist.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",SHAN PUNJABI TV
-https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/shan-punjabi/playlist.m3u8
+http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",RTV PUNJABI
 http://stream.rtvpunjabi.com/rtvpunjabi.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC CHAKDE
