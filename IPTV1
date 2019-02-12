@@ -357,7 +357,8 @@ http://thoptv.strangled.net:8880/StarSports2HD/video.m3u8?token=RedflixTV
 http://stream1.thoptv.space:8880/thoptv/select1/chunks.m3u8?nimblesessionid=142264&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDE5IDExOjU5OjE1IFBNJmhhc2hfdmFsdWU9THNqOVNxTk5NYXdxd3E1M2x1Q0JtZz09JnZhbGlkbWludXRlcz0y&key=6bb839a9475a031c099e7ec25bf025b1
 #EXTINF:-1, STAR SPORTS SELECT
 http://thoptv.strangled.net:8880/StarSportsSelect1HD/tracks-v1a1/mono.m3u8?token=RedflixTV
-
+#EXTINF:-1, LADDI
+http://malayalamtv.stream/jio/stream2.php?ts=PTC_Chak_De/PTC_Chak_De_800-1549932270000.ts
 
 
 
