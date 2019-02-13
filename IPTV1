@@ -197,6 +197,8 @@ http://103.14.127.39:1935/wow/wow.stream_360p/playlist.m3u8
 http://209.58.160.177/wowouthls/live_240p.m3u8
 #EXTINF:-1, WOW MUSIC
 http://163.172.86.59:3135/Wow/Music/index.m3u8
+#EXTINF:-1, SONY MIX
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonymix
 #EXTINF:-1, MASTI TV
 http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqerafjrxcph/playlist.m3u8
 #EXTINF:-1, 9X JALWA
@@ -205,16 +207,24 @@ http://ind17-lh.akamaihd.net/i/ind17_9xjalwa@68546/index_2000_av-p.m3u8?sd=10&re
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
 #EXTINF:-1, STAR BHARAT
 http://51.159.4.21:3135/Life/ok/index.m3u8
+#EXTINF:-1, STAR BHARAT HD
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starbharat
+#EXTINF:-1, COLORS HD
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=colorshd
 #EXTINF:-1, COLORS HD
 http://vidioplus.com/watchji0tv/Colors_HD/Colors_HD_1200.m3u8
 #EXTINF:-1, COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
+#EXTINF:-1, STAR PLUS HD
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starplus
 #EXTINF:-1, STAR PLUS
 https://mslapacs.akamaized.net/hls/live/692167/starplusau/starplusau_1800k/chunklist.m3u8
 #EXTINF:-1, ZEE ANMOL
 http://51.159.4.21:3135/Zee/anmol/index.m3u8
 #EXTINF:-1, SAHARA ONE
 http://103.14.127.39:1935/saharaone/saharaone.stream_360p/playlist.m3u8
+#EXTINF:-1, B4U MUSIC
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=b4umusic
 #EXTINF:-1, B4U MUSIC
 http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
 #EXTINF:-1, B4U MUSIC
@@ -224,6 +234,8 @@ https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 #EXTM3U
 #EXTINF:-1, NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+#EXTINF:-1, STAR GOLD HD
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=stargold
 #EXTINF:-1, STAR GOLD
 http://51.159.4.21:3135/Star/Gold/index.m3u8
 #EXTINF:-1, STAR GOLD
@@ -281,9 +293,13 @@ http://cdn.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsql
 #EXTINF:-1, CINEMA TV
 http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
 #EXTINF:-1, ZEE ACTION
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=zeeaction
+#EXTINF:-1, ZEE ACTION
 http://51.159.4.21:3135/Zee/action/index.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
 http://51.159.4.21:3135/Zee/classic/index.m3u8
+#EXTINF:-1, ZEE TV HD
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=zeetvhd
 #EXTINF:-1, ZEE TV HD
 http://51.159.4.21:3135/Zee/Tv/index.m3u8
 #EXTINF:-1, Z LIVING USA
@@ -291,18 +307,23 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
 https://mslapacs.akamaized.net/hls/live/692167/zeecinemaapachd/zeecinemaapachd_2400k/chunklist.m3u8
 #EXTINF:-1, ZEE CINEMA HD
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=zeecinemahd
+#EXTINF:-1, ZEE CINEMA HD
 http://51.159.4.21:3135/Zee/cinemaHd/index.m3u8
 #EXTINF:-1, ZEE CINEMA
 https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/chunklist.m3u8
 #EXTINF:-1, ZEE CINEMA
 http://51.159.4.21:3135/Zee/cinemame/index.m3u8
-
+#EXTINF:-1, SONY MAX HD
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonymax
 #EXTINF:-1, SONY MAX HD
 http://vidioplus.com/watchji0tv/Sony_Max_HD/Sony_Max_HD_1200.m3u8
 #EXTINF:-1, SONY MAX2
 http://vidioplus.com/watchji0tv/Sony_MAX2/Sony_MAX2_800.m3u8
 #EXTINF:-1, SONY MAX
 http://51.159.4.21:3135/Set/max/index.m3u8
+#EXTINF:-1, SONY HD
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonytv
 #EXTINF:-1, SONY HD
 http://vidioplus.com/watchji0tv/Sony_Max_HD/Sony_Max_HD_1200.m3u8
 #EXTINF:-1, SONY TV 
@@ -319,14 +340,20 @@ https://stream.wicket.pw/app/willowsd.m3u8
 https://stream.wicket.pw/app/sonyespnhd.m3u8
 #EXTINF:-1, SONY SIX HD
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29548?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
-
+#EXTINF:-1, SONY SIX HD
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonysixhd
 #EXTINF:-1, SONY TEN
 http://flu1.podzone.net:9091/En/Sl/index.m3u8
 #EXTINF:-1, TEN 1 HD
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=ten1
+#EXTINF:-1, TEN 1 HD
 http://john.redflixhosting.services/url/cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/02.m3u8
+#EXTINF:-1, TEN 2
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=ten2
 #EXTINF:-1, TEN 2 HD
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29547?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
-
+#EXTINF:-1, TEN 3 HD
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=ten3
 #EXTINF:-1, TEN 3 HD
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29546?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
 #EXTINF:-1, SKY SPORTS
@@ -345,14 +372,14 @@ http://150.242.21.2/starsportsfour.m3u8
 http://150.242.21.2/starsportsthree.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://stream.wicket.pw/app/starsports1hd.m3u8
+#EXTINF:-1, STAR SPORTS 1HD
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports
 #EXTINF:-1, STAR SPORTS 1
 http://redflixiptv.ddns.net:81/StarSports1HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, STAR SPORTS 1 HINDI
 http://thoptv.strangled.net:8880/StarSports1HindiHD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, STAR SPORTS 2HD
 http://thoptv.strangled.net:8880/StarSports2HD/video.m3u8?token=RedflixTV
-#EXTINF:-1, STAR SPORTS SELECT 1HD
-http://stream1.thoptv.space:8880/thoptv/select1/chunks.m3u8?nimblesessionid=142264&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDE5IDExOjU5OjE1IFBNJmhhc2hfdmFsdWU9THNqOVNxTk5NYXdxd3E1M2x1Q0JtZz09JnZhbGlkbWludXRlcz0y&key=6bb839a9475a031c099e7ec25bf025b1
 #EXTINF:-1, STAR SPORTS SELECT
 http://thoptv.strangled.net:8880/StarSportsSelect1HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, LADDI
