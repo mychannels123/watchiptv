@@ -373,7 +373,7 @@ http://150.242.21.2/starsportsthree.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports1
 #EXTINF:-1, STAR SPORTS 1
 http://redflixiptv.ddns.net:81/StarSports1HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, STAR SPORTS 1 HINDI
