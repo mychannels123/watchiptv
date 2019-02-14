@@ -384,8 +384,10 @@ http://thoptv.strangled.net:8880/StarSports2HD/video.m3u8?token=RedflixTV
 http://thoptv.strangled.net:8880/StarSportsSelect1HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, LADDI
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
-
-
+#EXTINF:-1, LADDI1
+https://recolic.net/miniProxy.php?http://sgdccdnems04.cdnsrv.jio.com/gdcsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD_600-1550111088000.ts
+#EXTINF:-1, LADDI2
+https://recolic.net/miniProxy.php?http://malayalamtv.stream/jio/stream2.php?ts=Sony_MAX2/Sony_MAX2_800-1550110996000.ts
 
 
 
