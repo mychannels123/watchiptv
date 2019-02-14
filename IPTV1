@@ -204,6 +204,8 @@ http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqera
 #EXTINF:-1, 9X JALWA
 http://ind17-lh.akamaihd.net/i/ind17_9xjalwa@68546/index_2000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, STAR BHARAT
+https://recolic.net/miniProxy.php?http://sgdccdnems04.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_800_337361.ts
+#EXTINF:-1, STAR BHARAT
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
 #EXTINF:-1, STAR BHARAT
 http://51.159.4.21:3135/Life/ok/index.m3u8
@@ -384,10 +386,6 @@ http://thoptv.strangled.net:8880/StarSports2HD/video.m3u8?token=RedflixTV
 http://thoptv.strangled.net:8880/StarSportsSelect1HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, LADDI
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
-#EXTINF:-1, LADDI1
-https://recolic.net/miniProxy.php?http://sgdccdnems04.cdnsrv.jio.com/gdcsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Cinema_HD/Zee_Cinema_HD_600-1550111088000.ts
-#EXTINF:-1, LADDI2
-https://recolic.net/miniProxy.php?http://malayalamtv.stream/jio/stream2.php?ts=Sony_MAX2/Sony_MAX2_800-1550110996000.ts
 
 
 
