@@ -243,7 +243,9 @@ http://51.159.4.21:3135/Star/Gold/index.m3u8
 #EXTINF:-1, STAR GOLD
 http://150.242.21.2/stargold.m3u8
 #EXTINF:-1, BFLIX MOVIES
-http://103.14.127.39:1935/bflixmovies/bflixmovies.stream_360p/playlist.m3u8
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=bflix
+#EXTINF:-1, UTV ACTION
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=utvaction
 #EXTINF:-1, MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 #EXTINF:-1, B4U PLUS
@@ -285,7 +287,9 @@ http://103.14.127.35:1935/saharafir/saharafir.stream_360p/playlist.m3u8
 #EXTINF:-1, B4U MOVIES
 http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/Stream(04)/index.m3u8
 #EXTINF:-1, B4U MOVIES
-http://103.14.127.35:1935/b4umoviesindia/b4umoviesindia.stream_360p/playlist.m3u8
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=rishteycineplex
+#EXTINF:-1, RISHTEY CINEPLEX HD
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=rishtey
 #EXTINF:-1, RISHTEY CINEPLEX
 https://msleurope2s.akamaized.net/hls/live/2000183/ristheycineplex/ristheycineplex_1800/chunklist.m3u8
 #EXTINF:-1, WOW CINEMA
@@ -382,6 +386,10 @@ http://redflixiptv.ddns.net:81/StarSports1HD/tracks-v1a1/mono.m3u8?token=Redflix
 http://thoptv.strangled.net:8880/StarSports1HindiHD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, STAR SPORTS 2HD
 http://thoptv.strangled.net:8880/StarSports2HD/video.m3u8?token=RedflixTV
+#EXTINF:-1, STAR SELECT 1HD
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select1
+#EXTINF:-1, STAR SELECT 2HD
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select2
 #EXTINF:-1, STAR SPORTS SELECT
 http://thoptv.strangled.net:8880/StarSportsSelect1HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, LADDI
