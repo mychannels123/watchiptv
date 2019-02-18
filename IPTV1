@@ -316,12 +316,14 @@ http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2266.m3u8
 http://45.120.188.170:8000/play/a05u
 #EXTINF:-1, ZEE ACTION
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=zeeaction
+#EXTINF:-1, ZEE ACTION
+http://51.159.4.21:3135/Zee/action/index.m3u8?token=NzQuOTMuMTU4LjIyMi10b2tlbjEtMTU1MDQ5MzQwMg==
 #EXTINF:-1, ZEE BOLLYWOOD
-http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2262.m3u8
+http://51.159.4.21:3135/Zee/classic/index.m3u8?token=NzQuOTMuMTU4LjIyMi10b2tlbjEtMTU1MDQ5MzM1MQ==
 #EXTINF:-1, ZEE TV HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=zeetvhd
 #EXTINF:-1, ZEE TV HD
-http://51.159.4.21:3135/Zee/Tv/index.m3u8
+http://51.159.4.21:3135/Zee/Tv/index.m3u8?token=NzQuOTMuMTU4LjIyMi10b2tlbjEtMTU1MDQ5MzEzMw==
 #EXTINF:-1, Z LIVING USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
@@ -329,7 +331,7 @@ https://mslapacs.akamaized.net/hls/live/692167/zeecinemaapachd/zeecinemaapachd_2
 #EXTINF:-1, ZEE CINEMA HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=zeecinemahd
 #EXTINF:-1, ZEE CINEMA HD
-http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2265.m3u8
+http://51.159.4.21:3135/Zee/cinemaHd/index.m3u8?token=NzQuOTMuMTU4LjIyMi10b2tlbjEtMTU1MDQ5MzMwNQ==
 #EXTINF:-1, ZEE CINEMA
 https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/chunklist.m3u8
 #EXTINF:-1, ZEE CINEMA
