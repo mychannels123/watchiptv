@@ -186,7 +186,7 @@ http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",LIFE PUNJABI
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTINF:-1, group-title="HINDI",STAR TV
-https://vrz.gig
+http://45.120.188.170:8000/play/a059
 #EXTINF:-1, MANORANJAN TV
 http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmvieiaysg/playlist.m3u8
 #EXTINF:-1, MUSIC INDIA
@@ -199,6 +199,8 @@ http://209.58.160.177/wowouthls/live_240p.m3u8
 http://163.172.86.59:3135/Wow/Music/index.m3u8
 #EXTINF:-1, SONY MIX
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonymix
+#EXTINF:-1, SONY MIX
+http://45.120.188.170:8000/play/a04s
 #EXTINF:-1, MASTI TV
 http://45.120.188.170:8000/play/a05b
 #EXTINF:-1, MASTI TV
@@ -286,6 +288,8 @@ http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.
 http://45.120.188.170:8000/play/a05s
 #EXTINF:-1, HOUSEFULL MOVIES
 http://45.120.188.170:8000/play/a05t
+#EXTINF:-1, HOUSEFULL ACTION
+http://45.120.188.170:8000/play/a05v
 #EXTINF:-1, FILMY
 http://103.14.127.35:1935/saharafir/saharafir.stream_360p/playlist.m3u8
 #EXTINF:-1, B4U MOVIES
@@ -300,11 +304,16 @@ https://msleurope2s.akamaized.net/hls/live/2000183/ristheycineplex/ristheycinepl
  https://acv.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/chunklist.m3u8
 #EXTINF:-1, WOW CINEMA
 http://cdn.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/playlist.m3u8
+#EXTINF:-1, WOW CINEMA
+http://45.120.188.170:8000/play/a04m
 #EXTINF:-1, CINEMA TV
 http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
+#EXTINF:-1, CINEMA TV
+http://45.120.188.170:8000/play/a04j
 #EXTINF:-1, ZEE ANMOL CINEMA
 http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2266.m3u8
-
+#EXTINF:-1, STAR UTSAV MOVIES
+http://45.120.188.170:8000/play/a05u
 #EXTINF:-1, ZEE ACTION
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=zeeaction
 #EXTINF:-1, ZEE BOLLYWOOD
@@ -401,8 +410,8 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select2
 http://thoptv.strangled.net:8880/StarSportsSelect1HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, LADDI
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
-#EXTINF:-1,2
-http://45.120.188.170:8000/play/a05v/44735576.m3u8
+#EXTINF:-1, STAR SPORTS FIRST
+http://45.120.188.170:8000/play/a060
 
 
 
