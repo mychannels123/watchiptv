@@ -104,7 +104,7 @@ http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",ANKHILA PUNJAB
 http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
 #EXTINF:-1, BRIT ASIA TV
-https://stream-01.nyc.dailymotion.com/sec(oqY34t1NIwbiLJBkRzm88m-vYPOnvgmZh6dSaZnUtDw)/dm/3/x6s18p8/s/live-3.m3u8
+http://89.1.118.238:8000/play/a02d
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
 https://msluk4s.akamaized.net/hls/live/2000136/9xtashanmsl/9xtashan_2000/chunklist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
@@ -204,7 +204,7 @@ http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqera
 #EXTINF:-1, 9X JALWA
 http://ind17-lh.akamaihd.net/i/ind17_9xjalwa@68546/index_2000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, STAR BHARAT
-https://recolic.net/miniProxy.php?http://sgdccdnems04.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/starbharat/master_800_337361.ts
+http://45.120.188.170:8000/play/a04v
 #EXTINF:-1, STAR BHARAT
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
 #EXTINF:-1, STAR BHARAT
@@ -239,9 +239,9 @@ http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, STAR GOLD HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=stargold
 #EXTINF:-1, STAR GOLD
-http://51.159.4.21:3135/Star/Gold/index.m3u8
-#EXTINF:-1, STAR GOLD
 http://150.242.21.2/stargold.m3u8
+#EXTINF:-1, RISHTEY CINEPLEX
+http://45.120.188.170:8000/play/a05z
 #EXTINF:-1, BFLIX MOVIES
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=bflix
 #EXTINF:-1, UTV ACTION
@@ -280,8 +280,10 @@ http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w3
 http://103.14.127.35:1935/starutsav/starutsav.stream_360p/playlist.m3u8
 #EXTINF:-1, MAHA MOVIES
 http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.m3u8
-#EXTINF:-1, MAHA MOVIES
-http://vidioplus.com/watchji0tv/Maha_Movies/Maha_Movies_800.m3u8
+#EXTINF:-1, MOVIE HOUSE
+http://45.120.188.170:8000/play/a05s
+#EXTINF:-1, HOUSEFUL MOVIES
+http://45.120.188.170:8000/play/a05t
 #EXTINF:-1, FILMY
 http://103.14.127.35:1935/saharafir/saharafir.stream_360p/playlist.m3u8
 #EXTINF:-1, B4U MOVIES
