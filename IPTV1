@@ -397,7 +397,7 @@ http://thoptv.strangled.net:8880/StarSportsSelect1HD/tracks-v1a1/mono.m3u8?token
 #EXTINF:-1, LADDI
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
 #EXTINF:-1,2
-http://malayalamtv.stream/jio/streamkey.php?key=Sony_MAX2/Sony_MAX2_800-1550305118000.key
+http://45.120.188.170:8000/play/a05v/44735576.m3u8
 
 
 
