@@ -200,6 +200,8 @@ http://163.172.86.59:3135/Wow/Music/index.m3u8
 #EXTINF:-1, SONY MIX
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonymix
 #EXTINF:-1, MASTI TV
+http://45.120.188.170:8000/play/a05b
+#EXTINF:-1, MASTI TV
 http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqerafjrxcph/playlist.m3u8
 #EXTINF:-1, 9X JALWA
 http://ind17-lh.akamaihd.net/i/ind17_9xjalwa@68546/index_2000_av-p.m3u8?sd=10&rebase=on
@@ -270,8 +272,8 @@ http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1, ENTER 10
 http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
-#EXTINF:-1, HOUSEFULL MOVIES
-http://vidioplus.com/watchji0tv/Housefull_Movies/Housefull_Movies_800.m3u8
+#EXTINF:-1, ENTER 10
+http://45.120.188.170:8000/play/a04u
 #EXTINF:-1, AND TV HD
 http://51.159.4.21:3135/And/Tv/index.m3u8
 #EXTINF:-1, MULTIPLEX
@@ -282,7 +284,7 @@ http://103.14.127.35:1935/starutsav/starutsav.stream_360p/playlist.m3u8
 http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.m3u8
 #EXTINF:-1, MOVIE HOUSE
 http://45.120.188.170:8000/play/a05s
-#EXTINF:-1, HOUSEFUL MOVIES
+#EXTINF:-1, HOUSEFULL MOVIES
 http://45.120.188.170:8000/play/a05t
 #EXTINF:-1, FILMY
 http://103.14.127.35:1935/saharafir/saharafir.stream_360p/playlist.m3u8
@@ -290,8 +292,8 @@ http://103.14.127.35:1935/saharafir/saharafir.stream_360p/playlist.m3u8
 http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/Stream(04)/index.m3u8
 #EXTINF:-1, B4U MOVIES
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=rishteycineplex
-#EXTINF:-1, RISHTEY CINEPLEX HD
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=rishtey
+#EXTINF:-1, RISHTEY CINEPLEX 
+http://45.120.188.170:8000/play/a05z
 #EXTINF:-1, RISHTEY CINEPLEX
 https://msleurope2s.akamaized.net/hls/live/2000183/ristheycineplex/ristheycineplex_1800/chunklist.m3u8
 #EXTINF:-1, WOW CINEMA
@@ -300,12 +302,13 @@ https://msleurope2s.akamaized.net/hls/live/2000183/ristheycineplex/ristheycinepl
 http://cdn.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/playlist.m3u8
 #EXTINF:-1, CINEMA TV
 http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
+#EXTINF:-1, ZEE ANMOL CINEMA
+http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2266.m3u8
+
 #EXTINF:-1, ZEE ACTION
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=zeeaction
-#EXTINF:-1, ZEE ACTION
-http://51.159.4.21:3135/Zee/action/index.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
-http://51.159.4.21:3135/Zee/classic/index.m3u8
+http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2262.m3u8
 #EXTINF:-1, ZEE TV HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=zeetvhd
 #EXTINF:-1, ZEE TV HD
@@ -317,11 +320,11 @@ https://mslapacs.akamaized.net/hls/live/692167/zeecinemaapachd/zeecinemaapachd_2
 #EXTINF:-1, ZEE CINEMA HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=zeecinemahd
 #EXTINF:-1, ZEE CINEMA HD
-http://51.159.4.21:3135/Zee/cinemaHd/index.m3u8
+http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2265.m3u8
 #EXTINF:-1, ZEE CINEMA
 https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/chunklist.m3u8
 #EXTINF:-1, ZEE CINEMA
-http://51.159.4.21:3135/Zee/cinemame/index.m3u8
+http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2364.m3u8
 #EXTINF:-1, SONY MAX HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonymax
 #EXTINF:-1, SONY MAX HD
@@ -382,6 +385,8 @@ http://150.242.21.2/starsportsthree.m3u8
 https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports1
+#EXTINF:-1, STAR SPORTS 1
+http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2293.m3u8
 #EXTINF:-1, STAR SPORTS 1
 http://redflixiptv.ddns.net:81/StarSports1HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, STAR SPORTS 1 HINDI
