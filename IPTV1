@@ -79,6 +79,8 @@ http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.
 http://stream.rtvpunjabi.com/rtvpunjabi.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC CHAKDE
 http://103.14.127.37:1935/ptcchakde/ptcchakde.stream_360p/playlist.m3u8
+#EXTINF:-1, PTC NEWS
+http://163.172.31.66:25461/live/hichem.jmal/qraKF5n83z/2276.m3u8?token=HkRQU0cMEAMRVFZUUFQIBAQPV1dXU1gFBQAEVVYDAVMGAF0AUQcFXAETGBRAEEpRAFtrDAVHAwQDAAEdQEEQARc5UVYWXhAOCwgWGhEQUVkEFA5VTUdJX1UVDRNRBVpdVEQUEFEcRlxBX1VabABdQghVUUdbC0xaXRsVXgxrBwEIB1ZWFl4QCBEdFl9AFBoOQ2FbFw0BGXlHUkVSDVkGFhZEFBBWDUZLUkVRFAlGCQRYAxZJQwZWQ19DRUhADkExNkQUEFEcRlxdQl1ZXUYCFgwFQV1DSRtfQmhFVBFAEQEEC11AFl4QCBEdFltSHGdXDlhaAAIRUFlfRBULQANTRklEVV1aDUZWQW5EX1dGAhZSBw1RVkdE
 #EXTINF:-1, group-title="PUNJABI TV",PTC NEWS
 https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC NEWS
@@ -336,6 +338,8 @@ http://51.159.4.21:3135/Zee/cinemaHd/index.m3u8?token=NzQuOTMuMTU4LjIyMi10b2tlbj
 https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/chunklist.m3u8
 #EXTINF:-1, ZEE CINEMA
 http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2364.m3u8
+#EXTINF:-1, ZEE CINEMA 
+http://103.205.133.14/hls/zeecinema.m3u8
 #EXTINF:-1, SONY MAX HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonymax
 #EXTINF:-1, SONY MAX HD
@@ -354,7 +358,7 @@ http://51.159.4.21:3135/Sony/Tv/index.m3u8
 https://mslapacs.akamaized.net/hls/live/692167/sabtvau/sabtvau_1800k/chunklist.m3u8
 
 #EXTINF:-1, group-title="SPORTS",SONY ESPN HD
-http://malayalamtv.stream/airtel/xm3u8.php?c=sonymax&e=.m3u8
+http://103.205.133.14/hls/sonyespn.m3u8
 
 #EXTINF:_1, SONY ESPN HD
 https://stream.wicket.pw/app/willowsd.m3u8
@@ -364,14 +368,16 @@ https://stream.wicket.pw/app/sonyespnhd.m3u8
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29548?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
 #EXTINF:-1, SONY SIX HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonysixhd
-#EXTINF:-1, SONY TEN
-http://flu1.podzone.net:9091/En/Sl/index.m3u8
+#EXTINF:-1, TEN 1 HD
+http://103.205.133.14/hls/ten1.m3u8
 #EXTINF:-1, TEN 1 HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=ten1
 #EXTINF:-1, TEN 1 HD
 http://john.redflixhosting.services/url/cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/02.m3u8
 #EXTINF:-1, TEN 2
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=ten2
+#EXTINF:-1, TE 2 HD
+http://103.205.133.14/hls/ten2.m3u8
 #EXTINF:-1, TEN 2 HD
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29547?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
 #EXTINF:-1, TEN 3 HD
@@ -392,6 +398,8 @@ https://stream.wicket.pw/app/ptvsportshd.m3u8
 http://150.242.21.2/starsportsfour.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
 http://150.242.21.2/starsportsthree.m3u8
+#EXTINF:-1, STAR SPORTS 1 HD
+http://103.205.133.14/hls/starsports1.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
