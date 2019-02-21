@@ -274,6 +274,8 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodHD/1.m3u8/Level(545259)?sta
 http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1, BOLLYWOOD CLASSIC
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1, HINDI MOVIES
+http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2275.m3u8
 #EXTINF:-1, ENTER 10
 http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
 #EXTINF:-1, ENTER 10
@@ -323,11 +325,11 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=zeeaction
 #EXTINF:-1, ZEE ACTION
 http://51.159.4.21:3135/Zee/action/index.m3u8?token=NzQuOTMuMTU4LjIyMi10b2tlbjEtMTU1MDQ5MzQwMg==
 #EXTINF:-1, ZEE BOLLYWOOD
-http://51.159.4.21:3135/Zee/classic/index.m3u8?token=NzQuOTMuMTU4LjIyMi10b2tlbjEtMTU1MDQ5MzM1MQ==
+http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2262.m3u8
 #EXTINF:-1, ZEE TV HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=zeetvhd
 #EXTINF:-1, ZEE TV HD
-http://51.159.4.21:3135/Zee/Tv/index.m3u8?token=NzQuOTMuMTU4LjIyMi10b2tlbjEtMTU1MDQ5MzEzMw==
+http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2254.m3u8
 #EXTINF:-1, Z LIVING USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
@@ -367,6 +369,8 @@ https://stream.wicket.pw/app/willowsd.m3u8
 #EXTINF:-1, SONY ESPN HD
 https://stream.wicket.pw/app/sonyespnhd.m3u8
 #EXTINF:-1, SONY SIX HD
+http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2265.m3u8
+#EXTINF:-1, SONY SIX HD
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29548?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
 #EXTINF:-1, SONY SIX HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonysixhd
@@ -382,6 +386,10 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=ten2
 http://103.205.133.14/hls/ten2.m3u8
 #EXTINF:-1, TEN 2 HD
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29547?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
+#EXTINF:-1, SONY TEN 3
+http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2278.m3u8
+#EXTINF:-1, TEN 3 HD
+http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2281.m3u8
 #EXTINF:-1, TEN 3 HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=ten3
 #EXTINF:-1, TEN 3 HD
