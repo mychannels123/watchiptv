@@ -45,6 +45,8 @@ http://103.14.127.35:1935/ddloksabha/ddloksabha.stream_360p/playlist.m3u8
 https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newspunjab_all/chunklist_w1082226080_b1628000.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",10 PUNJABI TV
 http://live.wmncdn.net/10tvpunjabi/e4152730b968f5b2774b47411db98651.sdp/index.m3u8
+#EXTINF:-1, WORLD PUNJABI TV
+http://fastway.ddns.net:6421/fastway/live5/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PUNJABI
 http://cdn.samtv.ca/akaarworldpunjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PRIME ASIA HD
