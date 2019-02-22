@@ -247,6 +247,8 @@ http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, STAR GOLD HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=stargold
 #EXTINF:-1, STAR GOLD
+http://91.109.113.38:8000/play/a02t
+#EXTINF:-1, STAR GOLD
 http://150.242.21.2/stargold.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX
 http://45.120.188.170:8000/play/a05z
