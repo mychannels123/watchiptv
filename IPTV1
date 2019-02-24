@@ -351,11 +351,11 @@ http://103.205.133.14/hls/zeecinema.m3u8
 #EXTINF:-1, SONY MAX HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonymax
 #EXTINF:-1, SONY MAX HD
-http://vidioplus.com/watchji0tv/Sony_Max_HD/Sony_Max_HD_1200.m3u8
+https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2400/chunklist.m3u8
 #EXTINF:-1, SONY MAX2
 http://vidioplus.com/watchji0tv/Sony_MAX2/Sony_MAX2_800.m3u8
 #EXTINF:-1, SONY MAX
-http://51.159.4.21:3135/Set/max/index.m3u8
+https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
 #EXTINF:-1, SONY HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonytv
 #EXTINF:-1, SONY HD
@@ -439,8 +439,7 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
 #EXTINF:-1, STAR SPORTS FIRST
 http://45.120.188.170:8000/play/a060
 #EXTINF:-1, LADDI5
-http://digi1.nexg.tv/livewap/chardikalatime-w.smil/media_w901127038_index.m3u8
-
+https://57a1b3b8b4855.streamlock.net/live/housefulmovie_webA.sdp/media_w1276302824_index.m3u8
 
 
 
