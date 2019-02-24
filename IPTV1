@@ -438,6 +438,8 @@ http://thoptv.strangled.net:8880/StarSportsSelect1HD/tracks-v1a1/mono.m3u8?token
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
 #EXTINF:-1, STAR SPORTS FIRST
 http://45.120.188.170:8000/play/a060
+#EXTINF:-1, LADDI5
+http://digi1.nexg.tv/livewap/chardikalatime-w.smil/media_w901127038_index.m3u8
 
 
 
