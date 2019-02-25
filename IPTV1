@@ -208,6 +208,8 @@ http://45.120.188.170:8000/play/a04s
 #EXTINF:-1, MASTI TV
 http://45.120.188.170:8000/play/a05b
 #EXTINF:-1, MASTI TV
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD254L720P/chunklist_b300000.m3u8
+#EXTINF:-1, MASTI TV
 http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqerafjrxcph/playlist.m3u8
 #EXTINF:-1, 9X JALWA
 http://ind17-lh.akamaihd.net/i/ind17_9xjalwa@68546/index_2000_av-p.m3u8?sd=10&rebase=on
