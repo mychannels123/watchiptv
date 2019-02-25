@@ -20,7 +20,7 @@ http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 #EXTINF:-1, group-title="NEWS",DELHI AAJ TAK
 https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live2/chunks.m3u8
 #EXTINF:-1, AAJ TAK
-http://malayalamtv.stream/airtel/xstreamtv.php?c=aajtak&s=&e=.m3u8
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
 #EXTINF:-1, AAJ TAK
 https://msl40s.akamaized.net/hls/live/692167/msl/aajtak_1800/chunklist.m3u8?hdntl=exp=1546165268~acl=/*~data=hdntl~hmac=b6b986668275d7cae74aa5783dadeed34328b49da44ada63b80651cc5c0b8388
 #EXTINF:-1, TEZ
