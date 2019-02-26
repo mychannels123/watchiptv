@@ -252,8 +252,6 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=stargold
 http://91.109.113.38:8000/play/a02t
 #EXTINF:-1, STAR GOLD
 http://150.242.21.2/stargold.m3u8
-#EXTINF:-1, RISHTEY CINEPLEX
-http://45.120.188.170:8000/play/a05z
 #EXTINF:-1, BFLIX MOVIES
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=bflix
 #EXTINF:-1, UTV ACTION
@@ -309,7 +307,7 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=rishteycineplex
 #EXTINF:-1, RISHTEY CINEPLEX 
 http://45.120.188.170:8000/play/a05z
 #EXTINF:-1, RISHTEY CINEPLEX
-https://msleurope2s.akamaized.net/hls/live/2000183/ristheycineplex/ristheycineplex_1800/chunklist.m3u8
+https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1200k/chunklist.m3u8
 #EXTINF:-1, WOW CINEMA
  https://acv.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/chunklist.m3u8
 #EXTINF:-1, WOW CINEMA
@@ -361,7 +359,7 @@ https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunk
 #EXTINF:-1, SONY HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonytv
 #EXTINF:-1, SONY HD
-http://vidioplus.com/watchji0tv/Sony_Max_HD/Sony_Max_HD_1200.m3u8
+https://msleurope2s.akamaized.net/hls/live/2000183/sonymaxukhdmsl/sonymaxukhdmsl_600/chunklist.m3u8
 #EXTINF:-1, SONY TV 
 http://51.159.4.21:3135/Sony/Tv/index.m3u8
 #EXTINF:-1, SONY SAB
