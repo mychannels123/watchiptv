@@ -439,7 +439,7 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
 #EXTINF:-1, STAR SPORTS FIRST
 http://45.120.188.170:8000/play/a060
 #EXTINF:-1, LADDI5
-http://cshms1.airtel.tv/wh7f454c46tw3181837615_1055582630/PLTV/88888888/224/3221225812/index.m3u8
+https://cors-anywhere.herokuapp.com/http://cshms1.airtel.tv/wh7f454c46tw3181837615_1055582630/PLTV/88888888/224/3221225812/index.m3u8
 
 
 
