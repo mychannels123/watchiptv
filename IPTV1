@@ -424,8 +424,8 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports1
 http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2293.m3u8
 #EXTINF:-1, STAR SPORTS 1 HINDI
 http://68.183.83.6:8080/Star_Sports_1HindiSD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, STAR SPORTS 1 HINDI
-http://thoptv.strangled.net:8880/StarSports1HindiHD/tracks-v1a1/mono.m3u8?token=RedflixTV
+#EXTINF:-1, STAR SPORTS 2
+http://68.183.83.6:8080/StarSports1SD/tracks-v1a1/index.m3u8
 #EXTINF:-1, STAR SPORTS 2HD
 http://thoptv.strangled.net:8880/StarSports2HD/video.m3u8?token=RedflixTV
 #EXTINF:-1, STAR SELECT 1HD
