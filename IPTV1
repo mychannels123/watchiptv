@@ -429,9 +429,9 @@ http://68.183.83.6:8080/StarSports1SD/tracks-v1a1/index.m3u8
 #EXTINF:-1, STAR SPORTS 2HD
 http://thoptv.strangled.net:8880/StarSports2HD/video.m3u8?token=RedflixTV
 #EXTINF:-1, STAR SELECT 1HD
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select1
+http://68.183.83.6:8080/StarSportsSelect1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SELECT 2HD
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select2
+http://68.183.83.6:8080/StarSportsSelect2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS SELECT
 http://thoptv.strangled.net:8880/StarSportsSelect1HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, LADDI
