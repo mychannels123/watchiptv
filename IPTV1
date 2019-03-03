@@ -353,7 +353,7 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonymax
 #EXTINF:-1, SONY MAX HD
 https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2400/chunklist.m3u8
 #EXTINF:-1, SONY MAX2
-http://vidioplus.com/90hYFy001091871/Sony_Max2/Sony_Max2_600.m3u8
+http://vidioplus.com/90hYFy001091871/Sony_Max2/Sony_Max2_800.m3u8
 #EXTINF:-1, SONY MAX
 https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
 #EXTINF:-1, SONY HD
@@ -423,11 +423,11 @@ http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports1
 #EXTINF:-1, STAR SPORTS 1
-http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2293.m3u8
+http://static36.flexiptv.store:8080/StarSp1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS 1 HINDI
 http://68.183.83.6:8080/Star_Sports_1HindiSD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS 2
-http://68.183.83.6:8080/StarSports1SD/tracks-v1a1/index.m3u8
+http://static36.flexiptv.store:8080/StarSp2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS 2HD
 http://thoptv.strangled.net:8880/StarSports2HD/video.m3u8?token=RedflixTV
 #EXTINF:-1, STAR SELECT 1HD
