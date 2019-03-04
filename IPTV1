@@ -431,9 +431,9 @@ http://static36.flexiptv.store:8080/StarSp2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS 2HD
 http://thoptv.strangled.net:8880/StarSports2HD/video.m3u8?token=RedflixTV
 #EXTINF:-1, STAR SELECT 1HD
-http://68.183.83.6:8080/StarSportsSelect1/tracks-v1a1/mono.m3u8
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select1
 #EXTINF:-1, STAR SELECT 2HD
-http://68.183.83.6:8080/StarSportsSelect2/tracks-v1a1/mono.m3u8
+http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select2
 #EXTINF:-1, STAR SPORTS SELECT
 http://thoptv.strangled.net:8880/StarSportsSelect1HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, LADDI
@@ -441,7 +441,7 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
 #EXTINF:-1, STAR SPORTS FIRST
 http://45.120.188.170:8000/play/a060
 #EXTINF:-1, LADDI5
-https://cors-anywhere.herokuapp.com/http://cshms1.airtel.tv/wh7f454c46tw3181837615_1055582630/PLTV/88888888/224/3221225812/index.m3u8
+http://redflixtv.online/play.php?c=Sony_MAX2&q=800&e=.m3u8
 
 
 
