@@ -411,11 +411,15 @@ https://stream.wicket.pw/app/ptvsportshd.m3u8
 #EXTINF:-1,STAR SPORTS SELECT 1
 http://150.242.21.2/starsportsfour.m3u8
 #EXTINF:-1, STAR SPORTS HINDI
-http://150.242.21.2/starsportsthree.m3u8
+http://redflixiptv.xyz/jasmine.php?c=Star_Sports_3&q=JSRV2_1200&e=.m3u8
+#EXTINF:-1, STAR SPORTS 1 HD HINDI
+http://52.172.55.110:81/StarSports1HindiHD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, STAR SPORTS 1 HD
-http://103.205.133.14/hls/starsports1.m3u8
+http://52.172.55.110:81/StarSports1HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, STAR SPORTS 1 HD
 https://stream.wicket.pw/app/starsports1hd.m3u8
+#EXTINF:-1, STAR SPORTS 1HD
+http://delta11.flexiptv.store:8080/hls/live.stream.m3u8
 #EXTINF:-1, JIO CRICKET HD
 http://vidioplus.com/90hYFy001091871/Jio_Cricket_English1/Jio_Cricket_English1_600.m3u8
 #EXTINF:-1, CRICKET
@@ -429,7 +433,7 @@ http://68.183.83.6:8080/Star_Sports_1HindiSD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS 2
 http://static36.flexiptv.store:8080/StarSp2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS 2HD
-http://thoptv.strangled.net:8880/StarSports2HD/video.m3u8?token=RedflixTV
+http://52.172.55.110:81/StarSports2HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, STAR SELECT 1HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select1
 #EXTINF:-1, STAR SELECT 2HD
