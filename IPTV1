@@ -353,7 +353,7 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonymax
 #EXTINF:-1, SONY MAX HD
 https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2400/chunklist.m3u8
 #EXTINF:-1, SONY MAX2
-http://redflixiptv.xyz/jasmine.php?c=Sony_MAX2&q=800&e=.m3u8
+https://livetv-online.tk/jio/kodilivetv.php?c=Sony_MAX2&q=800&e=.m3u8
 #EXTINF:-1, SONY MAX
 https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
 #EXTINF:-1, SONY HD
@@ -361,7 +361,7 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonytv
 #EXTINF:-1, SONY HD
 https://msleurope2s.akamaized.net/hls/live/2000183/sonymaxukhdmsl/sonymaxukhdmsl_600/chunklist.m3u8
 #EXTINF:-1, SONY TV 
-http://51.159.4.21:3135/Sony/Tv/index.m3u8
+https://mslapacs.akamaized.net/hls/live/692167/sonyaumsl/sonyau_1800k/chunklist.m3u8
 #EXTINF:-1, SONY SAB
 https://mslapacs.akamaized.net/hls/live/692167/sabtvau/sabtvau_1800k/chunklist.m3u8
 
@@ -421,7 +421,7 @@ https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
 http://delta11.flexiptv.store:8080/hls/live.stream.m3u8
 #EXTINF:-1, JIO CRICKET HD
-http://vidioplus.com/90hYFy001091871/Jio_Cricket_English1/Jio_Cricket_English1_600.m3u8
+https://livetv-online.tk/jio/kodilivetv.php?c=Jio_Cricket_English1&q=800&e=.m3u8
 #EXTINF:-1, CRICKET
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
@@ -445,7 +445,9 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
 #EXTINF:-1, STAR SPORTS FIRST
 http://45.120.188.170:8000/play/a060
 #EXTINF:-1, LADDI5
-http://redflixtv.online/play.php?c=Sony_MAX2&q=800&e=.m3u8
+https://livetv-online.tk/jio/kodilivetv.php?c=Star_Sports_3&q=JSRV2_1200&e=.m3u8
+
+
 
 
 
