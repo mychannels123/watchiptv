@@ -19,6 +19,8 @@ https://z5ams.akamaized.net/zeenews/tracks-v4a1/mono.m3u8
 http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 #EXTINF:-1, group-title="NEWS",DELHI AAJ TAK
 https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live2/chunks.m3u8
+#EXTINF:-1, AAJ TAK HD
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64264
 #EXTINF:-1, AAJ TAK
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
 #EXTINF:-1, AAJ TAK
@@ -47,6 +49,8 @@ https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newspunjab_all/chunklist_w1082226
 http://live.wmncdn.net/10tvpunjabi/e4152730b968f5b2774b47411db98651.sdp/index.m3u8
 #EXTINF:-1, WORLD PUNJABI TV
 http://fastway.ddns.net:6421/fastway/live5/tracks-v1a1/index.m3u8
+#EXTINF:-1, JUS ONE
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/120090
 #EXTINF:-1, group-title="PUNJABI TV",PUNJABI
 http://cdn.samtv.ca/akaarworldpunjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PRIME ASIA HD
@@ -64,11 +68,15 @@ http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",JASHAN TV
 http://gmkd57nmrnxo-hls-live.wmncdn.net/1176/mwtv/f1cf7bd21ba17d7e65fac82935e07dae.sdp/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",MANJE TE SPEAKER
-https://vrz.gigabitcdn.com/gL2oRVNQRUFLRVIX3QRVRFU1BFQUtFUg/mtshd/playlist.m3u8
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/143701
 #EXTINF:-1, group-title="PUNJABI TV",RAONUK PUNJAB DI
 https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/raunak-punjab/playlist.m3u8
 #EXTINF:-1, KANSHI TV
 http://live.kanshitv.co.uk/mobile/kanshitvkey_high/index.m3u8
+#EXTINF:-1, PUNJABI MOVIES HD
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/120067
+#EXTINF:-1, PUNJABI MIX MUSIC
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/120041
 #EXTINF:-1, group-title="PUNJABI TV",TOHAR TV
 https://vrz.gigabitcdn.com/VE8L2oQVJUVgX3QSEFSVFY/tohar-tv/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",AONE TV
@@ -81,8 +89,10 @@ http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.
 http://stream.rtvpunjabi.com/rtvpunjabi.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC CHAKDE
 http://103.14.127.37:1935/ptcchakde/ptcchakde.stream_360p/playlist.m3u8
+#EXTINF:-1, PTC CHAKDE
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64291
 #EXTINF:-1, PTC NEWS
-http://163.172.31.66:25461/live/hichem.jmal/qraKF5n83z/2276.m3u8?token=HkRQU0cMEAMRVFZUUFQIBAQPV1dXU1gFBQAEVVYDAVMGAF0AUQcFXAETGBRAEEpRAFtrDAVHAwQDAAEdQEEQARc5UVYWXhAOCwgWGhEQUVkEFA5VTUdJX1UVDRNRBVpdVEQUEFEcRlxBX1VabABdQghVUUdbC0xaXRsVXgxrBwEIB1ZWFl4QCBEdFl9AFBoOQ2FbFw0BGXlHUkVSDVkGFhZEFBBWDUZLUkVRFAlGCQRYAxZJQwZWQ19DRUhADkExNkQUEFEcRlxdQl1ZXUYCFgwFQV1DSRtfQmhFVBFAEQEEC11AFl4QCBEdFltSHGdXDlhaAAIRUFlfRBULQANTRklEVV1aDUZWQW5EX1dGAhZSBw1RVkdE
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/124850
 #EXTINF:-1, group-title="PUNJABI TV",PTC NEWS
 https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC NEWS
@@ -108,7 +118,9 @@ http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",ANKHILA PUNJAB
 http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
 #EXTINF:-1, BRIT ASIA TV
-http://89.1.118.238:8000/play/a02d
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/104390
+#EXTINF:-1, 9X TASHAN
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/73816
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
 https://msluk4s.akamaized.net/hls/live/2000136/9xtashanmsl/9xtashan_2000/chunklist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
@@ -166,7 +178,7 @@ http://103.228.112.96:1935/masti/live/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",MH1
 http://103.14.127.37:1935/mh1music/mh1music.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",MH1
-http://163.172.86.59:3135/MH1/Music/index.m3u8
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64298
 #EXTINF:-1, group-title="PUNJABI TV",MH1 NEWS
 http://mhonestream.in:1935/mhone/mhonenews/chunklist_w1975801534.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PITAARA TV
@@ -184,13 +196,15 @@ http://95erywm2dwn4-hls-live.wmncdn.net/1173/booglebollywood/774e3ea9f3fa9bcdac4
 #EXTINF:-1, group-title="PUNJABI TV",PUNJAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",DPD PUNJABI
-http://j2ldmzkpqobv-hls-live.wmncdn.net/1168/dpd/5a16ddba9a8a76d59cbc10c1f02b3289.sdp/tracks-v1a1/index.m3u8
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/188849
 #EXTINF:-1, group-title="PUNJABI TV",FASTWAY TV
 http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",LIFE PUNJABI
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTINF:-1, group-title="HINDI",STAR TV
 http://45.120.188.170:8000/play/a059
+#EXTINF:-1, SAHARA ONE
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/198270
 #EXTINF:-1, MANORANJAN TV
 http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmvieiaysg/playlist.m3u8
 #EXTINF:-1, MUSIC INDIA
@@ -202,11 +216,13 @@ http://209.58.160.177/wowouthls/live_240p.m3u8
 #EXTINF:-1, WOW MUSIC
 http://163.172.86.59:3135/Wow/Music/index.m3u8
 #EXTINF:-1, SONY MIX
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonymix
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64366
 #EXTINF:-1, SONY MIX
 http://45.120.188.170:8000/play/a04s
 #EXTINF:-1, MASTI TV
 http://45.120.188.170:8000/play/a05b
+#EXTINF:-1, MASTI TV
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/198236
 #EXTINF:-1, MASTI TV
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD254L720P/chunklist_b300000.m3u8
 #EXTINF:-1, MASTI TV
@@ -220,17 +236,21 @@ https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.
 #EXTINF:-1, STAR BHARAT
 http://51.159.4.21:3135/Life/ok/index.m3u8
 #EXTINF:-1, STAR BHARAT HD
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starbharat
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64285
+#EXTINF:-1, STAR BHARAT HD
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/198293
 #EXTINF:-1, COLORS HD
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=colorshd
-#EXTINF:-1, COLORS HD
-http://vidioplus.com/watchji0tv/Colors_HD/Colors_HD_1200.m3u8
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64260
 #EXTINF:-1, COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
 #EXTINF:-1, STAR PLUS HD
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starplus
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64258
+#EXTINF:-1, STAR PLUS HD
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/198298
 #EXTINF:-1, STAR PLUS
 https://mslapacs.akamaized.net/hls/live/692167/starplusau/starplusau_1800k/chunklist.m3u8
+#EXTINF:-1, STAR PLUS
+http://rb-group-server.com:25461/anis/yakka/3978
 #EXTINF:-1, ZEE ANMOL
 http://51.159.4.21:3135/Zee/anmol/index.m3u8
 #EXTINF:-1, SAHARA ONE
@@ -247,7 +267,7 @@ https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 #EXTINF:-1, NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, STAR GOLD HD
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=stargold
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64312
 #EXTINF:-1, STAR GOLD
 http://91.109.113.38:8000/play/a02t
 #EXTINF:-1, STAR GOLD
@@ -255,11 +275,17 @@ http://150.242.21.2/stargold.m3u8
 #EXTINF:-1, BFLIX MOVIES
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=bflix
 #EXTINF:-1, UTV ACTION
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=utvaction
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/157490
 #EXTINF:-1, MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 #EXTINF:-1, B4U PLUS
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1, PICTURES HD
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/125150
+#EXTINF:-1, MOVIES OK
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/158682
+#EXTINF:-1, UTV MOVIES INTERNATIONAL
+http://rb-group-server.com:25461/anis/yakka/3988
 #EXTINF:-1, MOVIES ACTIVE
 http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/198330
 #EXTINF:-, D2H CINEMA
@@ -298,18 +324,21 @@ http://103.14.127.35:1935/starutsav/starutsav.stream_360p/playlist.m3u8
 http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.m3u8
 #EXTINF:-1, MOVIE HOUSE
 http://45.120.188.170:8000/play/a05s
+
 #EXTINF:-1, HOUSEFULL MOVIES
 http://45.120.188.170:8000/play/a05t
 #EXTINF:-1, HOUSEFULL ACTION
 http://45.120.188.170:8000/play/a05v
 #EXTINF:-1, FILMY
-http://103.14.127.35:1935/saharafir/saharafir.stream_360p/playlist.m3u8
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/198221
 #EXTINF:-1, B4U MOVIES
 http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/Stream(04)/index.m3u8
 #EXTINF:-1, B4U MOVIES
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=rishteycineplex
+http://rb-group-server.com:25461/anis/yakka/3998
 #EXTINF:-1, RISHTEY CINEPLEX 
 http://45.120.188.170:8000/play/a05z
+#EXTINF:-1, RISHTEY CINEPLEX HD
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/118790
 #EXTINF:-1, RISHTEY CINEPLEX
 https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1200k/chunklist.m3u8
 #EXTINF:-1, WOW CINEMA
@@ -318,6 +347,8 @@ https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1
 http://cdn.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/playlist.m3u8
 #EXTINF:-1, WOW CINEMA
 http://45.120.188.170:8000/play/a04m
+#EXTINF:-1, WOW CINEMA
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/133768
 #EXTINF:-1, CINEMA TV
 http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
 #EXTINF:-1, CINEMA TV
@@ -326,12 +357,14 @@ http://45.120.188.170:8000/play/a04j
 http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3974
 #EXTINF:-1, STAR UTSAV MOVIES
 http://45.120.188.170:8000/play/a05u
+#EXTINF:-1, ZEEV ANMOL CINEMA
+http://rb-group-server.com:25461/anis/yakka/3974
 #EXTINF:-1, ZEE ACTION
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=zeeaction
+http://rb-group-server.com:25461/anis/yakka/3984
 #EXTINF:-1, ZEE ACTION
 http://51.159.4.21:3135/Zee/action/index.m3u8?token=NzQuOTMuMTU4LjIyMi10b2tlbjEtMTU1MDQ5MzQwMg==
 #EXTINF:-1, ZEE BOLLYWOOD
-http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2262.m3u8
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/157549
 #EXTINF:-1, ZEE TV HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=zeetvhd
 #EXTINF:-1, ZEE TV HD
@@ -347,19 +380,31 @@ http://51.159.4.21:3135/Zee/cinemaHd/index.m3u8?token=NzQuOTMuMTU4LjIyMi10b2tlbj
 #EXTINF:-1, ZEE CINEMA
 https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/chunklist.m3u8
 #EXTINF:-1, ZEE CINEMA
-http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2364.m3u8
+http://rb-group-server.com:25461/anis/yakka/4004
 #EXTINF:-1, ZEE CINEMA 
 http://103.205.133.14/hls/zeecinema.m3u8
 #EXTINF:-1, SONY MAX HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonymax
 #EXTINF:-1, SONY MAX HD
 https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2400/chunklist.m3u8
+#EXTINF:-1, SONY MAX HD
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64341
 #EXTINF:-1, SONY MAX2
 https://livetv-online.tk/jio/kodilivetv.php?c=Sony_MAX2&q=800&e=.m3u8
+#EXTINF:-1, SONY MAX2
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64340
 #EXTINF:-1, SONY MAX
 https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
+#EXTINF:-1, SONY MAX
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/198339
 #EXTINF:-1, SONY HD
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonytv
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/198282
+#EXTINF:-1, SONY HD
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/129817
+#EXTINF:-1, SONY HD
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/198283
+#EXTINF:-1, SONY HD
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64342
 #EXTINF:-1, SONY HD
 https://msleurope2s.akamaized.net/hls/live/2000183/sonymaxukhdmsl/sonymaxukhdmsl_600/chunklist.m3u8
 #EXTINF:-1, SONY TV 
@@ -369,7 +414,8 @@ https://mslapacs.akamaized.net/hls/live/692167/sabtvau/sabtvau_1800k/chunklist.m
 
 #EXTINF:-1, group-title="SPORTS",SONY ESPN HD
 http://103.205.133.14/hls/sonyespn.m3u8
-
+#EXTINF:-1, SONY ESPN HD
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64333
 #EXTINF:_1, SONY ESPN HD
 https://stream.wicket.pw/app/willowsd.m3u8
 #EXTINF:-1, SONY ESPN HD
@@ -379,7 +425,9 @@ http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2265.m3u8
 #EXTINF:-1, SONY SIX HD
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29548?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
 #EXTINF:-1, SONY SIX HD
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonysixhd
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64324
+#EXTINF:-1, TEN 1
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64332
 #EXTINF:-1, TEN 1 HD
 http://103.205.133.14/hls/ten1.m3u8
 #EXTINF:-1, TEN 1 HD
@@ -387,13 +435,13 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=ten1
 #EXTINF:-1, TEN 1 HD
 http://john.redflixhosting.services/url/cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/02.m3u8
 #EXTINF:-1, TEN 2
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=ten2
-#EXTINF:-1, TE 2 HD
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64331
+#EXTINF:-1, TEN 2 HD
 http://103.205.133.14/hls/ten2.m3u8
 #EXTINF:-1, TEN 2 HD
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29547?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
 #EXTINF:-1, SONY TEN 3
-http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2278.m3u8
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64281
 #EXTINF:-1, TEN 3 HD
 http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2281.m3u8
 #EXTINF:-1, TEN 3 HD
@@ -408,6 +456,8 @@ https://stream.wicket.pw/app/sonysixhd.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 #EXTINF:-1, WILLOW HD
 https://stream.wicket.pw/app/willowhd.m3u8
+#EXTINF:-1, WILLOW EXTRA
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/198304
 #EXTINF:-1, PTV SPORTS
 https://stream.wicket.pw/app/ptvsportshd.m3u8
 #EXTINF:-1,STAR SPORTS SELECT 1
@@ -428,6 +478,12 @@ https://livetv-online.tk/jio/kodilivetv.php?c=Jio_Cricket_English1&q=800&e=.m3u8
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports1
+#EXTINF:-1, STAR SPORTS 1HD
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64248
+#EXTINF:-1, STAR SPORTS 1HD
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/197917
+#EXTINF:-1, STAR SPORTS 1
+http://rb-group-server.com:25461/anis/yakka/3976
 #EXTINF:-1, STAR SPORTS 1
 http://static36.flexiptv.store:8080/StarSp1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS 1 HINDI
@@ -435,7 +491,7 @@ http://68.183.83.6:8080/Star_Sports_1HindiSD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS 2
 http://static36.flexiptv.store:8080/StarSp2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS 2HD
-http://52.172.55.110:81/StarSports2HD/tracks-v1a1/mono.m3u8?token=RedflixTV
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64247
 #EXTINF:-1, STAR SELECT 1HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select1
 #EXTINF:-1, STAR SELECT 2HD
@@ -446,10 +502,10 @@ http://thoptv.strangled.net:8880/StarSportsSelect1HD/tracks-v1a1/mono.m3u8?token
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
 #EXTINF:-1, STAR SPORTS FIRST
 http://45.120.188.170:8000/play/a060
-#EXTINF:-1, LADDI5
+#EXTINF:-1, STAR SPORTS HINDI
 https://livetv-online.tk/jio/kodilivetv.php?c=Star_Sports_3&q=JSRV2_1200&e=.m3u8
-#EXTINF:-1, LADDI9
-http://rb-group-server.com:25461/anis/yakka/3988/index.m3u8
+#EXTINF:-1, DD SPORTS
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/158693
 
 
 
