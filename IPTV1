@@ -260,6 +260,10 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=utvaction
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 #EXTINF:-1, B4U PLUS
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1, MOVIES ACTIVE
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/198330
+#EXTINF:-, D2H CINEMA
+http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/198215
 #EXTINF:-1, CINE MOVIES
 http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
 #EXTINF:-1, BBO CLASSIC
