@@ -353,11 +353,9 @@ http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/133768
 http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
 #EXTINF:-1, CINEMA TV
 http://45.120.188.170:8000/play/a04j
-#EXTINF:-1, ZEE ANMOL CINEMA
-http://5.254.66.150:25461/NveUQFurR3/dMFY9DbG2a/3974
 #EXTINF:-1, STAR UTSAV MOVIES
 http://45.120.188.170:8000/play/a05u
-#EXTINF:-1, ZEEV ANMOL CINEMA
+#EXTINF:-1, ZEE ANMOL CINEMA
 http://rb-group-server.com:25461/anis/yakka/3974
 #EXTINF:-1, ZEE ACTION
 http://rb-group-server.com:25461/anis/yakka/3984
@@ -365,6 +363,8 @@ http://rb-group-server.com:25461/anis/yakka/3984
 http://51.159.4.21:3135/Zee/action/index.m3u8?token=NzQuOTMuMTU4LjIyMi10b2tlbjEtMTU1MDQ5MzQwMg==
 #EXTINF:-1, ZEE BOLLYWOOD
 http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/157549
+#EXTINF:-1, ZEE BOLLYWOOD
+http://jioairtel.fsports.top/airtel/airtel.m3u8?c=zeeclassic&e=.m3u8
 #EXTINF:-1, ZEE TV HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=zeetvhd
 #EXTINF:-1, ZEE TV HD
@@ -381,20 +381,24 @@ http://51.159.4.21:3135/Zee/cinemaHd/index.m3u8?token=NzQuOTMuMTU4LjIyMi10b2tlbj
 https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/chunklist.m3u8
 #EXTINF:-1, ZEE CINEMA
 http://rb-group-server.com:25461/anis/yakka/4004
-#EXTINF:-1, ZEE CINEMA 
-http://103.205.133.14/hls/zeecinema.m3u8
 #EXTINF:-1, SONY MAX HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonymax
 #EXTINF:-1, SONY MAX HD
 https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2400/chunklist.m3u8
 #EXTINF:-1, SONY MAX HD
 http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64341
+#EXTINF:-1, SONY MAX HD
+http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymaxhd&e=.m3u8
 #EXTINF:-1, SONY MAX2
 https://livetv-online.tk/jio/kodilivetv.php?c=Sony_MAX2&q=800&e=.m3u8
+#EXTINF:-1, SONY MAX2
+http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymax2&e=.m3u8
 #EXTINF:-1, SONY MAX2
 http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64340
 #EXTINF:-1, SONY MAX
 https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
+#EXTINF:-1, SONY MAX
+http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymax&e=.m3u8
 #EXTINF:-1, SONY MAX
 http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/198339
 #EXTINF:-1, SONY HD
@@ -413,37 +417,43 @@ https://mslapacs.akamaized.net/hls/live/692167/sonyaumsl/sonyau_1800k/chunklist.
 https://mslapacs.akamaized.net/hls/live/692167/sabtvau/sabtvau_1800k/chunklist.m3u8
 
 #EXTINF:-1, group-title="SPORTS",SONY ESPN HD
-http://103.205.133.14/hls/sonyespn.m3u8
+http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyespnhd&e=.m3u8
 #EXTINF:-1, SONY ESPN HD
 http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64333
 #EXTINF:_1, SONY ESPN HD
 https://stream.wicket.pw/app/willowsd.m3u8
 #EXTINF:-1, SONY ESPN HD
 https://stream.wicket.pw/app/sonyespnhd.m3u8
+#EXTINF:-1, SONY SIX
+http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonysix&e=.m3u8
 #EXTINF:-1, SONY SIX HD
-http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2265.m3u8
+http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonysixhd&e=.m3u8
 #EXTINF:-1, SONY SIX HD
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29548?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
 #EXTINF:-1, SONY SIX HD
 http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64324
 #EXTINF:-1, TEN 1
 http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64332
-#EXTINF:-1, TEN 1 HD
-http://103.205.133.14/hls/ten1.m3u8
+#EXTINF:-1, TEN 1 
+http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten1&e=.m3u8
 #EXTINF:-1, TEN 1 HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=ten1
 #EXTINF:-1, TEN 1 HD
-http://john.redflixhosting.services/url/cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/02.m3u8
+http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten1hd&e=.m3u8
+#EXTINF:-1, TEN 2
+http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten2&e=.m3u8
 #EXTINF:-1, TEN 2
 http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64331
 #EXTINF:-1, TEN 2 HD
-http://103.205.133.14/hls/ten2.m3u8
+http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten2hd&e=.m3u8
 #EXTINF:-1, TEN 2 HD
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29547?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
 #EXTINF:-1, SONY TEN 3
 http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64281
+#EXTINF:-1, TEN 3
+http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten3&e=.m3u8
 #EXTINF:-1, TEN 3 HD
-http://kingdiabloiptv.ddns.net:1963/live/hichem.jmal/qraKF5n83z/2281.m3u8
+http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten3hd&e=.m3u8
 #EXTINF:-1, TEN 3 HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=ten3
 #EXTINF:-1, TEN 3 HD
@@ -460,18 +470,8 @@ https://stream.wicket.pw/app/willowhd.m3u8
 http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/198304
 #EXTINF:-1, PTV SPORTS
 https://stream.wicket.pw/app/ptvsportshd.m3u8
-#EXTINF:-1,STAR SPORTS SELECT 1
-http://150.242.21.2/starsportsfour.m3u8
-#EXTINF:-1, STAR SPORTS HINDI
-http://redflixiptv.xyz/jasmine.php?c=Star_Sports_3&q=JSRV2_1200&e=.m3u8
-#EXTINF:-1, STAR SPORTS 1 HD HINDI
-http://52.172.55.110:81/StarSports1HindiHD/tracks-v1a1/mono.m3u8?token=RedflixTV
-#EXTINF:-1, STAR SPORTS 1 HD
-http://52.172.55.110:81/StarSports1HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, STAR SPORTS 1 HD
 https://stream.wicket.pw/app/starsports1hd.m3u8
-#EXTINF:-1, STAR SPORTS 1HD
-http://delta11.flexiptv.store:8080/hls/live.stream.m3u8
 #EXTINF:-1, JIO CRICKET HD
 https://livetv-online.tk/jio/kodilivetv.php?c=Jio_Cricket_English1&q=800&e=.m3u8
 #EXTINF:-1, CRICKET
@@ -484,18 +484,8 @@ http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64248
 http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/197917
 #EXTINF:-1, STAR SPORTS 1
 http://rb-group-server.com:25461/anis/yakka/3976
-#EXTINF:-1, STAR SPORTS 1
-http://static36.flexiptv.store:8080/StarSp1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, STAR SPORTS 1 HINDI
-http://68.183.83.6:8080/Star_Sports_1HindiSD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, STAR SPORTS 2
-http://static36.flexiptv.store:8080/StarSp2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS 2HD
 http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64247
-#EXTINF:-1, STAR SELECT 1HD
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select1
-#EXTINF:-1, STAR SELECT 2HD
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=select2
 #EXTINF:-1, STAR SPORTS SELECT
 http://thoptv.strangled.net:8880/StarSportsSelect1HD/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, LADDI
