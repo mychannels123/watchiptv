@@ -490,8 +490,10 @@ http://rb-group-server.com:25461/anis/yakka/3976
 http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64247
 #EXTINF:-1, STAR SPORTS 2
 http://static36.flexiptv.store:8080/StarSp2/tracks-v1a1/mono.m3u8?token=ad5809e3936b906280c51603fb4fe5e72e3a8297-3a593e00058d03ca295bc0b8d7c1ddae-1552223417-1552219817-KikFlix
+#EXTINF:-1, STAR SPORTS 3
+http://static36.flexiptv.store:8080/StarSp3/tracks-v1a1/mono.m3u8?token=ad5809e3936b906280c51603fb4fe5e72e3a8297-3a593e00058d03ca295bc0b8d7c1ddae-1552223417-1552219817-KikFlix
 #EXTINF:-1, STAR SPORTS SELECT
-http://thoptv.strangled.net:8880/StarSportsSelect1HD/tracks-v1a1/mono.m3u8?token=RedflixTV
+http://cdn23.flexiptv.store:8080/Starsp1select/tracks-v1a1/mono.m3u8?token=ad5809e3936b906280c51603fb4fe5e72e3a8297-3a593e00058d03ca295bc0b8d7c1ddae-1552223417-1552219817-KikFlix
 #EXTINF:-1, LADDI
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
 #EXTINF:-1, STAR SPORTS FIRST
