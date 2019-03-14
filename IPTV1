@@ -275,7 +275,7 @@ http://150.242.21.2/stargold.m3u8
 #EXTINF:-1, BFLIX MOVIES
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=bflix
 #EXTINF:-1, UTV ACTION
-http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/157490
+http://s1.thoptvstream.gq:8081/amr90/utvaction/chunks.m3u8?nimblesessionid=5619489&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDE5IDQ6Mjk6NTkgQU0maGFzaF92YWx1ZT1tU25zY1FDUCtzSlVuOXdoNGxZSVl3PT0mdmFsaWRtaW51dGVzPTI=&key=c1888272bad1ea57395c60b6317c20a9
 #EXTINF:-1, MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 #EXTINF:-1, B4U PLUS
@@ -419,7 +419,7 @@ https://mslapacs.akamaized.net/hls/live/692167/sabtvau/sabtvau_1800k/chunklist.m
 #EXTINF:-1, group-title="SPORTS",SONY ESPN HD
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyespnhd&e=.m3u8
 #EXTINF:-1, SONY ESPN HD
-http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64333
+http://tv.wlive.tv/tv/jc8qqNi3Vo20180321/playlist.m3u8?hlsendtime=1552542240&hlsstarttime=0&hlshash=WgMVNgX6DMuIykEJ-_DdkYDzA_qxDt6ipKHBlXvpWHQ=
 #EXTINF:_1, SONY ESPN HD
 https://stream.wicket.pw/app/willowsd.m3u8
 #EXTINF:-1, SONY ESPN HD
@@ -431,7 +431,7 @@ http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonysixhd&e=.m3u8
 #EXTINF:-1, SONY SIX HD
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29548?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
 #EXTINF:-1, SONY SIX HD
-http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64324
+playlist.m3u8?hlsendtime=1552541460&hlsstarttime=0&hlshash=1iElLCgf6FsVTn7yg0m804YHIJgyQdpDMs_iF-r5GeM=
 #EXTINF:-1, TEN 1
 http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64332
 #EXTINF:-1, TEN 1 
@@ -460,8 +460,24 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=ten3
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29546?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
 #EXTINF:-1, SKY SPORTS
 https://stream.wicket.pw/app/skysportshd.m3u8
+#EXTINF:-1, SKY SPORTS
+http://tv.wlive.tv/tv/MMx06H2LOL20180321/playlist.m3u8?hlsendtime=1552542360&hlsstarttime=0&hlshash=pl0-luXwLP9Au2JvPUYNs_3qOQQcKfFGpyQ8U3ewQJg=
+#EXTINF:-1, SKY SPORTS CRICKET
+http://tv.wlive.tv/tv/KKR1JfldJS20180321/playlist.m3u8?hlsendtime=1552542480&hlsstarttime=0&hlshash=2iTAD22S2C6fkRWuC8-UxATbnwdfUNogqOjVfoVTOo8=
+#EXTINF:-1, SKY SPORTS HD MIX
+http://tv.wlive.tv/tv/EGgVdH1jMn20180321/playlist.m3u8?hlsendtime=1552542600&hlsstarttime=0&hlshash=H-eOTZ8EotgohH2f2VIbDs-xXZKHd8QCQwa3vjP6Yuc=
 #EXTINF:-1, BT SPORT 2 HD
 https://stream.wicket.pw/app/sonysixhd.m3u8
+#EXTINF:-1, BT SPORTS 2 HD
+http://tv.wlive.tv/tv/PPRh154UUz20180321/playlist.m3u8?hlsendtime=1552542660&hlsstarttime=0&hlshash=lpqvMsB0gCscOytj6tYHl2CBX802GTQMD1D3MnlDX1Q=
+#EXTINF:-1, BT SPORTS 1 HD
+http://tv.wlive.tv/tv/PPRh154UUz20180321/playlist.m3u8?hlsendtime=1552542660&hlsstarttime=0&hlshash=lpqvMsB0gCscOytj6tYHl2CBX802GTQMD1D3MnlDX1Q=
+#EXTINF:-1, BT SPORTS 3 HD
+http://tv.wlive.tv/tv/BTY1WtY8Lg20180321/playlist.m3u8?hlsendtime=1552542780&hlsstarttime=0&hlshash=w9xZkJrQ7rBsi6WAp6Ltpr90yLXBEzxs1TsFmK1HaQQ=
+#EXTINF:-1, TEN SPORTS
+http://tv.wlive.tv/tv/gnwLjSeLqA20180401/playlist.m3u8?hlsendtime=1552542840&hlsstarttime=0&hlshash=zrPARg7FHj6P9KGrEZ-PLwAZK1eQV9z1M6wUu4k1Bq0=
+#EXTINF:-1, OSN SPORTS HD
+http://tv.wlive.tv/tv/Ps3KtKHM2X20180321/playlist.m3u8?hlsendtime=1552542900&hlsstarttime=0&hlshash=aRSA1brMzwwlaMSdgYZGdpllCgA9CbcJQDqfwQ0vxjw=
 #EXTINF:-1, SPORT MAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 #EXTINF:-1, WILLOW HD
