@@ -332,8 +332,6 @@ https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2
 #EXTINF:-1, SONY MAX HD
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymaxhd&e=.m3u8
 #EXTINF:-1, SONY MAX2
-http://jioairtel.fsports.top/jio/jio.m3u8?c=Sony_Max2&q=800&e=.m3u8
-#EXTINF:-1, SONY MAX2
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymax2&e=.m3u8
 #EXTINF:-1, SONY MAX
 https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
@@ -414,7 +412,7 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
 #EXTINF:-1, STAR SPORTS FIRST
 http://45.120.188.170:8000/play/a060
 #EXTINF:-1, STAR SPORTS HINDI
-https://livetv-online.tk/jio/kodilivetv.php?c=Star_Sports_3&q=JSRV2_1200&e=.m3u8
+http://mhdtvworld.com/delta/jio/airtel.php?c=sonymax2&e=.m3u8
 
 
 
