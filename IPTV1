@@ -19,6 +19,8 @@ https://z5ams.akamaized.net/zeenews/tracks-v4a1/mono.m3u8
 http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 #EXTINF:-1, group-title="NEWS",DELHI AAJ TAK
 https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live2/chunks.m3u8
+#EXTINF:-1, AAJ TAK
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/chunklist_w668703369_b150000.m3u8
 #EXTINF:-1, AAJ TAK 
 http://flussonic2.royaliptvhd.com:8080/IN:AAJTAK/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, AAJ TAK
