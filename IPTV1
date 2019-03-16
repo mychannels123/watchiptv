@@ -19,8 +19,8 @@ https://z5ams.akamaized.net/zeenews/tracks-v4a1/mono.m3u8
 http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 #EXTINF:-1, group-title="NEWS",DELHI AAJ TAK
 https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live2/chunks.m3u8
-#EXTINF:-1, AAJ TAK HD
-http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64264
+#EXTINF:-1, AAJ TAK 
+http://flussonic2.royaliptvhd.com:8080/IN:AAJTAK/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, AAJ TAK
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
 #EXTINF:-1, AAJ TAK
@@ -206,7 +206,7 @@ http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqera
 #EXTINF:-1, 9X JALWA
 http://ind17-lh.akamaihd.net/i/ind17_9xjalwa@68546/index_2000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, STAR BHARAT
-http://45.120.188.170:8000/play/a04v
+http://flussonic2.royaliptvhd.com:8080/IN:STARBHARATHD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, STAR BHARAT
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
 #EXTINF:-1, STAR BHARAT
@@ -217,6 +217,8 @@ https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist
 https://mslapacs.akamaized.net/hls/live/692167/starplusau/starplusau_1800k/chunklist.m3u8
 #EXTINF:-1, STAR PLUS
 http://rb-group-server.com:25461/anis/yakka/3978
+#EXTINF:-1, STAR PLUS HD
+http://flussonic2.royaliptvhd.com:8080/IN:STARPLUSHD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, ZEE ANMOL
 http://51.159.4.21:3135/Zee/anmol/index.m3u8
 #EXTINF:-1, SAHARA ONE
@@ -278,11 +280,10 @@ http://103.14.127.35:1935/starutsav/starutsav.stream_360p/playlist.m3u8
 http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.m3u8
 #EXTINF:-1, MOVIE HOUSE
 http://45.120.188.170:8000/play/a05s
-
-#EXTINF:-1, HOUSEFULL MOVIES
-http://45.120.188.170:8000/play/a05t
-#EXTINF:-1, HOUSEFULL ACTION
-http://45.120.188.170:8000/play/a05v
+#EXTINF:-1, STAR GOLD SELECT
+http://flussonic2.royaliptvhd.com:8080/IN:STARGOLDSELECT/tracks-v1a1/playlist.m3u8?token=royal@2018
+#EXTINF:-1, B4U MOVIES
+http://flussonic2.royaliptvhd.com:8080/IN:B4UMOVIES/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, B4U MOVIES
 http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/Stream(04)/index.m3u8
 #EXTINF:-1, B4U MOVIES
@@ -300,11 +301,13 @@ http://45.120.188.170:8000/play/a04m
 #EXTINF:-1, CINEMA TV
 http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
 #EXTINF:-1, CINEMA TV
-http://45.120.188.170:8000/play/a04j
+http://flussonic2.royaliptvhd.com:8080/IN:CINEMATV/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, STAR UTSAV MOVIES
 http://45.120.188.170:8000/play/a05u
 #EXTINF:-1, ZEE ANMOL CINEMA
 http://rb-group-server.com:25461/anis/yakka/3974
+#EXTINF:-1, ZEE ANMOL CINEMA
+http://flussonic2.royaliptvhd.com:8080/IN:ZEEANMOL/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, ZEE ACTION
 http://rb-group-server.com:25461/anis/yakka/3984
 #EXTINF:-1, ZEE ACTION
@@ -322,21 +325,29 @@ http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/64249
 #EXTINF:-1, ZEE CINEMA HD
 http://51.159.4.21:3135/Zee/cinemaHd/index.m3u8?token=NzQuOTMuMTU4LjIyMi10b2tlbjEtMTU1MDQ5MzMwNQ==
 #EXTINF:-1, ZEE CINEMA
+http://flussonic2.royaliptvhd.com:8080/IN:ZEECINEMAHD/tracks-v1a1/playlist.m3u8?token=royal@2018
+#EXTINF:-1, ZEE CINEMA
 https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/chunklist.m3u8
 #EXTINF:-1, ZEE CINEMA
 http://rb-group-server.com:25461/anis/yakka/4004
+#EXTINF:-1, ZEE CINEMA
+http://flussonic2.royaliptvhd.com:8080/IN:ZEECINEMA/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, SONY MAX HD
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonymax
+http://flussonic2.royaliptvhd.com:8080/IN:SONYMAXHD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, SONY MAX HD
 https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2400/chunklist.m3u8
 #EXTINF:-1, SONY MAX HD
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymaxhd&e=.m3u8
+#EXTINF:-1, SONY MAX2
+http://flussonic2.royaliptvhd.com:8080/IN:SONYMAX2/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, SONY MAX2
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymax2&e=.m3u8
 #EXTINF:-1, SONY MAX
 https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
 #EXTINF:-1, SONY MAX
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymax&e=.m3u8
+#EXTINF:-1, SONY HD
+http://flussonic2.royaliptvhd.com:8080/IN:SONYTVHD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, SONY HD
 https://msleurope2s.akamaized.net/hls/live/2000183/sonymaxukhdmsl/sonymaxukhdmsl_600/chunklist.m3u8
 #EXTINF:-1, SONY TV 
@@ -350,6 +361,8 @@ http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyespnhd&e=.m3u8
 https://stream.wicket.pw/app/willowsd.m3u8
 #EXTINF:-1, SONY ESPN HD
 https://stream.wicket.pw/app/sonyespnhd.m3u8
+#EXTINF:-1, SONY ESPN HD
+http://flussonic2.royaliptvhd.com:8080/IN:SONYESPNHD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, SONY SIX
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonysix&e=.m3u8
 #EXTINF:-1, SONY SIX HD
@@ -378,7 +391,7 @@ http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten3hd&e=.m3u8
 #EXTINF:-1, TEN 3 HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=ten3
 #EXTINF:-1, TEN 3 HD
-http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29546?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
+http://flussonic2.royaliptvhd.com:8080/IN:TEN3HD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, SKY SPORTS
 https://stream.wicket.pw/app/skysportshd.m3u8
 #EXTINF:-1, BT SPORT 2 HD
@@ -393,6 +406,8 @@ https://stream.wicket.pw/app/ptvsportshd.m3u8
 https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, JIO CRICKET HD
 http://jioairtel.fsports.top/jio/jio.m3u8?c=Jio_Cricket_English1&q=800&e=.m3u8
+#EXTINF:-1, TEN SPORTS
+http://flussonic2.royaliptvhd.com:8080/IN:TEN1HD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, CRICKET
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
@@ -409,6 +424,8 @@ http://static36.flexiptv.store:8080/StarSp3/tracks-v1a1/mono.m3u8?token=ad5809e3
 http://cdn23.flexiptv.store:8080/Starsp1select/tracks-v1a1/mono.m3u8?token=ad5809e3936b906280c51603fb4fe5e72e3a8297-3a593e00058d03ca295bc0b8d7c1ddae-1552223417-1552219817-KikFlix
 #EXTINF:-1, LADDI
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
+#EXTINF:-1, STAR SPORTS 2HD
+http://flussonic2.royaliptvhd.com:8080/IN:STARSPORTS2HD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, STAR SPORTS FIRST
 http://45.120.188.170:8000/play/a060
 #EXTINF:-1, STAR SPORTS HINDI
