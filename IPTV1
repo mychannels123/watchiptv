@@ -197,8 +197,8 @@ http://209.58.160.177/wowouthls/live_240p.m3u8
 http://163.172.86.59:3135/Wow/Music/index.m3u8
 #EXTINF:-1, SONY MIX
 http://45.120.188.170:8000/play/a04s
-#EXTINF:-1, MASTI TV
-http://45.120.188.170:8000/play/a05b
+#EXTINF:-1, zing
+http://185.59.223.161/ZingTV-UK-Hin/index.m3u8
 #EXTINF:-1, MASTI TV
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD254L720P/chunklist_b300000.m3u8
 #EXTINF:-1, MASTI TV
@@ -315,7 +315,7 @@ http://51.159.4.21:3135/Zee/action/index.m3u8?token=NzQuOTMuMTU4LjIyMi10b2tlbjEt
 #EXTINF:-1, ZEE BOLLYWOOD
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=zeeclassic&e=.m3u8
 #EXTINF:-1, ZEE TV HD
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=zeetvhd
+http://flussonic2.royaliptvhd.com:8080/IN:ZEETVSD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, Z LIVING USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
@@ -348,13 +348,16 @@ https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunk
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymax&e=.m3u8
 #EXTINF:-1, SONY HD
 http://flussonic2.royaliptvhd.com:8080/IN:SONYTVHD/tracks-v1a1/playlist.m3u8?token=royal@2018
+#EXTINF:-1, SONY SAB
+http://flussonic2.royaliptvhd.com:8080/IN:SONYSABHD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, SONY HD
 https://msleurope2s.akamaized.net/hls/live/2000183/sonymaxukhdmsl/sonymaxukhdmsl_600/chunklist.m3u8
 #EXTINF:-1, SONY TV 
 https://mslapacs.akamaized.net/hls/live/692167/sonyaumsl/sonyau_1800k/chunklist.m3u8
 #EXTINF:-1, SONY SAB
 https://mslapacs.akamaized.net/hls/live/692167/sabtvau/sabtvau_1800k/chunklist.m3u8
-
+#EXTINF:-1, SONY SAB
+http://flussonic2.royaliptvhd.com:8080/IN:SONYSABSD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, group-title="SPORTS",SONY ESPN HD
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyespnhd&e=.m3u8
 #EXTINF:_1, SONY ESPN HD
