@@ -219,6 +219,8 @@ http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD254L720P/chunklist
 http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqerafjrxcph/playlist.m3u8
 #EXTINF:-1, 9X JALWA
 http://ind17-lh.akamaihd.net/i/ind17_9xjalwa@68546/index_2000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, STAR BHARAT HD
+http://185.152.64.54/R-EX/HINDI_STAR_BHARAT_HD_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
 #EXTINF:-1, STAR BHARAT
 http://flussonic2.royaliptvhd.com:8080/IN:STARBHARATHD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, STAR BHARAT
@@ -234,11 +236,13 @@ https://mslapacs.akamaized.net/hls/live/692167/starplusau/starplusau_1800k/chunk
 #EXTINF:-1, STAR PLUS
 http://rb-group-server.com:25461/anis/yakka/3978
 #EXTINF:-1, STAR PLUS HD
+http://185.152.64.54/R-EX/HINDI_STAR_PLUS_HD_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
+#EXTINF:-1, STAR PLUS HD
 http://hindi.flussonic.cdnpro.me/StarPlusUK-Hin/index.m3u8
 #EXTINF:-1, STAR PLUS HD
 http://flussonic2.royaliptvhd.com:8080/IN:STARPLUSHD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, ZEE ANMOL
-http://51.159.4.21:3135/Zee/anmol/index.m3u8
+http://185.152.64.54/R-EX/HINDI_ZEE_ANMOL_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
 #EXTINF:-1, SAHARA ONE
 http://103.14.127.39:1935/saharaone/saharaone.stream_360p/playlist.m3u8
 #EXTINF:-1, B4U MUSIC
@@ -254,6 +258,8 @@ https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, STAR GOLD
 http://hindi.flussonic.cdnpro.me/Star_Gold_UK-Hin/index.m3u8
+#EXTINF:-1, STAR GOLD HD
+http://185.152.64.54/R-EX/HINDI_STAR_GOLD_HD_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
 #EXTINF:-1, BFLIX MOVIES
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=bflix
 #EXTINF:-1, UTV ACTION
@@ -297,6 +303,8 @@ http://103.14.127.35:1935/starutsav/starutsav.stream_360p/playlist.m3u8
 #EXTINF:-1, MAHA MOVIES
 http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.m3u8
 #EXTINF:-1, STAR GOLD SELECT HD
+http://185.152.64.54/R-EX/HINDI_STAR_GOLD_SELECT_HD_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
+#EXTINF:-1, STAR GOLD SELECT HD
 http://hindi.flussonic.cdnpro.me/star_gold_Select-Hin/index.m3u8
 #EXTINF:-1, STAR GOLD SELECT HD
 http://flussonic2.royaliptvhd.com:8080/IN:STARGOLDSELECT/tracks-v1a1/playlist.m3u8?token=royal@2018
@@ -309,6 +317,8 @@ http://hindi.flussonic.cdnpro.me/UTVACTION-Hin/index.m3u8
 #EXTINF:-1, UTV MOVIES
 http://hindi.flussonic.cdnpro.me/UTVBindass-Hin/index.m3u8
 #EXTINF:-1, MOVIES OK
+http://185.152.64.54/R-EX/HINDI_MOVIES_OK_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
+#EXTINF:-1, MOVIES OK
 http://hindi.flussonic.cdnpro.me/JS_MoviesOK_Hin/index.m3u8
 #EXTINF:-1, HOUSEFULL MOVIES
 http://hindi.flussonic.cdnpro.me/HOUSEFULLMOVIE/HIN/index.m3u8
@@ -318,6 +328,8 @@ http://hindi.flussonic.cdnpro.me/HOUSEFULLACTION/HIN/index.m3u8
 http://hindi.flussonic.cdnpro.me/RISHTAYASIA-Hin/index.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX HD
 http://hindi.flussonic.cdnpro.me/Cineplex_HD_HIn/index.m3u8
+#EXTINF:-1, RISHTEY CINEPLEX HD
+http://185.152.64.54/R-EX/HINDI_STAR_BHARAT_HD_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
 #EXTINF:-1, D2H MOVIES
 http://hindi.flussonic.cdnpro.me/D2Hmovies_Hin/index.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX
@@ -357,9 +369,15 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
 https://mslapacs.akamaized.net/hls/live/692167/zeecinemaapachd/zeecinemaapachd_2400k/chunklist.m3u8
 #EXTINF:-1, ZEE CINEMA HD
+http://thoptvstream.gq/api/tulip/zee.m3u8?id=zcinemahd
+#EXTINF:-1, ZEE CINEMA HD
 http://hindi.flussonic.cdnpro.me/ZeeCinemaHD-Hin/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
 http://hindi.flussonic.cdnpro.me/ZeeCinemaHD-USA-Hin/index.m3u8
+#EXTINF:-1, ZEE CINEMA HD
+http://185.152.64.54/R-EX/HINDI_ZEE_CINEMA_HD_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
+#EXTINF:-1, ZEE CINEMA HD
+https://z5ams.akamaized.net/zcinemahd/playlist.m3u8?hdnts=st=1552861546~exp=1552864546~acl=/*~hmac=3473abdd8ddd5f428200536db6a392542a16eee003d6cc9acbffb6a0c30e8e9c
 #EXTINF:-1, ZEE CINEMA
 http://flussonic2.royaliptvhd.com:8080/IN:ZEECINEMAHD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, ZEE CINEMA
@@ -388,6 +406,8 @@ http://hindi.flussonic.cdnpro.me/SON_MAX_UK/index.m3u8
 https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
 #EXTINF:-1, SONY MAX
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymax&e=.m3u8
+#EXTINF:-1, SONY MAX HD
+http://185.152.64.54/R-EX/HINDI_SONY_MAX_HD_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
 #EXTINF:-1, SONY HD
 http://flussonic2.royaliptvhd.com:8080/IN:SONYTVHD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, SONY SAB
