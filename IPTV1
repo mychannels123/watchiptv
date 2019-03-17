@@ -314,8 +314,8 @@ http://45.120.188.170:8000/play/a04m
 http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
 #EXTINF:-1, CINEMA TV
 http://flussonic2.royaliptvhd.com:8080/IN:CINEMATV/tracks-v1a1/playlist.m3u8?token=royal@2018
-#EXTINF:-1, STAR UTSAV MOVIES
-http://45.120.188.170:8000/play/a05u
+#EXTINF:-1, MOVIE HOUSE
+https://57a1b3b8b4855.streamlock.net/live/moviehouse_webA.sdp/chunklist_w1588076140.m3u8
 #EXTINF:-1, ZEE ANMOL CINEMA
 http://rb-group-server.com:25461/anis/yakka/3974
 #EXTINF:-1, ZEE ANMOL CINEMA
