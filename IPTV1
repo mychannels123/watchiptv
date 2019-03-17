@@ -211,6 +211,8 @@ http://163.172.86.59:3135/Wow/Music/index.m3u8
 http://hindi.flussonic.cdnpro.me/Sony_MIX_IND/index.m3u8
 #EXTINF:-1, zing
 http://185.59.223.161/ZingTV-UK-Hin/index.m3u8
+#EXTINF:-1, MUSIC INDIA
+http://hindi.flussonic.cdnpro.me/MusicIndia-Hin/index.m3u8
 #EXTINF:-1, MASTI TV
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD254L720P/chunklist_b300000.m3u8
 #EXTINF:-1, MASTI TV
@@ -260,6 +262,8 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=bflix
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 #EXTINF:-1, B4U PLUS
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1, B4U PLUS
+http://hindi.flussonic.cdnpro.me/B4U+-Hin/index.m3u8
 #EXTINF:-1, UTV MOVIES INTERNATIONAL
 http://rb-group-server.com:25461/anis/yakka/3988
 #EXTINF:-1, CINE MOVIES
@@ -300,6 +304,10 @@ http://flussonic2.royaliptvhd.com:8080/IN:STARGOLDSELECT/tracks-v1a1/playlist.m3
 http://flussonic2.royaliptvhd.com:8080/IN:B4UMOVIES/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, B4U MOVIES
 http://hindi.flussonic.cdnpro.me/B4UMovies-Hin/index.m3u8
+#EXTINF:-1, UTV ACTION
+http://hindi.flussonic.cdnpro.me/UTVACTION-Hin/index.m3u8
+#EXTINF:-1, UTV MOVIES
+http://hindi.flussonic.cdnpro.me/UTVBindass-Hin/index.m3u8
 #EXTINF:-1, MOVIES OK
 http://hindi.flussonic.cdnpro.me/JS_MoviesOK_Hin/index.m3u8
 #EXTINF:-1, HOUSEFULL MOVIES
@@ -319,7 +327,7 @@ https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1
 #EXTINF:-1, WOW CINEMA
 http://cdn.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/playlist.m3u8
 #EXTINF:-1, WOW CINEMA
-http://45.120.188.170:8000/play/a04m
+http://hindi.flussonic.cdnpro.me/WOWCINEMA/HIN/index.m3u8
 #EXTINF:-1, CINEMA TV
 http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
 #EXTINF:-1, CINEMA TV
@@ -340,6 +348,8 @@ http://hindi.flussonic.cdnpro.me/ZEEACTION-Hin/index.m3u8
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=zeeclassic&e=.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
 http://hindi.flussonic.cdnpro.me/ZeeClassic/index.m3u8
+#EXTINF:-1, ZEE BOLLYWOOD
+http://hindi.flussonic.cdnpro.me/ZeeBollywoodHD-Hin/index.m3u8
 #EXTINF:-1, ZEE TV HD
 http://flussonic2.royaliptvhd.com:8080/IN:ZEETVSD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, Z LIVING USA
@@ -348,6 +358,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 https://mslapacs.akamaized.net/hls/live/692167/zeecinemaapachd/zeecinemaapachd_2400k/chunklist.m3u8
 #EXTINF:-1, ZEE CINEMA HD
 http://hindi.flussonic.cdnpro.me/ZeeCinemaHD-Hin/index.m3u8
+#EXTINF:-1, ZEE CINEMA HD
+http://hindi.flussonic.cdnpro.me/ZeeCinemaHD-USA-Hin/index.m3u8
 #EXTINF:-1, ZEE CINEMA
 http://flussonic2.royaliptvhd.com:8080/IN:ZEECINEMAHD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, ZEE CINEMA
