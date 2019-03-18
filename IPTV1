@@ -226,6 +226,8 @@ https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.
 #EXTINF:-1, STAR BHARAT
 http://51.159.4.21:3135/Life/ok/index.m3u8
 #EXTINF:-1, COLORS HD
+http://185.152.64.54/R-EX/HINDI_COLORS_HD_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
+#EXTINF:-1, COLORS HD
 http://hindi.flussonic.cdnpro.me/COLORSHD-West-Hin/index.m3u8
 #EXTINF:-1, COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
@@ -408,6 +410,8 @@ http://185.152.64.54/R-EX/HINDI_SONY_MAX_HD_S-in/tracks-v1a1/mono.m3u8?token=76b
 http://flussonic2.royaliptvhd.com:8080/IN:SONYTVHD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, SONY SAB
 http://flussonic2.royaliptvhd.com:8080/IN:SONYSABHD/tracks-v1a1/playlist.m3u8?token=royal@2018
+#EXTINF:-1, SONY HD
+http://185.152.64.54/R-EX/HINDI_SONY_HD_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
 #EXTINF:-1, SONY HD
 https://msleurope2s.akamaized.net/hls/live/2000183/sonymaxukhdmsl/sonymaxukhdmsl_600/chunklist.m3u8
 #EXTINF:-1, SONY TV 
