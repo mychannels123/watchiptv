@@ -310,6 +310,8 @@ http://flussonic2.royaliptvhd.com:8080/IN:STARGOLDSELECT/tracks-v1a1/playlist.m3
 http://flussonic2.royaliptvhd.com:8080/IN:B4UMOVIES/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, B4U MOVIES
 http://hindi.flussonic.cdnpro.me/B4UMovies-Hin/index.m3u8
+#EXTINF:-1, UTV HD
+http://hindi.flussonic.cdnpro.me/UTVMOVIES-Hin/index.m3u8
 #EXTINF:-1, UTV ACTION
 http://hindi.flussonic.cdnpro.me/UTVACTION-Hin/index.m3u8
 #EXTINF:-1, UTV MOVIES
