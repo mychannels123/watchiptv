@@ -82,15 +82,15 @@ http://stream.rtvpunjabi.com/rtvpunjabi.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC CHAKDE
 http://103.14.127.37:1935/ptcchakde/ptcchakde.stream_360p/playlist.m3u8
 #EXTINF:-1, PTC PUNJABI GOLD
-http://jiocdn.in/jio.php?c=PTC_Punjabi_Gold&q=800&e=.m3u8
+http://jiocdn.in/jioTV.php?c=PTC_Punjabi_Gold&q=800&e=.m3u8
 #EXTINF:-1, PTC MUSIC
-http://jiocdn.in/jio.php?c=PTC_Music&q=800&e=.m3u8
+http://jiocdn.in/jioTV.php?c=PTC_Music&q=800&e=.m3u8
 #EXTINF:-1, TANGY PUNJABI TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
 #EXTINF:-1, PTC PUNJABI
-http://jiocdn.in/jio.php?c=PTC_Punjabi&q=800&e=.m3u8
+http://jiocdn.in/jioTV.php?c=PTC_Punjabi&q=800&e=.m3u8
 #EXTINF:-1, PTC CHAKDE
-http://jiocdn.in/jio.php?c=PTC_Chak_De&q=800&e=.m3u8
+http://jiocdn.in/jioTV.php?c=PTC_Chak_De&q=800&e=.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC NEWS
 https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC NEWS
@@ -117,8 +117,6 @@ http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
 http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
 #EXTINF:-1, BRIT ASIA TV
 http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/104390
-#EXTINF:-1, 9X TASHAN
-http://landiptv.live:8080/bc3n1Et2B/0gR75zm1yU/73816
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
 https://msluk4s.akamaized.net/hls/live/2000136/9xtashanmsl/9xtashan_2000/chunklist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
@@ -245,8 +243,6 @@ http://flussonic2.royaliptvhd.com:8080/IN:STARPLUSHD/tracks-v1a1/playlist.m3u8?t
 http://185.152.64.54/R-EX/HINDI_ZEE_ANMOL_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
 #EXTINF:-1, SAHARA ONE
 http://103.14.127.39:1935/saharaone/saharaone.stream_360p/playlist.m3u8
-#EXTINF:-1, B4U MUSIC
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=b4umusic
 #EXTINF:-1, B4U MUSIC
 http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
 #EXTINF:-1, B4U MUSIC
@@ -397,7 +393,7 @@ http://flussonic2.royaliptvhd.com:8080/IN:SONYMAX2/tracks-v1a1/playlist.m3u8?tok
 #EXTINF:-1, SONY MAX2
 http://hindi.flussonic.cdnpro.me/SONYMAX2-Hin/index.m3u8
 #EXTINF:-1, SONY MAX2
-http://jiocdn.in/jio.php?c=Sony_MAX2&q=800&e=.m3u8
+http://jiocdn.in/jioTV.php?c=Sony_MAX2&q=800&e=.m3u8
 #EXTINF:-1, SONY MAX2
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymax2&e=.m3u8
 #EXTINF:-1, SONY MAX
