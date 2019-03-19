@@ -259,6 +259,8 @@ https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 #EXTINF:-1, NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, STAR GOLD
+http://mhdtvworld.com/delta/hotstar/hsplus.m3u8?c=stargold&e=.m3u8
+#EXTINF:-1, STAR GOLD
 http://hindi.flussonic.cdnpro.me/Star_Gold_UK-Hin/index.m3u8
 #EXTINF:-1, STAR GOLD HD
 http://185.152.64.54/R-EX/HINDI_STAR_GOLD_HD_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
