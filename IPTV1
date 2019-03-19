@@ -492,8 +492,7 @@ http://static36.flexiptv.store:8080/StarSp2/tracks-v1a1/mono.m3u8?token=ad5809e3
 http://static36.flexiptv.store:8080/StarSp3/tracks-v1a1/mono.m3u8?token=ad5809e3936b906280c51603fb4fe5e72e3a8297-3a593e00058d03ca295bc0b8d7c1ddae-1552223417-1552219817-KikFlix
 #EXTINF:-1, STAR SPORTS SELECT
 http://cdn23.flexiptv.store:8080/Starsp1select/tracks-v1a1/mono.m3u8?token=ad5809e3936b906280c51603fb4fe5e72e3a8297-3a593e00058d03ca295bc0b8d7c1ddae-1552223417-1552219817-KikFlix
-#EXTINF:-1, LADDI
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
+
 #EXTINF:-1, STAR SPORTS 2HD
 http://flussonic2.royaliptvhd.com:8080/IN:STARSPORTS2HD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, LADDI3
