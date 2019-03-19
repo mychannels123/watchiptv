@@ -20,6 +20,8 @@ http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 #EXTINF:-1, group-title="NEWS",DELHI AAJ TAK
 https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live2/chunks.m3u8
 #EXTINF:-1, AAJ TAK
+http://hindi.flussonic.cdnpro.me/Aajtak-Hin/index.m3u8
+#EXTINF:-1, AAJ TAK
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/chunklist_w668703369_b150000.m3u8
 #EXTINF:-1, AAJ TAK 
 http://flussonic2.royaliptvhd.com:8080/IN:AAJTAK/tracks-v1a1/playlist.m3u8?token=royal@2018
@@ -252,6 +254,8 @@ http://103.14.127.39:1935/saharaone/saharaone.stream_360p/playlist.m3u8
 #EXTINF:-1, B4U MUSIC
 http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
 #EXTINF:-1, B4U MUSIC
+http://hindi.flussonic.cdnpro.me/B4U_Music_UK-Hin/index.m3u8
+#EXTINF:-1, B4U MUSIC
 https://ind17-lh.akamaihd.net/i/ind17_b4umusic@68543/index_2000_av-p.m3u8?sd=10&dw=7200&b=100-2500&rebase=on
 #EXTINF:-1, MTV INDIA
 https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
@@ -335,6 +339,8 @@ http://hindi.flussonic.cdnpro.me/HOUSEFULLACTION/HIN/index.m3u8
 #EXTINF:-1, RISHTEY AMERICAS
 http://hindi.flussonic.cdnpro.me/RISHTAYASIA-Hin/index.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX HD
+http://hindi.flussonic.cdnpro.me/Rishtey_Cineplex_IND/index.m3u8
+#EXTINF:-1, RISHTEY CINEPLEX HD
 http://hindi.flussonic.cdnpro.me/Cineplex_HD_HIn/index.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX HD
 http://185.152.64.54/R-EX/HINDI_CINEPLEX_HD_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
@@ -370,6 +376,10 @@ http://jioairtel.fsports.top/airtel/airtel.m3u8?c=zeeclassic&e=.m3u8
 http://hindi.flussonic.cdnpro.me/ZeeClassic/index.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
 http://hindi.flussonic.cdnpro.me/ZeeBollywoodHD-Hin/index.m3u8
+#EXTINF:-1, ZEE TV HD
+http://thoptvstream.gq/api/tulip/zee.m3u8?id=zeetvhd
+#EXTINF:-1, ZEE TV HD
+http://hindi.flussonic.cdnpro.me/ZeeTVHDIND-Hin/index.m3u8
 #EXTINF:-1, ZEE TV HD
 http://flussonic2.royaliptvhd.com:8080/IN:ZEETVSD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, Z LIVING USA
