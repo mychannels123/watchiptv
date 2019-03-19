@@ -480,8 +480,12 @@ https://stream.wicket.pw/app/willowhd.m3u8
 https://stream.wicket.pw/app/ptvsportshd.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://stream.wicket.pw/app/starsports1hd.m3u8
+#EXTINF:-1, JIO CRICKET HINDI
+http://jiocdn.in/jioTV.php?c=Jio_Cricket_Hindi&q=800&e=.m3u8
 #EXTINF:-1, JIO CRICKET HD
 http://jiocdn.in/jioTV.php?c=Jio_Cricket_English1&q=800&e=.m3u8
+#EXTINF:-1, DSPORTS
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
 #EXTINF:-1, TEN SPORTS
 http://flussonic2.royaliptvhd.com:8080/IN:TEN1HD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, CRICKET
