@@ -224,7 +224,7 @@ http://flussonic2.royaliptvhd.com:8080/IN:STARBHARATHD/tracks-v1a1/playlist.m3u8
 #EXTINF:-1, STAR BHARAT
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
 #EXTINF:-1, STAR BHARAT
-http://51.159.4.21:3135/Life/ok/index.m3u8
+http://mhdtvworld.com/delta/hotstar/hsplus.m3u8?c=starbharat&e=.m3u8
 #EXTINF:-1, COLORS HD
 http://185.152.64.54/R-EX/HINDI_COLORS_HD_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
 #EXTINF:-1, COLORS HD
@@ -314,6 +314,8 @@ http://hindi.flussonic.cdnpro.me/B4UMovies-Hin/index.m3u8
 http://hindi.flussonic.cdnpro.me/UTVMOVIES-Hin/index.m3u8
 #EXTINF:-1, UTV ACTION
 http://hindi.flussonic.cdnpro.me/UTVACTION-Hin/index.m3u8
+#EXTINF:-1, MOVIES OK
+http://mhdtvworld.com/delta/hotstar/hsplus.m3u8?c=moviesok&e=.m3u8
 #EXTINF:-1, UTV MOVIES
 http://hindi.flussonic.cdnpro.me/UTVBindass-Hin/index.m3u8
 #EXTINF:-1, MOVIES OK
