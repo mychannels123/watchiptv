@@ -496,12 +496,6 @@ http://cdn23.flexiptv.store:8080/Starsp1select/tracks-v1a1/mono.m3u8?token=ad580
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
 #EXTINF:-1, STAR SPORTS 2HD
 http://flussonic2.royaliptvhd.com:8080/IN:STARSPORTS2HD/tracks-v1a1/playlist.m3u8?token=royal@2018
-#EXTINF:-1, STAR SPORTS FIRST
-http://45.120.188.170:8000/play/a060
-#EXTINF:-1, STAR SPORTS HINDI
-http://mhdtvworld.com/delta/jio/airtel.php?c=Sony_MAX2&q=800&e=.m3u8
-#EXTINF:-1, LADDI2
-http://thoptvstream.gq/api/sunflower/play.php?c=Sony_MAX2&q=800&e=.m3u8
 #EXTINF:-1, LADDI3
 http://thoptvstream.gq/api/sunflower/play.php?url=http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226017/index.m3u8
 
