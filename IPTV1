@@ -487,15 +487,15 @@ http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports1
 #EXTINF:-1, STAR SPORTS 1
-http://static36.flexiptv.store:8080/StarSp1/tracks-v1a1/mono.m3u8?token=ad5809e3936b906280c51603fb4fe5e72e3a8297-3a593e00058d03ca295bc0b8d7c1ddae-1552223417-1552219817-KikFlix
+http://mhdtvworld.com/delta/hotstar/hsplus.m3u8?c=sshd1livetv&e=.m3u8
 #EXTINF:-1, STAR SPORTS 1
 http://rb-group-server.com:25461/anis/yakka/3976
 #EXTINF:-1, STAR SPORTS 2
-http://static36.flexiptv.store:8080/StarSp2/tracks-v1a1/mono.m3u8?token=ad5809e3936b906280c51603fb4fe5e72e3a8297-3a593e00058d03ca295bc0b8d7c1ddae-1552223417-1552219817-KikFlix
+http://mhdtvworld.com/delta/hotstar/hsplus.m3u8?c=sshd2livetv&e=.m3u8
 #EXTINF:-1, STAR SPORTS 3
 http://static36.flexiptv.store:8080/StarSp3/tracks-v1a1/mono.m3u8?token=ad5809e3936b906280c51603fb4fe5e72e3a8297-3a593e00058d03ca295bc0b8d7c1ddae-1552223417-1552219817-KikFlix
 #EXTINF:-1, STAR SPORTS SELECT
-http://cdn23.flexiptv.store:8080/Starsp1select/tracks-v1a1/mono.m3u8?token=ad5809e3936b906280c51603fb4fe5e72e3a8297-3a593e00058d03ca295bc0b8d7c1ddae-1552223417-1552219817-KikFlix
+http://mhdtvworld.com/delta/hotstar/hsplus.m3u8?c=ssselecthd1&e=.m3u8
 
 #EXTINF:-1, STAR SPORTS 2HD
 http://flussonic2.royaliptvhd.com:8080/IN:STARSPORTS2HD/tracks-v1a1/playlist.m3u8?token=royal@2018
