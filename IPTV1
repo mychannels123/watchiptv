@@ -28,7 +28,7 @@ http://flussonic2.royaliptvhd.com:8080/IN:AAJTAK/tracks-v1a1/playlist.m3u8?token
 #EXTINF:-1, AAJ TAK
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
 #EXTINF:-1, AAJ TAK
-https://msl40s.akamaized.net/hls/live/692167/msl/aajtak_1800/chunklist.m3u8?hdntl=exp=1546165268~acl=/*~data=hdntl~hmac=b6b986668275d7cae74aa5783dadeed34328b49da44ada63b80651cc5c0b8388
+https://msleurope8.akamaized.net/hls/live/2003252/aajtakpxy/aajtak_1800/chunklist.m3u8?hdntl=exp=1553146904~acl=/*~data=hdntl~hmac=ad6378e724cdead406bed526b088d6e5bf0ef0d680b1072cc78a2299b51cf9ce
 #EXTINF:-1, TEZ
 https://msluk6s.akamaized.net/hls/live/2000171/teznewsmsl/teznews_1100/chunklist.m3u8
 #EXTINF:-1, group-title="NEWS",TEZ
@@ -222,7 +222,7 @@ http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD254L720P/chunklist
 #EXTINF:-1, MASTI TV
 http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqerafjrxcph/playlist.m3u8
 #EXTINF:-1, 9X JALWA
-http://ind17-lh.akamaihd.net/i/ind17_9xjalwa@68546/index_2000_av-p.m3u8?sd=10&rebase=on
+https://yuppad10-i.akamaihd.net/hls/live/682741/9xjalwaamg/9xjalwa_1800/chunklist.m3u8
 #EXTINF:-1, STAR BHARAT HD
 http://185.152.64.54/R-EX/HINDI_STAR_BHARAT_HD_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
 #EXTINF:-1, STAR BHARAT
