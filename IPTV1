@@ -485,6 +485,8 @@ https://stream.wicket.pw/app/sonysixhd.m3u8
 #EXTINF:-1, SPORT MAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 #EXTINF:-1, WILLOW HD
+http://redflixiptv.xyz/live/hls/WillowHD.m3u8
+#EXTINF:-1, WILLOW HD
 https://stream.wicket.pw/app/willowhd.m3u8
 #EXTINF:-1, PTV SPORTS
 https://stream.wicket.pw/app/ptvsportshd.m3u8
@@ -501,15 +503,23 @@ http://flussonic2.royaliptvhd.com:8080/IN:TEN1HD/tracks-v1a1/playlist.m3u8?token
 #EXTINF:-1, CRICKET
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports1
+http://redflixiptv.xyz/live/hls/StarSports1_4K.m3u8
 #EXTINF:-1, STAR SPORTS 1
 http://mhdtvworld.com/delta/hotstar/hsplus.m3u8?c=sshd1livetv&e=.m3u8
 #EXTINF:-1, STAR SPORTS 1
-http://rb-group-server.com:25461/anis/yakka/3976
+http://13.234.160.129:81/StarSports1/index.m3u8?token=NxtSports
+#EXTINF:-1, STAR SPORTS 2HD
+http://redflixiptv.xyz/live/hls/StarSports2_4K.m3u8
+#EXTINF:-1. STAR SPORTS 2
+http://13.234.160.129:81/StarSports2/index.m3u8?token=NxtSports
 #EXTINF:-1, STAR SPORTS 2
 http://mhdtvworld.com/delta/hotstar/hsplus.m3u8?c=sshd2livetv&e=.m3u8
 #EXTINF:-1, STAR SPORTS 3
-http://static36.flexiptv.store:8080/StarSp3/tracks-v1a1/mono.m3u8?token=ad5809e3936b906280c51603fb4fe5e72e3a8297-3a593e00058d03ca295bc0b8d7c1ddae-1552223417-1552219817-KikFlix
+http://13.234.160.129:81/StarSports3/index.m3u8?token=NxtSports
+#EXTINF:-1, STAR SPORTS SELECT 2HD
+http://redflixiptv.xyz/live/hls/StarSportsSelect2_4K.m3u8
+#EXTINF:-1, STAR SPORTS SELECT 1HD
+http://redflixiptv.xyz/live/hls/StarSportsSelect1_4K.m3u8
 #EXTINF:-1, STAR SPORTS SELECT
 http://mhdtvworld.com/delta/hotstar/hsplus.m3u8?c=ssselecthd1&e=.m3u8
 
