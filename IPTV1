@@ -82,10 +82,12 @@ http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.
 #EXTINF:-1, group-title="PUNJABI TV",RTV PUNJABI
 http://stream.rtvpunjabi.com/rtvpunjabi.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC CHAKDE
-http://103.14.127.37:1935/ptcchakde/ptcchakde.stream_360p/playlist.m3u8
+http://123.249.76.157:10012/bysid/3
 #EXTINF:-1, BRIT ASIA
 http://jiocdn.in/jiolive.php?c=Brit_Asia&q=800&e=.m3u8
-#EXTINF:-1, PTC PUNJABI GOLD
+#EXTINF:-1, PTC GOLD
+http://123.249.76.157:10012/bysid/4
+#EXTINF:-1, PTC GOLD
 http://jiocdn.in/jiolive.php?c=PTC_Punjabi_Gold&q=800&e=.m3u8
 #EXTINF:-1, PTC MUSIC
 http://jiocdn.in/jiolive.php?c=PTC_Music&q=800&e=.m3u8
@@ -95,8 +97,12 @@ http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chun
 http://jiocdn.in/jiolive.php?c=PTC_Simran&q=800&e=.m3u8
 #EXTINF:-1, PTC PUNJABI
 http://jiocdn.in/jiolive.php?c=PTC_Punjabi&q=800&e=.m3u8
+#EXTINF:-1, PTC PUNJABI
+http://123.249.76.157:10012/bysid/2
 #EXTINF:-1, PTC CHAKDE
 http://jiocdn.in/jiolive.php?c=PTC_Chak_De&q=800&e=.m3u8
+#EXTINF:-1, PTC NEWS
+http://123.249.76.157:10012/bysid/1
 #EXTINF:-1, group-title="PUNJABI TV",PTC NEWS
 https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC NEWS
@@ -199,8 +205,8 @@ http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8
 http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",LIFE PUNJABI
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
-#EXTINF:-1, group-title="HINDI",STAR TV
-http://45.120.188.170:8000/play/a059
+#EXTINF:-1, MANORANJAN MOVIES
+http://123.249.76.157:10012/bysid/5
 #EXTINF:-1, MANORANJAN TV
 http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmvieiaysg/playlist.m3u8
 #EXTINF:-1, MUSIC INDIA
@@ -309,7 +315,7 @@ http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w3
 #EXTINF:-1, STAR UTSUV MOVIES
 http://103.14.127.35:1935/starutsav/starutsav.stream_360p/playlist.m3u8
 #EXTINF:-1, MAHA MOVIES
-http://103.14.127.35:1935/mahamovie/mahamovie.stream_360p/chunklist_w1329691690.m3u8
+http://123.249.76.157:10011/bysid/1308
 #EXTINF:-1, STAR GOLD SELECT HD
 http://185.152.64.54/R-EX/HINDI_STAR_GOLD_SELECT_HD_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
 #EXTINF:-1, STAR GOLD SELECT HD
