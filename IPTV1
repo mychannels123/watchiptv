@@ -531,8 +531,6 @@ http://mhdtvworld.com/delta/hotstar/hsplus.m3u8?c=ssselecthd1&e=.m3u8
 
 #EXTINF:-1, STAR SPORTS 2HD
 http://flussonic2.royaliptvhd.com:8080/IN:STARSPORTS2HD/tracks-v1a1/playlist.m3u8?token=royal@2018
-#EXTINF:-1, LADDI3
-http://jiocdn.in/stream2.php?ts=Sony_HD/Sony_HD_800-1553053678000.ts
 #EXTINF:-1, LADD166
 http://jioairtel.fsports.top/airtel/airtv.php?url=http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226313/index.m3u8
 
