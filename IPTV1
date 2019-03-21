@@ -84,23 +84,23 @@ http://stream.rtvpunjabi.com/rtvpunjabi.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC CHAKDE
 http://123.249.76.157:10012/bysid/3
 #EXTINF:-1, BRIT ASIA
-http://jiocdn.in/jiolive.php?c=Brit_Asia&q=800&e=.m3u8
+http://jiocdn.in/jiolivetv.php?c=Brit_Asia&q=800&e=.m3u8
 #EXTINF:-1, PTC GOLD
 http://123.249.76.157:10012/bysid/4
 #EXTINF:-1, PTC GOLD
-http://jiocdn.in/jiolive.php?c=PTC_Punjabi_Gold&q=800&e=.m3u8
+http://jiocdn.in/jiolivetv.php?c=PTC_Punjabi_Gold&q=800&e=.m3u8
 #EXTINF:-1, PTC MUSIC
-http://jiocdn.in/jiolive.php?c=PTC_Music&q=800&e=.m3u8
+http://jiocdn.in/jiolivetv.php?c=PTC_Music&q=800&e=.m3u8
 #EXTINF:-1, TANGY PUNJABI TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
 #EXTINF:-1, PTC SIMRAN
 http://jiocdn.in/jiolive.php?c=PTC_Simran&q=800&e=.m3u8
 #EXTINF:-1, PTC PUNJABI
-http://jiocdn.in/jiolive.php?c=PTC_Punjabi&q=800&e=.m3u8
+http://jiocdn.in/jiolivetv.php?c=PTC_Punjabi&q=800&e=.m3u8
 #EXTINF:-1, PTC PUNJABI
 http://123.249.76.157:10012/bysid/2
 #EXTINF:-1, PTC CHAKDE
-http://jiocdn.in/jiolive.php?c=PTC_Chak_De&q=800&e=.m3u8
+http://jiocdn.in/jiolivetv.php?c=PTC_Chak_De&q=800&e=.m3u8
 #EXTINF:-1, PTC NEWS
 http://123.249.76.157:10012/bysid/1
 #EXTINF:-1, group-title="PUNJABI TV",PTC NEWS
@@ -369,11 +369,7 @@ http://hindi.flussonic.cdnpro.me/cinema_tv_hin/index.m3u8
 #EXTINF:-1, MOVIE HOUSE
 http://hindi.flussonic.cdnpro.me/movie_house_hin/index.m3u8
 #EXTINF:-1, ZEE ANMOL CINEMA
-http://rb-group-server.com:25461/anis/yakka/3974
-#EXTINF:-1, ZEE ANMOL CINEMA
 http://flussonic2.royaliptvhd.com:8080/IN:ZEEANMOL/tracks-v1a1/playlist.m3u8?token=royal@2018
-#EXTINF:-1, ZEE ACTION
-http://rb-group-server.com:25461/anis/yakka/3984
 #EXTINF:-1, ZEE ACTION
 http://hindi.flussonic.cdnpro.me/ZEEACTION-Hin/index.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
@@ -383,8 +379,6 @@ http://hindi.flussonic.cdnpro.me/ZeeClassic/index.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
 http://hindi.flussonic.cdnpro.me/ZeeBollywoodHD-Hin/index.m3u8
 #EXTINF:-1, ZEE TV HD
-http://thoptvstream.gq/api/tulip/zee.m3u8?id=zeetvhd
-#EXTINF:-1, ZEE TV HD
 http://hindi.flussonic.cdnpro.me/ZeeTVHDIND-Hin/index.m3u8
 #EXTINF:-1, ZEE TV HD
 http://flussonic2.royaliptvhd.com:8080/IN:ZEETVSD/tracks-v1a1/playlist.m3u8?token=royal@2018
@@ -392,8 +386,6 @@ http://flussonic2.royaliptvhd.com:8080/IN:ZEETVSD/tracks-v1a1/playlist.m3u8?toke
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
 https://mslapacs.akamaized.net/hls/live/692167/zeecinemaapachd/zeecinemaapachd_2400k/chunklist.m3u8
-#EXTINF:-1, ZEE CINEMA HD
-http://thoptvstream.gq/api/tulip/zee.m3u8?id=zcinemahd
 #EXTINF:-1, ZEE CINEMA HD
 http://hindi.flussonic.cdnpro.me/ZeeCinemaHD-Hin/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
@@ -407,8 +399,6 @@ http://flussonic2.royaliptvhd.com:8080/IN:ZEECINEMAHD/tracks-v1a1/playlist.m3u8?
 #EXTINF:-1, ZEE CINEMA
 https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/chunklist.m3u8
 #EXTINF:-1, ZEE CINEMA
-http://rb-group-server.com:25461/anis/yakka/4004
-#EXTINF:-1, ZEE CINEMA
 http://flussonic2.royaliptvhd.com:8080/IN:ZEECINEMA/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, SONY MAX HD
 http://flussonic2.royaliptvhd.com:8080/IN:SONYMAXHD/tracks-v1a1/playlist.m3u8?token=royal@2018
@@ -421,7 +411,7 @@ http://flussonic2.royaliptvhd.com:8080/IN:SONYMAX2/tracks-v1a1/playlist.m3u8?tok
 #EXTINF:-1, SONY MAX2
 http://hindi.flussonic.cdnpro.me/SONYMAX2-Hin/index.m3u8
 #EXTINF:-1, SONY MAX2
-http://jiocdn.in/jiolive.php?c=Sony_MAX2&q=800&e=.m3u8
+http://jiocdn.in/jiolivetv.php?c=Sony_MAX2&q=800&e=.m3u8
 #EXTINF:-1, SONY MAX2
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymax2&e=.m3u8
 #EXTINF:-1, SONY MAX
@@ -499,9 +489,9 @@ https://stream.wicket.pw/app/ptvsportshd.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, JIO CRICKET HINDI
-http://jiocdn.in/jiolive.php?c=Jio_Cricket_Hindi&q=800&e=.m3u8
+http://jiocdn.in/jiolivetv.php?c=Jio_Cricket_Hindi&q=800&e=.m3u8
 #EXTINF:-1, JIO CRICKET HD
-http://jiocdn.in/jiolive.php?c=Jio_Cricket_English1&q=800&e=.m3u8
+http://jiocdn.in/jiolivev.php?c=Jio_Cricket_English1&q=800&e=.m3u8
 #EXTINF:-1, DSPORTS
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
 #EXTINF:-1, TEN SPORTS
