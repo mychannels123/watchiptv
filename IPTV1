@@ -467,6 +467,8 @@ http://flussonic2.royaliptvhd.com:8080/IN:SONYESPNHD/tracks-v1a1/playlist.m3u8?t
 #EXTINF:-1, SONY SIX
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonysix&e=.m3u8
 #EXTINF:-1, SONY SIX HD
+http://thoptvstream.gq/api/daisy/wlive/index.m3u8?ch=sonysix
+#EXTINF:-1, SONY SIX HD
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonysixhd&e=.m3u8
 #EXTINF:-1, SONY SIX HD
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29548?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
@@ -519,6 +521,8 @@ http://flussonic2.royaliptvhd.com:8080/IN:TEN1HD/tracks-v1a1/playlist.m3u8?token
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
 http://173.249.31.216:9000/live/ketu/ketu/397.m3u8
+#EXTINF:-1, STAR SPORTS 1HD
+http://thoptvstream.gq/api/daisy/wlive/index.m3u8?ch=star1
 #EXTINF:-1, STAR SPORTS 1
 http://thoptvstream.gq/api/tulip/tvbd.m3u8?id=starsports1
 #EXTINF:-1, STAR SPORTS 1
