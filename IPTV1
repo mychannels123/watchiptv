@@ -545,14 +545,11 @@ http://13.234.160.129:81/StarSports3/index.m3u8?token=NxtSports
 http://thoptvstream.gq/api/tulip/tvbd.m3u8?id=select2
 #EXTINF:-1, STAR SPORTS SELECT 1HD
 http://thoptvstream.gq/api/tulip/tvbd.m3u8?id=select1
-#EXTINF:-1, STAR SPORTS SELECT
-http://mhdtvworld.com/delta/hotstar/hsplus.m3u8?c=ssselecthd1&e=.m3u8
 
 #EXTINF:-1, STAR SPORTS 2HD
 http://flussonic2.royaliptvhd.com:8080/IN:STARSPORTS2HD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, LADD166
-http://malayalamtv.stream/jio/streamkey.php?key=Sony_MAX2/Sony_MAX2_800-1553234938000.key
-
+http://thoptvstream.gq/api/scilla/play.m3u8?id=zeecinema
 
 
 #EXTINF:-1, LADD18
