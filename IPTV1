@@ -499,13 +499,13 @@ http://flussonic2.royaliptvhd.com:8080/IN:TEN1HD/tracks-v1a1/playlist.m3u8?token
 #EXTINF:-1, CRICKET
 http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
-http://redflixiptv.xyz/live/hls/StarSports1_4K.m3u8
+http://173.249.31.216:9000/live/ketu/ketu/397.m3u8
 #EXTINF:-1, STAR SPORTS 1
 http://thoptvstream.gq/api/tulip/tvbd.m3u8?id=starsports1
 #EXTINF:-1, STAR SPORTS 1
 http://13.234.160.129:81/StarSports1/index.m3u8?token=NxtSports
 #EXTINF:-1, STAR SPORTS 2HD
-http://173.249.31.216:9000/live/ketu/ketu/376.ts
+http://173.249.31.216:9000/live/ketu/ketu/376.m3u8
 #EXTINF:-1, STAR SPORTS 2
 http://thoptvstream.gq/api/tulip/tvbd.m3u8?id=starsports2
 #EXTINF:-1. STAR SPORTS 2
@@ -529,8 +529,8 @@ http://mhdtvworld.com/delta/hotstar/streamh.php?c=moviesok&ts=master_800.m3u8
 
 
 
-
+#EXTINF:1, AND PICTURES HD\
 http://thoptvstream.gq/api/tulip/zee.m3u8?id=andpicshd&tvauth=huaHVNVFUxTXpBeE9Ea3pOUT09Cjo4Nzc4Mjk3Y2VlNWEzMjVhMGU1Njg3OGYyZGI0YzBhZA==
-
+#EXTINF:-1, LADD18
 https://z5ams.akamaized.net/andpicshd/playlist.m3u8?hdnts=st=1553218378~exp=1553221378~acl=/*~hmac=c46851a506afe1c6e59486dabfc5facf857c643c5bf2968a248eed326facbe80
 
