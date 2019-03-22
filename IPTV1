@@ -372,7 +372,11 @@ http://hindi.flussonic.cdnpro.me/cinema_tv_hin/index.m3u8
 #EXTINF:-1, MOVIE HOUSE
 http://hindi.flussonic.cdnpro.me/movie_house_hin/index.m3u8
 #EXTINF:-1, ZEE ANMOL CINEMA
+http://thoptvstream.gq/api/tulip/zee.m3u8?id=zanmolcnm
+#EXTINF:-1, ZEE ANMOL CINEMA
 http://flussonic2.royaliptvhd.com:8080/IN:ZEEANMOL/tracks-v1a1/playlist.m3u8?token=royal@2018
+#EXTINF:-1, ZEE ACTION
+http://thoptvstream.gq/api/tulip/zee.m3u8?id=action
 #EXTINF:-1, ZEE ACTION
 http://hindi.flussonic.cdnpro.me/ZEEACTION-Hin/index.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
