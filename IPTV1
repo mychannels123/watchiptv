@@ -218,11 +218,15 @@ http://209.58.160.177/wowouthls/live_240p.m3u8
 #EXTINF:-1, WOW MUSIC
 http://163.172.86.59:3135/Wow/Music/index.m3u8
 #EXTINF:-1, SONY MIX
+http://thoptvstream.gq/api/tulip/tvbd.m3u8?id=sonymix
+#EXTINF:-1, SONY MIX
 http://hindi.flussonic.cdnpro.me/Sony_MIX_IND/index.m3u8
 #EXTINF:-1, zing
 http://185.59.223.161/ZingTV-UK-Hin/index.m3u8
 #EXTINF:-1, MUSIC INDIA
 http://hindi.flussonic.cdnpro.me/MusicIndia-Hin/index.m3u8
+#EXTINF:-1, MASTI TV
+http://thoptvstream.gq/api/tulip/tvbd.m3u8?id=musicmasti
 #EXTINF:-1, MASTI TV
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD254L720P/chunklist_b300000.m3u8
 #EXTINF:-1, MASTI TV
@@ -230,7 +234,7 @@ http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqera
 #EXTINF:-1, 9X JALWA
 https://yuppad10-i.akamaihd.net/hls/live/682741/9xjalwaamg/9xjalwa_1800/chunklist.m3u8
 #EXTINF:-1, STAR BHARAT HD
-http://185.152.64.54/R-EX/HINDI_STAR_BHARAT_HD_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
+http://thoptvstream.gq/api/tulip/tvbd.m3u8?id=starbharat
 #EXTINF:-1, STAR BHARAT
 http://flussonic2.royaliptvhd.com:8080/IN:STARBHARATHD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, STAR BHARAT
