@@ -128,7 +128,7 @@ http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",ANKHILA PUNJAB
 http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
 #EXTINF:-1, 9X TASHAN
-http://thoptvstream.gq/api/tulip/zee.m3u8?id=9xtashan
+http://thoptvstream.gq/api/tulip/zee.m3u8?id=9xtashan&tvauth=dfZGZNVFUxTXpRMk56STVOdz09OmZiM2Y1MTRmYWJjMGVmNjg3NmQ3YmU2M2RjNWM0MDBh
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
 https://msluk4s.akamaized.net/hls/live/2000136/9xtashanmsl/9xtashan_2000/chunklist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
@@ -234,7 +234,7 @@ http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqera
 #EXTINF:-1, 9X JALWA
 https://yuppad10-i.akamaihd.net/hls/live/682741/9xjalwaamg/9xjalwa_1800/chunklist.m3u8
 #EXTINF:-1, STAR BHARAT HD
-http://thoptvstream.gq/api/tulip/tvbd.m3u8?id=starbharat
+http://thoptvstream.gq/api/tulip/tvbd.m3u8?id=starbharat&tvauth=dfZGZNVFUxTXpRMk56STVOdz09OmZiM2Y1MTRmYWJjMGVmNjg3NmQ3YmU2M2RjNWM0MDBh
 #EXTINF:-1, STAR BHARAT
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
 #EXTINF:-1, STAR BHARAT
@@ -267,9 +267,9 @@ http://hindi.flussonic.cdnpro.me/Star_Gold_UK-Hin/index.m3u8
 #EXTINF:-1, BFLIX MOVIES
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=bflix
 #EXTINF:-1, AND PICTURES HD
-http://thoptvstream.gq/api/tulip/zee.m3u8?id=andpicshd
+http://thoptvstream.gq/api/tulip/zee.m3u8?id=andpicshd&tvauth=dfZGZNVFUxTXpRMk56STVOdz09OmZiM2Y1MTRmYWJjMGVmNjg3NmQ3YmU2M2RjNWM0MDBh
 #ETINF:-1, AND PICTURES
-http://thoptvstream.gq/api/tulip/zee.m3u8?id=andpicssd
+http://thoptvstream.gq/api/tulip/zee.m3u8?id=andpicssd&tvauth=dfZGZNVFUxTXpRMk56STVOdz09OmZiM2Y1MTRmYWJjMGVmNjg3NmQ3YmU2M2RjNWM0MDBh
 
 #EXTINF:-1, MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
@@ -350,9 +350,9 @@ http://hindi.flussonic.cdnpro.me/cinema_tv_hin/index.m3u8
 #EXTINF:-1, MOVIE HOUSE
 http://hindi.flussonic.cdnpro.me/movie_house_hin/index.m3u8
 #EXTINF:-1, ZEE ANMOL CINEMA
-http://thoptvstream.gq/api/tulip/zee.m3u8?id=zanmolcnm
+http://thoptvstream.gq/api/tulip/zee.m3u8?id=zanmolcnm&tvauth=dfZGZNVFUxTXpRMk56STVOdz09OmZiM2Y1MTRmYWJjMGVmNjg3NmQ3YmU2M2RjNWM0MDBh
 #EXTINF:-1, ZEE ACTION
-http://thoptvstream.gq/api/tulip/zee.m3u8?id=action
+http://thoptvstream.gq/api/tulip/zee.m3u8?id=action&tvauth=dfZGZNVFUxTXpRMk56STVOdz09OmZiM2Y1MTRmYWJjMGVmNjg3NmQ3YmU2M2RjNWM0MDBh
 #EXTINF:-1, ZEE ACTION
 http://hindi.flussonic.cdnpro.me/ZEEACTION-Hin/index.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
@@ -364,11 +364,11 @@ http://hindi.flussonic.cdnpro.me/ZeeClassic/index.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
 http://hindi.flussonic.cdnpro.me/ZeeBollywoodHD-Hin/index.m3u8
 #EXTINF:1, ZEE TV HD
-http://thoptvstream.gq/api/tulip/zee.m3u8?id=zeetvhd
+http://thoptvstream.gq/api/tulip/zee.m3u8?id=zeetvhd&tvauth=dfZGZNVFUxTXpRMk56STVOdz09OmZiM2Y1MTRmYWJjMGVmNjg3NmQ3YmU2M2RjNWM0MDBh
 #EXTINF:-1, ZEE TV HD
 http://hindi.flussonic.cdnpro.me/ZeeTVHDIND-Hin/index.m3u8
 #EXTINF:-1, ZEE TV
-http://thoptvstream.gq/api/tulip/zee.m3u8?id=zeetvsd
+http://thoptvstream.gq/api/tulip/zee.m3u8?id=zeetvsd&tvauth=dfZGZNVFUxTXpRMk56STVOdz09OmZiM2Y1MTRmYWJjMGVmNjg3NmQ3YmU2M2RjNWM0MDBh
 #EXTINF:-1, Z LIVING USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
@@ -378,7 +378,7 @@ http://hindi.flussonic.cdnpro.me/ZeeCinemaHD-Hin/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
 http://hindi.flussonic.cdnpro.me/ZeeCinemaHD-USA-Hin/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
-http://thoptvstream.gq/api/tulip/zee.m3u8?id=zcinemahd
+http://thoptvstream.gq/api/tulip/zee.m3u8?id=zcinemahd&tvauth=dfZGZNVFUxTXpRMk56STVOdz09OmZiM2Y1MTRmYWJjMGVmNjg3NmQ3YmU2M2RjNWM0MDBh
 #EXTINF:-1, ZEE CINEMA HD
 https://z5ams.akamaized.net/zcinemahd/playlist.m3u8?hdnts=st=1552861546~exp=1552864546~acl=/*~hmac=3473abdd8ddd5f428200536db6a392542a16eee003d6cc9acbffb6a0c30e8e9c
 #EXTINF:-1, ZEE CINEMA
@@ -386,15 +386,13 @@ http://flussonic2.royaliptvhd.com:8080/IN:ZEECINEMAHD/tracks-v1a1/playlist.m3u8?
 #EXTINF:-1, ZEE CINEMA
 https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/chunklist.m3u8
 #EXTINF:1, ZEE CINEMA
-http://thoptvstream.gq/api/tulip/zee.m3u8?id=zcinemasd
+http://thoptvstream.gq/api/tulip/zee.m3u8?id=zcinemasd&tvauth=dfZGZNVFUxTXpRMk56STVOdz09OmZiM2Y1MTRmYWJjMGVmNjg3NmQ3YmU2M2RjNWM0MDBh
 #EXTINF:-1, SONY MAX HD
 https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2400/chunklist.m3u8
 #EXTINF:-1, SONY MAX HD
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymaxhd&e=.m3u8
 #EXTINF:-1, SONY MAX2
 http://hindi.flussonic.cdnpro.me/SONYMAX2-Hin/index.m3u8
-#EXTINF:-1, SONY MAX2
-http://jiocdn.in/jiolivetv.php?c=Sony_MAX2&q=800&e=.m3u8
 #EXTINF:-1, SONY MAX2
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymax2&e=.m3u8
 #EXTINF:-1, SONY MAX
@@ -403,7 +401,7 @@ http://hindi.flussonic.cdnpro.me/SON_MAX_UK/index.m3u8
 https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
 #EXTINF:-1, SONY MAX
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymax&e=.m3u8
-#EXTINF:-1, SONT HD
+#EXTINF:-1, SONY HD
 http://thoptvstream.gq/api/tulip/zee.m3u8?id=andpicshd&tva
 #EXTINF:-1, SONY HD
 http://flussonic2.royaliptvhd.com:8080/IN:SONYTVHD/tracks-v1a1/playlist.m3u8?token=royal@2018
