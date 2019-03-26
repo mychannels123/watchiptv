@@ -84,23 +84,23 @@ http://stream.rtvpunjabi.com/rtvpunjabi.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC CHAKDE
 http://123.249.76.157:10012/bysid/3
 #EXTINF:-1, BRIT ASIA
-http://jiocdn.in/jiolivetv.php?c=Brit_Asia&q=800&e=.m3u8
+http://jiocdn.in/jio.php?c=Brit_Asia&q=800&e=.m3u8
 #EXTINF:-1, PTC GOLD
 http://123.249.76.157:10012/bysid/4
 #EXTINF:-1, PTC GOLD
-http://jiocdn.in/jiolivetv.php?c=PTC_Punjabi_Gold&q=800&e=.m3u8
+http://jiocdn.in/jio.php?c=PTC_Punjabi_Gold&q=800&e=.m3u8
 #EXTINF:-1, PTC MUSIC
-http://jiocdn.in/jiolivetv.php?c=PTC_Music&q=800&e=.m3u8
+http://jiocdn.in/jio.php?c=PTC_Music&q=800&e=.m3u8
 #EXTINF:-1, TANGY PUNJABI TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
 #EXTINF:-1, PTC SIMRAN
-http://jiocdn.in/jiolive.php?c=PTC_Simran&q=800&e=.m3u8
+http://jiocdn.in/jio.php?c=PTC_Simran&q=800&e=.m3u8
 #EXTINF:-1, PTC PUNJABI
-http://jiocdn.in/jiolivetv.php?c=PTC_Punjabi&q=800&e=.m3u8
+http://jiocdn.in/jio.php?c=PTC_Punjabi&q=800&e=.m3u8
 #EXTINF:-1, PTC PUNJABI
 http://123.249.76.157:10012/bysid/2
 #EXTINF:-1, PTC CHAKDE
-http://jiocdn.in/jiolivetv.php?c=PTC_Chak_De&q=800&e=.m3u8
+http://jiocdn.in/jio.php?c=PTC_Chak_De&q=800&e=.m3u8
 #EXTINF:-1, PTC NEWS
 http://123.249.76.157:10012/bysid/1
 #EXTINF:-1, group-title="PUNJABI TV",PTC NEWS
@@ -401,14 +401,12 @@ http://hindi.flussonic.cdnpro.me/SON_MAX_UK/index.m3u8
 https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
 #EXTINF:-1, SONY MAX
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymax&e=.m3u8
-#EXTINF:-1, SONY HD
-http://thoptvstream.gq/api/tulip/zee.m3u8?id=andpicshd&tva
-#EXTINF:-1, SONY HD
-http://flussonic2.royaliptvhd.com:8080/IN:SONYTVHD/tracks-v1a1/playlist.m3u8?token=royal@2018
+
+
 #EXTINF:-1, SONY SAB
 http://flussonic2.royaliptvhd.com:8080/IN:SONYSABHD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, SONY HD
-http://185.152.64.54/R-EX/HINDI_SONY_HD_S-in/tracks-v1a1/mono.m3u8?token=76bd79414c786171b691556627b9af56
+http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sethd&e=.m3u8
 #EXTINF:-1, SONY HD
 https://msleurope2s.akamaized.net/hls/live/2000183/sonymaxukhdmsl/sonymaxukhdmsl_600/chunklist.m3u8
 #EXTINF:-1, SONY TV 
@@ -445,10 +443,6 @@ http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten2hd&e=.m3u8
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten3&e=.m3u8
 #EXTINF:-1, TEN 3 HD
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten3hd&e=.m3u8
-#EXTINF:-1, TEN 3 HD
-http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=ten3
-#EXTINF:-1, TEN 3 HD
-http://flussonic2.royaliptvhd.com:8080/IN:TEN3HD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, SKY SPORTS
 https://stream.wicket.pw/app/skysportshd.m3u8
 #EXTINF:-1, BT SPORT 2 HD
@@ -464,9 +458,9 @@ https://stream.wicket.pw/app/ptvsportshd.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, JIO CRICKET HINDI
-http://jiocdn.in/JIOTV.php?c=Jio_Cricket_Hindi&q=800&e=.m3u8
+http://jiocdn.in/jio.php?c=Jio_Cricket_Hindi&q=800&e=.m3u8
 #EXTINF:-1, JIO CRICKET HD
-http://jiocdn.in/JIOTV.php?c=Jio_Cricket_English1&q=800&e=.m3u8
+http://jiocdn.in/jio.php?c=Jio_Cricket_English1&q=800&e=.m3u8
 #EXTINF:-1, DSPORTS
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
 #EXTINF:-1, TEN SPORTS
@@ -476,9 +470,7 @@ http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
 http://173.249.31.216:9000/live/ketu/ketu/397.ts
 #EXTINF:-1, STAR SPORTS 1HD
-http://thoptvstream.gq/api/daisy/wlive/index.m3u8?ch=star1
-#EXTINF:-1, STAR SPORTS 1
-http://thoptvstream.gq/api/tulip/tvbd.m3u8?id=starsports1
+http://redflixiptv.xyz:81/StarSports1_4K/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS 1
 http://13.234.160.129:81/StarSports1/index.m3u8?token=NxtSports
 #EXTINF:-1, STAR SPORTS 2HD
