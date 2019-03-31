@@ -456,33 +456,10 @@ http://jiocdn.in/jioTVlive.php?c=Jio_Cricket_Hindi&q=800&e=.m3u8
 http://jiocdn.in/jioTVlive.php?c=Jio_Cricket_English1&q=800&e=.m3u8
 #EXTINF:-1, DSPORTS
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
-#EXTINF:-1, TEN SPORTS
-http://163.172.13.72:8080/CricFan/4/index.m3u8
-#EXTINF:-1, CRICKET
-http://51.15.236.137/hls/stream.m3u8
 #EXTINF:-1, STAR SPORTS 1HD
-http://173.249.31.216:9000/live/ketu/ketu/397.ts
-#EXTINF:-1, STAR SPORTS 1HD
-http://redflixiptv.xyz:81/StarSports1_4K/tracks-v1a1/mono.m3u8
+http://cdn.redflixtv.online:81/StarSports1Hindi_4K/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, STAR SPORTS 1
-http://13.234.160.129:81/StarSports1/index.m3u8?token=NxtSports
-#EXTINF:-1, STAR SPORTS 2HD
-http://173.249.31.216:9000/live/ketu/ketu/376.ts
-#EXTINF:-1, STAR SPORTS 2
-http://thoptvstream.gq/api/tulip/tvbd.m3u8?id=starsports2
-#EXTINF:-1. STAR SPORTS 2
-http://13.234.160.129:81/StarSports2/index.m3u8?token=NxtSports
-#EXTINF:-1, ASTRO CRICKET
-http://13.234.160.129:81/AstroCric/index.m3u8?token=NxtSports
-#EXTINF:-1, STAR SPORTS 3
-http://13.234.160.129:81/StarSports3/index.m3u8?token=NxtSports
-#EXTINF:-1, STAR SPORTS SELECT 2HD
-http://thoptvstream.gq/api/tulip/tvbd.m3u8?id=select2
-#EXTINF:-1, STAR SPORTS SELECT 1HD
-http://thoptvstream.gq/api/tulip/tvbd.m3u8?id=select1
-
-#EXTINF:-1, LADD166
-http://hz7.star7-live.net/ts/563837/140440/202239/32594/4606
+http://31.220.40.198:5445/juno/starsports1/chunks.m3u8
 
 
 #EXTINF:-1, LADD18
