@@ -84,23 +84,23 @@ http://stream.rtvpunjabi.com/rtvpunjabi.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC CHAKDE
 http://123.249.76.157:10012/bysid/3
 #EXTINF:-1, BRIT ASIA
-http://jiocdn.in/jio.php?c=Brit_Asia&q=800&e=.m3u8
+http://jiocdn.in/jioTVlive.php?c=Brit_Asia&q=800&e=.m3u8
 #EXTINF:-1, PTC GOLD
 http://123.249.76.157:10012/bysid/4
 #EXTINF:-1, PTC GOLD
-http://jiocdn.in/jio.php?c=PTC_Punjabi_Gold&q=800&e=.m3u8
+http://jiocdn.in/jioTVlive.php?c=PTC_Punjabi_Gold&q=800&e=.m3u8
 #EXTINF:-1, PTC MUSIC
-http://jiocdn.in/jio.php?c=PTC_Music&q=800&e=.m3u8
+http://jiocdn.in/jioTVlive.php?c=PTC_Music&q=800&e=.m3u8
 #EXTINF:-1, TANGY PUNJABI TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
 #EXTINF:-1, PTC SIMRAN
-http://jiocdn.in/jio.php?c=PTC_Simran&q=800&e=.m3u8
+http://jiocdn.in/jioTVlive.php?c=PTC_Simran&q=800&e=.m3u8
 #EXTINF:-1, PTC PUNJABI
-http://jiocdn.in/jio.php?c=PTC_Punjabi&q=800&e=.m3u8
+http://jiocdn.in/jioTVlive.php?c=PTC_Punjabi&q=800&e=.m3u8
 #EXTINF:-1, PTC PUNJABI
 http://123.249.76.157:10012/bysid/2
 #EXTINF:-1, PTC CHAKDE
-http://jiocdn.in/jio.php?c=PTC_Chak_De&q=800&e=.m3u8
+http://jiocdn.in/jioTVlive.php?c=PTC_Chak_De&q=800&e=.m3u8
 #EXTINF:-1, PTC NEWS
 http://123.249.76.157:10012/bysid/1
 #EXTINF:-1, group-title="PUNJABI TV",PTC NEWS
@@ -329,6 +329,8 @@ http://hindi.flussonic.cdnpro.me/HOUSEFULLMOVIE/HIN/index.m3u8
 http://hindi.flussonic.cdnpro.me/HOUSEFULLACTION/HIN/index.m3u8
 #EXTINF:-1, RISHTEY AMERICAS
 http://hindi.flussonic.cdnpro.me/RISHTAYASIA-Hin/index.m3u8
+#EXTINF:-1, COLORS CINEPLEX
+https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1800k/chunklist.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX HD
 http://hindi.flussonic.cdnpro.me/Rishtey_Cineplex_IND/index.m3u8
 #EXTINF:-1, RISHTEY CINEPLEX HD
@@ -350,25 +352,18 @@ http://hindi.flussonic.cdnpro.me/cinema_tv_hin/index.m3u8
 #EXTINF:-1, MOVIE HOUSE
 http://hindi.flussonic.cdnpro.me/movie_house_hin/index.m3u8
 #EXTINF:-1, ZEE ANMOL CINEMA
-http://thoptvstream.gq/api/tulip/zee.m3u8?id=zanmolcnm&tvauth=dfZGZNVFUxTXpRMk56STVOdz09OmZiM2Y1MTRmYWJjMGVmNjg3NmQ3YmU2M2RjNWM0MDBh
-#EXTINF:-1, ZEE ACTION
-http://thoptvstream.gq/api/tulip/zee.m3u8?id=action&tvauth=dfZGZNVFUxTXpRMk56STVOdz09OmZiM2Y1MTRmYWJjMGVmNjg3NmQ3YmU2M2RjNWM0MDBh
+
 #EXTINF:-1, ZEE ACTION
 http://hindi.flussonic.cdnpro.me/ZEEACTION-Hin/index.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=zeeclassic&e=.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
-http://thoptvstream.gq/api/tulip/zee.m3u8?id=classic&tvauth=dfZGZNVFUxTXpRMk56STVOdz09OmZiM2Y1MTRmYWJjMGVmNjg3NmQ3YmU2M2RjNWM0MDBh
-#EXTINF:-1, ZEE BOLLYWOOD
 http://hindi.flussonic.cdnpro.me/ZeeClassic/index.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
 http://hindi.flussonic.cdnpro.me/ZeeBollywoodHD-Hin/index.m3u8
-#EXTINF:1, ZEE TV HD
-http://thoptvstream.gq/api/tulip/zee.m3u8?id=zeetvhd&tvauth=dfZGZNVFUxTXpRMk56STVOdz09OmZiM2Y1MTRmYWJjMGVmNjg3NmQ3YmU2M2RjNWM0MDBh
 #EXTINF:-1, ZEE TV HD
 http://hindi.flussonic.cdnpro.me/ZeeTVHDIND-Hin/index.m3u8
-#EXTINF:-1, ZEE TV
-http://thoptvstream.gq/api/tulip/zee.m3u8?id=zeetvsd&tvauth=dfZGZNVFUxTXpRMk56STVOdz09OmZiM2Y1MTRmYWJjMGVmNjg3NmQ3YmU2M2RjNWM0MDBh
+
 #EXTINF:-1, Z LIVING USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
@@ -385,8 +380,6 @@ https://z5ams.akamaized.net/zcinemahd/playlist.m3u8?hdnts=st=1552861546~exp=1552
 http://flussonic2.royaliptvhd.com:8080/IN:ZEECINEMAHD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, ZEE CINEMA
 https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/chunklist.m3u8
-#EXTINF:1, ZEE CINEMA
-http://thoptvstream.gq/api/tulip/zee.m3u8?id=zcinemasd&tvauth=dfZGZNVFUxTXpRMk56STVOdz09OmZiM2Y1MTRmYWJjMGVmNjg3NmQ3YmU2M2RjNWM0MDBh
 #EXTINF:-1, SONY MAX HD
 https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2400/chunklist.m3u8
 #EXTINF:-1, SONY MAX HD
@@ -458,9 +451,9 @@ https://stream.wicket.pw/app/ptvsportshd.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 https://stream.wicket.pw/app/starsports1hd.m3u8
 #EXTINF:-1, JIO CRICKET HINDI
-http://jiocdn.in/jio.php?c=Jio_Cricket_Hindi&q=800&e=.m3u8
+http://jiocdn.in/jioTVlive.php?c=Jio_Cricket_Hindi&q=800&e=.m3u8
 #EXTINF:-1, JIO CRICKET HD
-http://jiocdn.in/jio.php?c=Jio_Cricket_English1&q=800&e=.m3u8
+http://jiocdn.in/jioTVlive.php?c=Jio_Cricket_English1&q=800&e=.m3u8
 #EXTINF:-1, DSPORTS
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
 #EXTINF:-1, TEN SPORTS
