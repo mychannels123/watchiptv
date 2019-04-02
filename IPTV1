@@ -228,8 +228,8 @@ https://yuppad10-i.akamaihd.net/hls/live/682741/9xjalwaamg/9xjalwa_1800/chunklis
 #EXTINF:-1, group-title="HINDI", STAR BHARAT HD
 #EXTINF:-1, group-title="HINDI", STAR BHARAT
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
-#EXTINF:-1, group-title="HINDI", STAR BHARAT
-http://mhdtvworld.com/delta/hotstar/hsplus.m3u8?c=starbharat&e=.m3u8
+#EXTINF:-1, group-title="HINDI", COLORS HD
+http://51.15.95.7:8010/Color/IndiaColrnwsdd/index.m3u8
 #EXTINF:-1, group-title="HINDI", COLORS HD
 http://hindi.flussonic.cdnpro.me/COLORSHD-West-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", COLORS TV
