@@ -393,24 +393,24 @@ https://mslapacs.akamaized.net/hls/live/692167/sabtvau/sabtvau_1800k/chunklist.m
 #EXTINF:-1, group-title="SPORTS",SONY ESPN HD
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyespnhd&e=.m3u8
 #EXTINF:-1, group-title="SPORTS", SONY SIX
-http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonysix&e=.m3u8
+http://13.234.160.129:81/SixSD/index.m3u8?token=nxtmax
 #EXTINF:-1,  group-title="SPORTS",SONY SIX HD
-http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonysixhd&e=.m3u8
+http://13.234.160.129:81/SixHD/index.m3u8?token=nxtmax
 #EXTINF:-1, group-title="SPORTS", TEN 1 
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten1&e=.m3u8
 #EXTINF:-1, group-title="SPORTS", TEN 1 HD
-http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten1hd&e=.m3u8
+http://13.234.160.129:81/Ten1HD/index.m3u8?token=nxtmax
 #EXTINF:-1, group-title="SPORTS", TEN 2
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten2&e=.m3u8
 
 #EXTINF:-1, group-title="SPORTS", TEN 2 HD
-http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten2hd&e=.m3u8
+http://13.234.160.129:81/Ten2HD/index.m3u8?token=nxtmax
 #EXTINF:-1, SONY TEN 3
 
 #EXTINF:-1, group-title="SPORTS", TEN 3
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten3&e=.m3u8
 #EXTINF:-1, group-title="SPORTS", TEN 3 HD
-http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten3hd&e=.m3u8
+http://13.234.160.129:81/Ten3HD/index.m3u8?token=nxtmax
 #EXTINF:-1, group-title="SPORTS", SPORT MAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 #EXTINF:-1, group-title="SPORTS", JIO CRICKET HINDI
