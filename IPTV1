@@ -424,7 +424,7 @@ http://cdn.redflixtv.online:81/StarSports1Hindi_4K/tracks-v1a1/mono.m3u8?token=R
 #EXTINF:-1, group-title="SPORTS", STAR SPORTS 1
 http://31.220.40.198:5445/juno/starsports1/chunks.m3u8
 #EXTINF:-1, group-title="SPORTS", LADDI
-http://jiocdn.in/stream2.php?ts=Sony_MAX2/Sony_MAX2_800-1554019858000.ts
+http://web.nxtsports.xyz/iframe/tv.php?id=http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="SPORTS", LADD18
 https://z5ams.akamaized.net/andpicshd/playlist.m3u8?hdnts=st=1553218378~exp=1553221378~acl=/*~hmac=c46851a506afe1c6e59486dabfc5facf857c643c5bf2968a248eed326facbe80
 
