@@ -335,7 +335,8 @@ http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatc
 http://hindi.flussonic.cdnpro.me/cinema_tv_hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", MOVIE HOUSE
 http://hindi.flussonic.cdnpro.me/movie_house_hin/index.m3u8
-#EXTINF:-1, ZEE ANMOL CINEMA
+#EXTINF:-1, IMAGINE MOVIES
+http://95.170.215.124/live/disk1/Imagine_Movies/anevia1/Imagine_Movies-audio_20000=160000-video=1587600.m3u8
 
 #EXTINF:-1, group-title="HINDI", ZEE ACTION
 http://hindi.flussonic.cdnpro.me/ZEEACTION-Hin/index.m3u8
@@ -365,11 +366,11 @@ https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/c
 #EXTINF:-1, group-title="HINDI", SONY MAX HD
 https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2400/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX HD
-http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymaxhd&e=.m3u8
+http://jioairtel.fsports.top/airtel/airtelxtream.php?c=sonymaxhd&e=.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX2
 http://hindi.flussonic.cdnpro.me/SONYMAX2-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX2
-http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymax2&e=.m3u8
+http://jioairtel.fsports.top/airtel/airtelxtream.php?c=sonymax2&e=.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX
 http://hindi.flussonic.cdnpro.me/SON_MAX_UK/index.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX
@@ -381,7 +382,7 @@ http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymax&e=.m3u8
 #EXTINF:-1, group-title="HINDI", SONY SAB
 http://flussonic2.royaliptvhd.com:8080/IN:SONYSABHD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, group-title="HINDI", SONY HD
-http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sethd&e=.m3u8
+http://jioairtel.fsports.top/airtel/airtelxtream.php?c=sethd&e=.m3u8
 #EXTINF:-1, group-title="HINDI", SONY HD
 https://msleurope2s.akamaized.net/hls/live/2000183/sonymaxukhdmsl/sonymaxukhdmsl_600/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", SONY TV 
