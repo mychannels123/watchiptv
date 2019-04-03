@@ -236,6 +236,8 @@ http://hindi.flussonic.cdnpro.me/COLORSHD-West-Hin/index.m3u8
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", STAR PLUS
 https://mslapacs.akamaized.net/hls/live/692167/starplusau/starplusau_1800k/chunklist.m3u8
+#EXTINF:-1, STAR PLUS HD
+http://livetv.colorsbd.com:2018/live/in-starplus/chunks.m3u8
 #EXTINF:-1, group-title="HINDI", STAR PLUS HD
 http://hindi.flussonic.cdnpro.me/StarPlusUK-Hin/index.m3u8
 #EXTINF:-1, SAHARA ONE
@@ -360,11 +362,13 @@ http://hindi.flussonic.cdnpro.me/ZeeCinemaHD-USA-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA HD
 https://z5ams.akamaized.net/zcinemahd/playlist.m3u8?hdnts=st=1552861546~exp=1552864546~acl=/*~hmac=3473abdd8ddd5f428200536db6a392542a16eee003d6cc9acbffb6a0c30e8e9c
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA
-http://flussonic2.royaliptvhd.com:8080/IN:ZEECINEMAHD/tracks-v1a1/playlist.m3u8?token=royal@2018
+http://livetv.colorsbd.com:2018/live/in-zeecinema/chunks.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA
 https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX HD
 https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2400/chunklist.m3u8
+#EXTINF:-1, SONY MAX HD
+http://livetv.colorsbd.com:2018/live/in-sonymax/chunks.m3u8?nimblesessionid=423656
 #EXTINF:-1, group-title="HINDI", SONY MAX HD
 http://jioairtel.fsports.top/airtel/airtelxtream.php?c=sonymaxhd&e=.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX2
@@ -385,6 +389,8 @@ http://flussonic2.royaliptvhd.com:8080/IN:SONYSABHD/tracks-v1a1/playlist.m3u8?to
 http://jioairtel.fsports.top/airtel/airtelxtream.php?c=sethd&e=.m3u8
 #EXTINF:-1, group-title="HINDI", SONY HD
 https://msleurope2s.akamaized.net/hls/live/2000183/sonymaxukhdmsl/sonymaxukhdmsl_600/chunklist.m3u8
+#EXTINF:-1, SONY TV
+http://livetv.colorsbd.com:2018/live/in-sony/chunks.m3u8
 #EXTINF:-1, group-title="HINDI", SONY TV 
 https://mslapacs.akamaized.net/hls/live/692167/sonyaumsl/sonyau_1800k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", SONY SAB
