@@ -84,29 +84,57 @@ http://stream.rtvpunjabi.com/rtvpunjabi.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC CHAKDE
 http://123.249.76.157:10012/bysid/3
 #EXTINF:-1,group-title="PUNJABI TV", BRIT ASIA
-http://jiocdn.in/jioTVlive.php?c=Brit_Asia&q=800&e=.m3u8
+http://195.181.169.151:8080/BritAsia-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="PUNJABI TV", PTC GOLD
 http://123.249.76.157:10012/bysid/4
 #EXTINF:-1,group-title="PUNJABI TV", PTC GOLD
-http://jiocdn.in/jioTVlive.php?c=PTC_Punjabi_Gold&q=800&e=.m3u8
+http://195.181.169.151:8080/ptcpunjabigold/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="PUNJABI TV", PTC MUSIC
-http://jiocdn.in/jioTVlive.php?c=PTC_Music&q=800&e=.m3u8
+http://195.181.169.151:8080/ptc_music_pun/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="PUNJABI TV", TANGY PUNJABI TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
 #EXTINF:-1,group-title="PUNJABI TV", PTC SIMRAN
-http://jiocdn.in/jioTVlive.php?c=PTC_Simran&q=800&e=.m3u8
+http://195.181.169.151:8080/ptc_simran_pun/tracks-v1a1/mono.m3u8?
 #EXTINF:-1,group-title="PUNJABI TV", PTC PUNJABI
-http://jiocdn.in/jioTVlive.php?c=PTC_Punjabi&q=800&e=.m3u8
+http://195.181.169.151:8080/PTCPunjabi-punjabi/tracks-v1a1/mono.m3u8
+#EXTINF:-1, PTC PUNJABI
+http://195.181.169.151:8080/PTC_punjabi_uk/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="PUNJABI TV", PTC PUNJABI
 http://123.249.76.157:10012/bysid/2
-#EXTINF:-1,group-title="PUNJABI TV", PTC CHAKDE
-http://jiocdn.in/jioTVlive.php?c=PTC_Chak_De&q=800&e=.m3u8
 #EXTINF:-1,group-title="PUNJABI TV", PTC NEWS
 http://123.249.76.157:10012/bysid/1
+#EXTINF:-1, PTC NEWS
+http://195.181.169.151:8080/PTCNews-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC NEWS
 https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC NEWS
 https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist.m3u8?hdntl=exp=1544087271~acl=/*~data=hdntl~hmac=9d948b08f521a29e40e7cae073772c9dc54308c5661b62cd232e4e7b9d291fe9
+#EXTINF:-1,group-title="PUNJABI TV", DAP PUNJABI
+http://195.181.169.151:8080/dil_apna_pun/tracks-v1a1/mono.m3u8
+#EXTINF:-1, PANTHAM TV
+http://103.81.156.115:1935/hello/phantam/chunklist_w1431133049.m3u8
+#EXTINF:-1, PRIME HD
+http://23.186.192.55:8080/live/primeplus/index.m3u8
+#EXTINF:-1, ONLY MUSIC
+http://195.181.169.151:8080/ONLY_MUSIC_PUN/tracks-v1a1/mono.m3u8
+#EXTINF:-1, 5AAB MUSIC
+http://195.181.169.151:8080/5aabtv_music_pun/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ALPHA PUNJABI
+http://195.181.169.151:8080/AlphaETCPunjabi-punjabi/tracks-v1a1/mono.m3u8
+#EXTINF:-1, GURBANI TV
+http://195.181.169.151:8080/EMPEE_PUN/tracks-v1a1/mono.m3u8
+#EXTINF:-1, DHUR KI BAANI
+http://195.181.169.151:8080/dhur_ki_Baani_pun/tracks-v1a1/mono.m3u8
+#EXTINF:-1, GARV PUNJABI HD
+http://195.181.169.151:8080/garv_punjabi/tracks-v1a1/mono.m3u8
+#EXTINF:-1, GLOBAB SANJH TV
+http://103.228.112.96:1935/globalsanjh/live/chunklist.m3u8
+#EXTINF:-1, GURBANI HEALING
+http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+#EXTINF:-1, NAMDHARI TV
+http://195.181.169.151:8080/Bhaini_Sahib_pun/tracks-v1a1/mono.m3u8
+#EXTINF:-1, PTC GURBANI
+http://195.181.169.151:8080/vc_punj_gurubani/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",BALLE BALLE 
 http://103.14.127.37:1935/balleballe/balleballe.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",BALLE BALLE
@@ -229,7 +257,7 @@ https://yuppad10-i.akamaihd.net/hls/live/682741/9xjalwaamg/9xjalwa_1800/chunklis
 #EXTINF:-1, group-title="HINDI", STAR BHARAT
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", COLORS HD
-http://51.15.95.7:8010/Color/IndiaColrnwsdd/index.m3u8
+http://livetv.colorsbd.com:2018/live/in-colors/chunks.m3u8
 #EXTINF:-1, group-title="HINDI", COLORS HD
 http://hindi.flussonic.cdnpro.me/COLORSHD-West-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", COLORS TV
@@ -287,8 +315,8 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259
 http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
 #EXTINF:-1, ENTER 10
 
-#EXTINF:-1, group-title="HINDI", AND TV HD
-http://51.159.4.21:3135/And/Tv/index.m3u8
+#EXTINF:-1, group-title="HINDI", AND PICTURES
+http://livetv.colorsbd.com:2018/live/in-andpictures/chunks.m3u8
 #EXTINF:-1, MULTIPLEX
 http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w381295327.m3u8
 #EXTINF:-1, STAR UTSUV MOVIES
