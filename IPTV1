@@ -253,9 +253,12 @@ http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD254L720P/chunklist
 http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqerafjrxcph/playlist.m3u8
 #EXTINF:-1, group-title="HINDI", 9X JALWA
 https://yuppad10-i.akamaihd.net/hls/live/682741/9xjalwaamg/9xjalwa_1800/chunklist.m3u8
-#EXTINF:-1, group-title="HINDI", STAR BHARAT HD
+#EXTINF:-1, group-title="HINDI", AND TV HD
+http://hindi.flussonic.cdnpro.me/&TVHD-Hin-usa/index.m3u8
 #EXTINF:-1, group-title="HINDI", STAR BHARAT
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
+#EXTINF:-1, COLORS HD
+http://51.15.95.7:8010/Color/IndiaColnwsdd/index.m3u8
 #EXTINF:-1, group-title="HINDI", COLORS HD
 http://livetv.colorsbd.com:2018/live/in-colors/chunks.m3u8
 #EXTINF:-1, group-title="HINDI", COLORS HD
@@ -464,4 +467,4 @@ http://cdn.redflixtv.online:81/StarSportsSelect1_4KK/tracks-v1a1/mono.m3u8?token
 #EXTINF:-1, group-title="SPORTS", LADD18
 https://z5ams.akamaized.net/andpicshd/playlist.m3u8?hdnts=st=1553218378~exp=1553221378~acl=/*~hmac=c46851a506afe1c6e59486dabfc5facf857c643c5bf2968a248eed326facbe80
 #EXTINF:-1, LADDI
-http://airtelcdn.in/airteltv.php?url=http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/index.m3u8
+http://jiocdn.in/stream2.php?ts=Ten_HD/Ten_HD_800-1554537034000.ts
