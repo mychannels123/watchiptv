@@ -467,4 +467,4 @@ http://cdn.redflixtv.online:81/StarSportsSelect1_4KK/tracks-v1a1/mono.m3u8?token
 #EXTINF:-1, group-title="SPORTS", LADD18
 https://z5ams.akamaized.net/andpicshd/playlist.m3u8?hdnts=st=1553218378~exp=1553221378~acl=/*~hmac=c46851a506afe1c6e59486dabfc5facf857c643c5bf2968a248eed326facbe80
 #EXTINF:-1, LADDI
-http://185.152.64.54:2200/R-EX/SPORTS_WILLOW_CRICKET_HD_S-in/tracks-v1a1/index.m3u8?token=d0ba40747883d3e7ba5e1846e0b476a0
+http://185.152.64.54:2200/R-EX/SPORTS_WILLOW_CRICKET_HD_S-in/tracks-v1a1/2019/04/07/22/23/01-10000.ts?token=3e453b4687de262f0642b8dfc5509e26
