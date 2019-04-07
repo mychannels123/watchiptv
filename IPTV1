@@ -79,8 +79,24 @@ http://live.cloud6.in:1935/live2/aonetv/playlist.m3u8
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",SHAN PUNJABI TV
 http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",RTV PUNJABI
-http://stream.rtvpunjabi.com/rtvpunjabi.m3u8
+#EXTINF:-1, group-title="PUNJABI TV",JUS PUNJABI HD
+http://195.181.169.151:8080/JUSPunjabiTV-punjabi/tracks-v1a1/mono.m3u8
+#EXTINF:-1, NAVRANG TV
+http://195.181.169.151:8080/vaani_pun/tracks-v1a1/mono.m3u8
+#EXTINF:-1, PUNJAB DE RANG
+http://195.181.169.151:8080/PUNJAB_DE_RANG_USA_HD_PUN/tracks-v1a1/mono.m3u8
+#EXTINF:-1, RAUNAK PUNJAB DI
+http://195.181.169.151:8080/raonuk_pun/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SABRANG TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1, PUNJABI MOVIES
+http://live.galpunjabditv.com/GPDTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, MEHAK TV
+http://195.181.169.151:8080/MehakTVPunjab-punjabi/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TEHLKA ENTERTAINMENT
+http://195.181.169.151:8080/TEHLKAENT/PUN/tracks-v1a1/mono.m3u8
+#EXTINF:-1, WINIPEG PUNJABI TV
+http://195.181.169.151:8080/winnipeg_hul_pun/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC CHAKDE
 http://123.249.76.157:10012/bysid/3
 #EXTINF:-1,group-title="PUNJABI TV", BRIT ASIA
