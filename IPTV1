@@ -274,6 +274,8 @@ http://hindi.flussonic.cdnpro.me/&TVHD-Hin-usa/index.m3u8
 #EXTINF:-1, group-title="HINDI", STAR BHARAT
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
 #EXTINF:-1, COLORS HD
+http://195.181.173.140:8000/indian/indian/122?token=GEYOUxBdRghHB1FfAl0OBlZVAFEBV1IKBQdQB1IADAACAV8FVVdSBwRHSRtGTUtQUltpWwFEDAlTB0lGFBZQSzwNAhBZF1YLR0lHTVxUXBcJBwMHUVEPCFENXEhDFVxdQV5EA1cMXQZVR0kbUEFNUEFYV146AlNOCFYARlsLQFUPSERdDWoAVwgEC10XAxsEERoUWxYWFAJDYgoWDQEVdhUBFFEMWAFAFkdJG1dQTUdSQlMQX0QEAVcMR0hDBlpMDRAUS0EPRmc2R0kbUEFNUF1FX10LRAwaFUZHSEMMRmYRARVGEVAFXwAXRwMXCBsZEVtXSjoFWVYPUAYQCApbSkFeRAdTBUYeRwgKV1xNVkdsRl9WR1wUC1cGVV1WR0g=
+#EXTINF:-1, COLORS HD
 http://51.15.95.7:8010/Color/IndiaColnwsdd/index.m3u8
 #EXTINF:-1, group-title="HINDI", COLORS HD
 http://livetv.colorsbd.com:2018/live/in-colors/chunks.m3u8
@@ -300,11 +302,12 @@ https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 #EXTM3U
 #EXTINF:-1, group-title="HINDI", NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
-#EXTINF:-1, STAR GOLD
-http://mhdtvworld.com/delta/hotstar/hotplus.m3u8?c=stargold&e=.m3u8
+#EXTINF:-1, STAR GOLD HD
+http://voxtv.dynns.com:8000/indian/indian/191
 #EXTINF:-1, group-title="HINDI", STAR GOLD
 http://hindi.flussonic.cdnpro.me/Star_Gold_UK-Hin/index.m3u8
-
+#EXTINF:-1, STAR GOLD
+http://voxtv.dynns.com:8000/indian/indian/133
 
 #EXTINF:-1, group-title="HINDI", MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
@@ -332,9 +335,10 @@ http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1, group-title="HINDI", ENTER 10
 http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
-#EXTINF:-1, ENTER 10
-
-#EXTINF:-1, group-title="HINDI", AND PICTURES
+#EXTINF:-1, AND PICTURES HD
+http://195.181.173.140:8000/indian/indian/823
+#EXTINF:-1, LADDI3
+#EXTINF:-1, group-title="HINDI", AND PICTURES HD
 http://livetv.colorsbd.com:2018/live/in-andpictures/chunks.m3u8
 #EXTINF:-1, MULTIPLEX
 http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w381295327.m3u8
@@ -390,7 +394,7 @@ http://95.170.215.124/live/disk1/Imagine_Movies/anevia1/Imagine_Movies-audio_200
 #EXTINF:-1, group-title="HINDI", ZEE ACTION
 http://hindi.flussonic.cdnpro.me/ZEEACTION-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE BOLLYWOOD
-http://jioairtel.fsports.top/airtel/airtel.m3u8?c=zeeclassic&e=.m3u8
+http://voxtv.dynns.com:8000/indian/indian/111
 #EXTINF:-1, group-title="HINDI", ZEE BOLLYWOOD
 http://hindi.flussonic.cdnpro.me/ZeeClassic/index.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE BOLLYWOOD
@@ -482,10 +486,8 @@ http://mhdtvworld.com/delta/hotstar/hotplus.m3u8?c=ssselecthd1&e=.m3u8
 http://cdn.redflixtv.online:81/StarSportsSelect1_4KK/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, group-title="SPORTS", LADD18
 https://z5ams.akamaized.net/andpicshd/playlist.m3u8?hdnts=st=1553218378~exp=1553221378~acl=/*~hmac=c46851a506afe1c6e59486dabfc5facf857c643c5bf2968a248eed326facbe80
-#EXTINF:-1, LADDI
-http://195.181.173.140:8000/indian/indian/823?token=GEYOUxBdRghHUVwMVwgJDAcDV1MGBAFcV1ZWBgNTUFtUU1FXBgBdBF1HSRtGTUtQUltpWwFEDABTBklGFBZQSzwNAhBZF1YLR0lHTVxUXBcJBwMHUVEOAVMAXUhDFVxdQV5EBlMEUApRR0kbUEFNUEFYV146AlNOCFYARlsLQFUPSERdDWoAVwgEC10XAxsEERoUWxYWFAJDYgoWDQEVdhUBFFEMWAFAFkdJG1dQTUdSQlMQX0QHDFQHR0hDBlpMDRAUS0EPRmc2R0kbUEFNUF1FX10LRAwaFUZHSEMMRmYRARVGEVAFXwAXRwMXCBsZEVtXSjoFWVYPUAYQCApbSkFeRAdTBUYeRwgKV1xNVkdsRl9WR1wUAFMDVFRDGA==
-#EXTINF:-1, LADDI2
-http://voxtv.dynns.com:8000/indian/indian/111
+
+#EXTINF:-1, LADDI3
 
 
 
