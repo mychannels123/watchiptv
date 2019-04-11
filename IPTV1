@@ -274,7 +274,7 @@ http://hindi.flussonic.cdnpro.me/&TVHD-Hin-usa/index.m3u8
 #EXTINF:-1, group-title="HINDI", STAR BHARAT
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
 #EXTINF:-1, COLORS HD
-http://195.181.173.140:8000/indian/indian/122?token=GEYOUxBdRghHB1FfAl0OBlZVAFEBV1IKBQdQB1IADAACAV8FVVdSBwRHSRtGTUtQUltpWwFEDAlTB0lGFBZQSzwNAhBZF1YLR0lHTVxUXBcJBwMHUVEPCFENXEhDFVxdQV5EA1cMXQZVR0kbUEFNUEFYV146AlNOCFYARlsLQFUPSERdDWoAVwgEC10XAxsEERoUWxYWFAJDYgoWDQEVdhUBFFEMWAFAFkdJG1dQTUdSQlMQX0QEAVcMR0hDBlpMDRAUS0EPRmc2R0kbUEFNUF1FX10LRAwaFUZHSEMMRmYRARVGEVAFXwAXRwMXCBsZEVtXSjoFWVYPUAYQCApbSkFeRAdTBUYeRwgKV1xNVkdsRl9WR1wUC1cGVV1WR0g=
+http://voxtv.dynns.com:8000/indian/indian/122
 #EXTINF:-1, COLORS HD
 http://51.15.95.7:8010/Color/IndiaColnwsdd/index.m3u8
 #EXTINF:-1, group-title="HINDI", COLORS HD
@@ -302,6 +302,8 @@ https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 #EXTM3U
 #EXTINF:-1, group-title="HINDI", NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+#EXTINF:-1, STAR GOLD HD
+http://104.200.153.219/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR GOLD HD
 http://voxtv.dynns.com:8000/indian/indian/191
 #EXTINF:-1, group-title="HINDI", STAR GOLD
@@ -336,7 +338,7 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259
 #EXTINF:-1, group-title="HINDI", ENTER 10
 http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
 #EXTINF:-1, AND PICTURES HD
-http://195.181.173.140:8000/indian/indian/823
+http://voxtv.dynns.com:8000/indian/indian/823
 #EXTINF:-1, LADDI3
 #EXTINF:-1, group-title="HINDI", AND PICTURES HD
 http://livetv.colorsbd.com:2018/live/in-andpictures/chunks.m3u8
@@ -379,7 +381,7 @@ https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1
 #EXTINF:-1, group-title="HINDI", WOW CINEMA
  https://acv.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", WOW CINEMA
-http://cdn.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/playlist.m3u8
+https://57a1bb14d0f06.streamlock.net/live/wowcinema_webA.sdp/chunklist_w255929931.m3u8?token=7342938407
 #EXTINF:-1, group-title="HINDI", WOW CINEMA
 http://hindi.flussonic.cdnpro.me/WOWCINEMA/HIN/index.m3u8
 #EXTINF:-1, group-title="HINDI", CINEMA TV
