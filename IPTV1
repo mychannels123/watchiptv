@@ -110,7 +110,9 @@ http://195.181.169.151:8080/ptc_music_pun/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="PUNJABI TV", TANGY PUNJABI TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
 #EXTINF:-1,group-title="PUNJABI TV", PTC SIMRAN
-http://195.181.169.151:8080/ptc_simran_pun/tracks-v1a1/mono.m3u8?
+http://195.181.169.151:8080/ptc_simran_pun/tracks-v1a1/mono.m3u8
+#EXTINF:-1, PTC PUNJABI
+https://msluk5s.akamaized.net/hls/live/2000170/ptcpunjabimsl/ptcpunjabi_2000/chunklist.m3u8
 #EXTINF:-1,group-title="PUNJABI TV", PTC PUNJABI
 http://195.181.169.151:8080/PTCPunjabi-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1, PTC PUNJABI
