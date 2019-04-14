@@ -273,6 +273,8 @@ http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqera
 https://yuppad10-i.akamaihd.net/hls/live/682741/9xjalwaamg/9xjalwa_1800/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", AND TV HD
 http://hindi.flussonic.cdnpro.me/&TVHD-Hin-usa/index.m3u8
+#EXTINF:-1, STAR BHARAT HD
+http://hindi.flussonic.cdnpro.me/LifeOkIND-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", STAR BHARAT
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
 #EXTINF:-1, COLORS HD
@@ -439,7 +441,7 @@ http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymax&e=.m3u8
 #EXTINF:-1, group-title="HINDI", SONY SAB
 http://flussonic2.royaliptvhd.com:8080/IN:SONYSABHD/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, group-title="HINDI", SONY HD
-http://jioairtel.fsports.top/airtel/airtelxtream.php?c=sethd&e=.m3u8
+http://hindi.flussonic.cdnpro.me/SONYTVHDIND-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", SONY HD
 https://msleurope2s.akamaized.net/hls/live/2000183/sonymaxukhdmsl/sonymaxukhdmsl_600/chunklist.m3u8
 #EXTINF:-1, SONY TV
@@ -481,11 +483,11 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
 #EXTINF:-1, group-title="SPORTS", STAR SPORTS 1HD
 https://d1gqpeovw9li08.cloudfront.net/production/103a7163-1a8e-4ccf-aba5-6cf156903879/chunklist.m3u8
 #EXTINF:-1, group-title="SPORTS", STAR SPORTS 1 HD
-http://mhdtvworld.com/delta/hotstar/hotplus.m3u8?c=sshd1livetv&e=.m3u8
-#EXTINF:-1, group-title="SPORTS", STAR SPORTS 1
-http://mhdtvworld.com/delta/hotstar/hotplus.m3u8?c=sshindi&e=.m3u8
+http://cricket.flussonic.cdnpro.me/StarSports_Hd3/index.m3u8
+#EXTINF:-1, group-title="SPORTS", STAR SPORTS 1 HD
+http://cricket.flussonic.cdnpro.me/StarSports_Hd1/index.m3u8
 #EXTINF:-1, STAR SELECT 1HD
-http://mhdtvworld.com/delta/hotstar/hotplus.m3u8?c=ssselecthd1&e=.m3u8
+http://cricket.flussonic.cdnpro.me/StarSports_Hd2_1/index.m3u8
 #EXTINF:-1, STAR SELECT 1HD
 http://cdn.redflixtv.online:81/StarSportsSelect1_4KK/tracks-v1a1/mono.m3u8?token=RedflixTV
 #EXTINF:-1, group-title="SPORTS", LADD18
