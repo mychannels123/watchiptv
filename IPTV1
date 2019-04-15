@@ -14,7 +14,7 @@ https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/chunklist_w203020942
 #EXTINF:-1, group-title="NEWS",INDIA NEWS
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, group-title="NEWS",ZEE NEWS
-https://z5ams.akamaized.net/zeenews/tracks-v4a1/mono.m3u8
+http://hindi.flussonic.cdnpro.me/Zee_News_HIN/index.m3u8
 #EXTINF:-1, group-title="NEWS",FASTWAY NEWS
 http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 #EXTINF:-1, group-title="NEWS",DELHI AAJ TAK
@@ -378,6 +378,8 @@ https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1
 http://hindi.flussonic.cdnpro.me/Rishtey_Cineplex_IND/index.m3u8
 #EXTINF:-1, group-title="HINDI", RISHTEY CINEPLEX HD
 http://hindi.flussonic.cdnpro.me/Cineplex_HD_HIn/index.m3u8
+#EXTINF:-1, MOVIES ACTIVE HD
+http://hindi.flussonic.cdnpro.me/ViewersChoice-Classic(H)-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", D2H MOVIES
 http://hindi.flussonic.cdnpro.me/D2Hmovies_Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", RISHTEY CINEPLEX
@@ -434,8 +436,8 @@ http://jioairtel.fsports.top/airtel/airtelxtream.php?c=sonymax2&e=.m3u8
 http://hindi.flussonic.cdnpro.me/SON_MAX_UK/index.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX
 https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
-#EXTINF:-1, group-title="HINDI", SONY MAX
-http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonymax&e=.m3u8
+#EXTINF:-1, group-title="HINDI", SONY SAB HD
+http://hindi.flussonic.cdnpro.me/SONYSABASIA-Hin/index.m3u8
 
 
 #EXTINF:-1, group-title="HINDI", SONY SAB
@@ -452,11 +454,11 @@ https://mslapacs.akamaized.net/hls/live/692167/sonyaumsl/sonyau_1800k/chunklist.
 https://mslapacs.akamaized.net/hls/live/692167/sabtvau/sabtvau_1800k/chunklist.m3u8
 
 #EXTINF:-1, group-title="SPORTS",SONY ESPN HD
-http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyespnhd&e=.m3u8
+http://cricket.flussonic.cdnpro.me/SONYESPN/index.m3u8
 #EXTINF:-1, group-title="SPORTS", SONY SIX
 http://13.234.160.129:81/SixSD/index.m3u8?token=nxtmax
 #EXTINF:-1,  group-title="SPORTS",SONY SIX HD
-http://13.234.160.129:81/SixHD/index.m3u8?token=nxtmax
+http://cricket.flussonic.cdnpro.me/sonysixhd/index.m3u8
 #EXTINF:-1, group-title="SPORTS", TEN 1 
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten1&e=.m3u8
 #EXTINF:-1, group-title="SPORTS", TEN 1 HD
@@ -465,7 +467,7 @@ http://13.234.160.129:81/Ten1HD/index.m3u8?token=nxtmax
 http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten2&e=.m3u8
 
 #EXTINF:-1, group-title="SPORTS", TEN 2 HD
-http://13.234.160.129:81/Ten2HD/index.m3u8?token=nxtmax
+http://cricket.flussonic.cdnpro.me/TEN2HD/index.m3u8
 #EXTINF:-1, SONY TEN 3
 
 #EXTINF:-1, group-title="SPORTS", TEN 3
@@ -474,10 +476,8 @@ http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten3&e=.m3u8
 http://13.234.160.129:81/Ten3HD/index.m3u8?token=nxtmax
 #EXTINF:-1, group-title="SPORTS", SPORT MAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
-#EXTINF:-1, group-title="SPORTS", JIO CRICKET HINDI
-http://jiocdn.in/jioTVlive.php?c=Jio_Cricket_Hindi&q=800&e=.m3u8
-#EXTINF:-1, group-title="SPORTS", JIO CRICKET HD 
-http://jiocdn.in/jioTVlive.php?c=Jio_Cricket_English1&q=800&e=.m3u8
+#EXTINF:-1, group-title="SPORTS", SKY SPORTS
+http://cricket.flussonic.cdnpro.me/SkySportsHD2_123456/index.m3u8
 #EXTINF:-1, group-title="SPORTS", DSPORTS
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
 #EXTINF:-1, group-title="SPORTS", STAR SPORTS 1HD
