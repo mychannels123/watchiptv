@@ -480,8 +480,10 @@ http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 http://cricket.flussonic.cdnpro.me/SkySportsHD2_123456/index.m3u8
 #EXTINF:-1, group-title="SPORTS", DSPORTS
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
-#EXTINF:-1, group-title="SPORTS", STAR SPORTS 1HD
-https://d1gqpeovw9li08.cloudfront.net/production/103a7163-1a8e-4ccf-aba5-6cf156903879/chunklist.m3u8
+#EXTINF:-1, group-title="SPORTS", PTV SPORTS
+https://cdn.thesportsflix.com/app/ptvsportshd.m3u8
+#EXTINF:-1, STAR SPORTS 2
+https://cdn.thesportsflix.com/app/starsports1hd.m3u8
 #EXTINF:-1, group-title="SPORTS", STAR SPORTS 1 HD
 http://cricket.flussonic.cdnpro.me/StarSports_Hd3/index.m3u8
 #EXTINF:-1, group-title="SPORTS", STAR SPORTS 1 HD
