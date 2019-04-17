@@ -280,17 +280,13 @@ https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.
 #EXTINF:-1, COLORS HD
 http://voxtv.dynns.com:8000/indian/indian/122
 #EXTINF:-1, COLORS HD
-http://51.15.95.7:8010/Color/IndiaColnwsdd/index.m3u8
-#EXTINF:-1, group-title="HINDI", COLORS HD
-http://livetv.colorsbd.com:2018/live/in-colors/chunks.m3u8
+http://hindi.flussonic.cdnpro.me/ColorsHDIND-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", COLORS HD
 http://hindi.flussonic.cdnpro.me/COLORSHD-West-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", STAR PLUS
 https://mslapacs.akamaized.net/hls/live/692167/starplusau/starplusau_1800k/chunklist.m3u8
-#EXTINF:-1, STAR PLUS HD
-http://livetv.colorsbd.com:2018/live/in-starplus/chunks.m3u8
 #EXTINF:-1, group-title="HINDI", STAR PLUS HD
 http://hindi.flussonic.cdnpro.me/StarPlusUK-Hin/index.m3u8
 #EXTINF:-1, SAHARA ONE
@@ -343,9 +339,6 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259
 http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
 #EXTINF:-1, AND PICTURES HD
 http://voxtv.dynns.com:8000/indian/indian/823
-#EXTINF:-1, LADDI3
-#EXTINF:-1, group-title="HINDI", AND PICTURES HD
-http://livetv.colorsbd.com:2018/live/in-andpictures/chunks.m3u8
 #EXTINF:-1, MULTIPLEX
 http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w381295327.m3u8
 #EXTINF:-1, STAR UTSUV MOVIES
@@ -360,8 +353,6 @@ http://hindi.flussonic.cdnpro.me/B4UMovies-Hin/index.m3u8
 http://hindi.flussonic.cdnpro.me/UTVMOVIES-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", UTV ACTION
 http://hindi.flussonic.cdnpro.me/UTVACTION-Hin/index.m3u8
-#EXTINF:-1, group-title="HINDI", MOVIES OK
-http://mhdtvworld.com/delta/hotstar/hotplus.m3u8?c=moviesok&e=.m3u8
 #EXTINF:-1, group-title="HINDI", UTV MOVIES
 http://hindi.flussonic.cdnpro.me/UTVBindass-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", MOVIES OK
@@ -426,12 +417,10 @@ http://livetv.colorsbd.com:2018/live/in-zeecinema/chunks.m3u8
 https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX HD
 https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2400/chunklist.m3u8
-#EXTINF:-1, SONY MAX HD
-http://livetv.colorsbd.com:2018/live/in-sonymax/chunks.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX2
 http://hindi.flussonic.cdnpro.me/SONYMAX2-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX2
-http://jioairtel.fsports.top/airtel/airtelxtream.php?c=sonymax2&e=.m3u8
+http://voxtv.dynns.com:8000/indian/indian/1163
 #EXTINF:-1, group-title="HINDI", SONY MAX
 http://hindi.flussonic.cdnpro.me/SON_MAX_UK/index.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX
