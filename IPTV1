@@ -310,7 +310,8 @@ http://voxtv.dynns.com:8000/indian/indian/191
 http://hindi.flussonic.cdnpro.me/Star_Gold_UK-Hin/index.m3u8
 #EXTINF:-1, STAR GOLD
 http://voxtv.dynns.com:8000/indian/indian/133
-
+#EXTINF:-1, STAR GOLD
+http://104.200.153.219/Star_Gold_UK-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="HINDI", MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 #EXTINF:-1, group-title="HINDI", B4U PLUS
@@ -351,6 +352,8 @@ http://hindi.flussonic.cdnpro.me/star_gold_Select-Hin/index.m3u8
 http://hindi.flussonic.cdnpro.me/B4UMovies-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", UTV HD
 http://hindi.flussonic.cdnpro.me/UTVMOVIES-Hin/index.m3u8
+#EXTINF:-1, UTV ACTION
+http://104.200.153.219/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="HINDI", UTV ACTION
 http://hindi.flussonic.cdnpro.me/UTVACTION-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", UTV MOVIES
