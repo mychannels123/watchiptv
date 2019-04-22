@@ -474,6 +474,12 @@ http://cricket.flussonic.cdnpro.me/SkySportsHD2_123456/index.m3u8
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
 #EXTINF:-1, group-title="SPORTS", PTV SPORTS
 https://cdn.thesportsflix.com/app/ptvsportshd.m3u8
+#EXTINF:-1, STAR SPORTS 1
+http://gdcsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetv/master_800.m3u8
+#EXTINF:-1, STAR SPORTS 2
+http://gdcsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/master_800.m3u8
+#EXTINF:-1, STAR SPORTS 1 HINDI
+http://gdcsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_400.m3u8
 #EXTINF:-1, STAR SPORTS 2
 https://cdn.thesportsflix.com/app/starsports1hd.m3u8
 #EXTINF:-1, group-title="SPORTS", STAR SPORTS 1 HD
