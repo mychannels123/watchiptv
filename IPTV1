@@ -250,7 +250,7 @@ http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",LIFE PUNJABI
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTINF:-1,  group-title="HINDI", MANORANJAN MOVIES
-http://123.249.76.157:10012/bysid/8
+http://123.249.76.157:10030/bysid/8
 #EXTINF:-1, group-title="HINDI", MANORANJAN TV
 http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmvieiaysg/playlist.m3u8
 #EXTINF:-1, group-title="HINDI", MUSIC INDIA
@@ -263,6 +263,8 @@ http://209.58.160.177/wowouthls/live_240p.m3u8
 http://163.172.86.59:3135/Wow/Music/index.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MIX
 http://hindi.flussonic.cdnpro.me/Sony_MIX_IND/index.m3u8
+#EXTINF:-1, SONY MIX
+http://123.249.76.157:10026/bysid/11
 #EXTINF:-1, group-title="HINDI", MUSIC INDIA
 http://hindi.flussonic.cdnpro.me/MusicIndia-Hin/index.m3u8
 #EXTINF:-1, MASTI TV
@@ -290,7 +292,7 @@ https://mslapacs.akamaized.net/hls/live/692167/starplusau/starplusau_1800k/chunk
 #EXTINF:-1, group-title="HINDI", STAR PLUS HD
 http://hindi.flussonic.cdnpro.me/StarPlusUK-Hin/index.m3u8
 #EXTINF:-1, SAHARA ONE
-http://103.14.127.39:1935/saharaone/saharaone.stream_360p/playlist.m3u8
+http://123.249.76.157:10020/bysid/1
 #EXTINF:-1, group-title="HINDI", B4U MUSIC
 http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
 #EXTINF:-1, group-title="HINDI", B4U MUSIC
@@ -344,6 +346,8 @@ http://voxtv.dynns.com:8000/indian/indian/823
 http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w381295327.m3u8
 #EXTINF:-1, STAR UTSUV MOVIES
 http://103.14.127.35:1935/starutsav/starutsav.stream_360p/playlist.m3u8
+#EXTINF:-1, FILMY
+http://123.249.76.157:10020/bysid/9
 #EXTINF:-1, group-title="HINDI", MAHA MOVIES
 http://123.249.76.157:10011/bysid/1308
 #EXTINF:-1, group-title="HINDI", STAR GOLD SELECT HD
@@ -424,6 +428,10 @@ https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2
 http://hindi.flussonic.cdnpro.me/SONYMAX2-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX2
 http://voxtv.dynns.com:8000/indian/indian/1163
+#EXTINF:-1, SONY MAX2
+http://123.249.76.157:10026/bysid/42
+#EXTINF:-1, SONY MAX
+http://123.249.76.157:10026/bysid/41
 #EXTINF:-1, group-title="HINDI", SONY MAX
 http://hindi.flussonic.cdnpro.me/SON_MAX_UK/index.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX
@@ -439,7 +447,7 @@ http://hindi.flussonic.cdnpro.me/SONYTVHDIND-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", SONY HD
 https://msleurope2s.akamaized.net/hls/live/2000183/sonymaxukhdmsl/sonymaxukhdmsl_600/chunklist.m3u8
 #EXTINF:-1, SONY TV
-http://livetv.colorsbd.com:2018/live/in-sony/chunks.m3u8
+http://123.249.76.157:10026/bysid/43
 #EXTINF:-1, group-title="HINDI", SONY TV 
 https://mslapacs.akamaized.net/hls/live/692167/sonyaumsl/sonyau_1800k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", SONY SAB
@@ -447,8 +455,10 @@ https://mslapacs.akamaized.net/hls/live/692167/sabtvau/sabtvau_1800k/chunklist.m
 
 #EXTINF:-1, group-title="SPORTS",SONY ESPN HD
 http://cricket.flussonic.cdnpro.me/SONYESPN/index.m3u8
+#EXTINF:-1, SONY ESPN
+http://123.249.76.157:10026/bysid/15
 #EXTINF:-1, group-title="SPORTS", SONY SIX
-http://13.234.160.129:81/SixSD/index.m3u8?token=nxtmax
+http://123.249.76.157:10026/bysid/13
 #EXTINF:-1,  group-title="SPORTS",SONY SIX HD
 http://cricket.flussonic.cdnpro.me/sonysixhd/index.m3u8
 #EXTINF:-1, group-title="SPORTS", TEN 1 
