@@ -383,7 +383,7 @@ http://hindi.flussonic.cdnpro.me/D2Hmovies_Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", RISHTEY CINEPLEX
 https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1200k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", WOW CINEMA
- https://acv.asianetmobiletvplus.com/channels/wowcinema_igicskjaphhfursggtaxnyzsqljoilbu/chunklist.m3u8
+http://123.249.76.157:10010/bysid/2
 #EXTINF:-1, group-title="HINDI", WOW CINEMA
 https://57a1bb14d0f06.streamlock.net/live/wowcinema_webA.sdp/chunklist_w255929931.m3u8?token=7342938407
 #EXTINF:-1, group-title="HINDI", WOW CINEMA
@@ -484,6 +484,8 @@ http://cricket.flussonic.cdnpro.me/SkySportsHD2_123456/index.m3u8
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
 #EXTINF:-1, group-title="SPORTS", PTV SPORTS
 https://cdn.thesportsflix.com/app/ptvsportshd.m3u8
+#EXTINF:-1, TEN SPORTS 
+http://123.249.76.157:10018/bysid/25
 #EXTINF:-1, STAR SPORTS 1
 http://gdcsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetv/master_800.m3u8
 #EXTINF:-1, STAR SPORTS 2
