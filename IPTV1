@@ -264,6 +264,8 @@ http://163.172.86.59:3135/Wow/Music/index.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MIX
 http://hindi.flussonic.cdnpro.me/Sony_MIX_IND/index.m3u8
 #EXTINF:-1, SONY MIX
+http://104.200.153.219/Sony_MIX_IND/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SONY MIX
 http://123.249.76.157:10026/bysid/11
 #EXTINF:-1, group-title="HINDI", MUSIC INDIA
 http://hindi.flussonic.cdnpro.me/MusicIndia-Hin/index.m3u8
@@ -426,6 +428,8 @@ https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/c
 https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2400/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX2
 http://hindi.flussonic.cdnpro.me/SONYMAX2-Hin/index.m3u8
+#EXTINF:-1, SONY MAX2
+http://104.200.153.219/SONYMAX2-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX2
 http://voxtv.dynns.com:8000/indian/indian/1163
 #EXTINF:-1, SONY MAX2
