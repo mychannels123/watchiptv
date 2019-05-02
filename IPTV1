@@ -74,7 +74,7 @@ http://gmkd57nmrnxo-hls-live.wmncdn.net/1176/mwtv/f1cf7bd21ba17d7e65fac82935e07d
 #EXTINF:-1, KANSHI TV
 http://live.kanshitv.co.uk/mobile/kanshitvkey_high/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",AONE TV
-http://live.cloud6.in:1935/live2/aonetv/playlist.m3u8
+http://95.216.226.165:1935/aonetv/aonetv/chunklist_w1198337982.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PBN MUSIC
 http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",SHAN PUNJABI TV
@@ -100,6 +100,10 @@ http://195.181.169.151:8080/winnipeg_hul_pun/tracks-v1a1/mono.m3u8
 #EXTINF:-1, HULCHUL TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC CHAKDE
+#EXTINF:-1, PTUNES PLUS
+https://streamidea.multitvsolution.in/live/PtunesPlus-d/p3.m3u8
+#EXTINF:-1, PTUNES
+https://streamidea.multitvsolution.in/live/PTunes-d/p4.m3u8
 http://123.249.76.157:10012/bysid/3
 #EXTINF:-1,group-title="PUNJABI TV", BRIT ASIA
 http://195.181.169.151:8080/BritAsia-punjabi/tracks-v1a1/mono.m3u8
