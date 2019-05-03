@@ -270,7 +270,7 @@ http://163.172.86.59:3135/Wow/Music/index.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MIX
 http://hindi.flussonic.cdnpro.me/Sony_MIX_IND/index.m3u8
 #EXTINF:-1, SONY MIX
-http://104.200.153.219/Sony_MIX_IND/tracks-v1a1/mono.m3u8
+http://89.187.177.179/Sony_MIX_IND/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SONY MIX
 http://123.249.76.157:10026/bysid/11
 #EXTINF:-1, group-title="HINDI", MUSIC INDIA
@@ -314,8 +314,6 @@ https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, STAR GOLD HD
 http://104.200.153.219/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1, STAR GOLD HD
-http://voxtv.dynns.com:8000/indian/indian/191
 #EXTINF:-1, group-title="HINDI", STAR GOLD
 http://hindi.flussonic.cdnpro.me/Star_Gold_UK-Hin/index.m3u8
 #EXTINF:-1, STAR GOLD
@@ -435,9 +433,7 @@ https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2
 #EXTINF:-1, group-title="HINDI", SONY MAX2
 http://hindi.flussonic.cdnpro.me/SONYMAX2-Hin/index.m3u8
 #EXTINF:-1, SONY MAX2
-http://104.200.153.219/SONYMAX2-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1, group-title="HINDI", SONY MAX2
-http://voxtv.dynns.com:8000/indian/indian/1163
+http://89.187.177.179/SONYMAX2-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SONY MAX2
 http://123.249.76.157:10026/bysid/42
 #EXTINF:-1, SONY MAX
