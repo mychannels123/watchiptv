@@ -406,8 +406,6 @@ http://95.170.215.124/live/disk1/Imagine_Movies/anevia1/Imagine_Movies-audio_200
 #EXTINF:-1, group-title="HINDI", ZEE ACTION
 http://hindi.flussonic.cdnpro.me/ZEEACTION-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE BOLLYWOOD
-http://voxtv.dynns.com:8000/indian/indian/111
-#EXTINF:-1, group-title="HINDI", ZEE BOLLYWOOD
 http://hindi.flussonic.cdnpro.me/ZeeClassic/index.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE BOLLYWOOD
 http://hindi.flussonic.cdnpro.me/ZeeBollywoodHD-Hin/index.m3u8
@@ -423,7 +421,7 @@ http://hindi.flussonic.cdnpro.me/ZeeCinemaHD-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA HD
 http://hindi.flussonic.cdnpro.me/ZeeCinemaHD-USA-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA HD
-https://z5ams.akamaized.net/zcinemahd/playlist.m3u8?hdnts=st=1552861546~exp=1552864546~acl=/*~hmac=3473abdd8ddd5f428200536db6a392542a16eee003d6cc9acbffb6a0c30e8e9c
+http://airtelcdn.in/airstreamxxwX.php?c=zeecinemahd&e=.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA
 http://livetv.colorsbd.com:2018/live/in-zeecinema/chunks.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA
@@ -431,7 +429,7 @@ https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/c
 #EXTINF:-1, group-title="HINDI", SONY MAX HD
 https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2400/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX2
-http://hindi.flussonic.cdnpro.me/SONYMAX2-Hin/index.m3u8
+http://mhdtvworld.com/jio/jio.php?c=Sony_MAX2&q=1200&e=.m3u8
 #EXTINF:-1, SONY MAX2
 http://89.187.177.179/SONYMAX2-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SONY MAX2
