@@ -316,10 +316,8 @@ http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 http://104.200.153.219/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="HINDI", STAR GOLD
 http://hindi.flussonic.cdnpro.me/Star_Gold_UK-Hin/index.m3u8
-#EXTINF:-1, STAR GOLD
-http://voxtv.dynns.com:8000/indian/indian/133
-#EXTINF:-1, STAR GOLD
-http://104.200.153.219/Star_Gold_UK-Hin/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1, group-title="HINDI", MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 #EXTINF:-1, group-title="HINDI", B4U PLUS
@@ -329,11 +327,11 @@ http://hindi.flussonic.cdnpro.me/B4U+-Hin/index.m3u8
 #EXTINF:-1, group-title="HINDI", CINE MOVIES
 http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
 #EXTINF:-1, group-title="HINDI", BBO CLASSIC
-https://msluscens.akamaized.net/hls/live/2000126/bboclassicmsl/bboclassic_1800/chunklist.m3u8
+
 #EXTINF:-1, group-title="HINDI", BBO HD
-https://msluseasts.akamaized.net/hls/live/2000128/bbousmsl/bbous_2000/chunklist.m3u8
+
 #EXTINF:-1, group-title="HINDI", BBO MOVIES
-https://msluscen1s.akamaized.net/hls/live/2000127/bbomsl/bbo_2400/chunklist.m3u8
+
 #EXTINF:-1, group-title="HINDI", CLASSIC HINDI
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhincla.stream_all/chunklist_w1902359197_b1296000.m3u8
 #EXTINF:-1, group-title="HINDI", PREMIUM HINDI
@@ -347,11 +345,8 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259
 #EXTINF:-1, group-title="HINDI", ENTER 10
 http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
 #EXTINF:-1, AND PICTURES HD
-http://voxtv.dynns.com:8000/indian/indian/823
-#EXTINF:-1, MULTIPLEX
-http://103.14.127.35:1935/zeeanmolcinema/zeeanmolcinema.stream_360p/chunklist_w381295327.m3u8
-#EXTINF:-1, STAR UTSUV MOVIES
-http://103.14.127.35:1935/starutsav/starutsav.stream_360p/playlist.m3u8
+
+
 #EXTINF:-1, FILMY
 http://123.249.76.157:10020/bysid/9
 #EXTINF:-1, group-title="HINDI", MAHA MOVIES
@@ -390,8 +385,6 @@ http://hindi.flussonic.cdnpro.me/D2Hmovies_Hin/index.m3u8
 https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1200k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", WOW CINEMA
 http://123.249.76.157:10010/bysid/2
-#EXTINF:-1, group-title="HINDI", WOW CINEMA
-https://57a1bb14d0f06.streamlock.net/live/wowcinema_webA.sdp/chunklist_w255929931.m3u8?token=7342938407
 #EXTINF:-1, group-title="HINDI", WOW CINEMA
 http://hindi.flussonic.cdnpro.me/WOWCINEMA/HIN/index.m3u8
 #EXTINF:-1, group-title="HINDI", CINEMA TV
