@@ -500,9 +500,10 @@ http://cricket.flussonic.cdnpro.me/StarSports_Hd2_1/index.m3u8
 #EXTINF:-1, group-title="SPORTS", LADD18
 https://z5ams.akamaized.net/andpicshd/playlist.m3u8?hdnts=st=1553218378~exp=1553221378~acl=/*~hmac=c46851a506afe1c6e59486dabfc5facf857c643c5bf2968a248eed326facbe80
 
-#EXTINF:-1, LADDI3
-http://z5ams.akamaized.net/zanmolcnm/tracks-v4a1/exp=1556767655~acl=%2f*~data=hdntl~hmac=8bb50c0792d49315fa9223d89ef2692251a6604204cb713513e13ae50547c5b0/mono.m3u8
-
+#EXTINF:-1, LADDI
+https://tamilhdtv.herokuapp.com/malloostips.com/Jiospl/jicdn.m3u8?c=http://siyastream.online/play.php?q=800&c=Zee_Anmol_Cinema&progid=&q=800&e=.m3u8
+#EXTINF:-, LADDI1
+http://siyastream.online/play.php?q=800&c=Zee_Anmol_Cinema&progid=&q=800&e=.m3u8
 
 
 
