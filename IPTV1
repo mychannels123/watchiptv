@@ -385,7 +385,8 @@ http://hindi.flussonic.cdnpro.me/cinema_tv_hin/index.m3u8
 http://hindi.flussonic.cdnpro.me/movie_house_hin/index.m3u8
 #EXTINF:-1, IMAGINE MOVIES
 http://95.170.215.124/live/disk1/Imagine_Movies/anevia1/Imagine_Movies-audio_20000=160000-video=1587600.m3u8
-
+#EXTINF:-1, ZEE AFLAM
+http://95.170.215.124/live/disk1/Zee_Aflam/anevia1/Zee_Aflam-audio_20000=160000-video=1587600.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE ACTION
 http://pockettv.xyz/api/zee.m3u8?c=action
 #EXTINF:-1, group-title="HINDI", ZEE BOLLYWOOD
