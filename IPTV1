@@ -414,7 +414,7 @@ https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2
 #EXTINF:-1, group-title="HINDI", SONY MAX2
 http://mhdtvworld.com/jio/jio.php?c=Sony_MAX2&q=1200&e=.m3u8
 #EXTINF:-1, SONY MAX2
-http://89.187.177.179/SONYMAX2-Hin/tracks-v1a1/mono.m3u8
+http://mhdtvlive.online/airtelXYZtv.php?c=sonymax2&e=.m3u8
 #EXTINF:-1, SONY MAX2
 http://123.249.76.157:10026/bysid/42
 #EXTINF:-1, SONY MAX
