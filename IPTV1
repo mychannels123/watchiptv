@@ -83,6 +83,12 @@ http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",JUS PUNJABI HD
 http://195.181.169.151:8080/JUSPunjabiTV-punjabi/tracks-v1a1/mono.m3u8
+#EXTINF:-1, JUS HINDI HD
+http://jiocgwhub.jio.ril.com/JUS24x7/JUS24x7_600.m3u8
+#EXTINF:-1, JUS ONE
+http://jiocgwhub.jio.ril.com/JUSOne/JUSOne_600.m3u8
+#EXTINF:-1, B4U MASTI
+http://fastway.ddns.net:6421/fastway/live1011/tracks-v1a1/mono.m3u8
 #EXTINF:-1, NAVRANG TV
 http://195.181.169.151:8080/vaani_pun/tracks-v1a1/mono.m3u8
 #EXTINF:-1, PUNJAB DE RANG
@@ -93,6 +99,8 @@ http://195.181.169.151:8080/raonuk_pun/tracks-v1a1/mono.m3u8
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:-1, PUNJABI MOVIES
 http://live.galpunjabditv.com/GPDTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, J STAR
+http://cdn31.live247stream.com/jstar/tv/jstar/stream1/chunks.m3u8
 #EXTINF:-1, MEHAK TV
 http://195.181.169.151:8080/MehakTVPunjab-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TEHLKA ENTERTAINMENT
@@ -106,6 +114,7 @@ http://cdn12.henico.net:8080/live/jbani/index.m3u8
 https://streamidea.multitvsolution.in/live/PtunesPlus-d/p3.m3u8
 #EXTINF:-1, PTUNES
 https://streamidea.multitvsolution.in/live/PTunes-d/p4.m3u8
+#EXTINF:-1, PTC CHAKDE
 http://123.249.76.157:10012/bysid/3
 #EXTINF:-1,group-title="PUNJABI TV", BRIT ASIA
 http://195.181.169.151:8080/BritAsia-punjabi/tracks-v1a1/mono.m3u8
@@ -366,7 +375,8 @@ http://123.249.76.157:10011/bysid/1308
 
 #EXTINF:-1, group-title="HINDI", MOVIES OK
 
-#EXTINF:-1, group-title="HINDI", HOUSEFULL MOVIES
+#EXTINF:-1, group-title="HINDI", B4U MOVIES
+http://195.181.169.148/willowtv2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, group-title="HINDI", COLORS CINEPLEX
 https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1800k/chunklist.m3u8
@@ -387,6 +397,8 @@ http://hindi.flussonic.cdnpro.me/movie_house_hin/index.m3u8
 http://95.170.215.124/live/disk1/Imagine_Movies/anevia1/Imagine_Movies-audio_20000=160000-video=1587600.m3u8
 #EXTINF:-1, ZEE AFLAM
 http://95.170.215.124/live/disk1/Zee_Aflam/anevia1/Zee_Aflam-audio_20000=160000-video=1587600.m3u8
+#EXTINF:-1, ZEE AFLAM
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE ACTION
 http://pockettv.xyz/api/zee.m3u8?c=action
 #EXTINF:-1, group-title="HINDI", ZEE BOLLYWOOD
@@ -449,20 +461,20 @@ http://123.249.76.157:10026/bysid/13
 #EXTINF:-1,  group-title="SPORTS",SONY SIX HD
 http://cricket.flussonic.cdnpro.me/sonysixhd/index.m3u8
 #EXTINF:-1, group-title="SPORTS", TEN 1 
-http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten1&e=.m3u8
+
 #EXTINF:-1, group-title="SPORTS", TEN 1 HD
-http://13.234.160.129:81/Ten1HD/index.m3u8?token=nxtmax
+http://123.249.76.157:10018/bysid/75
 #EXTINF:-1, group-title="SPORTS", TEN 2
-http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten2&e=.m3u8
+
 
 #EXTINF:-1, group-title="SPORTS", TEN 2 HD
 http://cricket.flussonic.cdnpro.me/TEN2HD/index.m3u8
 #EXTINF:-1, SONY TEN 3
 
 #EXTINF:-1, group-title="SPORTS", TEN 3
-http://jioairtel.fsports.top/airtel/airtel.m3u8?c=sonyten3&e=.m3u8
-#EXTINF:-1, group-title="SPORTS", TEN 3 HD
-http://13.234.160.129:81/Ten3HD/index.m3u8?token=nxtmax
+
+#EXTINF:-1, group-title="SPORTS", PTV SPORTS
+http://195.181.169.148/PTVSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="SPORTS", SPORT MAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 #EXTINF:-1, group-title="SPORTS", SKY SPORTS
@@ -470,7 +482,11 @@ http://cricket.flussonic.cdnpro.me/SkySportsHD2_123456/index.m3u8
 #EXTINF:-1, group-title="SPORTS", DSPORTS
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
 #EXTINF:-1, group-title="SPORTS", PTV SPORTS
-https://cdn.thesportsflix.com/app/ptvsportshd.m3u8
+https://cdn2.thesportsflix.com/app/ptvsportshd.m3u8
+#EXTINF:-1, SKY SPORTS
+http://195.154.113.40:8081/jhjksdch/sklow/playlist.m3u8
+#EXTINF:-1, TEN SPORTS
+http://163.172.29.250:8081/bibhu/ten/playlist.m3u8
 #EXTINF:-1, TEN SPORTS 
 http://123.249.76.157:10018/bysid/25
 #EXTINF:-1, STAR SPORTS 1
@@ -480,21 +496,13 @@ http://gdcsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/m
 #EXTINF:-1, STAR SPORTS 1 HINDI
 http://gdcsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_400.m3u8?
 #EXTINF:-1, STAR SPORTS 2
-https://cdn.thesportsflix.com/app/starsports1hd.m3u8
+http://cdn2.thesportsflix.com/app/starsports1hd.m3u8
 #EXTINF:-1, group-title="SPORTS", STAR SPORTS 1 HD
-http://cricket.flussonic.cdnpro.me/StarSports_Hd3/index.m3u8
-#EXTINF:-1, group-title="SPORTS", STAR SPORTS 1 HD
-http://cricket.flussonic.cdnpro.me/StarSports_Hd1/index.m3u8
-#EXTINF:-1, STAR SELECT 1HD
-http://cricket.flussonic.cdnpro.me/StarSports_Hd2_1/index.m3u8
-#EXTINF:-1, group-title="SPORTS", LADD18
-https://z5ams.akamaized.net/andpicshd/playlist.m3u8?hdnts=st=1553218378~exp=1553221378~acl=/*~hmac=c46851a506afe1c6e59486dabfc5facf857c643c5bf2968a248eed326facbe80
-
-#EXTINF:-1, LADDI
-https://tamilhdtv.herokuapp.com/malloostips.com/Jiospl/jicdn.m3u8?c=http://siyastream.online/play.php?q=800&c=Zee_Anmol_Cinema&progid=&q=800&e=.m3u8
-#EXTINF:-, LADDI1
-http://siyastream.online/play.php?q=800&c=Zee_Anmol_Cinema&progid=&q=800&e=.m3u8
-
+http://195.181.168.125/StarSports_Hd3/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="SPORTS", STAR SPORTS HINDI
+http://195.181.169.120/StarSports_Hd1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, WILLOW CRICKET
+http://195.181.169.148/willowtv2/tracks-v1a1/mono.m3u8
 
 
 
