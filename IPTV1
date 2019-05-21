@@ -505,6 +505,7 @@ http://195.181.168.125/StarSports_Hd3/tracks-v1a1/mono.m3u8
 http://195.181.169.120/StarSports_Hd1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, WILLOW CRICKET
 http://195.181.169.148/willowtv2/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1, LADDI
+http://mhdtvworld.com/jiostar/stream2.php?ts=Star_Sports_Select_1/Star_Sports_Select_1_JSRV12_1200-1558430560000.ts
 
 
