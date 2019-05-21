@@ -290,29 +290,29 @@ http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqera
 #EXTINF:-1, group-title="HINDI", 9X JALWA
 https://yuppad10-i.akamaihd.net/hls/live/682741/9xjalwaamg/9xjalwa_1800/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", AND TV HD
-http://hindi.flussonic.cdnpro.me/&TVHD-Hin-usa/index.m3u8
+
 #EXTINF:-1, STAR BHARAT HD
-http://hindi.flussonic.cdnpro.me/LifeOkIND-Hin/index.m3u8
+
 #EXTINF:-1, group-title="HINDI", STAR BHARAT
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
 #EXTINF:-1, COLORS HD
-http://voxtv.dynns.com:8000/indian/indian/122
+
 #EXTINF:-1, COLORS HD
-http://hindi.flussonic.cdnpro.me/ColorsHDIND-Hin/index.m3u8
+
 #EXTINF:-1, group-title="HINDI", COLORS HD
-http://hindi.flussonic.cdnpro.me/COLORSHD-West-Hin/index.m3u8
+
 #EXTINF:-1, group-title="HINDI", COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", STAR PLUS
 https://mslapacs.akamaized.net/hls/live/692167/starplusau/starplusau_1800k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", STAR PLUS HD
-http://hindi.flussonic.cdnpro.me/StarPlusUK-Hin/index.m3u8
+
 #EXTINF:-1, SAHARA ONE
 http://123.249.76.157:10020/bysid/1
 #EXTINF:-1, group-title="HINDI", B4U MUSIC
 http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
 #EXTINF:-1, group-title="HINDI", B4U MUSIC
-http://hindi.flussonic.cdnpro.me/B4U_Music_UK-Hin/index.m3u8
+
 #EXTINF:-1, group-title="HINDI", B4U MUSIC
 https://ind17-lh.akamaihd.net/i/ind17_b4umusic@68543/index_2000_av-p.m3u8?sd=10&dw=7200&b=100-2500&rebase=on
 #EXTINF:-1, group-title="HINDI", MTV INDIA
@@ -321,9 +321,9 @@ https://mslapacs.akamaized.net/hls/live/692167/mtvau/mtvau_400k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", NTV
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
 #EXTINF:-1, STAR GOLD HD
-http://104.200.153.219/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, group-title="HINDI", STAR GOLD
-http://hindi.flussonic.cdnpro.me/Star_Gold_UK-Hin/index.m3u8
+
 
 
 #EXTINF:-1, group-title="HINDI", MBC BOLLYWOOD
@@ -331,7 +331,7 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 #EXTINF:-1, group-title="HINDI", B4U PLUS
 http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
 #EXTINF:-1, group-title="HINDI", B4U PLUS
-http://hindi.flussonic.cdnpro.me/B4U+-Hin/index.m3u8
+
 #EXTINF:-1, group-title="HINDI", CINE MOVIES
 http://cdn.asianetmobiletvplus.com/channels/hathwayccc_mxqlfydxrrnvteglmkeacyuuhyfjrqec/playlist.m3u8
 #EXTINF:-1, group-title="HINDI", BBO CLASSIC
@@ -376,7 +376,7 @@ http://123.249.76.157:10011/bysid/1308
 #EXTINF:-1, group-title="HINDI", MOVIES OK
 
 #EXTINF:-1, group-title="HINDI", B4U MOVIES
-http://195.181.169.148/willowtv2/tracks-v1a1/mono.m3u8
+http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
 
 #EXTINF:-1, group-title="HINDI", COLORS CINEPLEX
 https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1800k/chunklist.m3u8
@@ -390,9 +390,9 @@ http://hindi.flussonic.cdnpro.me/WOWCINEMA/HIN/index.m3u8
 #EXTINF:-1, group-title="HINDI", CINEMA TV
 http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
 #EXTINF:-1, group-title="HINDI", CINEMA TV
-http://hindi.flussonic.cdnpro.me/cinema_tv_hin/index.m3u8
+
 #EXTINF:-1, group-title="HINDI", MOVIE HOUSE
-http://hindi.flussonic.cdnpro.me/movie_house_hin/index.m3u8
+
 #EXTINF:-1, IMAGINE MOVIES
 http://95.170.215.124/live/disk1/Imagine_Movies/anevia1/Imagine_Movies-audio_20000=160000-video=1587600.m3u8
 #EXTINF:-1, ZEE AFLAM
@@ -436,13 +436,13 @@ http://hindi.flussonic.cdnpro.me/SON_MAX_UK/index.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX
 https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", SONY SAB HD
-http://hindi.flussonic.cdnpro.me/SONYSABASIA-Hin/index.m3u8
+
 
 
 #EXTINF:-1, group-title="HINDI", SONY SAB
-http://flussonic2.royaliptvhd.com:8080/IN:SONYSABHD/tracks-v1a1/playlist.m3u8?token=royal@2018
+
 #EXTINF:-1, group-title="HINDI", SONY HD
-http://hindi.flussonic.cdnpro.me/SONYTVHDIND-Hin/index.m3u8
+
 #EXTINF:-1, group-title="HINDI", SONY HD
 https://msleurope2s.akamaized.net/hls/live/2000183/sonymaxukhdmsl/sonymaxukhdmsl_600/chunklist.m3u8
 #EXTINF:-1, SONY TV
@@ -497,6 +497,8 @@ http://gdcsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/m
 http://gdcsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_400.m3u8?
 #EXTINF:-1, STAR SPORTS 2
 http://cdn2.thesportsflix.com/app/starsports1hd.m3u8
+#EXTINF:-1, STAR SPORTS 1 HD
+http://195.181.169.120/StarSports_Hd4/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="SPORTS", STAR SPORTS 1 HD
 http://195.181.168.125/StarSports_Hd3/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="SPORTS", STAR SPORTS HINDI
