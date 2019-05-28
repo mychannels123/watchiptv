@@ -361,8 +361,8 @@ http://pockettv.xyz/api/zee.m3u8?c=andpicssd
 http://123.249.76.157:10020/bysid/9
 #EXTINF:-1, group-title="HINDI", MAHA MOVIES
 http://123.249.76.157:10011/bysid/1308
-#EXTINF:-1, group-title="HINDI", STAR GOLD SELECT HD
-
+#EXTINF:-1, group-title="HINDI", STAR GOLD HD
+http://87.117.229.52:1935/trunk3/STARGOLDHD/chunklist_w1038608500.m3u8
 #EXTINF:-1, group-title="HINDI", B4U MOVIES
 
 #EXTINF:-1, group-title="HINDI", UTV HD
@@ -373,7 +373,8 @@ http://123.249.76.157:10011/bysid/1308
 
 #EXTINF:-1, group-title="HINDI", UTV MOVIES
 
-#EXTINF:-1, group-title="HINDI", MOVIES OK
+#EXTINF:-1, group-title="HINDI", MINIPLEX HD
+http://209.126.116.187:1935/trunk3/MINIPLEXHD/playlist.m3u8
 
 #EXTINF:-1, group-title="HINDI", B4U MOVIES
 http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
@@ -392,6 +393,9 @@ http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatc
 #EXTINF:-1, group-title="HINDI", CINEMA TV
 
 #EXTINF:-1, group-title="HINDI", MOVIE HOUSE
+
+#EXTINF:-1, STAR UTSAV MOVIES
+http://209.126.116.187:1935/trunk3/STARUTSAVMOVIES/playlist.m3u8
 
 #EXTINF:-1, IMAGINE MOVIES
 http://95.170.215.124/live/disk1/Imagine_Movies/anevia1/Imagine_Movies-audio_20000=160000-video=1587600.m3u8
@@ -412,7 +416,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA HD
 https://mslapacs.akamaized.net/hls/live/692167/zeecinemaapachd/zeecinemaapachd_2400k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA HD
-
+http://87.117.229.52:1935/trunk3/ZEECINEMAHD/chunklist_w1038608500.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA HD
 http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
 #EXTINF:-1, group-title="HINDI", ZEE ANMOL CINEMA
@@ -426,23 +430,24 @@ https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2
 #EXTINF:-1, group-title="HINDI", SONY MAX2
 http://mhdtvworld.com/jio/jio.php?c=Sony_MAX2&q=1200&e=.m3u8
 #EXTINF:-1, SONY MAX2
-http://mhdtvlive.online/airtelXYZtv.php?c=sonymax2&e=.m3u8
+
 #EXTINF:-1, SONY MAX2
 http://123.249.76.157:10026/bysid/42
 #EXTINF:-1, SONY MAX
 http://123.249.76.157:10026/bysid/41
 #EXTINF:-1, group-title="HINDI", SONY MAX
-http://hindi.flussonic.cdnpro.me/SON_MAX_UK/index.m3u8
+
 #EXTINF:-1, group-title="HINDI", SONY MAX
 https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", SONY SAB HD
 
 
 
-#EXTINF:-1, group-title="HINDI", SONY SAB
+#EXTINF:-1, group-title="HINDI", SONY HD
+http://103.205.133.44:1935/ns/SONYINDIAHD/playlist.m3u8
 
 #EXTINF:-1, group-title="HINDI", SONY HD
-
+http://103.205.133.44:1935/ns/SONYINDIAHD/playlist.m3u8
 #EXTINF:-1, group-title="HINDI", SONY HD
 https://msleurope2s.akamaized.net/hls/live/2000183/sonymaxukhdmsl/sonymaxukhdmsl_600/chunklist.m3u8
 #EXTINF:-1, SONY TV
@@ -479,14 +484,18 @@ http://195.181.169.148/PTVSports/tracks-v1a1/mono.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 #EXTINF:-1, group-title="SPORTS", SKY SPORTS
 http://cricket.flussonic.cdnpro.me/SkySportsHD2_123456/index.m3u8
+#EXTINF:-1, SKY SPORTS ARENA
+http://87.117.229.52:1935//trunk/SkySportsArenaFHD/playlist.m3u8
 #EXTINF:-1, group-title="SPORTS", DSPORTS
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
 #EXTINF:-1, group-title="SPORTS", PTV SPORTS
 https://cdn2.thesportsflix.com/app/ptvsportshd.m3u8
 #EXTINF:-1, SKY SPORTS
-http://195.154.113.40:8081/jhjksdch/sklow/playlist.m3u8
+http://195.181.168.125/SkySportsHD2_123456/index.m3u8
+#EXTINF:-1, SKY SPORTS
+http://88.150.157.158:1935/trunk2/ss3/playlist.m3u8
 #EXTINF:-1, TEN SPORTS
-http://163.172.29.250:8081/bibhu/ten/playlist.m3u8
+
 #EXTINF:-1, TEN SPORTS 
 http://123.249.76.157:10018/bysid/25
 #EXTINF:-1, STAR SPORTS 1
@@ -497,6 +506,8 @@ http://gdcsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/m
 http://gdcsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_400.m3u8?
 #EXTINF:-1, STAR SPORTS 2
 http://cdn2.thesportsflix.com/app/starsports1hd.m3u8
+#EXTINF:-1, STAR SPORTS 3
+http://88.150.157.158:1935/trunk2/ss3/chunklist_w299909666.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 http://195.181.169.120/StarSports_Hd4/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="SPORTS", STAR SPORTS 1 HD
