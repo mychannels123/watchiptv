@@ -435,8 +435,8 @@ http://mhdtvworld.com/jio/jio.php?c=Sony_MAX2&q=1200&e=.m3u8
 http://123.249.76.157:10026/bysid/42
 #EXTINF:-1, SONY MAX
 http://123.249.76.157:10026/bysid/41
-#EXTINF:-1, group-title="HINDI", SONY MAX
-
+#EXTINF:-1, group-title="HINDI", BFLIX MOVIES
+http://130.185.150.79:1935/trunk/Bflix-Movies/playlist.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX
 https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", SONY SAB HD
@@ -493,8 +493,9 @@ https://cdn2.thesportsflix.com/app/ptvsportshd.m3u8
 #EXTINF:-1, SKY SPORTS
 http://195.181.168.125/SkySportsHD2_123456/index.m3u8
 #EXTINF:-1, SKY SPORTS
-http://88.150.157.158:1935/trunk2/ss3/playlist.m3u8
-#EXTINF:-1, TEN SPORTS
+http://cdn2.thesportsflix.com/app/ptvsportshd.m3u8
+#EXTINF:-1, WATAN HD
+http://51.15.242.185/hls/stream.m3u8
 
 #EXTINF:-1, TEN SPORTS 
 http://123.249.76.157:10018/bysid/25
@@ -507,6 +508,8 @@ http://gdcsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/maste
 #EXTINF:-1, STAR SPORTS 2
 http://cdn2.thesportsflix.com/app/starsports1hd.m3u8
 #EXTINF:-1, STAR SPORTS 3
+http://88.150.157.158:1935/trunk2/ss3/playlist.m3u8
+#EXTINF:-1, STAR SPORTS 3
 http://88.150.157.158:1935/trunk2/ss3/chunklist_w299909666.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 http://195.181.169.120/StarSports_Hd4/tracks-v1a1/mono.m3u8
@@ -516,6 +519,8 @@ http://195.181.168.125/StarSports_Hd3/tracks-v1a1/mono.m3u8
 http://195.181.169.120/StarSports_Hd1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, WILLOW CRICKET
 http://195.181.169.148/willowtv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, WILLOW HD
+http://cdn2.thesportsflix.com/app/willowsd.m3u8
 #EXTINF:-1, LADDI
 http://mhdtvworld.com/jiostar/stream2.php?ts=Star_Sports_Select_1/Star_Sports_Select_1_JSRV12_1200-1558430560000.ts
 
