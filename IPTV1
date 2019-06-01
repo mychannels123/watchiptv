@@ -466,7 +466,7 @@ http://123.249.76.157:10026/bysid/13
 #EXTINF:-1,  group-title="SPORTS",SONY SIX HD
 http://cricket.flussonic.cdnpro.me/sonysixhd/index.m3u8
 #EXTINF:-1, group-title="SPORTS", TEN 1 
-
+http://103.68.116.50/live/feed1007/index.m3u8
 #EXTINF:-1, group-title="SPORTS", TEN 1 HD
 http://123.249.76.157:10018/bysid/75
 #EXTINF:-1, group-title="SPORTS", TEN 2
