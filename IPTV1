@@ -399,7 +399,7 @@ http://cdn.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatc
 #EXTINF:-1, group-title="HINDI", CINEMA TV
 
 #EXTINF:-1, group-title="HINDI", D2H CINEMA HD
-tp://87.117.229.52:1935/trunk3/D2HCINEMAHD/playlist.m3u8
+http://87.117.229.52:1935/trunk3/D2HCINEMAHD/playlist.m3u8
 
 #EXTINF:-1, STAR UTSAV MOVIES
 http://209.126.116.187:1935/trunk3/STARUTSAVMOVIES/playlist.m3u8
