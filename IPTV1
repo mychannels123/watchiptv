@@ -400,6 +400,8 @@ http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/Stream(03)/inde
 
 #EXTINF:-1, group-title="HINDI", COLORS CINEPLEX
 https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1800k/chunklist.m3u8
+#EXTINF:-1, COLORS CINEPLEX
+http://cdn.joovox.com/j/cid/Rishtey_Cineplex.m3u8
 #EXTINF:-1, COLORS CINEPLEX HD
 http://209.126.116.187:1935/trunk3/CINEPLEXHD/playlist.m3u8
 #EXTINF:-1, group-title="HINDI", RISHTEY CINEPLEX
@@ -426,6 +428,8 @@ http://95.170.215.124/live/disk1/Zee_Aflam/anevia1/Zee_Aflam-audio_20000=160000-
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE ACTION
 http://pockettv.xyz/api/zee.m3u8?c=action
+#EXTINF:-1, ZEE BOLLYWOOD
+http://cdn.joovox.com/j/cid/Zee_Classic.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE BOLLYWOOD
 http://pockettv.xyz/api/zee.m3u8?c=classic
 #EXTINF:-1, group-title="HINDI", ZEE TV HD
@@ -442,6 +446,8 @@ https://mslapacs.akamaized.net/hls/live/692167/zeecinemaapachd/zeecinemaapachd_2
 http://209.126.116.187:1935/trunk3/ZEECINEMAHD/chunklist_w1038608500.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA HD
 http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
+#EXTINF:-1, ZEE ANMOL CINEMA
+http://cdn.joovox.com/j/cid/Zee_Anmol_Cinema.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE ANMOL CINEMA
 http://pockettv.xyz/api/zee.m3u8?c=zanmolcnm
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA
@@ -457,7 +463,7 @@ https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2
 #EXTINF:-1, group-title="HINDI", SONY MAX2
 http://mhdtvworld.com/jio/jio.php?c=Sony_MAX2&q=1200&e=.m3u8
 #EXTINF:-1, SONY MAX2
-
+http://cdn.joovox.com/j/cid/Sony_MAX2.m3u8
 #EXTINF:-1, SONY MAX2
 http://123.249.76.157:10026/bysid/42
 #EXTINF:-1, SONY MAX
