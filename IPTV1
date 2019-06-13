@@ -14,7 +14,7 @@ https://d8rgs2gjqo2ht.cloudfront.net/abr/ngrp:indianews_all/chunklist_w203020942
 #EXTINF:-1, group-title="NEWS",INDIA NEWS
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, group-title="NEWS",ZEE NEWS
-http://hindi.flussonic.cdnpro.me/Zee_News_HIN/index.m3u8
+http://pockettv.xyz/api/zee.m3u8?c=zeenews
 #EXTINF:-1, group-title="NEWS",FASTWAY NEWS
 http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 #EXTINF:-1, group-title="NEWS",DELHI AAJ TAK
@@ -58,7 +58,7 @@ http://skystar.livebox.co.in/skystarhls/live.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PUNJABI
 http://cdn.samtv.ca/akaarworldpunjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PRIME ASIA HD
-http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+http://primeasia.dyndns.org:25461/live/PrimeAsia/FHD720p/43979.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",BEATBOX TV
 http://yourside.live-s.cdn.bitgravity.com/cdn-live/_definst_/yourside/live/BeatBoxTV.smil/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",APNA PUNJAB NRITV
@@ -82,7 +82,7 @@ http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",SHAN PUNJABI TV
 http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",JUS PUNJABI HD
-http://195.181.169.151:8080/JUSPunjabiTV-punjabi/tracks-v1a1/mono.m3u8
+http://jiocgwhub.jio.ril.com/JUSPunjabi/JUSPunjabi_600.m3u8
 #EXTINF:-1, JUS HINDI HD
 http://jiocgwhub.jio.ril.com/JUS24x7/JUS24x7_600.m3u8
 #EXTINF:-1, JUS ONE
@@ -191,9 +191,9 @@ http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",ANKHILA PUNJAB
 http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
-https://msluk4s.akamaized.net/hls/live/2000136/9xtashanmsl/9xtashan_2000/chunklist.m3u8
+http://pockettv.xyz/api/zee.m3u8?c=9XTASHAN
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
-https://msluk4s.akamaized.net/hls/live/2000136/9xtashanmsl/9xtashan_2000/chunklist.m3u8?hdntl=exp=1544094426~acl=/*~data=hdntl~hmac=b78a48852784756cd92e053a02b36fca8e9e956c1fb940fc5606135de076376e
+http://195.181.169.151:8080/9xTashan-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="PUNJABI TV", CHAKDE TV
 https://msluseast1s.akamaized.net/hls/live/2000129/chakdecstmsl/chakdecst_2000/chunklist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",CHAKDE TV
@@ -207,7 +207,9 @@ http://lzyr7zo8dvw2-hls-live.wmncdn.net/1164/cinevoice/508a8ec9dfdb9c61df9823aac
 #EXTINF:-1, group-title="PUNJABI TV",SHAN PUNJABI TV 
 http://fastway.ddns.net:6421/fastway/live101/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",CHARDIKLA TIME TV 
-http://voxtv.dynns.com:8000/punjabi/punjabi/177
+http://voxtv.dynns.com:8000/punjabi/punjabi/178
+#EXTINF:-1, CHARDIKLA TIME TV
+http://195.181.169.151:8080/ChardiklaTIMETV-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PUNJAB TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",AD 24
@@ -396,7 +398,7 @@ http://209.126.116.187:1935/trunk3/MINIPLEXHD/playlist.m3u8
 #EXTINF:-1, group-title="HINDI", B4U MOVIES
 http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
 #EXTINF:-1, B4U MOVIES
-http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/Stream(03)/index.m3u8
+http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
 
 #EXTINF:-1, group-title="HINDI", COLORS CINEPLEX
 https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1800k/chunklist.m3u8
@@ -530,9 +532,7 @@ http://195.181.169.148/PTVSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="SPORTS", SPORT MAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 #EXTINF:-1, group-title="SPORTS", SKY SPORTS CRICKET
-http://195.181.168.125/SkySportsHD2_123456/index.m3u8
-#EXTINF:-1, SKY SPORTS
-http://109.236.92.216:9090/SkySports_Cricket/mono.m3u8
+
 #EXTINF:-1, SKY SPORTS ARENA
 http://87.117.229.52:1935//trunk/SkySportsArenaFHD/playlist.m3u8
 #EXTINF:-1, DSPORTS
@@ -541,6 +541,8 @@ http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/606.m3u8
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
 #EXTINF:-1, D SPORTS
 http://209.126.116.187:1935/trunk3/DSPORTSHD/playlist.m3u8
+#EXTINF:-1, PTV SPORTS
+http://103.118.76.229:1935/tvprogram/CBeebies/mono.m3u8
 #EXTINF:-1, group-title="SPORTS", PTV SPORTS
 https://cdn2.thesportsflix.com/app/ptvsportshd.m3u8
 #EXTINF:-1, STAR SPORTS SELECT 2HD
