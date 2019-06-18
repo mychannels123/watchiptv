@@ -532,7 +532,7 @@ http://195.181.169.148/PTVSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="SPORTS", SPORT MAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
 #EXTINF:-1, group-title="SPORTS", SKY SPORTS CRICKET
-
+http://voxtv.dynns.com:8000/nimble/nimble/198
 #EXTINF:-1, SKY SPORTS ARENA
 http://87.117.229.52:1935//trunk/SkySportsArenaFHD/playlist.m3u8
 #EXTINF:-1, DSPORTS
@@ -546,15 +546,15 @@ http://103.118.76.229:1935/tvprogram/CBeebies/mono.m3u8
 #EXTINF:-1, group-title="SPORTS", PTV SPORTS
 https://cdn2.thesportsflix.com/app/ptvsportshd.m3u8
 #EXTINF:-1, STAR SPORTS SELECT 2HD
-https://stream10.joovox.com/StarSportsSelectHD2/tracks-v1a1/mono.m3u8
+http://voxtv.dynns.com:8000/nimble/nimble/530
 #EXTINF:-1, STAR SPORTS SELECT 1 HD
-http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/613.m3u8
+http://voxtv.dynns.com:8000/nimble/nimble/530
 #EXTINF:-1, STAR SPORTS SELECT 1 HD
-https://stream10.joovox.com/StarSportsSelectHD1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, STAR SPORTS SELECT 1 HD
 http://209.126.116.187:1935/trunk3/STARSPORTSSELECT1HD/playlist.m3u8
 #EXTINF:-1, STAR SPORTS SELECT 2 HD
-http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/614.m3u8
+
 #EXTINF:-1, STAR SPORTS SELECT 2 HD
 http://209.126.116.187:1935/trunk3/STARSPORTSSELECT2HD/playlist.m3u8
 #EXTINF:-1, SKY SPORTS
@@ -562,7 +562,7 @@ http://cdn2.thesportsflix.com/app/ptvsportshd.m3u8
 #EXTINF:-1, WATAN HD
 http://51.15.242.185/hls/stream.m3u8
 #EXTINF:-1, TEN SPORTS
-http://195.154.113.87:8081/live/ttennsp/playlist.m3u8
+
 #EXTINF:-1, TEN SPORTS 
 http://123.249.76.157:10018/bysid/25
 #EXTINF:-1, STAR SPORTS 1
@@ -572,7 +572,7 @@ http://gdcsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/m
 #EXTINF:-1, STAR SPORTS 1 HINDI
 http://gdcsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_400.m3u8
 #EXTINF:-1, STAR SPORTS HINDI 1 HD
-http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/616.m3u8
+
 #EXTINF:-1, STAR SPORTS HINDI
 https://last2.bigmaxworld.com/jasmin/ppplIy.m3u8?c=Star_Sports_3
 #EXTINF:-1, STAR SPORTS HINDI 1HD
@@ -582,23 +582,23 @@ http://209.126.116.187:1935/trunk3/STARSPORTS1ENGLISHHD/playlist.m3u8
 #EXTINF:-1, STAR SPORTS 2
 http://cdn2.thesportsflix.com/app/starsports1hd.m3u8
 #EXTINF:-1, STAR SPORTS 1
-http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/615.m3u8
+
 #EXTINF:-1, STAR SPORTS 2HD
-http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/612.m3u8
+
 #EXTINF:-1, STAR SPORTS 2HD
 http://209.126.116.187:1935/trunk3/STARSPORTS2HD/playlist.m3u8
 #EXTINF:-1, STAR SPORTS 2HD
-https://stream10.joovox.com/StarSports2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, STAR SPORTS 3
 http://88.150.157.158:1935/trunk2/ss3/chunklist_299909666.m3u8
 
 #EXTINF:-1, STAR SPORTS 1 HD
-http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/610.m3u8
+http://voxtv.dynns.com:8000/nimble/nimble/529
 
 #EXTINF:-1, group-title="SPORTS", STAR SPORTS 1 HD
-https://stream10.joovox.com/StarSports1Hindi/index.m3u8
+
 #EXTINF:-1, group-title="SPORTS", STAR SPORTS HINDI
-https://stream10.joovox.com/StarSports1Hindi/index.m3u8
+
 #EXTINF:-1, WILLOW CRICKET
 http://209.126.116.187:1935/trunk3/WILLOWCRICKETHD/playlist.m3u8
 #EXTINF:-1, WILLOW HD
