@@ -539,15 +539,15 @@ http://87.117.229.52:1935//trunk/SkySportsArenaFHD/playlist.m3u8
 http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/606.m3u8
 #EXTINF:-1, group-title="SPORTS", DSPORTS
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
-#EXTINF:-1, D SPORTS
+#EXTINF:-1,group-title="SPORTS", D SPORTS
 http://209.126.116.187:1935/trunk3/DSPORTSHD/playlist.m3u8
 #EXTINF:-1, PTV SPORTS
 http://103.118.76.229:1935/tvprogram/CBeebies/mono.m3u8
 #EXTINF:-1, group-title="SPORTS", PTV SPORTS
 https://cdn2.thesportsflix.com/app/ptvsportshd.m3u8
-#EXTINF:-1, STAR SPORTS SELECT 2HD
+#EXTINF:-1, group-title="SPORTS",STAR SPORTS SELECT 2HD
 http://voxtv.dynns.com:8000/nimble/nimble/530
-#EXTINF:-1, STAR SPORTS SELECT 1 HD
+#EXTINF:-1,group-title="SPORTS", STAR SPORTS SELECT 1 HD
 http://voxtv.dynns.com:8000/nimble/nimble/530
 #EXTINF:-1, STAR SPORTS SELECT 1 HD
 
@@ -559,27 +559,21 @@ http://209.126.116.187:1935/trunk3/STARSPORTSSELECT1HD/playlist.m3u8
 http://209.126.116.187:1935/trunk3/STARSPORTSSELECT2HD/playlist.m3u8
 #EXTINF:-1, SKY SPORTS
 http://cdn2.thesportsflix.com/app/ptvsportshd.m3u8
-#EXTINF:-1, WATAN HD
+#EXTINF:-1,group-title="SPORTS", WATAN HD
 http://51.15.242.185/hls/stream.m3u8
 #EXTINF:-1, TEN SPORTS
 
-#EXTINF:-1, TEN SPORTS 
+#EXTINF:-1, group-title="SPORTS",TEN SPORTS 
 http://123.249.76.157:10018/bysid/25
-#EXTINF:-1, STAR SPORTS 1
+#EXTINF:-1,group-title="SPORTS",STAR SPORTS 1
 http://gdcsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd1livetv/master_800.m3u8
-#EXTINF:-1, STAR SPORTS 2
+#EXTINF:-1, group-title="SPORTS",STAR SPORTS 2
 http://gdcsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshd2livetv/master_800.m3u8
-#EXTINF:-1, STAR SPORTS 1 HINDI
+#EXTINF:-1,group-title="SPORTS", STAR SPORTS 1 HINDI
 http://gdcsite.cdnsrv.jio.com/hotstar.live.cdn.jio.com/hotstar_isl/sshindi/master_400.m3u8
-#EXTINF:-1, STAR SPORTS HINDI 1 HD
-
-#EXTINF:-1, STAR SPORTS HINDI
-https://last2.bigmaxworld.com/jasmin/ppplIy.m3u8?c=Star_Sports_3
-#EXTINF:-1, STAR SPORTS HINDI 1HD
-http://209.126.116.187:1935/trunk3/STARSPORTS1HINDIHD/playlist.m3u8
-#EXTINF:-1, STAR SPORTS 1HD
-http://209.126.116.187:1935/trunk3/STARSPORTS1ENGLISHHD/playlist.m3u8
-#EXTINF:-1, STAR SPORTS 2
+#EXTINF:-1, group-title="SPORTS",STAR SPORTS HINDI 1 HD
+http://voxtv.dynns.com:8000/nimble/nimble/1294
+#EXTINF:-1,group-title="SPORTS", STAR SPORTS 2
 http://cdn2.thesportsflix.com/app/starsports1hd.m3u8
 #EXTINF:-1, STAR SPORTS 1
 
@@ -592,10 +586,11 @@ http://209.126.116.187:1935/trunk3/STARSPORTS2HD/playlist.m3u8
 #EXTINF:-1, STAR SPORTS 3
 http://88.150.157.158:1935/trunk2/ss3/chunklist_299909666.m3u8
 
-#EXTINF:-1, STAR SPORTS 1 HD
+#EXTINF:-1,group-title="SPORTS", STAR SPORTS 1 HD
 http://voxtv.dynns.com:8000/nimble/nimble/529
 
-#EXTINF:-1, group-title="SPORTS", STAR SPORTS 1 HD
+#EXTINF:-1, group-title="SPORTS", SKY SPORTS
+https://ul.cdn946.net:8443/hls/amwedb9nkkantoo.m3u8?s=u_z-tWPooEnBCipnlsSTZA&e=1561981808
 
 #EXTINF:-1, group-title="SPORTS", STAR SPORTS HINDI
 
