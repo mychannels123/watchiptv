@@ -19,29 +19,27 @@ http://pockettv.xyz/api/zee.m3u8?c=zeenews
 http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 #EXTINF:-1, group-title="NEWS",DELHI AAJ TAK
 https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live2/chunks.m3u8
-#EXTINF:-1,group-title="PUNJABI TV", AAJ TAK
+#EXTINF:-1,group-title="NEWS", AAJ TAK
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/chunklist_w668703369_b150000.m3u8
-#EXTINF:-1, AAJ TAK 
-http://flussonic2.royaliptvhd.com:8080/IN:AAJTAK/tracks-v1a1/playlist.m3u8?token=royal@2018
-#EXTINF:-1, AAJ TAK
+#EXTINF:-1, group-title="NEWS",AAJ TAK
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
-#EXTINF:-1,group-title="PUNJABI TV", AAJ TAK
+#EXTINF:-1,group-title="NEWS", AAJ TAK
 https://msleurope8.akamaized.net/hls/live/2003252/aajtakpxy/aajtak_1800/chunklist.m3u8?hdntl=exp=1553146904~acl=/*~data=hdntl~hmac=ad6378e724cdead406bed526b088d6e5bf0ef0d680b1072cc78a2299b51cf9ce
-#EXTINF:-1, group-title="PUNJABI TV",TEZ
+#EXTINF:-1, group-title="NEWS",TEZ
 https://msluk6s.akamaized.net/hls/live/2000171/teznewsmsl/teznews_1100/chunklist.m3u8
 #EXTINF:-1, group-title="NEWS",TEZ
 https://vidcdn.vidgyor.com/tez-origin/liveabr/tez-origin/live1/chunks.m3u8
 #EXTINF:-1, group-title="NEWS",INDIA NEWS
 http://103.14.127.35:1935/ddrajyasabha/ddrajyasabha.stream_360p/playlist.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",TV100
+#EXTINF:-1, group-title="NEWS",TV100
 http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist_w1840712472.m3u8
-#EXTINF:-1,group-title="PUNJABI TV", NEWS 24
+#EXTINF:-1,group-title="NEWS", NEWS 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1, group-title="NEWS",NEWS 24
 http://103.14.127.39:1935/news24/news24.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="NEWS",SAMAY
 http://103.14.127.37:1935/samay/samay.stream_360p/playlist.m3u8
-#EXTINF:-1, group-title="PUNJABI TV",ABP NEWS
+#EXTINF:-1, group-title="NEWS",ABP NEWS
 https://hls_live_hindi-i.akamaihd.net/hls/live/582539/abphindi/masterhls_96.m3u8
 #EXTINF:-1, group-title="NEWS",ABP NEWS
 http://103.14.127.35:1935/ddloksabha/ddloksabha.stream_360p/playlist.m3u8
@@ -53,6 +51,8 @@ http://live.wmncdn.net/10tvpunjabi/e4152730b968f5b2774b47411db98651.sdp/index.m3
 http://fastway.ddns.net:6421/fastway/live5/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",SPARK TV
 http://skystar.livebox.co.in/skystarhls/live.m3u8
+#EXTINF:-1, group-title="NEWS", AAHOO TV
+https://v.viralshit.in/live/aahomusic.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PUNJABI
 http://cdn.samtv.ca/akaarworldpunjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PRIME ASIA HD
