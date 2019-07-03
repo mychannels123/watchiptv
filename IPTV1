@@ -19,31 +19,29 @@ http://pockettv.xyz/api/zee.m3u8?c=zeenews
 http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
 #EXTINF:-1, group-title="NEWS",DELHI AAJ TAK
 https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live2/chunks.m3u8
-#EXTINF:-1, AAJ TAK
-http://hindi.flussonic.cdnpro.me/Aajtak-Hin/index.m3u8
-#EXTINF:-1, AAJ TAK
+#EXTINF:-1,group-title="PUNJABI TV", AAJ TAK
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/chunklist_w668703369_b150000.m3u8
 #EXTINF:-1, AAJ TAK 
 http://flussonic2.royaliptvhd.com:8080/IN:AAJTAK/tracks-v1a1/playlist.m3u8?token=royal@2018
 #EXTINF:-1, AAJ TAK
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
-#EXTINF:-1, AAJ TAK
+#EXTINF:-1,group-title="PUNJABI TV", AAJ TAK
 https://msleurope8.akamaized.net/hls/live/2003252/aajtakpxy/aajtak_1800/chunklist.m3u8?hdntl=exp=1553146904~acl=/*~data=hdntl~hmac=ad6378e724cdead406bed526b088d6e5bf0ef0d680b1072cc78a2299b51cf9ce
-#EXTINF:-1, TEZ
+#EXTINF:-1, group-title="PUNJABI TV",TEZ
 https://msluk6s.akamaized.net/hls/live/2000171/teznewsmsl/teznews_1100/chunklist.m3u8
 #EXTINF:-1, group-title="NEWS",TEZ
 https://vidcdn.vidgyor.com/tez-origin/liveabr/tez-origin/live1/chunks.m3u8
 #EXTINF:-1, group-title="NEWS",INDIA NEWS
 http://103.14.127.35:1935/ddrajyasabha/ddrajyasabha.stream_360p/playlist.m3u8
-#EXTINF:-1, TV100
+#EXTINF:-1, group-title="PUNJABI TV",TV100
 http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist_w1840712472.m3u8
-#EXTINF:-1, NEWS 24
+#EXTINF:-1,group-title="PUNJABI TV", NEWS 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 #EXTINF:-1, group-title="NEWS",NEWS 24
 http://103.14.127.39:1935/news24/news24.stream_360p/playlist.m3u8
 #EXTINF:-1, group-title="NEWS",SAMAY
 http://103.14.127.37:1935/samay/samay.stream_360p/playlist.m3u8
-#EXTINF:-1, ABP NEWS
+#EXTINF:-1, group-title="PUNJABI TV",ABP NEWS
 https://hls_live_hindi-i.akamaihd.net/hls/live/582539/abphindi/masterhls_96.m3u8
 #EXTINF:-1, group-title="NEWS",ABP NEWS
 http://103.14.127.35:1935/ddloksabha/ddloksabha.stream_360p/playlist.m3u8
@@ -51,9 +49,9 @@ http://103.14.127.35:1935/ddloksabha/ddloksabha.stream_360p/playlist.m3u8
 https://d3cjrhqx3ygiqt.cloudfront.net/abr/ngrp:newspunjab_all/chunklist_w1082226080_b1628000.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",10 PUNJABI TV
 http://live.wmncdn.net/10tvpunjabi/e4152730b968f5b2774b47411db98651.sdp/index.m3u8
-#EXTINF:-1, WORLD PUNJABI TV
+#EXTINF:-1, group-title="PUNJABI TV",WORLD PUNJABI TV
 http://fastway.ddns.net:6421/fastway/live5/tracks-v1a1/index.m3u8
-#EXTINF:-1, SPARK TV
+#EXTINF:-1, group-title="PUNJABI TV",SPARK TV
 http://skystar.livebox.co.in/skystarhls/live.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PUNJABI
 http://cdn.samtv.ca/akaarworldpunjabi/tracks-v1a1/mono.m3u8
@@ -71,9 +69,9 @@ http://103.81.156.115:1935/hello/saadapunjab/playlist.m3u8
 http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",JASHAN TV
 http://gmkd57nmrnxo-hls-live.wmncdn.net/1176/mwtv/f1cf7bd21ba17d7e65fac82935e07dae.sdp/tracks-v1a1/index.m3u8
-#EXTINF:-1, KANSHI TV
+#EXTINF:-1, group-title="PUNJABI TV",KANSHI TV
 http://live.kanshitv.co.uk/mobile/kanshitvkey_high/index.m3u8
-#EXTINF:-1, AONE MUSIC
+#EXTINF:-1, group-title="PUNJABI TV",AONE MUSIC
 https://5c75277727cd1.streamlock.net/aonemusic/aonemusic/playlist.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",AONE TV
 http://95.216.226.165:1935/aonetv/aonetv/chunklist_w1198337982.m3u8
@@ -83,38 +81,40 @@ http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",JUS PUNJABI HD
 http://jiocgwhub.jio.ril.com/JUSPunjabi/JUSPunjabi_600.m3u8
-#EXTINF:-1, JUS HINDI HD
+#EXTINF:-1, group-title="PUNJABI TV",JUS HINDI HD
 http://jiocgwhub.jio.ril.com/JUS24x7/JUS24x7_600.m3u8
-#EXTINF:-1, JUS ONE
+#EXTINF:-1, group-title="PUNJABI TV",JUS ONE
 http://jiocgwhub.jio.ril.com/JUSOne/JUSOne_600.m3u8
-#EXTINF:-1, B4U MASTI
+#EXTINF:-1,group-title="PUNJABI TV",B4U MASTI
 http://fastway.ddns.net:6421/fastway/live1011/tracks-v1a1/mono.m3u8
-#EXTINF:-1, NAVRANG TV
+#EXTINF:-1, group-title="PUNJABI TV",NAVRANG TV
 http://195.181.169.151:8080/vaani_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1, PUNJAB DE RANG
+#EXTINF:-1,group-title="PUNJABI TV",PUNJAB DE RANG
 http://195.181.169.151:8080/PUNJAB_DE_RANG_USA_HD_PUN/tracks-v1a1/mono.m3u8
-#EXTINF:-1, RAUNAK PUNJAB DI
+#EXTINF:-1,group-title="PUNJABI TV", RAUNAK PUNJAB DI
 http://195.181.169.151:8080/raonuk_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SABRANG TV
+#EXTINF:-1, group-title="PUNJABI TV",SABRANG TV
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:-1, PUNJABI MOVIES
+#EXTINF:-1, group-title="PUNJABI TV",PUNJABI MOVIES
 http://live.galpunjabditv.com/GPDTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, J STAR
 http://cdn31.live247stream.com/jstar/tv/jstar/stream1/chunks.m3u8
-#EXTINF:-1, MEHAK TV
+#EXTINF:-1, group-title="PUNJABI TV",MEHAK TV
 http://195.181.169.151:8080/MehakTVPunjab-punjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1, TEHLKA ENTERTAINMENT
+#EXTINF:-1, group-title="PUNJABI TV",TEHLKA ENTERTAINMENT
 http://195.181.169.151:8080/TEHLKAENT/PUN/tracks-v1a1/mono.m3u8
-#EXTINF:-1, WINIPEG PUNJABI TV
+#EXTINF:-1, group-title="PUNJABI TV",WINIPEG PUNJABI TV
 http://195.181.169.151:8080/winnipeg_hul_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1, HULCHUL TV
+#EXTINF:-1, group-title="PUNJABI TV",HULCHUL TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC CHAKDE
-#EXTINF:-1, PTUNES PLUS
+#EXTINF:-1, group-title="PUNJABI TV",PTUNES PLUS
 https://streamidea.multitvsolution.in/live/PtunesPlus-d/p3.m3u8
-#EXTINF:-1, PTUNES
+#EXTINF:-1,group-title="PUNJABI TV",PTUNES
 https://streamidea.multitvsolution.in/live/PTunes-d/p4.m3u8
-#EXTINF:-1, PTC CHAKDE
+#EXTINF:-1, group-title="PUNJABI TV",AAHOO MUSIC
+https://v.viralshit.in/live/aahomusic.m3u8
+#EXTINF:-1, group-title="PUNJABI TV",PTC CHAKDE
 http://123.249.76.157:10012/bysid/3
 #EXTINF:-1,group-title="PUNJABI TV", BRIT ASIA
 http://195.181.169.151:8080/BritAsia-punjabi/tracks-v1a1/mono.m3u8
@@ -128,17 +128,17 @@ http://195.181.169.151:8080/ptc_music_pun/tracks-v1a1/mono.m3u8
 http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
 #EXTINF:-1,group-title="PUNJABI TV", PTC SIMRAN
 http://195.181.169.151:8080/ptc_simran_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1, PTC PUNJABI
+#EXTINF:-1, group-title="PUNJABI TV",PTC PUNJABI
 https://msluk5s.akamaized.net/hls/live/2000170/ptcpunjabimsl/ptcpunjabi_2000/chunklist.m3u8
 #EXTINF:-1,group-title="PUNJABI TV", PTC PUNJABI
 http://195.181.169.151:8080/PTCPunjabi-punjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1, PTC PUNJABI
+#EXTINF:-1,  group-title="PUNJABI TV",PTC PUNJABI
 http://195.181.169.151:8080/PTC_punjabi_uk/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="PUNJABI TV", PTC PUNJABI
 http://123.249.76.157:10012/bysid/2
 #EXTINF:-1,group-title="PUNJABI TV", PTC NEWS
 http://123.249.76.157:10012/bysid/1
-#EXTINF:-1, PTC NEWS
+#EXTINF:-1,  group-title="PUNJABI TV",PTC NEWS
 http://195.181.169.151:8080/PTCNews-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PTC NEWS
 https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist.m3u8
@@ -146,29 +146,29 @@ https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist
 https://msluk5s.akamaized.net/hls/live/2000170/ptcnewsmsl/ptcnews_2000/chunklist.m3u8?hdntl=exp=1544087271~acl=/*~data=hdntl~hmac=9d948b08f521a29e40e7cae073772c9dc54308c5661b62cd232e4e7b9d291fe9
 #EXTINF:-1,group-title="PUNJABI TV", DAP PUNJABI
 http://195.181.169.151:8080/dil_apna_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1, PANTHAM TV
+#EXTINF:-1,  group-title="PUNJABI TV",PANTHAM TV
 http://103.81.156.115:1935/hello/phantam/chunklist_w1431133049.m3u8
 #EXTINF:-1, PRIME HD
 http://23.186.192.55:8080/live/primeplus/index.m3u8
-#EXTINF:-1, ONLY MUSIC
+#EXTINF:-1,  group-title="PUNJABI TV",ONLY MUSIC
 http://195.181.169.151:8080/ONLY_MUSIC_PUN/tracks-v1a1/mono.m3u8
-#EXTINF:-1, 5AAB MUSIC
+#EXTINF:-1,  group-title="PUNJABI TV",5AAB MUSIC
 http://195.181.169.151:8080/5aabtv_music_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1, ALPHA PUNJABI
+#EXTINF:-1,  group-title="PUNJABI TV",ALPHA PUNJABI
 http://195.181.169.151:8080/AlphaETCPunjabi-punjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1, GURBANI TV
+#EXTINF:-1,  group-title="PUNJABI TV",GURBANI TV
 http://195.181.169.151:8080/EMPEE_PUN/tracks-v1a1/mono.m3u8
-#EXTINF:-1, DHUR KI BAANI
+#EXTINF:-1,  group-title="PUNJABI TV",DHUR KI BAANI
 http://195.181.169.151:8080/dhur_ki_Baani_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1, GARV PUNJABI HD
+#EXTINF:-1,  group-title="PUNJABI TV",GARV PUNJABI HD
 http://195.181.169.151:8080/garv_punjabi/tracks-v1a1/mono.m3u8
-#EXTINF:-1, GLOBAB SANJH TV
+#EXTINF:-1,  group-title="PUNJABI TV",GLOBAB SANJH TV
 http://103.228.112.96:1935/globalsanjh/live/chunklist.m3u8
-#EXTINF:-1, GURBANI HEALING
+#EXTINF:-1,  group-title="PUNJABI TV",GURBANI HEALING
 http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
-#EXTINF:-1, NAMDHARI TV
+#EXTINF:-1,  group-title="PUNJABI TV",NAMDHARI TV
 http://195.181.169.151:8080/Bhaini_Sahib_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1, PTC GURBANI
+#EXTINF:-1,  group-title="PUNJABI TV",PTC GURBANI
 http://195.181.169.151:8080/vc_punj_gurubani/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",BALLE BALLE 
 
@@ -208,7 +208,7 @@ http://lzyr7zo8dvw2-hls-live.wmncdn.net/1164/cinevoice/508a8ec9dfdb9c61df9823aac
 http://fastway.ddns.net:6421/fastway/live101/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",CHARDIKLA TIME TV 
 http://voxtv.dynns.com:8000/punjabi/punjabi/178
-#EXTINF:-1, CHARDIKLA TIME TV
+#EXTINF:-1,  group-title="PUNJABI TV",CHARDIKLA TIME TV
 http://195.181.169.151:8080/ChardiklaTIMETV-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",PUNJAB TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
