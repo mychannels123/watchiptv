@@ -171,7 +171,7 @@ http://195.181.169.151:8080/Bhaini_Sahib_pun/tracks-v1a1/mono.m3u8
 #EXTINF:-1, PTC GURBANI
 http://195.181.169.151:8080/vc_punj_gurubani/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",BALLE BALLE 
-http://103.14.127.37:1935/balleballe/balleballe.stream_360p/playlist.m3u8
+
 #EXTINF:-1, group-title="PUNJABI TV",BALLE BALLE
 http://live.cloud6.in:1935/balleballe/Live/chunklist_w1641902667.m3u8
 #EXTINF:1, group-title="PUNJABI TV",POP PATAKA
@@ -191,7 +191,7 @@ http://sydney.live247stream.com:8081/sabrang/tv/sabrang/stream1/chunks.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",ANKHILA PUNJAB
 http://stream.ankhilapunjabtv.com/ankhilapunjabz/rbstreamrb.m3u8
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
-http://pockettv.xyz/api/zee.m3u8?c=9XTASHAN
+http://pockettv.xyz/api/zee.m3u8?c=9xtashan
 #EXTINF:-1, group-title="PUNJABI TV",9X TASHAN
 http://195.181.169.151:8080/9xTashan-punjabi/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="PUNJABI TV", CHAKDE TV
@@ -275,49 +275,45 @@ http://cdn.asianetmobiletvplus.com/channels/manoranjan_jhuvvyjdcuzpsonvhioijenmv
 #EXTINF:-1, group-title="HINDI", MUSIC INDIA
 https://akamaimidrol.akamaized.net/amagi_hls_data_yupptvAAA-mob-musicindia/CDN/384x216_320798/index.m3u8
 #EXTINF:-1, group-title="HINDI", WOW MUSIC
-http://103.14.127.39:1935/wow/wow.stream_360p/playlist.m3u8
+http://103.199.161.254/Content/wowmusic/Live/Channel(WowMusic)/Stream(01)/index.m3u8
 #EXTINF:-1, group-title="HINDI", WOW MUSIC
-http://209.58.160.177/wowouthls/live_240p.m3u8
+http://209.58.160.177/wowouthls/live_260.m3u8
 #EXTINF:-1, group-title="HINDI", WOW MUSIC
-http://163.172.86.59:3135/Wow/Music/index.m3u8
-#EXTINF:-1, group-title="HIND
-#EXTINF:-1, SONY MIX
+
+#EXTINF:-1, group-title="HINDI", SONY MIX
 http://123.249.76.157:10026/bysid/11
-#EXTINF:-1, SONY MIX
-https://stream10.joovox.com/SonyMix/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="HINDI", MUSIC INDIA
-http://hindi.flussonic.cdnpro.me/MusicIndia-Hin/index.m3u8
-#EXTINF:-1, MASTI TV
+https://ylive72-i.akamaihd.net/hls/live/691745/musicindia/musicindia_2000/chunklist.m3u8
+#EXTINF:-1, group-title="HINDI",MASTI TV
 http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD254L720P/chunklist_b300000.m3u8
 #EXTINF:-1, group-title="HINDI", MASTI TV
 http://cdn.asianetmobiletvplus.com/channels/mastimusic_vbvczcesjamgfewdfiviqqerafjrxcph/playlist.m3u8
-#EXTINF:-1, MASTI TV
-https://stream10.joovox.com/Mastiii/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, group-title="HINDI", 9X JALWA
 https://yuppad10-i.akamaihd.net/hls/live/682741/9xjalwaamg/9xjalwa_1800/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", AND TV HD
 
-#EXTINF:-1, STAR BHARAT HD
-http://209.126.116.187:1935/trunk3/STARBHARATHD/playlist.m3u8
-#EXTINF:-1, STAR BHARAT
-http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/620.m3u8
+#EXTINF:-1, group-title="HINDI",STAR BHARAT HD
+http://voxtv.dynns.com:8000/movies/movies/540
+#EXTINF:-1,group-title="HINDI", STAR BHARAT
+
 #EXTINF:-1, group-title="HINDI", STAR BHARAT
 https://mslapacs.akamaized.net/hls/live/692167/lifeokau/lifeokau_400k/chunklist.m3u8
-#EXTINF:-1, COLORS HD
-http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/608.m3u8
+#EXTINF:-1,group-title="HINDI", COLORS HD
+http://voxtv.dynns.com:8000/movies/movies/122
 #EXTINF:-1, COLORS HD
 
 #EXTINF:-1, group-title="HINDI", COLORS HD
-
+http://colorsiptv2.dynu.net:8081/globalbd/colorsbd_colorstv/chunks.m3u8
 #EXTINF:-1, group-title="HINDI", COLORS TV
 https://mslapacs.akamaized.net/hls/live/692167/colorsau/colorsau_1800k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", STAR PLUS
 https://mslapacs.akamaized.net/hls/live/692167/starplusau/starplusau_1800k/chunklist.m3u8
-#EXTINF:-1, STAR PLUS
-http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/609.m3u8
+#EXTINF:-1, group-title="HINDI",STAR PLUS HD
+http://colorsiptv2.dynu.net:8081/globalbd/colorsbd_starplus/chunks.m3u8
 #EXTINF:-1, group-title="HINDI", STAR PLUS HD
-https://stream10.joovox.com/StarPlusHd/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SAHARA ONE
+http://voxtv.dynns.com:8000/movies/movies/131
+#EXTINF:-1, group-title="HINDI",SAHARA ONE
 http://123.249.76.157:10020/bysid/1
 #EXTINF:-1, group-title="HINDI", B4U MUSIC
 http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
@@ -355,35 +351,37 @@ https://d1fi1
 9tywmn14b.cloudfront.net/yuppindmov/ngrp:yhincla.stream_all/chunklist_w1902359197_b1296000.m3u8
 #EXTINF:-1, group-title="HINDI", PREMIUM HINDI
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:yhinpre.stream_all/chunklist_w1077732830_b1296000.m3u8
-#EXTINF:-1, group-title="HINDI", BOLLYWOOD HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodHD/1.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1, group-title="HINDI", SHEMAROO PUNJABI TV
+https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1, group-title="HINDI",SHEMAROO HINDI
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1, SHEMAROO MOVIES
+https://youtu.be/ihqvuDTiYO4
 #EXTINF:-1, group-title="HINDI", MBC BOLLYWOOD
 http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 #EXTINF:-1, group-title="HINDI", BOLLYWOOD CLASSIC
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1, group-title="HINDI", ENTER 10
 http://cdn.asianetmobiletvplus.com/channels/enterten_oppmidgajwnahpvbruqpuyuxjjxlochb/playlist.m3u8
-#EXTINF:-1, AND PICTURES HD
-http://209.126.116.187:1935/trunk3/ANDPICTURESHD/playlist.m3u8
-#EXTINF:-1, AND PICTURES HD
+#EXTINF:-1, group-title="HINDI",AND PICTURES HD
 http://pockettv.xyz/api/zee.m3u8?c=andpicshd
-#EXTINF:-1, AND PICTURES
+#EXTINF:-1, group-title="HINDI",AND PICTURES
 http://pockettv.xyz/api/zee.m3u8?c=andpicssd
-
-#EXTINF:-1, FILMY
+#EXTINF:-1 group-title="HINDI", And TV
+http://pockettv.xyz/api/zee.m3u8?c=andtvsd
+#EXTINF:-1 group-title="HINDI", And TV
+http://pockettv.xyz/api/zee.m3u8?c=andtvhd
+#EXTINF:-1, group-title="HINDI",group-title="HINDI",FILMY
 http://123.249.76.157:10020/bysid/9
 #EXTINF:-1, group-title="HINDI", MAHA MOVIES
 http://123.249.76.157:10011/bysid/1308
-#EXTINF:-1, STAR GOLD
-http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/618.m3u8
+#EXTINF:-1, group-title="HINDI",STAR GOLD
+
 #EXTINF:-1, group-title="HINDI", STAR GOLD HD
-http://209.126.116.187:1935/trunk3/STARGOLDHD/chunklist_w1038608500.m3u8
-#EXTINF:-1, STAR GOLD HD
-https://stream10.joovox.com/StarGoldHD/tracks-v1a1/mono.m3u8
+http://voxtv.dynns.com:8000/movies/movies/191
+
 #EXTINF:-1, group-title="HINDI", STAR GOLD SELECT HD
-http://209.126.116.187:1935/trunk3/STARGOLDSELECTHD/playlist.m3u8
-#EXTINF:-1, STAR GOLD SELECT HD
-https://stream10.joovox.com/StarGoldSelectHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, group-title="HINDI", UTV HD
 http://209.126.116.187:1935/trunk3/UTVHD/playlist.m3u8
 #EXTINF:-1, UTV ACTION
@@ -441,84 +439,82 @@ http://pockettv.xyz/api/zee.m3u8?c=zeetvsd
 #EXTINF:-1, group-title="HINDI", Z LIVING USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, ZEE CINEMA HD
-https://stream10.joovox.com/ZeeCinema/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA HD
 https://mslapacs.akamaized.net/hls/live/692167/zeecinemaapachd/zeecinemaapachd_2400k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA HD
 http://209.126.116.187:1935/trunk3/ZEECINEMAHD/chunklist_w1038608500.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA HD
 http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
-#EXTINF:-1, ZEE ANMOL CINEMA
-http://cdn.joovox.com/j/cid/Zee_Anmol_Cinema.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE ANMOL CINEMA
 http://pockettv.xyz/api/zee.m3u8?c=zanmolcnm
+#EXTINF:-1, group-title="HINDI",ZEE CINEMA
+http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:9960/z5mCv5Q46z//64249.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA
 http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
+#EXTINF:-1, group-title="HINDI",  ZEE CINEMA 
+http://voxtv.dynns.com:8000/movies/movies/503
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA
 https://msluseast1s.akamaized.net/hls/live/2000129/zeecinemamsl/zeecinema_2000/chunklist.m3u8
-#EXTINF:-1, SONY MAX HD
-http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/596.m3u8
-#EXTINF:-1, SONY MAX HD
-https://stream10.joovox.com/SonyMax/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, group-title="HINDI", SONY MAX HD
 https://msleurope2s.akamaized.net/hls/live/2000183/setmaxukhdmsl/setmaxukhdmsl_2400/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX2
-http://mhdtvworld.com/jio/jio.php?c=Sony_MAX2&q=1200&e=.m3u8
-#EXTINF:-1, SONY MAX2
-http://cdn.joovox.com/j/cid/Sony_MAX2.m3u8
-#EXTINF:-1, SONY MAX2
+
+#EXTINF:-1, group-title="HINDI",SONY MAX2
 http://123.249.76.157:10026/bysid/42
-#EXTINF:-1, SONY MAX
+#EXTINF:-1, group-title="HINDI",SONY MAX
 http://123.249.76.157:10026/bysid/41
 #EXTINF:-1, group-title="HINDI", BFLIX MOVIES
 http://130.185.150.79:1935/trunk/Bflix-Movies/playlist.m3u8
 #EXTINF:-1, group-title="HINDI", SONY MAX
 https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", SONY SAB HD
-http://209.126.116.187:1935/trunk3/SONYSABHD/playlist.m3u8
+http://voxtv.dynns.com:8000/movies/movies/502
 
 
 #EXTINF:-1, group-title="HINDI", SONY HD
 http://103.205.133.44:1935/ns/SONYINDIAHD/playlist.m3u8
 #EXTINF:-1, SONY HD
-http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/622.m3u8
+
 #EXTINF:-1, group-title="HINDI", SONY HD
 http://103.205.133.44:1935/ns/SONYINDIAHD/playlist.m3u8
 #EXTINF:-1, group-title="HINDI", SONY HD
 https://msleurope2s.akamaized.net/hls/live/2000183/sonymaxukhdmsl/sonymaxukhdmsl_600/chunklist.m3u8
-#EXTINF:-1, SONY TV
+#EXTINF:-1,  group-title="HINDI",SONY TV
+http://voxtv.dynns.com:8000/movies/movies/127
+#EXTINF:-1, group-title="HINDI",SONY TV
 http://123.249.76.157:10026/bysid/43
 #EXTINF:-1, group-title="HINDI", SONY TV 
 https://mslapacs.akamaized.net/hls/live/692167/sonyaumsl/sonyau_1800k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", SONY SAB
 https://mslapacs.akamaized.net/hls/live/692167/sabtvau/sabtvau_1800k/chunklist.m3u8
 
-#EXTINF:-1, group-title="SPORTS",SONY ESPN HD
-http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/600.m3u8
-#EXTINF:-1, SONY ESPN HD
-http://209.126.116.187:1935/trunk3/SONYESPNHD/playlist.m3u8
-#EXTINF:-1, SONY ESPN
+#EXTINF:-1, group-title="SPORTS",SONY ESPN 
+http://voxtv.dynns.com:8000/movies/movies/540
+
+#EXTINF:-1,group-title="SPORTS", SONY ESPN
 http://123.249.76.157:10026/bysid/15
 #EXTINF:-1, group-title="SPORTS", SONY SIX
 http://123.249.76.157:10026/bysid/13
 #EXTINF:-1,  group-title="SPORTS",SONY SIX HD
-http://209.126.116.187:1935/trunk3/SONYSIXHD/playlist.m3u8
+
 #EXTINF:-1, SONY SIX HD
-https://stream10.joovox.com/SixHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, group-title="SPORTS", TEN 1 
 http://103.68.116.50/live/feed1007/index.m3u8
 #EXTINF:-1, TEN 1 HD
-http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/604.m3u8
+
 #EXTINF:-1, TEN 1 HD
 http://209.126.116.187:1935/trunk3/TEN1HD/playlist.m3u8
 #EXTINF:-1, TEN 1 HD
-https://stream10.joovox.com/TenHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, group-title="SPORTS", TEN 1 HD
 http://123.249.76.157:10018/bysid/75
 #EXTINF:-1, group-title="SPORTS", TEN 2 HD
-http://209.126.116.187:1935/trunk3/TEN2HD/playlist.m3u8
+
 #EXTINF:-1, TEN 2 HD
-https://stream10.joovox.com/Ten2/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1, group-title="SPORTS", TEN 3 HD
 http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/605.m3u8
@@ -541,8 +537,8 @@ http://s01.indianhdtv.com/live/tv/RXt4f4bWx6/606.m3u8
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_600.m3u8
 #EXTINF:-1,group-title="SPORTS", D SPORTS
 http://209.126.116.187:1935/trunk3/DSPORTSHD/playlist.m3u8
-#EXTINF:-1, PTV SPORTS
-http://103.118.76.229:1935/tvprogram/CBeebies/mono.m3u8
+#EXTINF:-1,group-title="SPORTS", PTV SPORTS
+http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:9960/z5mCv5Q46z//64256.m3u8
 #EXTINF:-1, group-title="SPORTS", PTV SPORTS
 https://cdn2.thesportsflix.com/app/ptvsportshd.m3u8
 #EXTINF:-1, group-title="SPORTS",STAR SPORTS SELECT 2HD
@@ -552,11 +548,11 @@ http://voxtv.dynns.com:8000/nimble/nimble/530
 #EXTINF:-1, STAR SPORTS SELECT 1 HD
 
 #EXTINF:-1, STAR SPORTS SELECT 1 HD
-http://209.126.116.187:1935/trunk3/STARSPORTSSELECT1HD/playlist.m3u8
-#EXTINF:-1, STAR SPORTS SELECT 2 HD
 
 #EXTINF:-1, STAR SPORTS SELECT 2 HD
-http://209.126.116.187:1935/trunk3/STARSPORTSSELECT2HD/playlist.m3u8
+
+#EXTINF:-1, STAR SPORTS SELECT 2 
+http://voxtv.dynns.com:8000/movies/movies/528
 #EXTINF:-1, SKY SPORTS
 http://cdn2.thesportsflix.com/app/ptvsportshd.m3u8
 #EXTINF:-1,group-title="SPORTS", WATAN HD
