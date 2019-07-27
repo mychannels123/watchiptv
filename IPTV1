@@ -317,8 +317,8 @@ http://voxtv.dynns.com:8000/movies/movies/131
 http://123.249.76.157:10020/bysid/1
 #EXTINF:-1, group-title="HINDI", B4U MUSIC
 http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
-#EXTINF:-1, group-title="HINDI", B4U MUSIC
-
+#EXTINF:-1, group-title="HINDI", ZING
+http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
 #EXTINF:-1, group-title="HINDI", B4U MUSIC
 https://ind17-lh.akamaihd.net/i/ind17_b4umusic@68543/index_2000_av-p.m3u8?sd=10&dw=7200&b=100-2500&rebase=on
 #EXTINF:-1, group-title="HINDI", MTV INDIA
@@ -428,10 +428,13 @@ http://95.170.215.124/live/disk1/Zee_Aflam/anevia1/Zee_Aflam-audio_20000=160000-
 http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE ACTION
 http://pockettv.xyz/api/zee.m3u8?c=action
-#EXTINF:-1, ZEE BOLLYWOOD
-http://cdn.joovox.com/j/cid/Zee_Classic.m3u8
+#EXTINF:-1, group-title="HINDI", ZEE ACTION 
+http://216.144.250.174/Zee_Action_HD/index.m3u8
+
 #EXTINF:-1, group-title="HINDI", ZEE BOLLYWOOD
 http://pockettv.xyz/api/zee.m3u8?c=classic
+#EXTINF:-1, group-title="HINDI", ZEE TV HD 
+http://216.144.250.174/Zee_TV_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE TV HD
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 #EXTINF:-1, ZEE TV
@@ -443,13 +446,13 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA HD
 https://mslapacs.akamaized.net/hls/live/692167/zeecinemaapachd/zeecinemaapachd_2400k/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA HD
-http://209.126.116.187:1935/trunk3/ZEECINEMAHD/chunklist_w1038608500.m3u8
+
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA HD
 http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
 #EXTINF:-1, group-title="HINDI", ZEE ANMOL CINEMA
 http://pockettv.xyz/api/zee.m3u8?c=zanmolcnm
 #EXTINF:-1, group-title="HINDI",ZEE CINEMA
-http://bestiptv.info:8080/live//WHMCSMAG:WHMCS:9960/z5mCv5Q46z//64249.m3u8
+http://216.144.250.174/Zee_Cinema_HD/index.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE CINEMA
 http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
 #EXTINF:-1, group-title="HINDI",  ZEE CINEMA 
