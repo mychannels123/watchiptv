@@ -409,7 +409,8 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 http://live.airtel.tv/b4umovies/smil:common.smil/chunklist_b896000_sleng.m3u8
 #EXTINF:-1,  group-title="HINDI",B4U MOVIES
 http://103.199.161.254/Content/B4Umovies/Live/Channel(B4UMovies)/index.m3u8
-
+#EXTINF:-1,  group-title="HINDI",B4U MOVIES
+https://yuppmslukmo.akamaized.net/hls/live/2006787/b4umoviesint/b4umoviesint/b4umoviesint_1800/chunklist.m3u8
 #EXTINF:-1, group-title="HINDI", COLORS CINEPLEX
 https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1800k/chunklist.m3u8
 #EXTINF:-1, 
@@ -441,7 +442,8 @@ http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=action
 #EXTINF:-1, group-title="HINDI", ZEE ACTION 
 http://216.144.250.174/Zee_Action_HD/index.m3u8
-
+#EXTINF:-1, group-title="HINDI", ZEE BOLLYWOOD
+http://216.144.250.174/Zee_Classic_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="HINDI", ZEE BOLLYWOOD
 http://pockettv.xyz/api/zee.m3u8?c=classic
 #EXTINF:-1, group-title="HINDI", ZEE TV HD 
@@ -547,8 +549,8 @@ http://103.205.133.44:1935/ns/TEN2HD/playlist.m3u8
 http://103.205.133.44:1935/ns/TEN3HD/playlist.m3u8
 #EXTINF:-1, TEN 3 HD
 
-#EXTINF:-1, group-title="SPORTS", TEN 3 HD
-
+#EXTINF:-1, group-title="SPORTS", PTV SPORTS
+http://163.172.46.35:8080/Spirit/4/index.m3u8?token=MjcuOTcuMTY5LjE1Ny10b2tlbjEtMTU2NDY1OTIxOA==
 
 #EXTINF:-1, group-title="SPORTS", PTV SPORTS
 http://87.117.234.107:1935/trunk/PTVSPORTS/playlist.m3u8
@@ -584,8 +586,8 @@ http://voxtv.dynns.com:8000/movies/movies/528
 http://cdn2.thesportsflix.com/app/ptvsportshd.m3u8
 #EXTINF:-1,group-title="SPORTS", WATAN HD
 http://51.15.242.185/hls/stream.m3u8
-#EXTINF:-1, TEN SPORTS
-
+#EXTINF:-1, ,group-title="SPORTS",TEN SPORTS
+http://163.172.46.35:8080/Spirit/1/index.m3u8?token=MjcuOTcuMTY5LjE1Ny10b2tlbjEtMTU2NDY1OTIxOA==
 #EXTINF:-1, group-title="SPORTS",STAR SPORTS 2 HD
 http://globalbd.mywire.org:8081/globe/starsports2/chunks.m3u8
 #EXTINF:-1,group-title="SPORTS",STAR SPORTS FIRST
@@ -624,8 +626,8 @@ https://ul.cdn946.net:8443/hls/amwedb9nkkantoo.m3u8?s=u_z-tWPooEnBCipnlsSTZA&e=1
 
 #EXTINF:-1, group-title="SPORTS", WILLOW HD
 http://globalbd.mywire.org:8081/globe/willow/playlist.m3u8
-#EXTINF:-1, WILLOW HD
-http://cdn2.thesportsflix.com/app/willowsd.m3u8
+#EXTINF:-1,group-title="SPORTS", WILLOW HD
+http://163.172.46.35:8080/Spirit/2/index.m3u8?token=MjcuOTcuMTY5LjE1Ny10b2tlbjEtMTU2NDY1OTIxOA==
 #EXTINF:-1, LADDI
 http://mhdtvworld.com/jiostar/stream2.php?ts=Star_Sports_Select_1/Star_Sports_Select_1_JSRV12_1200-1558430560000.ts
 
